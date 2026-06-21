@@ -127,7 +127,7 @@ async function proxyPlaylist(upstreamUrl) {
         if (full.endsWith(".m3u8") || full.includes(".m3u8?")) {
             return `/bioscope?mode=m3u8&u=${encodeURIComponent(full)}`;
         } else {
-            return `/bioscope?mode=seg&u=${encodeURIComponent(full)}`;
+            return full;
         }
     }).join("\n");
 
