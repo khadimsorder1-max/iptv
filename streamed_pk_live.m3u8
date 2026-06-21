@@ -1,47 +1,83 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-21T21:53:20+00:00
-# 7 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-06-21T23:10:02+00:00
+# 13 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — admin" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_admin" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — admin
 # match: Uruguay Vs Cape Verde 2391757
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1
-https://lb13.strmd.st/secure/DCCYnOjGATqSaOaoPPrTvcVcWovcGHGt/rtmp/stream/ADTuUdfpOUtzH5-K3_v43pt_PQWQsL42RD6cqJZNc-J-xaShnNVCagU5e6vX7ftYbTijfysCrw/1/playlist.m3u8
+https://lb9.strmd.st/secure/DhwzAeofiwZcZlmuwUibxtkRTcCuzTkQ/rtmp/stream/DPxNzT6haRQegCtBsjgKKGkqo_48IDED1S7p-LuMtys96VB9Op3k88N6MgjA-LnbvQKBkQB55w/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — delta" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_delta" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — delta
 # match: Uruguay Vs Cape Verde 2391757
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1
-https://lb2.strmd.st/secure/WMOciTHzYyzzuYioCOOzSwRgUvDMcJTT/delta/stream/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1/playlist.m3u8
+https://lb19.strmd.st/secure/dwTsGRKDlgKenToovUaqfKybaftyugxl/delta/stream/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — echo" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_echo" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — echo
 # match: Uruguay Vs Cape Verde 2391757
 # provider: echo
 # embed: https://embed.st/embed/echo/uruguay-vs-cape-verde-islands-football-1489398/1
-https://lb1.strmd.st/secure/SdPvJYNPkpTEDgQcscfyIJhtKvGpKYKj/echo/stream/uruguay-vs-cape-verde-islands-football-1489398/1/playlist.m3u8
+https://lb8.strmd.st/secure/ZjCwQapYHtpSdshECcLgFZcyAvkPcEaW/echo/stream/uruguay-vs-cape-verde-islands-football-1489398/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Golden State Valkyries 2449066 — admin" tvg-id="Las_Vegas_Aces_Vs_Golden_State_Valkyries_2449066_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Golden State Valkyries 2449066 — admin
-# match: Las Vegas Aces Vs Golden State Valkyries 2449066
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs Washington Mystics 2449067 — admin" tvg-id="Minnesota_Lynx_Vs_Washington_Mystics_2449067_—_admin" group-title="Streamed.pk Live Football",Minnesota Lynx Vs Washington Mystics 2449067 — admin
+# match: Minnesota Lynx Vs Washington Mystics 2449067
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-las-vegas-aces/1
-https://lb12.strmd.st/secure/exxjkBimKovZFKslUAcvKVXySfdzgPXD/rtmp/stream/e01UFmai4ziyf-THe--zWkgz9qhZkuZuiQQgNbJZwziJYX3N_ODt4tZxi6XnopXzpERnwEGcCsbdGAtsVi4/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-washington-mystics-vs-minnesota-lynx/1
+https://lb13.strmd.st/secure/gtCaTmKVbNVcBoTPnjSArMWozKsWeSUm/rtmp/stream/fpgHQW1MswXidcLgN727Aq0_mEN7wFudqb8B5hakl3Q47E0hCfFjZ65Yf7JMp3LE42-BNPpSDhuowuB0WFx5/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Golden State Valkyries 2449066 — delta" tvg-id="Las_Vegas_Aces_Vs_Golden_State_Valkyries_2449066_—_delta" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Golden State Valkyries 2449066 — delta
-# match: Las Vegas Aces Vs Golden State Valkyries 2449066
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs Washington Mystics 2449067 — delta" tvg-id="Minnesota_Lynx_Vs_Washington_Mystics_2449067_—_delta" group-title="Streamed.pk Live Football",Minnesota Lynx Vs Washington Mystics 2449067 — delta
+# match: Minnesota Lynx Vs Washington Mystics 2449067
 # provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_las-vegas-valkyries-live-streaming-1211161626/1
-https://lb15.strmd.st/secure/koFxJSWBoICorDllrbtUaDnJXzSyJGhM/delta/stream/live_wnba_las-vegas-valkyries-live-streaming-1211161626/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_wnba_lynx-mystics-live-streaming-1211162625/1
+https://lb18.strmd.st/secure/bmjCLsTdsgwQkOgIozqSFHANGxaFccbf/delta/stream/live_wnba_lynx-mystics-live-streaming-1211162625/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Anduril 250 2410134 — admin" tvg-id="Anduril_250_2410134_—_admin" group-title="Streamed.pk Live Football",Anduril 250 2410134 — admin
 # match: Anduril 250 2410134
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-anduril-250/1
-https://lb3.strmd.st/secure/IuuTktZjfsRklMpvywPxxCPZzewmBnRC/rtmp/stream/ANkIjqw5S_fqt9THKiLWdUyAtqDrhchxgH3DSBJcZgzFgvMJ0--S0pE-sWkq9ac_VdLY7ivx/1/playlist.m3u8
+https://lb1.strmd.st/secure/WYDRqvAJoVLltdYrVgvecqmBqxfiihKO/rtmp/stream/PkSgR1Q9Z6gK_k8HoiAXc2KDKeQ15RK6R82IwMvWEKAQ7Ydu9u9OXiQXc6rHQrT0U3XpMPZP/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Golden_State_Valkyries_W_Basketball_494893_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo
-# match: Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893
+#EXTINF:-1 tvg-name="New Zealand Vs Egypt 2391755 — admin" tvg-id="New_Zealand_Vs_Egypt_2391755_—_admin" group-title="Streamed.pk Live Football",New Zealand Vs Egypt 2391755 — admin
+# match: New Zealand Vs Egypt 2391755
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-new-zealand-vs-egypt/1
+https://lb19.strmd.st/secure/NGTUamFzjfooItxooNgNHwEpHbTakCtf/rtmp/stream/Y7qarVU1WX0KXca_puEYAxA2Iz83FqUNQ9ZJS9zWsIGRuCGT7mN83bbnNXTpedmf5dwBo_je3g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Zealand Vs Egypt 2391755 — delta" tvg-id="New_Zealand_Vs_Egypt_2391755_—_delta" group-title="Streamed.pk Live Football",New Zealand Vs Egypt 2391755 — delta
+# match: New Zealand Vs Egypt 2391755
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-g_new-zealand-egypt-live-streaming-1243725030/1
+https://lb11.strmd.st/secure/zFdcygSDwpUGKRUqkzCBOXKtWXmhifdW/delta/stream/live_world-championship-gr-g_new-zealand-egypt-live-streaming-1243725030/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Zealand Vs Egypt 2391755 — echo" tvg-id="New_Zealand_Vs_Egypt_2391755_—_echo" group-title="Streamed.pk Live Football",New Zealand Vs Egypt 2391755 — echo
+# match: New Zealand Vs Egypt 2391755
 # provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1
-https://lb7.strmd.st/secure/UBdTCRNhpkwEERLhSbaTfjRQfWfGfVWk/echo/stream/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/new-zealand-vs-egypt-football-1489396/1
+https://lb5.strmd.st/secure/UvOxZGiRAPIyOmfHmjaRnPwROAhphaZC/echo/stream/new-zealand-vs-egypt-football-1489396/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Usac Eastern Storm Action Track Ppv 06 — echo" tvg-id="Ppv_Event_06_Usac_Eastern_Storm_Action_Track_Ppv_06_—_echo" group-title="Streamed.pk Live Football",Ppv Event 06 Usac Eastern Storm Action Track Ppv 06 — echo
+# match: Ppv Event 06 Usac Eastern Storm Action Track Ppv 06
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-06-usac-eastern-storm-action-track-ppv-06/1
+https://lb10.strmd.st/secure/eqeugHBpaFglWxcmzDVMAhnwjXcYJzrN/echo/stream/ppv-event-06-usac-eastern-storm-action-track-ppv-06/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 05 Asa Stars Slinger Ppv 05 — echo" tvg-id="Ppv_Event_05_Asa_Stars_Slinger_Ppv_05_—_echo" group-title="Streamed.pk Live Football",Ppv Event 05 Asa Stars Slinger Ppv 05 — echo
+# match: Ppv Event 05 Asa Stars Slinger Ppv 05
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-05-asa-stars-slinger-ppv-05/1
+https://lb2.strmd.st/secure/JLEKwMQqbAgCZzHZEJRtGHuHSRJqUhIb/echo/stream/ppv-event-05-asa-stars-slinger-ppv-05/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 04 Short Track Super Series Devils Bowl Ppv 004 — echo" tvg-id="Ppv_Event_04_Short_Track_Super_Series_Devils_Bowl_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Short Track Super Series Devils Bowl Ppv 004 — echo
+# match: Ppv Event 04 Short Track Super Series Devils Bowl Ppv 004
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-04-short-track-super-series-devils-bowl-ppv-004/1
+https://lb7.strmd.st/secure/uibcoHrFXKRJyzGfAotbdAwKnElexwWJ/echo/stream/ppv-event-04-short-track-super-series-devils-bowl-ppv-004/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx W Vs Washington Mystics W Basketball 494894 — echo" tvg-id="Minnesota_Lynx_W_Vs_Washington_Mystics_W_Basketball_494894_—_echo" group-title="Streamed.pk Live Football",Minnesota Lynx W Vs Washington Mystics W Basketball 494894 — echo
+# match: Minnesota Lynx W Vs Washington Mystics W Basketball 494894
+# provider: echo
+# embed: https://embed.st/embed/echo/minnesota-lynx-w-vs-washington-mystics-w-basketball-494894/1
+https://lb4.strmd.st/secure/YpGpPTwZCTbYGbCcLeqAfQFWZNasFJfo/echo/stream/minnesota-lynx-w-vs-washington-mystics-w-basketball-494894/1/playlist.m3u8
 
