@@ -1,32 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-21T17:59:35+00:00
+# Streamed.pk live football matches — built 2026-06-21T18:24:15+00:00
 # 4 streams captured from 2 matches
-# Tokens are short-lived — re-run this script before each match.
-#
-# To rebuild:
-#   /home/z/.venv/bin/python3 /home/z/my-project/scripts/scrape_streamed_pk.py
 
-#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — admin" tvg-id="Spain_Vs_Saudi_Arabia_—_admin" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — admin
-# match: Spain Vs Saudi Arabia
+#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia 2391756 — admin" tvg-id="Spain_Vs_Saudi_Arabia_2391756_—_admin" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia 2391756 — admin
+# match: Spain Vs Saudi Arabia 2391756
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/1
-https://lb19.strmd.st/secure/jlGEgQeLqZLdhQkgwbrEKBCpajmwgVnV/rtmp/stream/LuUpEf38a-N5bXOQyv_ZI44DMXGVatdlWE1hv0HkBzSotV9jf9hah1ympxBZR1i0vwoxYUFY6Q/1/playlist.m3u8
+https://lb5.strmd.st/secure/MdLywdImoMhTxncOPwlkpYYKRIPyoezX/rtmp/stream/7gYOPPjcBOVlUeYb2UddzQHOi3KYYNIzJFhFuqwBtS_vysX1QAIa0Jv8cc9WLl_nLyM0Bm27xw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — delta" tvg-id="Spain_Vs_Saudi_Arabia_—_delta" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — delta
-# match: Spain Vs Saudi Arabia
-# provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-h_spain-saudi-arabia-live-streaming-1243726029/1
-https://lb9.strmd.st/secure/ZNEHvWUZTxmkYaArteqWeTlJQmapdvPJ/delta/stream/live_world-championship-gr-h_spain-saudi-arabia-live-streaming-1243726029/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — echo" tvg-id="Spain_Vs_Saudi_Arabia_—_echo" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — echo
-# match: Spain Vs Saudi Arabia
-# provider: echo
-# embed: https://embed.st/embed/echo/spain-vs-saudi-arabia-football-1489397/1
-https://lb16.strmd.st/secure/XEBsKNIUwklENIZmsWXoGYpMbEExhIvh/echo/stream/spain-vs-saudi-arabia-football-1489397/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="England Vs New Zealand — admin" tvg-id="England_Vs_New_Zealand_—_admin" group-title="Streamed.pk Live Football",England Vs New Zealand — admin
-# match: England Vs New Zealand
+#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — admin" tvg-id="Belgium_Vs_Iran_2391754_—_admin" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — admin
+# match: Belgium Vs Iran 2391754
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
-https://lb2.strmd.st/secure/lCRbYBETDiZRLLPTIaDqVZGQGCWwOUAA/rtmp/stream/_8wf9ja0zbdwE0o9x9Fp7u661xGa5dVaAHgmBbrDA4hN806hOSbLZZWkST1LPKS9q0__YRVFhGs/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-belgium-vs-iran/1
+https://lb19.strmd.st/secure/HqUPdWPentdexKbKBXTPUXMLNTCDhrFL/rtmp/stream/lYgTEF0fO6eHsko9lo2RpcpH21zrLlA6BbWsrymUJHv4OZkCVGpS1xVDJlr4EjSAdXU_wKZ8lw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — delta" tvg-id="Belgium_Vs_Iran_2391754_—_delta" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — delta
+# match: Belgium Vs Iran 2391754
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-g_belgium-iran-live-streaming-1243724031/1
+https://lb7.strmd.st/secure/LZJXQBkLpdDnJeZwZYjeybUIPFdNedZI/delta/stream/live_world-championship-gr-g_belgium-iran-live-streaming-1243724031/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — echo" tvg-id="Belgium_Vs_Iran_2391754_—_echo" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — echo
+# match: Belgium Vs Iran 2391754
+# provider: echo
+# embed: https://embed.st/embed/echo/belgium-vs-iran-football-1489395/1
+https://lb4.strmd.st/secure/WdpRLoSsVNYXjYdyPuVejBAZnIQSQRuZ/echo/stream/belgium-vs-iran-football-1489395/1/playlist.m3u8
+
