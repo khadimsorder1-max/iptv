@@ -34,8 +34,28 @@ const BIOSCOPE_HOME = "https://www.bioscopelive.com/en";
 const FIFA_STREAM_PATTERN = /https:\/\/[a-z0-9-]+\.bioscopelive\.com\/out\/v1\/[a-f0-9]+\/index\.m3u8/;
 
 async function fetchWithHeaders(url, extra = {}) {
+    const ips = [
+        "103.25.120.14",
+        "103.8.16.89",
+        "103.234.24.5",
+        "103.112.52.20",
+        "103.108.140.12",
+        "103.19.252.33",
+        "103.218.24.15",
+        "103.86.196.50",
+        "103.234.25.10"
+    ];
+    const index = url.length % ips.length;
+    const spoofedIp = ips[index];
+
     return fetch(url, {
-        headers: { "User-Agent": UA, "Accept": "*/*", ...extra },
+        headers: { 
+            "User-Agent": UA, 
+            "Accept": "*/*",
+            "X-Forwarded-For": spoofedIp,
+            "X-Real-IP": spoofedIp,
+            ...extra 
+        },
         cf: { cacheTtl: 30, cacheEverything: false },
     });
 }
@@ -170,8 +190,7 @@ export async function onRequestGet({ request }) {
             `  /bioscope                          — auto-discover FIFA stream, return rewritten m3u8 (BDIX-direct segments)\n` +
             `  /bioscope?proxy_segments=true       — auto-discover, rewrite segments to proxy (CORS-compliant for web)\n` +
             `  /bioscope?mode=m3u8&u=<url>         — proxy a sub-playlist\n` +
-            `  /bioscope?mode=key&u=<url>          — fetch AES-128 key with JWT auth\n` +
-            `  /bioscope?mode=seg&u=<url>          — proxy a segment (with CORS allowed)\n\n` +
+            `  /bioscope?mode=key&u=<url>          — fetch AES-128 key with JWT auth\n  /bioscope?mode=seg&u=<url>          — proxy a segment (with CORS allowed)\n\n` +
             `In your .m3u8 playlist, just use:\n` +
             `  https://<your-project>.pages.dev/bioscope\n`,
             { headers: { "Content-Type": "text/plain" } }

@@ -30,8 +30,27 @@ const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const EXTRACTORS = {
   "toffee": {
     source: "https://fifalive.click/play",
+    pattern: /https:\/\/tahmidx\.[A-Za-z0-9\-]+\.workers\.dev[^\s"']*/,
+    fallbackPattern: /https:\/\/prod-cdn\d+-live\.toffeelive\.com\/live\/[A-Za-z0-9\-]+\/\d+\/master_\d+\.m3u8\?hdntl=[^"'\s<>]+/,
+    needsReferer: true,
+    referer: "https://fifalive.click/",
+  },
+  "toffee-cdn": {
+    source: "https://fifalive.click/play",
     pattern: /https:\/\/prod-cdn\d+-live\.toffeelive\.com\/live\/[A-Za-z0-9\-]+\/\d+\/master_\d+\.m3u8\?hdntl=[^"'\s<>]+/,
     needsReferer: true,
+    referer: "https://fifalive.click/",
+  },
+  "toffee-wurl": {
+    source: "https://fifalive.click/play",
+    pattern: /https:\/\/[a-z0-9]+\.wurl\.com\/manifest\/[^"'\s<>]+/,
+    needsReferer: false,
+    referer: "https://fifalive.click/",
+  },
+  "toffee-streamhost": {
+    source: "https://fifalive.click/play",
+    pattern: /https:\/\/1nyaler\.streamhostingcdn\.top\/stream\/\d+\/index\.m3u8/,
+    needsReferer: false,
     referer: "https://fifalive.click/",
   },
   "online24": {
@@ -42,7 +61,7 @@ const EXTRACTORS = {
   },
   "fox-usa": {
     source: "https://fifalive.click/play",
-    pattern: /https:\/\/[^"'\s<>]+\/fox-usa\.m3u8/,
+    pattern: /https:\/\/[^"'\s<>]+\/fox-sports-1\.m3u8/,
     needsReferer: false,
     referer: "https://fifalive.click/",
   },
@@ -70,14 +89,17 @@ function getBosstvUrl(slug) {
   return `https://live.thebosstv.com:30443/dwlive/${slug}/playlist.m3u8`;
 }
 
-async function extractFreshUrl(sourceUrl, pattern) {
+async function extractFreshUrl(sourceUrl, pattern, fallbackPattern = null) {
   const r = await fetch(sourceUrl, {
     headers: { "User-Agent": UA },
     cf: { cacheTtl: 30, cacheEverything: false },
   });
   if (!r.ok) throw new Error(`source fetch failed: ${r.status}`);
   const html = await r.text();
-  const m = html.match(pattern);
+  let m = html.match(pattern);
+  if (!m && fallbackPattern) {
+    m = html.match(fallbackPattern);
+  }
   if (!m) throw new Error("pattern not found in source page");
   return m[0];
 }
@@ -208,7 +230,7 @@ export async function onRequestGet({ request }) {
   } else if (EXTRACTORS[target]) {
     const cfg = EXTRACTORS[target];
     try {
-      upstreamUrl = await extractFreshUrl(cfg.source, cfg.pattern);
+      upstreamUrl = await extractFreshUrl(cfg.source, cfg.pattern, cfg.fallbackPattern);
       if (cfg.needsReferer) referer = cfg.referer;
     } catch (e) {
       return new Response(`extract error: ${e.message}`, { status: 502 });
