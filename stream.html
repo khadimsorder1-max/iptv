@@ -669,6 +669,7 @@
   <div class="player-section">
     <div class="player-wrapper" id="playerWrapper">
       <video id="videoPlayer" playsinline></video>
+      <iframe id="iframePlayer" style="width: 100%; height: 100%; border: none; display: none;" allowfullscreen allow="autoplay; encrypted-media; picture-in-picture"></iframe>
       
       <!-- Video Overlay for Loading/Alerts -->
       <div class="player-overlay" id="playerOverlay">
@@ -942,6 +943,8 @@
     playServer(matchName, 0);
   }
 
+  const iframe = document.getElementById('iframePlayer');
+
   function playServer(matchName, serverIdx) {
     currentMatchName = matchName;
     currentServerIdx = serverIdx;
@@ -955,8 +958,41 @@
     document.getElementById('nowPlayingMeta').textContent = `Server ${serverIdx + 1} (${stream.provider}) • Source: ${stream.url.substring(0, 50)}...`;
     document.getElementById('controlsLabel').textContent = `Server ${serverIdx + 1} — ${stream.provider}`;
     
-    // Play Stream
-    loadHLS(stream.url);
+    // Play Stream (via HLS or via iframe)
+    if (stream.embed) {
+      loadIframe(stream.embed);
+    } else {
+      loadHLS(stream.url);
+    }
+  }
+
+  function loadIframe(embedUrl) {
+    overlay.classList.remove('hidden');
+    spinner.style.display = 'block';
+    overlayText.textContent = "Loading embedded player...";
+
+    // Stop and clear Hls.js
+    if (hlsInstance) {
+      hlsInstance.destroy();
+      hlsInstance = null;
+    }
+    video.removeAttribute('src');
+    video.load();
+
+    // Show iframe, hide video and custom controls
+    video.style.display = 'none';
+    iframe.style.display = 'block';
+    iframe.src = embedUrl;
+    
+    // Disable/hide controls overlay so it doesn't block mouse interactions
+    controlsOverlay.style.pointerEvents = 'none';
+    controlsOverlay.style.opacity = '0';
+    controlsOverlay.classList.remove('keep-visible');
+
+    // Monitor loading
+    iframe.onload = () => {
+      hideOverlay();
+    };
   }
 
   function getProxiedUrl(originalUrl) {
@@ -978,10 +1014,19 @@
 
     if (hlsInstance) {
       hlsInstance.destroy();
+      hlsInstance = null;
     }
     
     video.removeAttribute('src');
     video.load();
+
+    // Reset iframe
+    iframe.src = '';
+    iframe.style.display = 'none';
+    video.style.display = 'block';
+    
+    // Enable controls overlay
+    controlsOverlay.style.pointerEvents = 'auto';
 
     const proxiedUrl = getProxiedUrl(m3u8Url);
 
