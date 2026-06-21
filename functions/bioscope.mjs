@@ -19,12 +19,11 @@
  *       — BDIX user's local route to bioscopelive.com works fast
  *       — saves Cloudflare Function invocations (free tier)
  *
- *   Player → Cloudflare for m3u8 + key only (tiny requests, 1-2 KB each)
- *   Player → bioscopelive.com directly for segments (2 MB each, BDIX-fast)
- *
- * ALTERNATIVE if still fails:
- *   Use the local_proxy.py script in the same directory — runs on user's
- *   own machine (PC/Termux), so all requests come from the same IP.
+ *   Web browsers (CORS) note:
+ *     Web browsers enforce CORS. Since bioscopelive.com does not allow CORS,
+ *     direct segment loading fails in web players (like SkipTV).
+ *     To solve this, use: /bioscope?proxy_segments=true
+ *     This rewrites segment URLs to proxy through Cloudflare with CORS headers.
  */
 
 const JWT = "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiIxIiwianRpIjoiYzJkYjE1MjJmMDU0ZDg1Yzc3NmFmZjlkNDU2NjcxODNlNmZlNWNjYWUwYjAwNWI1OTVhMTAxY2RmNDNlYmIyY2YzMTBiZDExMTZlOTQ4YjEiLCJpYXQiOjE3ODA3OTcxMzEuNTQwNDAxLCJuYmYiOjE3ODA3OTcxMzEuNTQwNDAzLCJleHAiOjE4MTIzMzMxMzEuNTM1MDMyLCJzdWIiOiIxODAwMDA4NDg5MDA2NjUzNDQiLCJzY29wZXMiOlsibWFuYWdlX3Byb2ZpbGVzIl19.a6GUyqbwLfixROwUhNTzaYrrYBgVR6FHI_40FpjZ9l7P20WHcv-7AbEz-XPYhGnb1Q9JHAKdMA9pBY1Od2UZsYeEw6f7Myjc0VK2kqqXdagwHTlIHvHwxkoTVfpagQNiJF4ffJZ_6j87aCR6PEUEuTWQwjnLjbnvBpu0cgLUr5p56sHGm0mGV_vbIFirvZHVYwxLZGjBmo-njpfZcvuQPq5sUT3n-j4VNX4sh8tsvaAJaqlXLnq-DIGTBGNu9efsHNTiMzFUk5gEOYlWnNGewcbsuDsP3QFINeUBRzjBP9bPXjHfv5tmvKfQaExPZgFpxpWpZyQ5PZnmuxvWawNMKLBGV3qWqNPeVc1Fphhac3vloTNtMK5UP7EZtDRUQoJWra1irCMYn0ao1oEzfrtinhw038aNSe9z5EmF_tCi0XnQigVJM_XLwmgWbVxsWq92iC3HU2dHcelqMNiFk9gMleKIgGVA2sDeLfNsM0pco8656R7TySgSBycVvTyyU4_G1QVafpmPp5Lcmhi4KxVBAOAhY5iy0ZLDC4jO366wy_5yguY7sVPb6JWiUATVcBsLbvIPmgM9laQEZttxLMPHpnlPwUGljip5J61E235GXAV-WStahGaagjgja7dDRFwPVzvlMzSX9S7MpyVyRejmre60x8HvXkgCLhEfEn027YM";
@@ -74,15 +73,8 @@ async function fetchKey(keyUrl) {
 
 /**
  * BDIX-OPTIMIZED m3u8 rewriter.
- *
- * For sub-playlists:
- *   • Rewrite #EXT-X-KEY URI → /bioscope?mode=key&u=... (JWT auth needed)
- *   • LEAVE segment URLs AS-IS (pointing to bioscopelive.com directly)
- *     — segments are public (no auth needed)
- *     — BDIX users have fast direct route to bioscopelive.com
- *     — avoids Cloudflare becoming bottleneck for 2MB segment downloads
  */
-async function proxyPlaylistBdix(upstreamUrl) {
+async function proxyPlaylistBdix(upstreamUrl, proxySegments = false, origin = "") {
     const r = await fetchWithHeaders(upstreamUrl, {
         "Referer": "https://www.bioscopelive.com/",
         "Origin": "https://www.bioscopelive.com",
@@ -104,7 +96,7 @@ async function proxyPlaylistBdix(upstreamUrl) {
                 if (p2.startsWith("http")) full = p2;
                 else if (p2.startsWith("/")) full = "https://ivy.bioscopelive.com" + p2;
                 else full = baseDir + p2;
-                return `${p1}/bioscope?mode=key&u=${encodeURIComponent(full)}${p3}`;
+                return `${p1}${origin}/bioscope?mode=key&u=${encodeURIComponent(full)}${p3}`;
             });
         }
 
@@ -112,18 +104,20 @@ async function proxyPlaylistBdix(upstreamUrl) {
         if (s.startsWith("#")) return line;
 
         // Sub-playlists → still proxy through Cloudflare (need rewriting)
-        // (these are tiny files, no BDIX benefit)
         let full;
         if (s.startsWith("http")) full = s;
         else if (s.startsWith("/")) full = upstreamOrigin + s;
         else full = baseDir + s;
 
         if (full.endsWith(".m3u8") || full.includes(".m3u8?")) {
-            return `/bioscope?mode=m3u8&u=${encodeURIComponent(full)}`;
+            return `${origin}/bioscope?mode=m3u8&u=${encodeURIComponent(full)}${proxySegments ? '&proxy_segments=true' : ''}`;
         }
 
         // Segments → return ORIGINAL URL (let player fetch directly from Bioscope)
-        // This is the key BDIX optimization — segments bypass Cloudflare entirely.
+        // or proxy if proxySegments is requested (for web player/CORS compliance)
+        if (proxySegments) {
+            return `${origin}/bioscope?mode=seg&u=${encodeURIComponent(full)}`;
+        }
         return full;
     }).join("\n");
 
@@ -138,29 +132,30 @@ async function proxyPlaylistBdix(upstreamUrl) {
 
 export async function onRequestGet({ request }) {
     const url = new URL(request.url);
+    const origin = url.origin;
     const params = url.searchParams;
     const mode = params.get("mode") || "master";
     const upstreamUrl = params.get("u");
+    const proxySegments = params.get("proxy_segments") === "true";
 
     try {
         if (mode === "key" && upstreamUrl) {
             return await fetchKey(upstreamUrl);
         }
         if (mode === "m3u8" && upstreamUrl) {
-            return await proxyPlaylistBdix(upstreamUrl);
+            return await proxyPlaylistBdix(upstreamUrl, proxySegments, origin);
         }
         if (mode === "master") {
             const masterUrl = await discoverFifaStreamUrl();
-            return await proxyPlaylistBdix(masterUrl);
+            return await proxyPlaylistBdix(masterUrl, proxySegments, origin);
         }
-        // Legacy seg mode — proxy if someone still uses it
         if (mode === "seg" && upstreamUrl) {
             const r = await fetchWithHeaders(upstreamUrl, {
                 "Referer": "https://www.bioscopelive.com/",
                 "Origin": "https://www.bioscopelive.com",
             });
             if (!r.ok) throw new Error(`segment fetch failed: ${r.status}`);
-            return new Response(await r.arrayBuffer(), {
+            return new Response(r.body, {
                 headers: {
                     "Content-Type": "video/MP2T",
                     "Cache-Control": "public, max-age=300",
@@ -172,13 +167,11 @@ export async function onRequestGet({ request }) {
             `Bioscope Proxy (BDIX-optimized v2)\n` +
             `==================================\n\n` +
             `Usage:\n` +
-            `  /bioscope                  — auto-discover FIFA stream, return rewritten m3u8\n` +
-            `  /bioscope?mode=m3u8&u=<url>— proxy a sub-playlist\n` +
-            `  /bioscope?mode=key&u=<url> — fetch AES-128 key with JWT auth\n\n` +
-            `BDIX optimization:\n` +
-            `  • Master + sub-playlists go through Cloudflare (tiny files)\n` +
-            `  • AES key goes through Cloudflare (needs JWT, tiny)\n` +
-            `  • SEGMENTS go DIRECTLY from bioscopelive.com to player (BDIX-fast)\n\n` +
+            `  /bioscope                          — auto-discover FIFA stream, return rewritten m3u8 (BDIX-direct segments)\n` +
+            `  /bioscope?proxy_segments=true       — auto-discover, rewrite segments to proxy (CORS-compliant for web)\n` +
+            `  /bioscope?mode=m3u8&u=<url>         — proxy a sub-playlist\n` +
+            `  /bioscope?mode=key&u=<url>          — fetch AES-128 key with JWT auth\n` +
+            `  /bioscope?mode=seg&u=<url>          — proxy a segment (with CORS allowed)\n\n` +
             `In your .m3u8 playlist, just use:\n` +
             `  https://<your-project>.pages.dev/bioscope\n`,
             { headers: { "Content-Type": "text/plain" } }
