@@ -185,6 +185,18 @@ export async function onRequestGet({ request }) {
     }
 }
 
+export async function onRequestHead() {
+    // Shaka Player sends HEAD requests to probe stream URLs.
+    // Return 200 with appropriate headers so Shaka knows the endpoint exists.
+    return new Response(null, {
+        headers: {
+            "Content-Type": "application/vnd.apple.mpegurl",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Methods": "GET, HEAD, OPTIONS",
+        },
+    });
+}
+
 export async function onRequestOptions() {
     return new Response(null, {
         headers: {
