@@ -89,7 +89,7 @@ async function fetchKey(keyUrl) {
 }
 
 // Fetch and rewrite m3u8 playlist
-async function proxyPlaylist(upstreamUrl) {
+async function proxyPlaylist(upstreamUrl, origin) {
     const r = await fetchWithHeaders(upstreamUrl, {
         "Referer": "https://www.bioscopelive.com/",
         "Origin": "https://www.bioscopelive.com",
@@ -111,7 +111,7 @@ async function proxyPlaylist(upstreamUrl) {
                 if (p2.startsWith("http")) full = p2;
                 else if (p2.startsWith("/")) full = "https://ivy.bioscopelive.com" + p2;
                 else full = baseDir + p2;
-                return `${p1}/bioscope?mode=key&u=${encodeURIComponent(full)}${p3}`;
+                return `${p1}${origin}/bioscope?mode=key&u=${encodeURIComponent(full)}${p3}`;
             });
         }
 
@@ -125,9 +125,9 @@ async function proxyPlaylist(upstreamUrl) {
         else full = baseDir + s;
 
         if (full.endsWith(".m3u8") || full.includes(".m3u8?")) {
-            return `/bioscope?mode=m3u8&u=${encodeURIComponent(full)}`;
+            return `${origin}/bioscope?mode=m3u8&u=${encodeURIComponent(full)}`;
         } else {
-            return full;
+            return `${origin}/bioscope?mode=seg&u=${encodeURIComponent(full)}`;
         }
     }).join("\n");
 
@@ -147,7 +147,7 @@ async function proxySegment(segUrl) {
         "Origin": "https://www.bioscopelive.com",
     });
     if (!r.ok) throw new Error(`segment fetch failed: ${r.status}`);
-    return new Response(await r.arrayBuffer(), {
+    return new Response(r.body, {
         headers: {
             "Content-Type": "video/MP2T",
             "Cache-Control": "public, max-age=300",
@@ -158,6 +158,7 @@ async function proxySegment(segUrl) {
 
 export async function onRequestGet({ request }) {
     const url = new URL(request.url);
+    const origin = url.origin;
     const params = url.searchParams;
     const mode = params.get("mode") || "master";
     const upstreamUrl = params.get("u");
@@ -167,7 +168,7 @@ export async function onRequestGet({ request }) {
             return await fetchKey(upstreamUrl);
         }
         if (mode === "m3u8" && upstreamUrl) {
-            return await proxyPlaylist(upstreamUrl);
+            return await proxyPlaylist(upstreamUrl, origin);
         }
         if (mode === "seg" && upstreamUrl) {
             return await proxySegment(upstreamUrl);
@@ -175,7 +176,7 @@ export async function onRequestGet({ request }) {
         if (mode === "master") {
             // Auto-discover current FIFA stream URL
             const masterUrl = await discoverFifaStreamUrl();
-            return await proxyPlaylist(masterUrl);
+            return await proxyPlaylist(masterUrl, origin);
         }
         return new Response(
             `Bioscope Proxy\n` +

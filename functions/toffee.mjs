@@ -82,7 +82,7 @@ async function extractFreshUrl(sourceUrl, pattern) {
   return m[0];
 }
 
-async function proxyM3u8(upstreamUrl, referer) {
+async function proxyM3u8(upstreamUrl, referer, origin) {
   const r = await fetch(upstreamUrl, {
     headers: {
       "User-Agent": UA,
@@ -108,14 +108,14 @@ async function proxyM3u8(upstreamUrl, referer) {
         if (p2.startsWith("http")) full = p2;
         else if (p2.startsWith("/")) full = upstreamOrigin + p2;
         else full = baseDir + p2;
-        return `${p1}/toffee?mode=key&u=${encodeURIComponent(full)}&r=${encodeURIComponent(referer)}${p3}`;
+        return `${p1}${origin}/toffee?mode=key&u=${encodeURIComponent(full)}&r=${encodeURIComponent(referer)}${p3}`;
       });
     }
     let full;
     if (s.startsWith("http")) full = s;
     else if (s.startsWith("/")) full = upstreamOrigin + s;
     else full = baseDir + s;
-    return `/toffee?mode=seg&u=${encodeURIComponent(full)}&r=${encodeURIComponent(referer)}`;
+    return `${origin}/toffee?mode=seg&u=${encodeURIComponent(full)}&r=${encodeURIComponent(referer)}`;
   }).join("\n");
 
   return new Response(rewritten, {
@@ -137,9 +137,8 @@ async function proxySegment(segUrl, referer) {
     cf: { cacheTtl: 300, cacheEverything: true },
   });
   if (!r.ok) throw new Error(`segment fetch failed: ${r.status}`);
-  const buf = await r.arrayBuffer();
   const ct = r.headers.get("content-type") || "video/mp2t";
-  return new Response(buf, {
+  return new Response(r.body, {
     headers: {
       "Content-Type": ct,
       "Cache-Control": "public, max-age=300",
@@ -172,6 +171,7 @@ async function proxyKey(keyUrl, referer) {
 
 export async function onRequestGet({ request }) {
   const url = new URL(request.url);
+  const origin = url.origin;
   const params = url.searchParams;
   const mode = params.get("mode") || "proxy";
   const target = params.get("target") || "toffee";
@@ -230,7 +230,7 @@ export async function onRequestGet({ request }) {
 
   // Proxy mode — fetch with Referer, rewrite URLs, return m3u8
   try {
-    return await proxyM3u8(upstreamUrl, referer);
+    return await proxyM3u8(upstreamUrl, referer, origin);
   } catch (e) {
     return new Response(`proxy error: ${e.message}\n\nupstream: ${upstreamUrl}`, { status: 502 });
   }
