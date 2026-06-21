@@ -1,47 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-21T20:13:00+00:00
+# Streamed.pk live football matches — built 2026-06-21T21:53:20+00:00
 # 7 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — admin" tvg-id="Belgium_Vs_Iran_2391754_—_admin" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — admin
-# match: Belgium Vs Iran 2391754
+#EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — admin" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_admin" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — admin
+# match: Uruguay Vs Cape Verde 2391757
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-belgium-vs-iran/1
-https://lb9.strmd.st/secure/ybHDoBIlqQUqezdiTCtKfAgZYJrGjHPz/rtmp/stream/_nMzbV0FSCiULNPCT2IuBGFR8vtV38sSsWd41Z93Hndy_YiwVWKuh0tkK8ZZ36-ignR5Iqmt3Q/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-uruguay-vs-cape-verde/1
+https://lb13.strmd.st/secure/DCCYnOjGATqSaOaoPPrTvcVcWovcGHGt/rtmp/stream/ADTuUdfpOUtzH5-K3_v43pt_PQWQsL42RD6cqJZNc-J-xaShnNVCagU5e6vX7ftYbTijfysCrw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — delta" tvg-id="Belgium_Vs_Iran_2391754_—_delta" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — delta
-# match: Belgium Vs Iran 2391754
+#EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — delta" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_delta" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — delta
+# match: Uruguay Vs Cape Verde 2391757
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-g_belgium-iran-live-streaming-1243724031/1
-https://lb13.strmd.st/secure/shLnFJjJHaMAbfnCkQSCOplomgOgFNoZ/delta/stream/live_world-championship-gr-g_belgium-iran-live-streaming-1243724031/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1
+https://lb2.strmd.st/secure/WMOciTHzYyzzuYioCOOzSwRgUvDMcJTT/delta/stream/live_world-championship-gr-h_uruguay-cabo-verde-live-streaming-1243727028/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Belgium Vs Iran 2391754 — echo" tvg-id="Belgium_Vs_Iran_2391754_—_echo" group-title="Streamed.pk Live Football",Belgium Vs Iran 2391754 — echo
-# match: Belgium Vs Iran 2391754
+#EXTINF:-1 tvg-name="Uruguay Vs Cape Verde 2391757 — echo" tvg-id="Uruguay_Vs_Cape_Verde_2391757_—_echo" group-title="Streamed.pk Live Football",Uruguay Vs Cape Verde 2391757 — echo
+# match: Uruguay Vs Cape Verde 2391757
 # provider: echo
-# embed: https://embed.st/embed/echo/belgium-vs-iran-football-1489395/1
-https://lb16.strmd.st/secure/RpHGrgYXJiLamTweRPyybtSXbUesaGuZ/echo/stream/belgium-vs-iran-football-1489395/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/uruguay-vs-cape-verde-islands-football-1489398/1
+https://lb1.strmd.st/secure/SdPvJYNPkpTEDgQcscfyIJhtKvGpKYKj/echo/stream/uruguay-vs-cape-verde-islands-football-1489398/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Las Vegas Aces Vs Golden State Valkyries 2449066 — admin" tvg-id="Las_Vegas_Aces_Vs_Golden_State_Valkyries_2449066_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Golden State Valkyries 2449066 — admin
 # match: Las Vegas Aces Vs Golden State Valkyries 2449066
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-las-vegas-aces/1
-https://lb3.strmd.st/secure/EnCsRNbPSnpXvMtWedHJUmYQHgJoknbC/rtmp/stream/IrPLnnBudTufoz8cBkYeoiECkXHIiXNO-i5jFr00_RzmkCWRfNpQorBEfCMZmCv6dSxq4U26Rlopmz17gZY/1/playlist.m3u8
+https://lb12.strmd.st/secure/exxjkBimKovZFKslUAcvKVXySfdzgPXD/rtmp/stream/e01UFmai4ziyf-THe--zWkgz9qhZkuZuiQQgNbJZwziJYX3N_ODt4tZxi6XnopXzpERnwEGcCsbdGAtsVi4/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Las Vegas Aces Vs Golden State Valkyries 2449066 — delta" tvg-id="Las_Vegas_Aces_Vs_Golden_State_Valkyries_2449066_—_delta" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Golden State Valkyries 2449066 — delta
 # match: Las Vegas Aces Vs Golden State Valkyries 2449066
 # provider: delta
 # embed: https://embed.st/embed/delta/live_wnba_las-vegas-valkyries-live-streaming-1211161626/1
-https://lb2.strmd.st/secure/klsfrFdgMvnFSdKIdtJGoGGgavRUzhfx/delta/stream/live_wnba_las-vegas-valkyries-live-streaming-1211161626/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Golden_State_Valkyries_W_Basketball_494893_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo
-# match: Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893
-# provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1
-https://lb1.strmd.st/secure/vPHmzyTZVjZhNDutiJqXuXQrlDGRchEG/echo/stream/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1/playlist.m3u8
+https://lb15.strmd.st/secure/koFxJSWBoICorDllrbtUaDnJXzSyJGhM/delta/stream/live_wnba_las-vegas-valkyries-live-streaming-1211161626/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Anduril 250 2410134 — admin" tvg-id="Anduril_250_2410134_—_admin" group-title="Streamed.pk Live Football",Anduril 250 2410134 — admin
 # match: Anduril 250 2410134
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-anduril-250/1
-https://lb8.strmd.st/secure/EDIFIrByMHvTYcIkJxiScMJpBtmXcpxn/rtmp/stream/lSgrQPBusZ1haiCgU-ifk-OeuMHyGG9YRaLDFPec-MsgY562f8jKFZPFLG35Za11Y_t5rEOY/1/playlist.m3u8
+https://lb3.strmd.st/secure/IuuTktZjfsRklMpvywPxxCPZzewmBnRC/rtmp/stream/ANkIjqw5S_fqt9THKiLWdUyAtqDrhchxgH3DSBJcZgzFgvMJ0--S0pE-sWkq9ac_VdLY7ivx/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Golden_State_Valkyries_W_Basketball_494893_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893 — echo
+# match: Las Vegas Aces W Vs Golden State Valkyries W Basketball 494893
+# provider: echo
+# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1
+https://lb7.strmd.st/secure/UBdTCRNhpkwEERLhSbaTfjRQfWfGfVWk/echo/stream/las-vegas-aces-w-vs-golden-state-valkyries-w-basketball-494893/1/playlist.m3u8
 
