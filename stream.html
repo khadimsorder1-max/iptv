@@ -959,6 +959,17 @@
     loadHLS(stream.url);
   }
 
+  function getProxiedUrl(originalUrl) {
+    if (!originalUrl.includes('strmd.st')) {
+      return originalUrl;
+    }
+    let proxyOrigin = window.location.origin;
+    if (proxyOrigin.startsWith('file://') || proxyOrigin.includes('localhost') || proxyOrigin.includes('github.io')) {
+      proxyOrigin = 'https://skiptv.pages.dev';
+    }
+    return `${proxyOrigin}/stream?u=${encodeURIComponent(originalUrl)}&r=${encodeURIComponent('https://embed.st/')}`;
+  }
+
   // Load HLS using Hls.js
   function loadHLS(m3u8Url) {
     overlay.classList.remove('hidden');
@@ -972,9 +983,11 @@
     video.removeAttribute('src');
     video.load();
 
+    const proxiedUrl = getProxiedUrl(m3u8Url);
+
     if (video.canPlayType('application/vnd.apple.mpegurl')) {
       // Native Safari support
-      video.src = m3u8Url;
+      video.src = proxiedUrl;
       video.play().then(hideOverlay).catch(handlePlayError);
     } else if (Hls.isSupported()) {
       hlsInstance = new Hls({
@@ -982,7 +995,7 @@
         liveDurationInfinity: true,
         enableWorker: true
       });
-      hlsInstance.loadSource(m3u8Url);
+      hlsInstance.loadSource(proxiedUrl);
       hlsInstance.attachMedia(video);
       
       hlsInstance.on(Hls.Events.MANIFEST_PARSED, () => {
