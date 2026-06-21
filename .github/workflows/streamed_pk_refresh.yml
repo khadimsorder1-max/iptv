@@ -1,0 +1,47 @@
+name: Refresh streamed.pk live matches
+
+on:
+  schedule:
+    # Every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/streamed_pk_refresh.yml'
+      - 'scripts/scrape_streamed_pk.py'
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Playwright
+        run: |
+          pip install playwright
+          playwright install chromium --with-deps
+
+      - name: Scrape live matches
+        run: |
+          python scripts/scrape_streamed_pk.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "StreamedPK Bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add streamed_pk_live.m3u8
+          if git diff --cached --quiet; then
+            echo "No changes — playlist up to date"
+          else
+            git commit -m "🔄 Auto-refresh streamed.pk live matches ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push origin main
+          fi

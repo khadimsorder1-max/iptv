@@ -1,0 +1,1200 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Streamed.pk Football — Premium Live Player</title>
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/hls.js@1.5.13/dist/hls.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  
+  :root {
+    --bg-darker: #050811;
+    --bg-main: #0a0f1d;
+    --bg-card: #12182c;
+    --bg-hover: #1b233d;
+    --border: #222d4a;
+    --fg-main: #f0f3fa;
+    --fg-muted: #8fa0c2;
+    --accent: #00ff7f;
+    --accent-glow: rgba(0, 255, 127, 0.25);
+    --accent-dark: #00b359;
+    --red: #ff4a5a;
+    --red-glow: rgba(255, 74, 90, 0.3);
+    --font-sans: 'Outfit', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+
+  body {
+    background: radial-gradient(circle at 50% 0%, #161e38 0%, var(--bg-main) 70%, var(--bg-darker) 100%);
+    color: var(--fg-main);
+    font-family: var(--font-sans);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+  }
+
+  /* Scrollbar Customization */
+  ::-webkit-scrollbar { width: 6px; height: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg-darker); }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 10px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--accent); }
+
+  /* Premium Header */
+  header {
+    background: rgba(10, 15, 29, 0.75);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    transition: all 0.3s ease;
+  }
+  .header-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 16px 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+    background: linear-gradient(135deg, var(--fg-main) 30%, var(--accent) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .logo span {
+    -webkit-text-fill-color: initial;
+    filter: drop-shadow(0 0 10px var(--accent-glow));
+    animation: rotateBall 6s linear infinite;
+    display: inline-block;
+  }
+  @keyframes rotateBall { 100% { transform: rotate(360deg); } }
+
+  .header-actions {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  .status-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(0, 255, 127, 0.08);
+    border: 1px solid rgba(0, 255, 127, 0.2);
+    padding: 6px 14px;
+    border-radius: 100px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--accent);
+    box-shadow: 0 0 15px var(--accent-glow);
+  }
+  .status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: var(--accent);
+    box-shadow: 0 0 8px var(--accent);
+    animation: livePulse 1.5s infinite ease-in-out;
+  }
+  @keyframes livePulse {
+    0%, 100% { opacity: 0.3; transform: scale(0.9); }
+    50% { opacity: 1; transform: scale(1.1); }
+  }
+
+  .btn-refresh {
+    background: var(--fg-main);
+    color: var(--bg-darker);
+    border: none;
+    padding: 8px 16px;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-refresh:hover {
+    background: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 15px var(--accent-glow);
+  }
+  .btn-refresh:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    transform: none;
+    box-shadow: none;
+  }
+
+  /* Main Workspace Layout */
+  .workspace {
+    flex: 1;
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 24px;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 24px;
+  }
+
+  /* Player Area */
+  .player-section {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+  .player-wrapper {
+    position: relative;
+    aspect-ratio: 16/9;
+    background: #000;
+    border-radius: 20px;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    box-shadow: 0 20px 40px rgba(0,0,0,0.5);
+  }
+  video {
+    width: 100%;
+    height: 100%;
+    display: block;
+    object-fit: contain;
+  }
+
+  /* Custom controls overlay */
+  .controls-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(0deg, rgba(5, 8, 17, 0.95) 0%, rgba(5, 8, 17, 0.4) 40%, rgba(5, 8, 17, 0.1) 70%, rgba(5, 8, 17, 0.7) 100%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    opacity: 0;
+    transition: opacity 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 10;
+    padding: 16px;
+  }
+  .player-wrapper:hover .controls-overlay,
+  .controls-overlay.keep-visible {
+    opacity: 1;
+  }
+
+  .controls-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .stream-label {
+    background: rgba(18, 24, 44, 0.85);
+    border: 1px solid var(--border);
+    padding: 6px 14px;
+    border-radius: 10px;
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--fg-main);
+  }
+  .btn-close-fs {
+    display: none;
+  }
+
+  .controls-bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .progress-slider-container {
+    width: 100%;
+    height: 6px;
+    background: rgba(255,255,255,0.15);
+    border-radius: 10px;
+    position: relative;
+    cursor: pointer;
+  }
+  .progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    background: linear-gradient(90deg, var(--accent-dark), var(--accent));
+    border-radius: 10px;
+    position: relative;
+  }
+  .progress-bar-fill::after {
+    content: '';
+    position: absolute;
+    right: -4px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 12px;
+    height: 12px;
+    background: #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--accent);
+    opacity: 0;
+    transition: opacity 0.2s;
+  }
+  .progress-slider-container:hover .progress-bar-fill::after {
+    opacity: 1;
+  }
+
+  .controls-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+  }
+  .controls-group-left {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  .ctrl-btn {
+    background: none;
+    border: none;
+    color: var(--fg-main);
+    cursor: pointer;
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+  }
+  .ctrl-btn:hover {
+    background: rgba(255, 255, 255, 0.1);
+    color: var(--accent);
+  }
+  .ctrl-btn svg {
+    width: 22px;
+    height: 22px;
+    fill: currentColor;
+  }
+
+  .volume-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .volume-bar {
+    width: 70px;
+    height: 4px;
+    background: rgba(255,255,255,0.25);
+    border-radius: 100px;
+    position: relative;
+    cursor: pointer;
+  }
+  .volume-fill {
+    height: 100%;
+    width: 100%;
+    background: var(--accent);
+    border-radius: 100px;
+  }
+
+  .time-text {
+    font-size: 13px;
+    font-family: var(--font-mono);
+    color: var(--fg-muted);
+  }
+
+  .controls-group-right {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+  }
+
+  .speed-selector {
+    background: rgba(18, 24, 44, 0.8);
+    border: 1px solid var(--border);
+    color: var(--fg-main);
+    font-size: 12px;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+
+  /* Overlay states */
+  .player-overlay {
+    position: absolute;
+    inset: 0;
+    background: var(--bg-darker);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+    z-index: 15;
+    transition: opacity 0.3s;
+  }
+  .player-overlay.hidden {
+    opacity: 0;
+    pointer-events: none;
+  }
+  .overlay-spinner {
+    width: 50px;
+    height: 50px;
+    border: 3px solid rgba(0, 255, 127, 0.1);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: overlaySpin 0.8s linear infinite;
+  }
+  @keyframes overlaySpin { to { transform: rotate(360deg); } }
+  .overlay-text {
+    font-size: 15px;
+    font-weight: 500;
+    color: var(--fg-muted);
+  }
+
+  /* Premium metadata panel */
+  .match-info-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .match-info-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .now-playing-tag {
+    font-size: 11px;
+    font-weight: 700;
+    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  .match-info-name {
+    font-size: 20px;
+    font-weight: 700;
+    color: var(--fg-main);
+  }
+  .match-info-source {
+    font-size: 13px;
+    font-family: var(--font-mono);
+    color: var(--fg-muted);
+  }
+  .btn-copy-url {
+    background: rgba(18, 24, 44, 0.6);
+    border: 1px solid var(--border);
+    color: var(--fg-main);
+    padding: 10px 18px;
+    border-radius: 12px;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .btn-copy-url:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  /* Sidebar Matchlist */
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    max-height: calc(100vh - 120px);
+  }
+  .sidebar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .sidebar-title {
+    font-size: 16px;
+    font-weight: 800;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--fg-muted);
+  }
+  .match-list-container {
+    flex: 1;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-right: 4px;
+  }
+
+  /* Premium Match Card */
+  .match-card {
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 16px;
+    cursor: pointer;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+  .match-card:hover {
+    border-color: rgba(0, 255, 127, 0.4);
+    transform: translateY(-2px);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  }
+  .match-card.active {
+    border-color: var(--accent);
+    background: linear-gradient(135deg, rgba(0, 255, 127, 0.04) 0%, var(--bg-card) 100%);
+    box-shadow: 0 0 15px rgba(0, 255, 127, 0.05);
+  }
+  .match-card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .match-card-tag {
+    font-size: 10px;
+    font-weight: 700;
+    background: rgba(255, 74, 90, 0.1);
+    border: 1px solid rgba(255, 74, 90, 0.2);
+    color: var(--red);
+    padding: 2px 8px;
+    border-radius: 100px;
+    text-transform: uppercase;
+  }
+  .match-card-title {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--fg-main);
+    line-height: 1.4;
+  }
+  .server-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .server-pill {
+    background: var(--bg-main);
+    border: 1px solid var(--border);
+    color: var(--fg-muted);
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-size: 11px;
+    font-weight: 600;
+    transition: all 0.2s;
+  }
+  .server-pill:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  .server-pill.active {
+    background: var(--accent);
+    color: var(--bg-darker);
+    border-color: transparent;
+    font-weight: 700;
+    box-shadow: 0 2px 8px var(--accent-glow);
+  }
+
+  /* Information/Usage Panel */
+  .info-panel {
+    grid-column: 1 / -1;
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 24px;
+    margin-top: 12px;
+  }
+  .info-panel-title {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .info-list {
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 16px;
+  }
+  .info-list-item {
+    font-size: 13px;
+    color: var(--fg-muted);
+    line-height: 1.6;
+    display: flex;
+    gap: 8px;
+  }
+  .info-list-item::before {
+    content: '⚡';
+    color: var(--accent);
+  }
+
+  /* Keyboard hints */
+  .keyboard-hints {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+    font-size: 12px;
+    color: var(--fg-muted);
+    border-top: 1px solid var(--border);
+    padding-top: 16px;
+    margin-top: 16px;
+  }
+  .kb-key {
+    background: var(--bg-hover);
+    border: 1px solid var(--border);
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: var(--font-mono);
+    color: var(--fg-main);
+  }
+
+  /* Toast Notification */
+  .toast {
+    position: fixed;
+    bottom: 32px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    background: var(--accent);
+    color: var(--bg-darker);
+    padding: 12px 24px;
+    border-radius: 12px;
+    font-weight: 700;
+    font-size: 14px;
+    z-index: 1000;
+    box-shadow: 0 10px 30px var(--accent-glow);
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+    pointer-events: none;
+  }
+  .toast.show {
+    transform: translateX(-50%) translateY(0);
+  }
+
+  /* Responsive Adjustments */
+  @media (max-width: 1024px) {
+    .workspace {
+      grid-template-columns: 1fr;
+    }
+    .sidebar {
+      max-height: 400px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    .header-container {
+      padding: 12px 16px;
+    }
+    .logo {
+      font-size: 18px;
+    }
+    .status-badge {
+      display: none;
+    }
+    .workspace {
+      padding: 12px;
+      gap: 16px;
+    }
+    .player-wrapper {
+      border-radius: 12px;
+    }
+    .match-info-card {
+      border-radius: 16px;
+      padding: 16px;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 16px;
+    }
+    .match-info-name {
+      font-size: 17px;
+    }
+    .btn-copy-url {
+      width: 100%;
+      justify-content: center;
+    }
+    .controls-overlay {
+      padding: 10px;
+    }
+    .ctrl-btn {
+      width: 32px;
+      height: 32px;
+    }
+    .ctrl-btn svg {
+      width: 18px;
+      height: 18px;
+    }
+    .time-text {
+      font-size: 11px;
+    }
+    .volume-container {
+      display: none; /* Hide volume on mobile since OS handled */
+    }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="header-container">
+    <div class="logo">
+      <span>⚽</span> Streamed.pk Premium
+    </div>
+    <div class="header-actions">
+      <div class="status-badge">
+        <div class="status-dot"></div>
+        LIVE STREAMS
+      </div>
+      <button class="btn-refresh" id="refreshBtn" onclick="refreshPlaylist()">
+        🔄 Refresh
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="workspace">
+  <!-- Player / Metadata -->
+  <div class="player-section">
+    <div class="player-wrapper" id="playerWrapper">
+      <video id="videoPlayer" playsinline></video>
+      
+      <!-- Video Overlay for Loading/Alerts -->
+      <div class="player-overlay" id="playerOverlay">
+        <div class="overlay-spinner" id="overlaySpinner"></div>
+        <div class="overlay-text" id="overlayText">Select a match from the live dashboard</div>
+      </div>
+
+      <!-- Custom Player Controls -->
+      <div class="controls-overlay" id="controlsOverlay">
+        <div class="controls-top">
+          <div class="stream-label" id="controlsLabel">No Source</div>
+        </div>
+        
+        <div class="controls-bottom">
+          <!-- HLS Seek Progress Slider -->
+          <div class="progress-slider-container" id="progressBar" onclick="seekVideo(event)">
+            <div class="progress-bar-fill" id="progressBarFill"></div>
+          </div>
+          
+          <div class="controls-row">
+            <div class="controls-group-left">
+              <button class="ctrl-btn" onclick="togglePlay()" id="playBtn" title="Play/Pause (Space)">
+                <svg viewBox="0 0 24 24" id="playIcon" style="display:none;"><path d="M8 5v14l11-7z"/></svg>
+                <svg viewBox="0 0 24 24" id="pauseIcon"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>
+              </button>
+              
+              <button class="ctrl-btn" onclick="skipTime(-10)" title="Rewind 10s (Left Arrow)">
+                <svg viewBox="0 0 24 24"><path d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6h-2c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+              </button>
+              
+              <button class="ctrl-btn" onclick="skipTime(10)" title="Forward 10s (Right Arrow)">
+                <svg viewBox="0 0 24 24" style="transform:scaleX(-1);"><path d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6h-2c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"/></svg>
+              </button>
+
+              <div class="volume-container">
+                <button class="ctrl-btn" onclick="toggleMute()" id="muteBtn" title="Mute/Unmute (M)">
+                  <svg viewBox="0 0 24 24" id="unmuteIcon"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02z"/></svg>
+                  <svg viewBox="0 0 24 24" id="muteIcon" style="display:none;"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.21.05-.42.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>
+                </button>
+                <div class="volume-bar" id="volumeBar" onclick="setVolumeFromBar(event)">
+                  <div class="volume-fill" id="volumeFill"></div>
+                </div>
+              </div>
+
+              <div class="time-text" id="timeDisplay">00:00 / LIVE</div>
+            </div>
+
+            <div class="controls-group-right">
+              <select class="speed-selector" id="speedSelect" onchange="changeSpeed(this.value)">
+                <option value="0.5">0.5x</option>
+                <option value="0.75">0.75x</option>
+                <option value="1" selected>1.0x</option>
+                <option value="1.25">1.25x</option>
+                <option value="1.5">1.5x</option>
+                <option value="2">2.0x</option>
+              </select>
+
+              <button class="ctrl-btn" onclick="toggleFullscreen()" title="Fullscreen (F)">
+                <svg viewBox="0 0 24 24"><path d="M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2v3zM14 5v2h3v3h2V5h-5z"/></svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Metadata Card -->
+    <div class="match-info-card">
+      <div class="match-info-left">
+        <span class="now-playing-tag">Currently Streaming</span>
+        <div class="match-info-name" id="nowPlayingTitle">No match selected</div>
+        <div class="match-info-source" id="nowPlayingMeta">Waiting for connection...</div>
+      </div>
+      <button class="btn-copy-url" onclick="copyStreamUrl()">
+        📋 Copy M3U8 URL
+      </button>
+    </div>
+  </div>
+
+  <!-- Sidebar Match List -->
+  <div class="sidebar">
+    <div class="sidebar-header">
+      <span class="sidebar-title">Live Match Dashboard</span>
+    </div>
+    <div class="match-list-container" id="matchList">
+      <div class="overlay-text" style="text-align:center; padding: 40px 0;">
+        Loading live football feeds...
+      </div>
+    </div>
+  </div>
+
+  <!-- Info panel -->
+  <div class="info-panel">
+    <div class="info-panel-title">💡 How to Watch & Auto-Scraping Logic</div>
+    <div class="info-list">
+      <div class="info-list-item">
+        <strong>Auto-Scraper Updates:</strong> Matches are scraped dynamically from streamed.pk using Playwright and are compiled every 30 minutes to GitHub Pages.
+      </div>
+      <div class="info-list-item">
+        <strong>Load Balancer Servers:</strong> Different channels run on dedicated servers (e.g. Server 1, Server 2) with distinct strmd.st paths for max load handling.
+      </div>
+      <div class="info-list-item">
+        <strong>Token Validity:</strong> M3U8 link secure tokens expire quickly. If a stream freezes or gives an error, click "Refresh" to fetch the latest scraped links.
+      </div>
+    </div>
+
+    <div class="keyboard-hints">
+      <span>Keyboard Shortcuts:</span>
+      <span><span class="kb-key">Space</span> Play/Pause</span>
+      <span><span class="kb-key">F</span> Fullscreen</span>
+      <span><span class="kb-key">M</span> Mute</span>
+      <span><span class="kb-key">←</span> Back 10s</span>
+      <span><span class="kb-key">→</span> Forward 10s</span>
+    </div>
+  </div>
+</main>
+
+<div class="toast" id="toast">Copied to Clipboard!</div>
+
+<script>
+  let rawMatches = [];
+  let parsedMatches = {}; // grouped matches: { "Match Name": [ { provider, url, embed } ] }
+  let currentMatchName = null;
+  let currentServerIdx = 0;
+  
+  let hlsInstance = null;
+  const video = document.getElementById('videoPlayer');
+  const overlay = document.getElementById('playerOverlay');
+  const spinner = document.getElementById('overlaySpinner');
+  const overlayText = document.getElementById('overlayText');
+  const controlsOverlay = document.getElementById('controlsOverlay');
+
+  // Page Load
+  window.addEventListener('DOMContentLoaded', () => {
+    refreshPlaylist();
+    setupControlsAutohide();
+  });
+
+  // Fetch pre-scraped HLS playlist
+  async function refreshPlaylist() {
+    const btn = document.getElementById('refreshBtn');
+    btn.disabled = true;
+    btn.textContent = '⏳ Updating...';
+    
+    try {
+      const response = await fetch('streamed_pk_live.m3u8?t=' + Date.now());
+      if (!response.ok) throw new Error("Could not load streamed_pk_live.m3u8");
+      
+      const playlistText = await response.text();
+      parseM3U8(playlistText);
+      renderDashboard();
+      
+      showToast("Playlist updated successfully");
+    } catch (err) {
+      console.error(err);
+      showToast("Failed to fetch matches. Retrying with local cached copy...");
+      // Try relative fallback
+      try {
+        const fallbackRes = await fetch('./streamed_pk_live.m3u8');
+        const fallbackText = await fallbackRes.text();
+        parseM3U8(fallbackText);
+        renderDashboard();
+      } catch (fErr) {
+        document.getElementById('matchList').innerHTML = `
+          <div class="overlay-text" style="color:var(--red); text-align:center;">
+            ❌ Failed to load live fixtures.<br><small>${err.message}</small>
+          </div>`;
+      }
+    } finally {
+      btn.disabled = false;
+      btn.textContent = '🔄 Refresh';
+    }
+  }
+
+  // Group servers by Match Name
+  function parseM3U8(m3uContent) {
+    parsedMatches = {};
+    const lines = m3uContent.split('\n');
+    
+    let currentInf = null;
+    let matchMeta = {};
+    
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i].trim();
+      if (!line) continue;
+      
+      if (line.startsWith('#EXTINF:')) {
+        currentInf = line;
+        matchMeta = {};
+      } else if (line.startsWith('# match:')) {
+        matchMeta.match = line.replace('# match:', '').trim();
+      } else if (line.startsWith('# provider:')) {
+        matchMeta.provider = line.replace('# provider:', '').trim();
+      } else if (line.startsWith('# embed:')) {
+        matchMeta.embed = line.replace('# embed:', '').trim();
+      } else if (currentInf && !line.startsWith('#')) {
+        // Line is stream URL
+        // Extract display name or use match meta
+        let matchName = matchMeta.match || "Live Fixture";
+        let provider = matchMeta.provider || "Standard Feed";
+        
+        // If match header is missing, extract from tvg-name/title
+        if (!matchMeta.match) {
+          const matchTitle = currentInf.split(',')[1] || "";
+          const cleanTitle = matchTitle.split('—')[0].trim();
+          matchName = cleanTitle;
+        }
+
+        if (!parsedMatches[matchName]) {
+          parsedMatches[matchName] = [];
+        }
+        
+        parsedMatches[matchName].push({
+          provider: provider,
+          url: line,
+          embed: matchMeta.embed || ''
+        });
+        
+        currentInf = null;
+      }
+    }
+  }
+
+  // Render Premium Dashboard Match cards
+  function renderDashboard() {
+    const list = document.getElementById('matchList');
+    const matchesKeys = Object.keys(parsedMatches);
+    
+    if (matchesKeys.length === 0) {
+      list.innerHTML = `
+        <div class="overlay-text" style="text-align:center; padding: 40px 0;">
+          💤 No live matches right now. Check back during kick-off times.
+        </div>`;
+      return;
+    }
+    
+    list.innerHTML = matchesKeys.map(matchName => {
+      const streams = parsedMatches[matchName];
+      const isActive = matchName === currentMatchName;
+      
+      return `
+        <div class="match-card ${isActive ? 'active' : ''}" onclick="selectMatch('${escapeQuote(matchName)}')">
+          <div class="match-card-meta">
+            <span class="match-card-tag">🔴 Live Football</span>
+            <span style="font-size: 11px; color: var(--fg-muted);">${streams.length} Server(s)</span>
+          </div>
+          <div class="match-card-title">${escapeHtml(matchName)}</div>
+          <div class="server-pills">
+            ${streams.map((s, idx) => `
+              <button class="server-pill ${isActive && currentServerIdx === idx ? 'active' : ''}" 
+                      onclick="event.stopPropagation(); playServer('${escapeQuote(matchName)}', ${idx})">
+                Server ${idx + 1} (${s.provider})
+              </button>
+            `).join('')}
+          </div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  function escapeHtml(str) {
+    return str.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  }
+  
+  function escapeQuote(str) {
+    return str.replace(/'/g, "\\'");
+  }
+
+  // Match and Server selection handles
+  function selectMatch(matchName) {
+    playServer(matchName, 0);
+  }
+
+  function playServer(matchName, serverIdx) {
+    currentMatchName = matchName;
+    currentServerIdx = serverIdx;
+    
+    renderDashboard();
+    
+    const stream = parsedMatches[matchName][serverIdx];
+    
+    // Update player info panel
+    document.getElementById('nowPlayingTitle').textContent = matchName;
+    document.getElementById('nowPlayingMeta').textContent = `Server ${serverIdx + 1} (${stream.provider}) • Source: ${stream.url.substring(0, 50)}...`;
+    document.getElementById('controlsLabel').textContent = `Server ${serverIdx + 1} — ${stream.provider}`;
+    
+    // Play Stream
+    loadHLS(stream.url);
+  }
+
+  // Load HLS using Hls.js
+  function loadHLS(m3u8Url) {
+    overlay.classList.remove('hidden');
+    spinner.style.display = 'block';
+    overlayText.textContent = "Connecting to streaming server...";
+
+    if (hlsInstance) {
+      hlsInstance.destroy();
+    }
+    
+    video.removeAttribute('src');
+    video.load();
+
+    if (video.canPlayType('application/vnd.apple.mpegurl')) {
+      // Native Safari support
+      video.src = m3u8Url;
+      video.play().then(hideOverlay).catch(handlePlayError);
+    } else if (Hls.isSupported()) {
+      hlsInstance = new Hls({
+        maxBufferLength: 30,
+        liveDurationInfinity: true,
+        enableWorker: true
+      });
+      hlsInstance.loadSource(m3u8Url);
+      hlsInstance.attachMedia(video);
+      
+      hlsInstance.on(Hls.Events.MANIFEST_PARSED, () => {
+        hideOverlay();
+        video.play().catch(handlePlayError);
+      });
+
+      hlsInstance.on(Hls.Events.ERROR, (event, data) => {
+        if (data.fatal) {
+          switch (data.type) {
+            case Hls.ErrorTypes.NETWORK_ERROR:
+              console.error("Fatal network error in Hls.js, trying recovery...");
+              hlsInstance.startLoad();
+              break;
+            case Hls.ErrorTypes.MEDIA_ERROR:
+              console.error("Fatal media parsing error, trying recovery...");
+              hlsInstance.recoverMediaError();
+              break;
+            default:
+              hlsDestroyWithError(data.details || "Server feed offline");
+              break;
+          }
+        }
+      });
+    } else {
+      hlsDestroyWithError("Browser does not support HLS streaming.");
+    }
+  }
+
+  function hideOverlay() {
+    overlay.classList.add('hidden');
+  }
+
+  function handlePlayError(err) {
+    console.warn("Autoplay block or connection failed: ", err);
+    hlsDestroyWithError("Stream loaded. Press Play to watch.");
+    spinner.style.display = 'none';
+  }
+
+  function hlsDestroyWithError(msg) {
+    overlay.classList.remove('hidden');
+    spinner.style.display = 'none';
+    overlayText.innerHTML = `<span style="color:var(--red);">⚠️ Stream Unavailable</span><br><small style="font-size:12px;">${msg}</small>`;
+  }
+
+  // Player controls functionality
+  function togglePlay() {
+    if (video.paused) {
+      video.play().then(updateControlsUI).catch(console.error);
+    } else {
+      video.pause();
+      updateControlsUI();
+    }
+  }
+
+  video.addEventListener('play', updateControlsUI);
+  video.addEventListener('pause', updateControlsUI);
+  video.addEventListener('timeupdate', updateProgressBar);
+
+  function updateControlsUI() {
+    document.getElementById('playIcon').style.display = video.paused ? 'block' : 'none';
+    document.getElementById('pauseIcon').style.display = video.paused ? 'none' : 'block';
+  }
+
+  function skipTime(seconds) {
+    try {
+      video.currentTime += seconds;
+    } catch (e) {}
+  }
+
+  function toggleMute() {
+    video.muted = !video.muted;
+    updateMuteUI();
+  }
+
+  function updateMuteUI() {
+    document.getElementById('unmuteIcon').style.display = video.muted ? 'none' : 'block';
+    document.getElementById('muteIcon').style.display = video.muted ? 'block' : 'none';
+    document.getElementById('volumeFill').style.width = video.muted ? '0%' : (video.volume * 100) + '%';
+  }
+
+  function setVolumeFromBar(event) {
+    const bar = document.getElementById('volumeBar');
+    const rect = bar.getBoundingClientRect();
+    const percent = Math.max(0, Math.min(1, (event.clientX - rect.left) / rect.width));
+    
+    video.volume = percent;
+    video.muted = false;
+    updateMuteUI();
+  }
+
+  function updateProgressBar() {
+    const fill = document.getElementById('progressBarFill');
+    const timeDisplay = document.getElementById('timeDisplay');
+    
+    if (video.duration) {
+      const percentage = (video.currentTime / video.duration) * 100;
+      fill.style.width = percentage + '%';
+      
+      const curM = String(Math.floor(video.currentTime / 60)).padStart(2, '0');
+      const curS = String(Math.floor(video.currentTime % 60)).padStart(2, '0');
+      const durM = String(Math.floor(video.duration / 60)).padStart(2, '0');
+      const durS = String(Math.floor(video.duration % 60)).padStart(2, '0');
+      
+      timeDisplay.textContent = `${curM}:${curS} / ${durM}:${durS}`;
+    } else {
+      fill.style.width = '100%';
+      const curM = String(Math.floor(video.currentTime / 60)).padStart(2, '0');
+      const curS = String(Math.floor(video.currentTime % 60)).padStart(2, '0');
+      timeDisplay.textContent = `${curM}:${curS} / LIVE`;
+    }
+  }
+
+  function seekVideo(event) {
+    if (!video.duration) return; // Live feeds cannot be seeked forwards
+    const bar = document.getElementById('progressBar');
+    const rect = bar.getBoundingClientRect();
+    const percent = (event.clientX - rect.left) / rect.width;
+    video.currentTime = percent * video.duration;
+  }
+
+  function changeSpeed(rate) {
+    video.playbackRate = parseFloat(rate);
+    showToast(`Speed set to ${rate}x`);
+  }
+
+  function toggleFullscreen() {
+    const wrap = document.getElementById('playerWrapper');
+    if (!document.fullscreenElement) {
+      wrap.requestFullscreen().catch(console.error);
+    } else {
+      document.exitFullscreen();
+    }
+  }
+
+  // Copy HLS stream link
+  function copyStreamUrl() {
+    if (!currentMatchName) {
+      showToast("No active stream selected");
+      return;
+    }
+    const url = parsedMatches[currentMatchName][currentServerIdx].url;
+    navigator.clipboard.writeText(url).then(() => {
+      showToast("M3U8 Stream URL copied!");
+    }).catch(() => {
+      // Fallback copy
+      const el = document.createElement('textarea');
+      el.value = url;
+      document.body.appendChild(el);
+      el.select();
+      document.execCommand('copy');
+      document.body.removeChild(el);
+      showToast("M3U8 Stream URL copied!");
+    });
+  }
+
+  // Toast notifier
+  function showToast(msg) {
+    const t = document.getElementById('toast');
+    t.textContent = msg;
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 2000);
+  }
+
+  // Controls overlay auto-hide logic
+  let hideControlsTimeout;
+  function setupControlsAutohide() {
+    const wrap = document.getElementById('playerWrapper');
+    
+    wrap.addEventListener('mousemove', showControlsBriefly);
+    wrap.addEventListener('touchstart', showControlsBriefly);
+    
+    video.addEventListener('play', () => {
+      showControlsBriefly();
+    });
+  }
+
+  function showControlsBriefly() {
+    controlsOverlay.classList.add('keep-visible');
+    clearTimeout(hideControlsTimeout);
+    
+    if (!video.paused) {
+      hideControlsTimeout = setTimeout(() => {
+        controlsOverlay.classList.remove('keep-visible');
+      }, 3000);
+    }
+  }
+
+  // Keyboard Shortcuts Listener
+  document.addEventListener('keydown', (e) => {
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'SELECT') return;
+    
+    switch(e.key.toLowerCase()) {
+      case ' ':
+        e.preventDefault();
+        togglePlay();
+        break;
+      case 'f':
+        toggleFullscreen();
+        break;
+      case 'm':
+        toggleMute();
+        break;
+      case 'arrowleft':
+        skipTime(-10);
+        break;
+      case 'arrowright':
+        skipTime(10);
+        break;
+    }
+  });
+</script>
+
+</body>
+</html>

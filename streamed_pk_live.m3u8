@@ -1,0 +1,32 @@
+#EXTM3U
+#EXT-X-VERSION:3
+# Streamed.pk live football matches — built 2026-06-21T17:59:35+00:00
+# 4 streams captured from 2 matches
+# Tokens are short-lived — re-run this script before each match.
+#
+# To rebuild:
+#   /home/z/.venv/bin/python3 /home/z/my-project/scripts/scrape_streamed_pk.py
+
+#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — admin" tvg-id="Spain_Vs_Saudi_Arabia_—_admin" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — admin
+# match: Spain Vs Saudi Arabia
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-spain-vs-saudi-arabia/1
+https://lb19.strmd.st/secure/jlGEgQeLqZLdhQkgwbrEKBCpajmwgVnV/rtmp/stream/LuUpEf38a-N5bXOQyv_ZI44DMXGVatdlWE1hv0HkBzSotV9jf9hah1ympxBZR1i0vwoxYUFY6Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — delta" tvg-id="Spain_Vs_Saudi_Arabia_—_delta" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — delta
+# match: Spain Vs Saudi Arabia
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-h_spain-saudi-arabia-live-streaming-1243726029/1
+https://lb9.strmd.st/secure/ZNEHvWUZTxmkYaArteqWeTlJQmapdvPJ/delta/stream/live_world-championship-gr-h_spain-saudi-arabia-live-streaming-1243726029/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spain Vs Saudi Arabia — echo" tvg-id="Spain_Vs_Saudi_Arabia_—_echo" group-title="Streamed.pk Live Football",Spain Vs Saudi Arabia — echo
+# match: Spain Vs Saudi Arabia
+# provider: echo
+# embed: https://embed.st/embed/echo/spain-vs-saudi-arabia-football-1489397/1
+https://lb16.strmd.st/secure/XEBsKNIUwklENIZmsWXoGYpMbEExhIvh/echo/stream/spain-vs-saudi-arabia-football-1489397/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs New Zealand — admin" tvg-id="England_Vs_New_Zealand_—_admin" group-title="Streamed.pk Live Football",England Vs New Zealand — admin
+# match: England Vs New Zealand
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-england-vs-new-zealand/1
+https://lb2.strmd.st/secure/lCRbYBETDiZRLLPTIaDqVZGQGCWwOUAA/rtmp/stream/_8wf9ja0zbdwE0o9x9Fp7u661xGa5dVaAHgmBbrDA4hN806hOSbLZZWkST1LPKS9q0__YRVFhGs/1/playlist.m3u8

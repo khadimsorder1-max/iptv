@@ -30,8 +30,8 @@ const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
 const EXTRACTORS = {
   "toffee": {
     source: "https://fifalive.click/play",
-    pattern: /https:\/\/tahmidx\.[A-Za-z0-9\-]+\.workers\.dev[^\s"']*/,
-    fallbackPattern: /https:\/\/prod-cdn\d+-live\.toffeelive\.com\/live\/[A-Za-z0-9\-]+\/\d+\/master_\d+\.m3u8\?hdntl=[^"'\s<>]+/,
+    pattern: /https:\/\/prod-cdn\d+-live\.toffeelive\.com\/live\/[A-Za-z0-9\-]+\/\d+\/master_\d+\.m3u8\?hdntl=[^"'\s<>]+/,
+    fallbackPattern: /https:\/\/tahmidx\.[A-Za-z0-9\-]+\.workers\.dev[^\s"']*/,
     needsReferer: true,
     referer: "https://fifalive.click/",
   },
