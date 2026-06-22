@@ -1,5 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-22T08:37:20+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live football matches — built 2026-06-22T14:33:54+00:00
+# 3 streams captured from 1 matches
+
+#EXTINF:-1 tvg-name="Argentina Vs Austria 2391758 — admin" tvg-id="Argentina_Vs_Austria_2391758_—_admin" group-title="Streamed.pk Live Football",Argentina Vs Austria 2391758 — admin
+# match: Argentina Vs Austria 2391758
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-argentina-vs-austria/1
+https://lb13.strmd.st/secure/efNzBckoWutQwlulsEWoRiapiblkbDNL/rtmp/stream/q1QV21SRC1eDQOMazx3MRWovah9Bu7iY5Sw0R27MjKWeQgNG6rJOvL1Cu5RQRj8A2RrTVjtaQA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Argentina Vs Austria 2391758 — delta" tvg-id="Argentina_Vs_Austria_2391758_—_delta" group-title="Streamed.pk Live Football",Argentina Vs Austria 2391758 — delta
+# match: Argentina Vs Austria 2391758
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-j_argentina-austria-live-streaming-1243775979/1
+https://lb18.strmd.st/secure/oojhFJJejoMWuTyvjfwjQojMfccxIqaH/delta/stream/live_world-championship-gr-j_argentina-austria-live-streaming-1243775979/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Argentina Vs Austria 2391758 — echo" tvg-id="Argentina_Vs_Austria_2391758_—_echo" group-title="Streamed.pk Live Football",Argentina Vs Austria 2391758 — echo
+# match: Argentina Vs Austria 2391758
+# provider: echo
+# embed: https://embed.st/embed/echo/argentina-vs-austria-football-1489399/1
+https://lb7.strmd.st/secure/jVKpEYumlTVEnHPtPcrJAFRvmVnzpjTh/echo/stream/argentina-vs-austria-football-1489399/1/playlist.m3u8
 
