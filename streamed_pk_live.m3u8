@@ -1,71 +1,89 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-22T23:06:32+00:00
-# 11 streams captured from 5 matches
-
-#EXTINF:-1 tvg-name="France Vs Iraq 2461113 — admin" tvg-id="France_Vs_Iraq_2461113_—_admin" group-title="Streamed.pk Live Football",France Vs Iraq 2461113 — admin
-# match: France Vs Iraq 2461113
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-france-vs-iraq/1
-https://lb17.strmd.st/secure/rqnmxJDYfzZUjqHBGsidJCIvxZFJNann/rtmp/stream/SlNBEJszyIQWF1ZUuClRoQYOqeZHMroX70T4n2CIWlqyx__gOGpw_Z5oRyDRZfU6YAZtGKT0TA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France Vs Iraq 2461113 — delta" tvg-id="France_Vs_Iraq_2461113_—_delta" group-title="Streamed.pk Live Football",France Vs Iraq 2461113 — delta
-# match: France Vs Iraq 2461113
-# provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-i_france-iraq-live-streaming-1243773981/1
-https://lb19.strmd.st/secure/OtRkNqUCrxgXIUIsVTQnARHdTjwBSsEG/delta/stream/live_world-championship-gr-i_france-iraq-live-streaming-1243773981/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France Vs Iraq 2461113 — echo" tvg-id="France_Vs_Iraq_2461113_—_echo" group-title="Streamed.pk Live Football",France Vs Iraq 2461113 — echo
-# match: France Vs Iraq 2461113
-# provider: echo
-# embed: https://embed.st/embed/echo/france-vs-iraq-football-1539017/1
-https://lb13.strmd.st/secure/mywJtsfUeHPnnwPgegrPGZNujxLauzYD/echo/stream/france-vs-iraq-football-1539017/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-23T01:31:29+00:00
+# 14 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Norway Vs Senegal 2391760 — admin" tvg-id="Norway_Vs_Senegal_2391760_—_admin" group-title="Streamed.pk Live Football",Norway Vs Senegal 2391760 — admin
 # match: Norway Vs Senegal 2391760
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-norway-vs-senegal/1
-https://lb20.strmd.st/secure/VVkJXSZGffoTZlvbSHHRXhVglBaxmrZG/rtmp/stream/7deCLJFLRDyOnkTmZQrQRq1tR6dl08Qexljn91zrGbbJmc7O9L5Gt2Man8jyAI92y3Rj-wfYFw/1/playlist.m3u8
+https://lb8.strmd.st/secure/RyNIymTjEoqCKTDUxhJbDsgekdSMcJxB/rtmp/stream/C4N1PA6xwCk-S0SM5RFL9W_xw7wG0FLEbE5Ll8oUuSulFVQEh5nsQgtlTWsyOHNCT2Sb9NMzRw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Norway Vs Senegal 2391760 — delta" tvg-id="Norway_Vs_Senegal_2391760_—_delta" group-title="Streamed.pk Live Football",Norway Vs Senegal 2391760 — delta
 # match: Norway Vs Senegal 2391760
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-championship-gr-i_norway-senegal-live-streaming-1243774980/1
-https://lb14.strmd.st/secure/mitUDRncVFxoTtCOhsDxrWBEgOtMdljt/delta/stream/live_world-championship-gr-i_norway-senegal-live-streaming-1243774980/1/playlist.m3u8
+https://lb1.strmd.st/secure/sVUyeHXZSwGrINsFyBpZKeFmNKwkBTNR/delta/stream/live_world-championship-gr-i_norway-senegal-live-streaming-1243774980/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Norway Vs Senegal 2391760 — echo" tvg-id="Norway_Vs_Senegal_2391760_—_echo" group-title="Streamed.pk Live Football",Norway Vs Senegal 2391760 — echo
 # match: Norway Vs Senegal 2391760
 # provider: echo
 # embed: https://embed.st/embed/echo/norway-vs-senegal-football-1489401/1
-https://lb1.strmd.st/secure/fvVSmazSdjgpdSgSTcZRdOuLzJPeLnkb/echo/stream/norway-vs-senegal-football-1489401/1/playlist.m3u8
+https://lb5.strmd.st/secure/oswvJnGnPuimjsvuxKVzhiKQIQRItUjY/echo/stream/norway-vs-senegal-football-1489401/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Chicago Sky 2449069 — admin" tvg-id="Connecticut_Sun_Vs_Chicago_Sky_2449069_—_admin" group-title="Streamed.pk Live Football",Connecticut Sun Vs Chicago Sky 2449069 — admin
-# match: Connecticut Sun Vs Chicago Sky 2449069
+#EXTINF:-1 tvg-name="France Vs Iraq 2461113 — admin" tvg-id="France_Vs_Iraq_2461113_—_admin" group-title="Streamed.pk Live Football",France Vs Iraq 2461113 — admin
+# match: France Vs Iraq 2461113
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-connecticut-sun/1
-https://lb11.strmd.st/secure/oYzjgoRMGFsAglEDnJwiwVwYnAYYohpx/rtmp/stream/NTLqPKQiEAbDDF7bsQJvhOfiMOn-7ON9OKntsLaUruGc-88Hpw4Q5-kZ8Ff5tmbZaKi53EBJnkWt6yaCGGICGw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-france-vs-iraq/1
+https://lb14.strmd.st/secure/GYvSoKkKIdmGtQibNUSzQIurBxIdxgOe/rtmp/stream/ISLbwWMmniFcYXddUiA5CP58VUjvpni3GP7EybPHw0jPMf3gJI90ft-bQ6eRUIIhbRlOJhRKEA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Chicago Sky 2449069 — delta" tvg-id="Connecticut_Sun_Vs_Chicago_Sky_2449069_—_delta" group-title="Streamed.pk Live Football",Connecticut Sun Vs Chicago Sky 2449069 — delta
-# match: Connecticut Sun Vs Chicago Sky 2449069
+#EXTINF:-1 tvg-name="Indiana Fever Vs Phoenix Mercury 2449070 — admin" tvg-id="Indiana_Fever_Vs_Phoenix_Mercury_2449070_—_admin" group-title="Streamed.pk Live Football",Indiana Fever Vs Phoenix Mercury 2449070 — admin
+# match: Indiana Fever Vs Phoenix Mercury 2449070
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-indiana-fever/1
+https://lb10.strmd.st/secure/FIgByZgEmrtcXCCxkuxZkNWZuEbdrVnh/rtmp/stream/4Dcz4-U7vbE6IbqrcEFFwFsKSmcjslQkM0XklEjxSyGwSgm-fD6dOuUqkM71XzzIJ2jKbkavBaFGLydLK9U/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indiana Fever Vs Phoenix Mercury 2449070 — delta" tvg-id="Indiana_Fever_Vs_Phoenix_Mercury_2449070_—_delta" group-title="Streamed.pk Live Football",Indiana Fever Vs Phoenix Mercury 2449070 — delta
+# match: Indiana Fever Vs Phoenix Mercury 2449070
 # provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_connecticut-chicago-live-streaming-1211168619/1
-https://lb6.strmd.st/secure/rAlRMqEyfsQgIlJtZCwoOSYEyXZXvAdy/delta/stream/live_wnba_connecticut-chicago-live-streaming-1211168619/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_wnba_fever-mercury-live-streaming-1211170617/1
+https://lb17.strmd.st/secure/VchEWKugPugopXZkuXpmPiQAQIffWdXZ/delta/stream/live_wnba_fever-mercury-live-streaming-1211170617/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="23374 — admin" tvg-id="23374_—_admin" group-title="Streamed.pk Live Football",23374 — admin
-# match: 23374
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Toronto Tempo 2449311 — admin" tvg-id="Atlanta_Dream_Vs_Toronto_Tempo_2449311_—_admin" group-title="Streamed.pk Live Football",Atlanta Dream Vs Toronto Tempo 2449311 — admin
+# match: Atlanta Dream Vs Toronto Tempo 2449311
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1
-https://lb8.strmd.st/secure/ExWrcqkepMrsKTggVRteOpcONTwdplJl/rtmp/stream/5HEUbCL_JFRtdk47WOUhegFSXJyHu8AXbZJ-DKqHnRk4kKvin8hkJvXrQeqkPze12x_s2Kb0TQ/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-toronto-tempo-vs-atlanta-dream/1
+https://lb15.strmd.st/secure/cYtjvgxKPWgkvOcVNhzHqLYCJrgXDFFw/rtmp/stream/R4nBc3mBqO4QwGGX73mmyUJZaKxiaSw6EB0OOYHvESDuuxHydFK_79iGtIeVD-bd4MA9mHiuLXw920fOHFE/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Argentina Vs Austria 2391758 — admin" tvg-id="Argentina_Vs_Austria_2391758_—_admin" group-title="Streamed.pk Live Football",Argentina Vs Austria 2391758 — admin
-# match: Argentina Vs Austria 2391758
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-argentina-vs-austria/1
-https://lb4.strmd.st/secure/ozGVrvgbMjARqSsUlsCJBtUEhmIAiSIf/rtmp/stream/CySgMKjQ-EfYomI3Tg0r4xDOLOS8NjmcQdxAppV6AdfNocFV1SIeLE6XERFjBcFmNohEfxr2fw/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Toronto Tempo 2449311 — delta" tvg-id="Atlanta_Dream_Vs_Toronto_Tempo_2449311_—_delta" group-title="Streamed.pk Live Football",Atlanta Dream Vs Toronto Tempo 2449311 — delta
+# match: Atlanta Dream Vs Toronto Tempo 2449311
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_atlanta-tempo-live-streaming-1211169618/1
+https://lb2.strmd.st/secure/GvfiZiTTiNhIxbhtaRyGaasPBXFcwZNU/delta/stream/live_wnba_atlanta-tempo-live-streaming-1211169618/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Argentina Vs Austria 2391758 — echo" tvg-id="Argentina_Vs_Austria_2391758_—_echo" group-title="Streamed.pk Live Football",Argentina Vs Austria 2391758 — echo
-# match: Argentina Vs Austria 2391758
+#EXTINF:-1 tvg-name="Indiana Fever W Vs Phoenix Mercury W Basketball 494898 — echo" tvg-id="Indiana_Fever_W_Vs_Phoenix_Mercury_W_Basketball_494898_—_echo" group-title="Streamed.pk Live Football",Indiana Fever W Vs Phoenix Mercury W Basketball 494898 — echo
+# match: Indiana Fever W Vs Phoenix Mercury W Basketball 494898
 # provider: echo
-# embed: https://embed.st/embed/echo/argentina-vs-austria-german-spainish-gamwcce-12/1
-https://lb10.strmd.st/secure/apILxwlHDgGKenwrnUOguNaCnnxruSVO/echo/stream/argentina-vs-austria-german-spainish-gamwcce-12/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/indiana-fever-w-vs-phoenix-mercury-w-basketball-494898/1
+https://lb4.strmd.st/secure/AUXNxXHYQTMpqNFfrGKgcVvdjANGzjxt/echo/stream/indiana-fever-w-vs-phoenix-mercury-w-basketball-494898/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta Dream W Vs Toronto Tempo W Basketball 494897 — echo" tvg-id="Atlanta_Dream_W_Vs_Toronto_Tempo_W_Basketball_494897_—_echo" group-title="Streamed.pk Live Football",Atlanta Dream W Vs Toronto Tempo W Basketball 494897 — echo
+# match: Atlanta Dream W Vs Toronto Tempo W Basketball 494897
+# provider: echo
+# embed: https://embed.st/embed/echo/atlanta-dream-w-vs-toronto-tempo-w-basketball-494897/1
+https://lb5.strmd.st/secure/pUvbEyuEZszOUjYachZMQGyAfeNTDpmb/echo/stream/atlanta-dream-w-vs-toronto-tempo-w-basketball-494897/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Vs Algeria 2391759 — admin" tvg-id="Jordan_Vs_Algeria_2391759_—_admin" group-title="Streamed.pk Live Football",Jordan Vs Algeria 2391759 — admin
+# match: Jordan Vs Algeria 2391759
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-jordan-vs-algeria/1
+https://lb8.strmd.st/secure/wTLvkxrknWHDRRcqJFfSbWvPoKemMCzg/rtmp/stream/fS28UliLcQdL3jG40OljP9RTts2DRqYSpbsa7oosr76jatKx1uPWcE-UgxDIGjfc67bA87K25g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Vs Algeria 2391759 — delta" tvg-id="Jordan_Vs_Algeria_2391759_—_delta" group-title="Streamed.pk Live Football",Jordan Vs Algeria 2391759 — delta
+# match: Jordan Vs Algeria 2391759
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-j_jordan-algeria-live-streaming-1243776978/1
+https://lb13.strmd.st/secure/iiSUCoZcTDdicuYgcLDqlTrvvtDlyuwx/delta/stream/live_world-championship-gr-j_jordan-algeria-live-streaming-1243776978/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Jordan Vs Algeria 2391759 — echo" tvg-id="Jordan_Vs_Algeria_2391759_—_echo" group-title="Streamed.pk Live Football",Jordan Vs Algeria 2391759 — echo
+# match: Jordan Vs Algeria 2391759
+# provider: echo
+# embed: https://embed.st/embed/echo/jordan-vs-algeria-football-1489400/1
+https://lb13.strmd.st/secure/vaQTzeHSYwtZeqSgNefPmseLpTFMMNNa/echo/stream/jordan-vs-algeria-football-1489400/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 World Of Outlaws Late Models Ogilvie Ppv 03 — echo" tvg-id="Ppv_Event_03_World_Of_Outlaws_Late_Models_Ogilvie_Ppv_03_—_echo" group-title="Streamed.pk Live Football",Ppv Event 03 World Of Outlaws Late Models Ogilvie Ppv 03 — echo
+# match: Ppv Event 03 World Of Outlaws Late Models Ogilvie Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-world-of-outlaws-late-models-ogilvie-ppv-03/1
+https://lb9.strmd.st/secure/HkQZYOZmInZlxAdDfTgRCqYVEUjsQeSo/echo/stream/ppv-event-03-world-of-outlaws-late-models-ogilvie-ppv-03/1/playlist.m3u8
 
