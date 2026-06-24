@@ -1,41 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-24T19:41:28+00:00
-# 6 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-06-24T21:20:56+00:00
+# 8 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — admin" tvg-id="Switzerland_Vs_Canada_2391767_—_admin" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — admin
 # match: Switzerland Vs Canada 2391767
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-switzerland-vs-canada/1
-https://lb11.strmd.st/secure/ljfAnLxJEoKeMXjXcWuraLssEybmGIFm/rtmp/stream/KxkDAXYv1msGqTmDKFY2Yld_Acd2N_LAR3ADY5DE-6lVpxCXeDfJy44KOyKFbaUGdB1RoMAFJw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — delta" tvg-id="Switzerland_Vs_Canada_2391767_—_delta" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — delta
-# match: Switzerland Vs Canada 2391767
-# provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-canada-live-streaming-1243801953/1
-https://lb14.strmd.st/secure/mYYseMXkgkZZOgIpqjeeZTVLHcLoBuLi/delta/stream/live_world-championship-gr-b_switzerland-canada-live-streaming-1243801953/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — echo" tvg-id="Switzerland_Vs_Canada_2391767_—_echo" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — echo
-# match: Switzerland Vs Canada 2391767
-# provider: echo
-# embed: https://embed.st/embed/echo/switzerland-vs-canada-football-1489408/1
-https://lb13.strmd.st/secure/ImmGoluXbdRxOrTCBNXmDgyHgZXwWTPa/echo/stream/switzerland-vs-canada-football-1489408/1/playlist.m3u8
+https://lb1.strmd.st/secure/skhivLuMUXfHzycgrEtoWFRlLIOlpHWh/rtmp/stream/4Vp_nJF2ztiC_0aKrzMsFqg22HdB63YwTeFXirjiSQq6YtOXKrvTy3814Q2ij3DQJkzSBXonFg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — admin" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_admin" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — admin
 # match: Bosnia Herzegovina Vs Qatar 2461115
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/1
-https://lb1.strmd.st/secure/JZLrbtMPBXukyFEwSRbOPPBxMfMtprrU/rtmp/stream/CoSvT5uUlZg5yHhLi7W0fMyOQPueJMFDgG9EbE2sO1UKLyN82cKLa6w0hgcL-6VP5Ypt6OOu/1/playlist.m3u8
+https://lb9.strmd.st/secure/AauyfPGMKSPBXOgLlvfwKKaNIbydUHlD/rtmp/stream/1_5vC61WIH_j6HpdiNWm1gSuK1UCwZ5KN1pk4WwjmvlDZ9rUgi6M0H4Z_icxnTV4k2_QlJjR/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — delta" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_delta" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — delta
-# match: Bosnia Herzegovina Vs Qatar 2461115
+#EXTINF:-1 tvg-name="Scotland Vs Brazil 2391765 — admin" tvg-id="Scotland_Vs_Brazil_2391765_—_admin" group-title="Streamed.pk Live Football",Scotland Vs Brazil 2391765 — admin
+# match: Scotland Vs Brazil 2391765
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-scotland-vs-brazil/1
+https://lb12.strmd.st/secure/kiHqquckFhFqkOFxlCKTCmfnqGnyjqZz/rtmp/stream/c6mx1UhSdFCiX2nw2-gNuyFJo3hZPornuCbrwoJzQX29wQw-bh3BBkvLb-jS7btfDZ5CcoxsIg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Scotland Vs Brazil 2391765 — delta" tvg-id="Scotland_Vs_Brazil_2391765_—_delta" group-title="Streamed.pk Live Football",Scotland Vs Brazil 2391765 — delta
+# match: Scotland Vs Brazil 2391765
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-b_bih-qatar-live-streaming-1243800954/1
-https://lb6.strmd.st/secure/weONVnVqnHeFkZdkbhJQSnUFskdezzCP/delta/stream/live_world-championship-gr-b_bih-qatar-live-streaming-1243800954/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-c_scotland-brazil-live-streaming-1243803951/1
+https://lb10.strmd.st/secure/BNXlHuhHJDbnomFZKxbITSChVfRGZTuM/delta/stream/live_world-championship-gr-c_scotland-brazil-live-streaming-1243803951/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — echo" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_echo" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — echo
-# match: Bosnia Herzegovina Vs Qatar 2461115
+#EXTINF:-1 tvg-name="Scotland Vs Brazil 2391765 — echo" tvg-id="Scotland_Vs_Brazil_2391765_—_echo" group-title="Streamed.pk Live Football",Scotland Vs Brazil 2391765 — echo
+# match: Scotland Vs Brazil 2391765
 # provider: echo
-# embed: https://embed.st/embed/echo/bosnia-herzegovina-vs-qatar-football-1539009/1
-https://lb12.strmd.st/secure/nVXJpWCxIwSjWswmmqudxWbTwsoiTbzS/echo/stream/bosnia-herzegovina-vs-qatar-football-1539009/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/scotland-vs-brazil-football-1489406/1
+https://lb15.strmd.st/secure/uyLwnhwwfsYyDYSdiRqLGsqZrsYZwuTz/echo/stream/scotland-vs-brazil-football-1489406/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Morocco Vs Haiti 2391764 — admin" tvg-id="Morocco_Vs_Haiti_2391764_—_admin" group-title="Streamed.pk Live Football",Morocco Vs Haiti 2391764 — admin
+# match: Morocco Vs Haiti 2391764
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-morocco-vs-haiti/1
+https://lb13.strmd.st/secure/VKkfcUVsWAxdXDukWasnDZLKASpRnHag/rtmp/stream/eXWHHGFdGXneTTxmC9YqpOcy8J3wGQvHp30KKj2eYiqFJLNqR3bxmEgdEQbbwHoILVEiH2dw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Morocco Vs Haiti 2391764 — delta" tvg-id="Morocco_Vs_Haiti_2391764_—_delta" group-title="Streamed.pk Live Football",Morocco Vs Haiti 2391764 — delta
+# match: Morocco Vs Haiti 2391764
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-c_morocco-haiti-live-streaming-1243802952/1
+https://lb4.strmd.st/secure/JYiKfywNiLyyMlEzAaNNghSFLIhlaTxL/delta/stream/live_world-championship-gr-c_morocco-haiti-live-streaming-1243802952/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Morocco Vs Haiti 2391764 — echo" tvg-id="Morocco_Vs_Haiti_2391764_—_echo" group-title="Streamed.pk Live Football",Morocco Vs Haiti 2391764 — echo
+# match: Morocco Vs Haiti 2391764
+# provider: echo
+# embed: https://embed.st/embed/echo/morocco-vs-haiti-football-1489405/1
+https://lb2.strmd.st/secure/OGUmUIxZONMglBYvAJOymdaUCyxYkXFG/echo/stream/morocco-vs-haiti-football-1489405/1/playlist.m3u8
 
