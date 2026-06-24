@@ -1,29 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-24T15:32:33+00:00
-# 4 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-06-24T17:52:20+00:00
+# 10 streams captured from 6 matches
+
+#EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — admin" tvg-id="Switzerland_Vs_Canada_2391767_—_admin" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — admin
+# match: Switzerland Vs Canada 2391767
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-switzerland-vs-canada/1
+https://lb7.strmd.st/secure/ooFdzPPxAbAUZheNzDGmQbPPDkWrreHZ/rtmp/stream/n7afegXJDSOgZ3Xv5LLkovLFbBRisXzHmeviumXZP0EDcdrQJksVTwEqhSC6TsrmUcyENddf1w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — delta" tvg-id="Switzerland_Vs_Canada_2391767_—_delta" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — delta
+# match: Switzerland Vs Canada 2391767
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-b_switzerland-canada-live-streaming-1243801953/1
+https://lb15.strmd.st/secure/OtPJKaSTciCmVGnctzbQnLXgloQVdntR/delta/stream/live_world-championship-gr-b_switzerland-canada-live-streaming-1243801953/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Switzerland Vs Canada 2391767 — echo" tvg-id="Switzerland_Vs_Canada_2391767_—_echo" group-title="Streamed.pk Live Football",Switzerland Vs Canada 2391767 — echo
+# match: Switzerland Vs Canada 2391767
+# provider: echo
+# embed: https://embed.st/embed/echo/switzerland-vs-canada-football-1489408/1
+https://lb18.strmd.st/secure/DThmURpHWYoiGsqmPuwFNArynnRGlwSe/echo/stream/switzerland-vs-canada-football-1489408/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — admin" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_admin" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — admin
+# match: Bosnia Herzegovina Vs Qatar 2461115
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-bosnia-herzegovina-vs-qatar/1
+https://lb18.strmd.st/secure/ydvoGbCdsbHGcLwfNHLvkaFfkjnGvQGU/rtmp/stream/XUVq4g5Toybzo516S1lpsigvOiEu2huW4mN4iYJcs7vS_5DCuOsNA7M1Unsy7-hk_MD6CFSV/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — delta" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_delta" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — delta
+# match: Bosnia Herzegovina Vs Qatar 2461115
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-b_bih-qatar-live-streaming-1243800954/1
+https://lb16.strmd.st/secure/PrhTOxlkMPCQzLrrRNNuqcOUlepGuEJJ/delta/stream/live_world-championship-gr-b_bih-qatar-live-streaming-1243800954/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bosnia Herzegovina Vs Qatar 2461115 — echo" tvg-id="Bosnia_Herzegovina_Vs_Qatar_2461115_—_echo" group-title="Streamed.pk Live Football",Bosnia Herzegovina Vs Qatar 2461115 — echo
+# match: Bosnia Herzegovina Vs Qatar 2461115
+# provider: echo
+# embed: https://embed.st/embed/echo/bosnia-herzegovina-vs-qatar-football-1539009/1
+https://lb3.strmd.st/secure/dQTkaonvghMnrYczESeIlzmbzpikKEuP/echo/stream/bosnia-herzegovina-vs-qatar-football-1539009/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fremantle Dockers Vs Gold Coast Suns Australian Football 3476 — echo" tvg-id="Fremantle_Dockers_Vs_Gold_Coast_Suns_Australian_Football_3476_—_echo" group-title="Streamed.pk Live Football",Fremantle Dockers Vs Gold Coast Suns Australian Football 3476 — echo
 # match: Fremantle Dockers Vs Gold Coast Suns Australian Football 3476
 # provider: echo
 # embed: https://embed.st/embed/echo/fremantle-dockers-vs-gold-coast-suns-australian-football-3476/1
-https://lb14.strmd.st/secure/NIPrvcvEVWPgjfRrEcuIsLAbzIMWRaqr/echo/stream/fremantle-dockers-vs-gold-coast-suns-australian-football-3476/1/playlist.m3u8
+https://lb9.strmd.st/secure/xaDZuFazYeHnvgYjwZPaHdgNFDUoVJKE/echo/stream/fremantle-dockers-vs-gold-coast-suns-australian-football-3476/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Port Adelaide Power Vs Adelaide Crows Australian Football 3479 — echo" tvg-id="Port_Adelaide_Power_Vs_Adelaide_Crows_Australian_Football_3479_—_echo" group-title="Streamed.pk Live Football",Port Adelaide Power Vs Adelaide Crows Australian Football 3479 — echo
 # match: Port Adelaide Power Vs Adelaide Crows Australian Football 3479
 # provider: echo
 # embed: https://embed.st/embed/echo/port-adelaide-power-vs-adelaide-crows-australian-football-3479/1
-https://lb6.strmd.st/secure/ThgGQSgghvVFqbNOxymHFHpNaeRqiUxw/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3479/1/playlist.m3u8
+https://lb15.strmd.st/secure/hUUprfWndiIhUovIDNSrRQWurNrSdQcn/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3479/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478 — echo" tvg-id="North_Melbourne_Kangaroos_Vs_Essendon_Bombers_Australian_Football_3478_—_echo" group-title="Streamed.pk Live Football",North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478 — echo
 # match: North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478
 # provider: echo
 # embed: https://embed.st/embed/echo/north-melbourne-kangaroos-vs-essendon-bombers-australian-football-3478/1
-https://lb11.strmd.st/secure/QmceYfcBMjyceEwFzkOdPuToaXEHYBGu/echo/stream/north-melbourne-kangaroos-vs-essendon-bombers-australian-football-3478/1/playlist.m3u8
+https://lb8.strmd.st/secure/dxxEBOUnsHgOzPRlRiyTYvWMWbwUBemc/echo/stream/north-melbourne-kangaroos-vs-essendon-bombers-australian-football-3478/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Carlton Blues Vs West Coast Eagles Australian Football 3474 — echo" tvg-id="Carlton_Blues_Vs_West_Coast_Eagles_Australian_Football_3474_—_echo" group-title="Streamed.pk Live Football",Carlton Blues Vs West Coast Eagles Australian Football 3474 — echo
 # match: Carlton Blues Vs West Coast Eagles Australian Football 3474
 # provider: echo
 # embed: https://embed.st/embed/echo/carlton-blues-vs-west-coast-eagles-australian-football-3474/1
-https://lb10.strmd.st/secure/tMnROdMyrfTBRVVQNOMOQmDlqvBLSFqH/echo/stream/carlton-blues-vs-west-coast-eagles-australian-football-3474/1/playlist.m3u8
+https://lb14.strmd.st/secure/LPgfsRCysxXrfGxqfXoXjQeTMBNXrPJO/echo/stream/carlton-blues-vs-west-coast-eagles-australian-football-3474/1/playlist.m3u8
 
