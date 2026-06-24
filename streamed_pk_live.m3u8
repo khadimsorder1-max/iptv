@@ -1,23 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-24T12:33:38+00:00
-# 3 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-06-24T15:32:33+00:00
+# 4 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Lewis Crocker Vs Liam Paro 2478610 — admin" tvg-id="Lewis_Crocker_Vs_Liam_Paro_2478610_—_admin" group-title="Streamed.pk Live Football",Lewis Crocker Vs Liam Paro 2478610 — admin
-# match: Lewis Crocker Vs Liam Paro 2478610
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-crocker-vs-paro/1
-https://lb6.strmd.st/secure/zCCWztwWMUaxUPxCfmiZVjKndPRFavwY/rtmp/stream/lX-qcVJBh4-BQhNeor2A9QvWPmspUCdF7uL9lN8Gb3tJWzcBM01V2yDiADLqWxB8YTA7JW4O6JZLP2OM6w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Lewis Crocker Vs Liam Paro 2478610 — delta" tvg-id="Lewis_Crocker_Vs_Liam_Paro_2478610_—_delta" group-title="Streamed.pk Live Football",Lewis Crocker Vs Liam Paro 2478610 — delta
-# match: Lewis Crocker Vs Liam Paro 2478610
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_lewis-crocker-vs-liam-paro-live-stream/1
-https://lb17.strmd.st/secure/gWdBCATpdKflGXWnZPfvKMBFjjzVIvLy/delta/stream/live-event_lewis-crocker-vs-liam-paro-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Lewis Crocker Vs Liam Paro 2478610 — echo" tvg-id="Lewis_Crocker_Vs_Liam_Paro_2478610_—_echo" group-title="Streamed.pk Live Football",Lewis Crocker Vs Liam Paro 2478610 — echo
-# match: Lewis Crocker Vs Liam Paro 2478610
+#EXTINF:-1 tvg-name="Fremantle Dockers Vs Gold Coast Suns Australian Football 3476 — echo" tvg-id="Fremantle_Dockers_Vs_Gold_Coast_Suns_Australian_Football_3476_—_echo" group-title="Streamed.pk Live Football",Fremantle Dockers Vs Gold Coast Suns Australian Football 3476 — echo
+# match: Fremantle Dockers Vs Gold Coast Suns Australian Football 3476
 # provider: echo
-# embed: https://embed.st/embed/echo/boxing-lewis-crocker-vs-liam-paro-game-2/1
-https://lb9.strmd.st/secure/xEMOctBblzCNNKEQSjmXMRTUEQGKKvJX/echo/stream/boxing-lewis-crocker-vs-liam-paro-game-2/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/fremantle-dockers-vs-gold-coast-suns-australian-football-3476/1
+https://lb14.strmd.st/secure/NIPrvcvEVWPgjfRrEcuIsLAbzIMWRaqr/echo/stream/fremantle-dockers-vs-gold-coast-suns-australian-football-3476/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Port Adelaide Power Vs Adelaide Crows Australian Football 3479 — echo" tvg-id="Port_Adelaide_Power_Vs_Adelaide_Crows_Australian_Football_3479_—_echo" group-title="Streamed.pk Live Football",Port Adelaide Power Vs Adelaide Crows Australian Football 3479 — echo
+# match: Port Adelaide Power Vs Adelaide Crows Australian Football 3479
+# provider: echo
+# embed: https://embed.st/embed/echo/port-adelaide-power-vs-adelaide-crows-australian-football-3479/1
+https://lb6.strmd.st/secure/ThgGQSgghvVFqbNOxymHFHpNaeRqiUxw/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3479/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478 — echo" tvg-id="North_Melbourne_Kangaroos_Vs_Essendon_Bombers_Australian_Football_3478_—_echo" group-title="Streamed.pk Live Football",North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478 — echo
+# match: North Melbourne Kangaroos Vs Essendon Bombers Australian Football 3478
+# provider: echo
+# embed: https://embed.st/embed/echo/north-melbourne-kangaroos-vs-essendon-bombers-australian-football-3478/1
+https://lb11.strmd.st/secure/QmceYfcBMjyceEwFzkOdPuToaXEHYBGu/echo/stream/north-melbourne-kangaroos-vs-essendon-bombers-australian-football-3478/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Carlton Blues Vs West Coast Eagles Australian Football 3474 — echo" tvg-id="Carlton_Blues_Vs_West_Coast_Eagles_Australian_Football_3474_—_echo" group-title="Streamed.pk Live Football",Carlton Blues Vs West Coast Eagles Australian Football 3474 — echo
+# match: Carlton Blues Vs West Coast Eagles Australian Football 3474
+# provider: echo
+# embed: https://embed.st/embed/echo/carlton-blues-vs-west-coast-eagles-australian-football-3474/1
+https://lb10.strmd.st/secure/tMnROdMyrfTBRVVQNOMOQmDlqvBLSFqH/echo/stream/carlton-blues-vs-west-coast-eagles-australian-football-3474/1/playlist.m3u8
 
