@@ -1,71 +1,83 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-25T22:19:41+00:00
-# 11 streams captured from 7 matches
-
-#EXTINF:-1 tvg-name="Ecuador Vs Germany 2391769 — admin" tvg-id="Ecuador_Vs_Germany_2391769_—_admin" group-title="Streamed.pk Live Football",Ecuador Vs Germany 2391769 — admin
-# match: Ecuador Vs Germany 2391769
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-ecuador-vs-germany/1
-https://lb16.strmd.st/secure/KxnkgxHKCGZSaGLKvrRfVwGJgXPJnLTN/rtmp/stream/VYQNyaOLA7peFGxYgFsGDMTzTStuS5CcA7XdOf5LpOatq0WpsgXgp1ZevWCncjI5Ps3z-Ajniw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cura Ao Vs Ivory Coast 2391768 — admin" tvg-id="Cura_Ao_Vs_Ivory_Coast_2391768_—_admin" group-title="Streamed.pk Live Football",Cura Ao Vs Ivory Coast 2391768 — admin
-# match: Cura Ao Vs Ivory Coast 2391768
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1
-https://lb15.strmd.st/secure/UqxotAnDInqvPMIGNNBrLnHspVjuyNtU/rtmp/stream/iKY3abMuXwQrYad9DhuO6zS6TYDdIEoT3filn-NtSHI22LHmHeXD5rHqW4mM5BxOTPuwFjHq/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-25T23:53:37+00:00
+# 13 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — admin" tvg-id="Japan_Vs_Sweden_2461117_—_admin" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — admin
 # match: Japan Vs Sweden 2461117
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-japan-vs-sweden/1
-https://lb19.strmd.st/secure/lFaJQIgnSlZlZpTQtAqWxHpmCXeYxaOO/rtmp/stream/IrLuAPouiQIGkHOUjjWnpFXIa3pCWM-gVngukOLJb40svzjCFfuAKwFJfnobcwwj4XKQJ5jn/1/playlist.m3u8
+https://lb4.strmd.st/secure/BdFGXFpeeLdlitCKTbOLNaAcqPxjFAik/rtmp/stream/o8Nj4-e-5hcxU4K8qTT83frHHVZM5gDsktObUPwqaZWtjehhgZmz3qIbhnberpU3Kezrd0sp/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — delta" tvg-id="Japan_Vs_Sweden_2461117_—_delta" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — delta
 # match: Japan Vs Sweden 2461117
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-championship-gr-f_japan-sweden-live-streaming-1243816938/1
-https://lb13.strmd.st/secure/IFvmbqWFzOMCeMooYjcbAzbCYDsAFzrY/delta/stream/live_world-championship-gr-f_japan-sweden-live-streaming-1243816938/1/playlist.m3u8
+https://lb5.strmd.st/secure/nCQxgeyyRqrYrBVglzCoOFjzjsANEPEt/delta/stream/live_world-championship-gr-f_japan-sweden-live-streaming-1243816938/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — echo" tvg-id="Japan_Vs_Sweden_2461117_—_echo" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — echo
 # match: Japan Vs Sweden 2461117
 # provider: echo
 # embed: https://embed.st/embed/echo/japan-vs-sweden-football-1539011/1
-https://lb4.strmd.st/secure/lPDOBtPfmofUsWSqSKoaCEVjjAUvoQWI/echo/stream/japan-vs-sweden-football-1539011/1/playlist.m3u8
+https://lb10.strmd.st/secure/kEdhEJQPewudJtgtziMwCKqHnEwyhwoe/echo/stream/japan-vs-sweden-football-1539011/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — admin" tvg-id="Tunisia_Vs_Netherlands_2391771_—_admin" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — admin
 # match: Tunisia Vs Netherlands 2391771
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/1
-https://lb6.strmd.st/secure/ENliuHqzWSPXkAMyQveoeKySvdkpACPH/rtmp/stream/wwhkWEtdB_siK0XgsnkBGMeo7RWBpB17wukBewxV2WjROon4bUWilan1lc_zeJYAfSYXRgzqqQ/1/playlist.m3u8
+https://lb20.strmd.st/secure/sktDgdMUWwVQpnDAbkzzGupIMxwKeWLw/rtmp/stream/7gO-0weifEqF608ql0Uf-uK7luSXvK7aUyte1GDrzeihNNgeiMD18V6jrGryhEmVQwTmYpieyg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — delta" tvg-id="Tunisia_Vs_Netherlands_2391771_—_delta" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — delta
 # match: Tunisia Vs Netherlands 2391771
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1
-https://lb18.strmd.st/secure/qtPLfSdVczcfEbPzDTFMKwNBTxCkEUtO/delta/stream/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1/playlist.m3u8
+https://lb15.strmd.st/secure/yXJKbTUJTwnQpvtpvVKWKQaFsurmPfWO/delta/stream/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — echo" tvg-id="Tunisia_Vs_Netherlands_2391771_—_echo" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — echo
 # match: Tunisia Vs Netherlands 2391771
 # provider: echo
 # embed: https://embed.st/embed/echo/tunisia-vs-netherlands-football-1489412/1
-https://lb12.strmd.st/secure/uopAoRozSxIdrsIYfcNKCedfmprIiIrQ/echo/stream/tunisia-vs-netherlands-football-1489412/1/playlist.m3u8
+https://lb13.strmd.st/secure/YmKwIFNDxXZCTInkjxiDRRChaFKBXfhV/echo/stream/tunisia-vs-netherlands-football-1489412/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 01 Pdra North V South Shootout Ppv 01 — echo" tvg-id="Ppv_Event_01_Pdra_North_V_South_Shootout_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Pdra North V South Shootout Ppv 01 — echo
-# match: Ppv Event 01 Pdra North V South Shootout Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-pdra-north-v-south-shootout-ppv-01/1
-https://lb5.strmd.st/secure/CmiNPXpVyDviVQvJfHbqOxLeEGgAOYIP/echo/stream/ppv-event-01-pdra-north-v-south-shootout-ppv-01/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toronto Tempo Vs Los Angeles Sparks 2449312 — admin" tvg-id="Toronto_Tempo_Vs_Los_Angeles_Sparks_2449312_—_admin" group-title="Streamed.pk Live Football",Toronto Tempo Vs Los Angeles Sparks 2449312 — admin
+# match: Toronto Tempo Vs Los Angeles Sparks 2449312
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-toronto-tempo/1
+https://lb17.strmd.st/secure/rxMRUZuiEbWYgwnrpqwjYwlrBpRJXHJT/rtmp/stream/kmm3rrnPM-J0jYXy7JABJOiWtzY05-rh8qs9NCFBtXgAlsVRa4plOj1BWJeLPtMJKcLyfrQ8SScuuuXN3Rg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
-# match: Travelers Championship Pga Tour Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb13.strmd.st/secure/nlJFbtLZztHuhGrBiHCKqBGePYfIqqcG/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Toronto Tempo Vs Los Angeles Sparks 2449312 — delta" tvg-id="Toronto_Tempo_Vs_Los_Angeles_Sparks_2449312_—_delta" group-title="Streamed.pk Live Football",Toronto Tempo Vs Los Angeles Sparks 2449312 — delta
+# match: Toronto Tempo Vs Los Angeles Sparks 2449312
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_tempo-sparks-live-streaming-1211183604/1
+https://lb12.strmd.st/secure/catQmOflHRGhdnRjmPfnsFpuWenRpUcC/delta/stream/live_wnba_tempo-sparks-live-streaming-1211183604/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Warrington Wolves Vs Catalans Dragons 2395946 — echo" tvg-id="Warrington_Wolves_Vs_Catalans_Dragons_2395946_—_echo" group-title="Streamed.pk Live Football",Warrington Wolves Vs Catalans Dragons 2395946 — echo
-# match: Warrington Wolves Vs Catalans Dragons 2395946
+#EXTINF:-1 tvg-name="Ppv Event 05 Double Feature Night Thunder Road Ppv 05 — echo" tvg-id="Ppv_Event_05_Double_Feature_Night_Thunder_Road_Ppv_05_—_echo" group-title="Streamed.pk Live Football",Ppv Event 05 Double Feature Night Thunder Road Ppv 05 — echo
+# match: Ppv Event 05 Double Feature Night Thunder Road Ppv 05
 # provider: echo
-# embed: https://embed.st/embed/echo/warrington-wolves-vs-catalans-dragons-game-37322/1
-https://lb10.strmd.st/secure/mtZyVlCkxBgynBEGVJwGSytjczzPlckU/echo/stream/warrington-wolves-vs-catalans-dragons-game-37322/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-05-double-feature-night-thunder-road-ppv-05/1
+https://lb16.strmd.st/secure/WISIkYGeQoFKmKaTvRZZdNFsTWuzeEit/echo/stream/ppv-event-05-double-feature-night-thunder-road-ppv-05/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 04 Short Track Super Series Afton Ppv 004 — echo" tvg-id="Ppv_Event_04_Short_Track_Super_Series_Afton_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Short Track Super Series Afton Ppv 004 — echo
+# match: Ppv Event 04 Short Track Super Series Afton Ppv 004
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-04-short-track-super-series-afton-ppv-004/1
+https://lb1.strmd.st/secure/aHyEEajMUwOQudZRFyKeCSaJkjgVCfne/echo/stream/ppv-event-04-short-track-super-series-afton-ppv-004/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905 — echo" tvg-id="Toronto_Tempo_W_Vs_Los_Angeles_Sparks_W_Basketball_494905_—_echo" group-title="Streamed.pk Live Football",Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905 — echo
+# match: Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905
+# provider: echo
+# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-los-angeles-sparks-w-basketball-494905/1
+https://lb10.strmd.st/secure/RZKzFpaHKdqgyBOyLyhgBSjnBsTeKSyI/echo/stream/toronto-tempo-w-vs-los-angeles-sparks-w-basketball-494905/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03 — echo" tvg-id="Ppv_Event_03_Lucas_Oil_Firecracker_100_Lernerville_Ppv_03_—_echo" group-title="Streamed.pk Live Football",Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03 — echo
+# match: Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-lucas-oil-firecracker-100-lernerville-ppv-03/1
+https://lb4.strmd.st/secure/hIVUlenUovHCIVgMNMOMKOCaxFQCfwdO/echo/stream/ppv-event-03-lucas-oil-firecracker-100-lernerville-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02 — echo" tvg-id="Ppv_Event_02_Usac_Hoosier_Hundred_Lucas_Oil_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02 — echo
+# match: Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-usac-hoosier-hundred-lucas-oil-ppv-02/1
+https://lb11.strmd.st/secure/bVfIkibQfZxWiWPKtlNtTbNxQHIcVQgT/echo/stream/ppv-event-02-usac-hoosier-hundred-lucas-oil-ppv-02/1/playlist.m3u8
 
