@@ -1,35 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-25T18:32:34+00:00
-# 5 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-06-25T20:54:21+00:00
+# 7 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="Ecuador Vs Germany 2391769 — admin" tvg-id="Ecuador_Vs_Germany_2391769_—_admin" group-title="Streamed.pk Live Football",Ecuador Vs Germany 2391769 — admin
 # match: Ecuador Vs Germany 2391769
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-ecuador-vs-germany/1
-https://lb13.strmd.st/secure/ePTVxutPLMYqZfUPIFHedFWkvVgSdjHe/rtmp/stream/1QdtosjtKAl4o4IDGdb-L4AeQ7P-8RUV7o0uV_JAmpkvupx8Q43GjRv0_fFroJRNZH3yr00CKg/1/playlist.m3u8
+https://lb10.strmd.st/secure/oMPVhnjdktCYSXwREqhtYYSdaDaRQWrp/rtmp/stream/AlIsnwatyhr_25b2_KJ7wiOQSQKljuKhqpKqIBseBa983ntMpIuHrVUgzrpI2gwyvuaUIONdnA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ecuador Vs Germany 2391769 — delta" tvg-id="Ecuador_Vs_Germany_2391769_—_delta" group-title="Streamed.pk Live Football",Ecuador Vs Germany 2391769 — delta
 # match: Ecuador Vs Germany 2391769
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-championship-gr-e_ecuador-germany-live-streaming-1243815939/1
-https://lb8.strmd.st/secure/ChnSExjorIlryogdgOJTjVThLpUMVkYc/delta/stream/live_world-championship-gr-e_ecuador-germany-live-streaming-1243815939/1/playlist.m3u8
+https://lb1.strmd.st/secure/kBLHPBqzYFUiAWIYNAtcLluYyqUoTIwh/delta/stream/live_world-championship-gr-e_ecuador-germany-live-streaming-1243815939/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ecuador Vs Germany 2391769 — echo" tvg-id="Ecuador_Vs_Germany_2391769_—_echo" group-title="Streamed.pk Live Football",Ecuador Vs Germany 2391769 — echo
 # match: Ecuador Vs Germany 2391769
 # provider: echo
 # embed: https://embed.st/embed/echo/ecuador-vs-germany-football-1489410/1
-https://lb20.strmd.st/secure/jrYlzWNafYmcidsVNoSazTblZkiXvSkc/echo/stream/ecuador-vs-germany-football-1489410/1/playlist.m3u8
+https://lb11.strmd.st/secure/BioEydvBclKTFimduDuYXCQoFNaOrINn/echo/stream/ecuador-vs-germany-football-1489410/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — delta" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_delta" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — delta
-# match: World Rally Championship Greece Racing 0059
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_world-rally-championship-2026-rally-greece-live-stream/1
-https://lb8.strmd.st/secure/MpRNXlzyDayQqXFsKLITwyLAKVHJuqlW/delta/stream/live-event_world-rally-championship-2026-rally-greece-live-stream/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cura Ao Vs Ivory Coast 2391768 — admin" tvg-id="Cura_Ao_Vs_Ivory_Coast_2391768_—_admin" group-title="Streamed.pk Live Football",Cura Ao Vs Ivory Coast 2391768 — admin
+# match: Cura Ao Vs Ivory Coast 2391768
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-cura-ao-vs-ivory-coast/1
+https://lb11.strmd.st/secure/ZFrdNJfDheYyaPuIoxgJlKwEIhmerNov/rtmp/stream/TN0-tbTPPOMyDCMeIOFMMFEDGjICJ6VyoxVkvfVuSwR8O0qmreerVGl4UGG_1X5-dCrNB9cy/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
-# match: World Rally Championship Greece Racing 0059
+#EXTINF:-1 tvg-name="Cura Ao Vs Ivory Coast 2391768 — echo" tvg-id="Cura_Ao_Vs_Ivory_Coast_2391768_—_echo" group-title="Streamed.pk Live Football",Cura Ao Vs Ivory Coast 2391768 — echo
+# match: Cura Ao Vs Ivory Coast 2391768
 # provider: echo
-# embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
-https://lb6.strmd.st/secure/ctRGoqoIUAGLELfVlDfEpeyXGqAxsZSx/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/curacao-vs-ivory-coast-football-1489409/1
+https://lb7.strmd.st/secure/QBaowrpBtberBaXqLOMqAlWjtpXtEyxb/echo/stream/curacao-vs-ivory-coast-football-1489409/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
+# match: Travelers Championship Pga Tour Pga 526234
+# provider: echo
+# embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
+https://lb8.strmd.st/secure/oXqufsTenjQJbFaVvmGqYMEAbLCZrVQV/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Warrington Wolves Vs Catalans Dragons 2395946 — echo" tvg-id="Warrington_Wolves_Vs_Catalans_Dragons_2395946_—_echo" group-title="Streamed.pk Live Football",Warrington Wolves Vs Catalans Dragons 2395946 — echo
+# match: Warrington Wolves Vs Catalans Dragons 2395946
+# provider: echo
+# embed: https://embed.st/embed/echo/warrington-wolves-vs-catalans-dragons-game-37322/1
+https://lb10.strmd.st/secure/sGzTbxyrOzBvadnrdsvCVYfLpPgnSAwf/echo/stream/warrington-wolves-vs-catalans-dragons-game-37322/1/playlist.m3u8
 
