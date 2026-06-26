@@ -1,23 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-26T15:22:37+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live football matches — built 2026-06-26T17:16:23+00:00
+# 6 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Austrian Grand Prix Practice 1 2408157 — admin" tvg-id="Austrian_Grand_Prix_Practice_1_2408157_—_admin" group-title="Streamed.pk Live Football",Austrian Grand Prix Practice 1 2408157 — admin
-# match: Austrian Grand Prix Practice 1 2408157
+#EXTINF:-1 tvg-name="Norway Vs France 2391775 — admin" tvg-id="Norway_Vs_France_2391775_—_admin" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — admin
+# match: Norway Vs France 2391775
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/1
-https://lb17.strmd.st/secure/rIDGIKmHUlCuheYWuCSXOvovbyOjsjSE/rtmp/stream/oD7Hl6qGbXK1SBn5hz2rjOQ7hmH059zSssZljKEuYzizCOTYNhldFvs783VR1V8z2rnEjcG8jlba6ynn5bk8XOXKoMo/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-norway-vs-france/1
+https://lb17.strmd.st/secure/JioIvsgYOymVyIiAcwqyCoHIfPZNAKmo/rtmp/stream/28DjWkN6LRaO-MxK2A1MKynilRoZvOftWLH0eqp5w9_5nsjdVGh64yF8x198ZxOH_1q7KbEVJQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Norway Vs France 2391775 — delta" tvg-id="Norway_Vs_France_2391775_—_delta" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — delta
+# match: Norway Vs France 2391775
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-championship-gr-i_norway-france-live-streaming-1243883871/1
+https://lb6.strmd.st/secure/cAaaVySKrGyNWwpSgQGYXyNrluyAvAak/delta/stream/live_world-championship-gr-i_norway-france-live-streaming-1243883871/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Norway Vs France 2391775 — echo" tvg-id="Norway_Vs_France_2391775_—_echo" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — echo
+# match: Norway Vs France 2391775
+# provider: echo
+# embed: https://embed.st/embed/echo/norway-vs-france-football-1489416/1
+https://lb15.strmd.st/secure/cxffkGzeXvbSNDcgkinyYXbTscLnUKgA/echo/stream/norway-vs-france-football-1489416/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02 — echo" tvg-id="Ppv_Event_02_Colosseum_Tournament_58_Romania_V_Africa_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02 — echo
+# match: Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-colosseum-tournament-58-romania-v-africa-ppv-02/1
+https://lb15.strmd.st/secure/PYgnSzcrJvplEceQnLJVKAkzmklxHCUp/echo/stream/ppv-event-02-colosseum-tournament-58-romania-v-africa-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv One Friday Fights 160 The Inner Circle 20 — admin" tvg-id="Ppv_One_Friday_Fights_160_The_Inner_Circle_20_—_admin" group-title="Streamed.pk Live Football",Ppv One Friday Fights 160 The Inner Circle 20 — admin
 # match: Ppv One Friday Fights 160 The Inner Circle 20
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-one-friday-fights-160-the-inner-circle-20/1
-https://lb2.strmd.st/secure/CWYpwRTxOuRWYvdIoCjLwqBPpWFdkcli/rtmp/stream/StWO7vLJH8HQq2XO6IB-bcb0GI7yG4hH4450BnfPIA6jrKamwhpy5038TelVxshA_vLUdi7IoA/1/playlist.m3u8
+https://lb7.strmd.st/secure/CjPJQvRntAqktDZMpfhLOXyiWeZhnzfE/rtmp/stream/fQGAqtYx5z98zdsb5XS8kP7fbgcmf3wQn4fbHtJvkSM6qqWg-o-q1pQxRcfgGw2vrP-v2GM-Qw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brisbane Broncos Vs Sydney Roosters 2417286 — echo" tvg-id="Brisbane_Broncos_Vs_Sydney_Roosters_2417286_—_echo" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Sydney Roosters 2417286 — echo
 # match: Brisbane Broncos Vs Sydney Roosters 2417286
 # provider: echo
 # embed: https://embed.st/embed/echo/brisbane-broncos-vs-sydney-roosters-game-2737723/1
-https://lb19.strmd.st/secure/fUhahVSqcaznAufbFECaysEAxjZayCHE/echo/stream/brisbane-broncos-vs-sydney-roosters-game-2737723/1/playlist.m3u8
+https://lb19.strmd.st/secure/NKKpxFSBpalsdnTflJBSDnyWxUBDxYGh/echo/stream/brisbane-broncos-vs-sydney-roosters-game-2737723/1/playlist.m3u8
 
