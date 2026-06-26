@@ -1,83 +1,89 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-25T23:53:37+00:00
-# 13 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-06-26T02:54:02+00:00
+# 14 streams captured from 8 matches
 
-#EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — admin" tvg-id="Japan_Vs_Sweden_2461117_—_admin" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — admin
-# match: Japan Vs Sweden 2461117
+#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — admin" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_admin" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — admin
+# match: Ppv T Rkiye Vs United States
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-japan-vs-sweden/1
-https://lb4.strmd.st/secure/BdFGXFpeeLdlitCKTbOLNaAcqPxjFAik/rtmp/stream/o8Nj4-e-5hcxU4K8qTT83frHHVZM5gDsktObUPwqaZWtjehhgZmz3qIbhnberpU3Kezrd0sp/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1
+https://lb1.strmd.st/secure/LRMMHRGdtKJAIPZzRhBtnZxEOwhXQwOp/rtmp/stream/W5P3ZSONW0xyPnahIzG7bDaRLc2myEMsz1ymW-66QF-USK1nqRGmrK-o5Wej_GY23tEqXOY0IQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — delta" tvg-id="Japan_Vs_Sweden_2461117_—_delta" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — delta
-# match: Japan Vs Sweden 2461117
+#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — delta" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_delta" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — delta
+# match: Ppv T Rkiye Vs United States
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-f_japan-sweden-live-streaming-1243816938/1
-https://lb5.strmd.st/secure/nCQxgeyyRqrYrBVglzCoOFjzjsANEPEt/delta/stream/live_world-championship-gr-f_japan-sweden-live-streaming-1243816938/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1
+https://lb20.strmd.st/secure/RZraizgvnlPfbRCBBjrEpxpCTIccUNqR/delta/stream/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Japan Vs Sweden 2461117 — echo" tvg-id="Japan_Vs_Sweden_2461117_—_echo" group-title="Streamed.pk Live Football",Japan Vs Sweden 2461117 — echo
-# match: Japan Vs Sweden 2461117
+#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — echo" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_echo" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — echo
+# match: Ppv T Rkiye Vs United States
 # provider: echo
-# embed: https://embed.st/embed/echo/japan-vs-sweden-football-1539011/1
-https://lb10.strmd.st/secure/kEdhEJQPewudJtgtziMwCKqHnEwyhwoe/echo/stream/japan-vs-sweden-football-1539011/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1
+https://lb3.strmd.st/secure/GTAVcGsnEOEaEaELJZcGefcWiQnpdSGU/echo/stream/turkiye-vs-usa-football-1539012/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — admin" tvg-id="Tunisia_Vs_Netherlands_2391771_—_admin" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — admin
-# match: Tunisia Vs Netherlands 2391771
+#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — admin" tvg-id="Paraguay_Vs_Australia_2391770_—_admin" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — admin
+# match: Paraguay Vs Australia 2391770
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-tunisia-vs-netherlands/1
-https://lb20.strmd.st/secure/sktDgdMUWwVQpnDAbkzzGupIMxwKeWLw/rtmp/stream/7gO-0weifEqF608ql0Uf-uK7luSXvK7aUyte1GDrzeihNNgeiMD18V6jrGryhEmVQwTmYpieyg/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-paraguay-vs-australia/1
+https://lb5.strmd.st/secure/eejdZKQGqubwGnMregacKfivnfTuNLJc/rtmp/stream/U2kJilPb5I4jX_oh7Kd7647GEbhRcx5SfGrFHlYRQl2pp0PPyXevFRYqMdF3ZUh3wD4V2nInxQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — delta" tvg-id="Tunisia_Vs_Netherlands_2391771_—_delta" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — delta
-# match: Tunisia Vs Netherlands 2391771
+#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — delta" tvg-id="Paraguay_Vs_Australia_2391770_—_delta" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — delta
+# match: Paraguay Vs Australia 2391770
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1
-https://lb15.strmd.st/secure/yXJKbTUJTwnQpvtpvVKWKQaFsurmPfWO/delta/stream/live_world-championship-gr-f_tunisia-netherlands-live-streaming-1243817937/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1
+https://lb4.strmd.st/secure/BiUTqCERqrGEQbIvAzsDquZAiiHosHIV/delta/stream/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tunisia Vs Netherlands 2391771 — echo" tvg-id="Tunisia_Vs_Netherlands_2391771_—_echo" group-title="Streamed.pk Live Football",Tunisia Vs Netherlands 2391771 — echo
-# match: Tunisia Vs Netherlands 2391771
+#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — echo" tvg-id="Paraguay_Vs_Australia_2391770_—_echo" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — echo
+# match: Paraguay Vs Australia 2391770
 # provider: echo
-# embed: https://embed.st/embed/echo/tunisia-vs-netherlands-football-1489412/1
-https://lb13.strmd.st/secure/YmKwIFNDxXZCTInkjxiDRRChaFKBXfhV/echo/stream/tunisia-vs-netherlands-football-1489412/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1
+https://lb10.strmd.st/secure/spsMIHfaslPytUqRAjRlkRsuzVzKlFwn/echo/stream/paraguay-vs-australia-football-1489411/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Los Angeles Sparks 2449312 — admin" tvg-id="Toronto_Tempo_Vs_Los_Angeles_Sparks_2449312_—_admin" group-title="Streamed.pk Live Football",Toronto Tempo Vs Los Angeles Sparks 2449312 — admin
-# match: Toronto Tempo Vs Los Angeles Sparks 2449312
+#EXTINF:-1 tvg-name="Las Vegas Aces Vs Dallas Wings 2449076 — admin" tvg-id="Las_Vegas_Aces_Vs_Dallas_Wings_2449076_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Dallas Wings 2449076 — admin
+# match: Las Vegas Aces Vs Dallas Wings 2449076
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-toronto-tempo/1
-https://lb17.strmd.st/secure/rxMRUZuiEbWYgwnrpqwjYwlrBpRJXHJT/rtmp/stream/kmm3rrnPM-J0jYXy7JABJOiWtzY05-rh8qs9NCFBtXgAlsVRa4plOj1BWJeLPtMJKcLyfrQ8SScuuuXN3Rg/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/1
+https://lb16.strmd.st/secure/aHSKfesNnzCIUpIcYFMlHBSnfbuwyZUa/rtmp/stream/JjYbdkibQ8so4XY6308QRYoSGoukc9zGRJzhLbGjwDr9U5SspM_eSe4soLwe7g1AApjlzjOMdjm9gb2e5pQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Los Angeles Sparks 2449312 — delta" tvg-id="Toronto_Tempo_Vs_Los_Angeles_Sparks_2449312_—_delta" group-title="Streamed.pk Live Football",Toronto Tempo Vs Los Angeles Sparks 2449312 — delta
-# match: Toronto Tempo Vs Los Angeles Sparks 2449312
+#EXTINF:-1 tvg-name="Las Vegas Aces Vs Dallas Wings 2449076 — delta" tvg-id="Las_Vegas_Aces_Vs_Dallas_Wings_2449076_—_delta" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Dallas Wings 2449076 — delta
+# match: Las Vegas Aces Vs Dallas Wings 2449076
 # provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_tempo-sparks-live-streaming-1211183604/1
-https://lb12.strmd.st/secure/catQmOflHRGhdnRjmPfnsFpuWenRpUcC/delta/stream/live_wnba_tempo-sparks-live-streaming-1211183604/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/1
+https://lb19.strmd.st/secure/QtJIXCHJUhfPGKyvkywZvvhROPlKLtTa/delta/stream/live_wnba_aces-wings-live-streaming-1211184603/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 05 Double Feature Night Thunder Road Ppv 05 — echo" tvg-id="Ppv_Event_05_Double_Feature_Night_Thunder_Road_Ppv_05_—_echo" group-title="Streamed.pk Live Football",Ppv Event 05 Double Feature Night Thunder Road Ppv 05 — echo
-# match: Ppv Event 05 Double Feature Night Thunder Road Ppv 05
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-05-double-feature-night-thunder-road-ppv-05/1
-https://lb16.strmd.st/secure/WISIkYGeQoFKmKaTvRZZdNFsTWuzeEit/echo/stream/ppv-event-05-double-feature-night-thunder-road-ppv-05/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Winnipeg Blue Bombers Vs Edmonton Elks 2432544 — admin" tvg-id="Winnipeg_Blue_Bombers_Vs_Edmonton_Elks_2432544_—_admin" group-title="Streamed.pk Live Football",Winnipeg Blue Bombers Vs Edmonton Elks 2432544 — admin
+# match: Winnipeg Blue Bombers Vs Edmonton Elks 2432544
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/1
+https://lb3.strmd.st/secure/rnMGbpIWvLcjHftSDpIIzXfiIXdNNNGD/rtmp/stream/tO-PubBksBdaIZKP9cz6XZYenvC1_G7Y4cfnp1gfszGc-BjxhY3qWATt5gorXi201IWS45uwH88Z9kmKMd8N1-xsxU82bVROVw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 04 Short Track Super Series Afton Ppv 004 — echo" tvg-id="Ppv_Event_04_Short_Track_Super_Series_Afton_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Short Track Super Series Afton Ppv 004 — echo
-# match: Ppv Event 04 Short Track Super Series Afton Ppv 004
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-04-short-track-super-series-afton-ppv-004/1
-https://lb1.strmd.st/secure/aHyEEajMUwOQudZRFyKeCSaJkjgVCfne/echo/stream/ppv-event-04-short-track-super-series-afton-ppv-004/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Storm Vs New York Liberty 2449077 — admin" tvg-id="Seattle_Storm_Vs_New_York_Liberty_2449077_—_admin" group-title="Streamed.pk Live Football",Seattle Storm Vs New York Liberty 2449077 — admin
+# match: Seattle Storm Vs New York Liberty 2449077
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/1
+https://lb2.strmd.st/secure/FQHQsNJKXdhsckviddlZvLvxbCvktfFE/rtmp/stream/dfjdxD12KvyRAnwbQ1UBLYjwxNcb3zUde2AHZV_lfnKAr6O_vpXyJ3nSZFo0h62bYc8MpgmJ0FQ_HQQ-1os/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905 — echo" tvg-id="Toronto_Tempo_W_Vs_Los_Angeles_Sparks_W_Basketball_494905_—_echo" group-title="Streamed.pk Live Football",Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905 — echo
-# match: Toronto Tempo W Vs Los Angeles Sparks W Basketball 494905
-# provider: echo
-# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-los-angeles-sparks-w-basketball-494905/1
-https://lb10.strmd.st/secure/RZKzFpaHKdqgyBOyLyhgBSjnBsTeKSyI/echo/stream/toronto-tempo-w-vs-los-angeles-sparks-w-basketball-494905/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Storm Vs New York Liberty 2449077 — delta" tvg-id="Seattle_Storm_Vs_New_York_Liberty_2449077_—_delta" group-title="Streamed.pk Live Football",Seattle Storm Vs New York Liberty 2449077 — delta
+# match: Seattle Storm Vs New York Liberty 2449077
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_storm-liberty-live-streaming-1211185602/1
+https://lb9.strmd.st/secure/HTojdSaDlLddacjUqGpvdyArFvbshvAM/delta/stream/live_wnba_storm-liberty-live-streaming-1211185602/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03 — echo" tvg-id="Ppv_Event_03_Lucas_Oil_Firecracker_100_Lernerville_Ppv_03_—_echo" group-title="Streamed.pk Live Football",Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03 — echo
-# match: Ppv Event 03 Lucas Oil Firecracker 100 Lernerville Ppv 03
+#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Dallas Wings W Basketball 494906 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Dallas_Wings_W_Basketball_494906_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Dallas Wings W Basketball 494906 — echo
+# match: Las Vegas Aces W Vs Dallas Wings W Basketball 494906
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-lucas-oil-firecracker-100-lernerville-ppv-03/1
-https://lb4.strmd.st/secure/hIVUlenUovHCIVgMNMOMKOCaxFQCfwdO/echo/stream/ppv-event-03-lucas-oil-firecracker-100-lernerville-ppv-03/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1
+https://lb15.strmd.st/secure/HenGQqIFGxMfcwOiURtWKtUBvqTauNHK/echo/stream/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02 — echo" tvg-id="Ppv_Event_02_Usac_Hoosier_Hundred_Lucas_Oil_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02 — echo
-# match: Ppv Event 02 Usac Hoosier Hundred Lucas Oil Ppv 02
+#EXTINF:-1 tvg-name="Seattle Storm W Vs New York Liberty W Basketball 494907 — echo" tvg-id="Seattle_Storm_W_Vs_New_York_Liberty_W_Basketball_494907_—_echo" group-title="Streamed.pk Live Football",Seattle Storm W Vs New York Liberty W Basketball 494907 — echo
+# match: Seattle Storm W Vs New York Liberty W Basketball 494907
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-usac-hoosier-hundred-lucas-oil-ppv-02/1
-https://lb11.strmd.st/secure/bVfIkibQfZxWiWPKtlNtTbNxQHIcVQgT/echo/stream/ppv-event-02-usac-hoosier-hundred-lucas-oil-ppv-02/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/seattle-storm-w-vs-new-york-liberty-w-basketball-494907/1
+https://lb14.strmd.st/secure/bobmKjHCIIFdMHPzbgnvkxRBPbWdllge/echo/stream/seattle-storm-w-vs-new-york-liberty-w-basketball-494907/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 07 Jackson Motorplex Ppv 07 — echo" tvg-id="Ppv_Event_07_Jackson_Motorplex_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Jackson Motorplex Ppv 07 — echo
+# match: Ppv Event 07 Jackson Motorplex Ppv 07
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-ppv-07/1
+https://lb13.strmd.st/secure/mdYTJBFuJwYxpjtDsKWOYiieAbmctUQB/echo/stream/ppv-event-07-jackson-motorplex-ppv-07/1/playlist.m3u8
 
