@@ -1,65 +1,71 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-26T21:06:37+00:00
-# 10 streams captured from 6 matches
+# Streamed.pk live football matches — built 2026-06-26T22:45:45+00:00
+# 11 streams captured from 7 matches
 
-#EXTINF:-1 tvg-name="Norway Vs France 2391775 — admin" tvg-id="Norway_Vs_France_2391775_—_admin" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — admin
-# match: Norway Vs France 2391775
+#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — admin" tvg-id="Uruguay_Vs_Spain_2391776_—_admin" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — admin
+# match: Uruguay Vs Spain 2391776
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-norway-vs-france/1
-https://lb14.strmd.st/secure/uLJcGeSHhfLpEsnCTEVOUBaRdtirEEVp/rtmp/stream/WwWVpiYuLmSzFVSvNRUy0M1sQopRUuGH6yCuxNSz9hXQKO8_i_Drp6CfD9bt8oTw2JoGo5ay_A/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-uruguay-vs-spain/1
+https://lb11.strmd.st/secure/UgYqWijSUPeQHHetoqpIyOlAGGfLouDT/rtmp/stream/6frB4gJ8NpimnPn6TurrLZ6T_4T_fhP3Via4jRXJ0QHWnf4LGiWkQH6F14_n9kHE2KkSQLLcQQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Norway Vs France 2391775 — delta" tvg-id="Norway_Vs_France_2391775_—_delta" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — delta
-# match: Norway Vs France 2391775
+#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — delta" tvg-id="Uruguay_Vs_Spain_2391776_—_delta" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — delta
+# match: Uruguay Vs Spain 2391776
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-i_norway-france-live-streaming-1243883871/1
-https://lb12.strmd.st/secure/LZNgrtuBgOwUwUYupitjjLYHXqcVwECt/delta/stream/live_world-championship-gr-i_norway-france-live-streaming-1243883871/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-spain-live-streaming-1243829925/1
+https://lb12.strmd.st/secure/hvlaXqPhvIkKFpUyTdggELUYgYzrNMIH/delta/stream/live_world-championship-gr-h_uruguay-spain-live-streaming-1243829925/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Norway Vs France 2391775 — echo" tvg-id="Norway_Vs_France_2391775_—_echo" group-title="Streamed.pk Live Football",Norway Vs France 2391775 — echo
-# match: Norway Vs France 2391775
+#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — echo" tvg-id="Uruguay_Vs_Spain_2391776_—_echo" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — echo
+# match: Uruguay Vs Spain 2391776
 # provider: echo
-# embed: https://embed.st/embed/echo/norway-vs-france-football-1489416/1
-https://lb2.strmd.st/secure/oyUjwMWqFBnhyaPqpyxVeZpXOORzNAAI/echo/stream/norway-vs-france-football-1489416/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/uruguay-vs-spain-football-1489417/1
+https://lb14.strmd.st/secure/QuoKOgwDBzOkBZznMGFBdqXGqpDfJeEI/echo/stream/uruguay-vs-spain-football-1489417/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Senegal Vs Iraq 2461119 — admin" tvg-id="Senegal_Vs_Iraq_2461119_—_admin" group-title="Streamed.pk Live Football",Senegal Vs Iraq 2461119 — admin
-# match: Senegal Vs Iraq 2461119
+#EXTINF:-1 tvg-name="Ppv 2026 Nhl Draft Round 1 — admin" tvg-id="Ppv_2026_Nhl_Draft_Round_1_—_admin" group-title="Streamed.pk Live Football",Ppv 2026 Nhl Draft Round 1 — admin
+# match: Ppv 2026 Nhl Draft Round 1
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-senegal-vs-iraq/1
-https://lb7.strmd.st/secure/SvFUANDnvtHKCnCHMtGEXRhuWCyNCayO/rtmp/stream/LEj7tS0Yw7y7BswxcZmhOBTmZefAN71v59zg7NPINyPneVjdslyyN249HNJxjW_m4zejWej9/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-2026-nhl-draft-round-1/1
+https://lb19.strmd.st/secure/zOzIXhomziHbGbDEIlplpNMcVYAVLSPA/rtmp/stream/AdIRApauMF8ZOcopa1HwpjSC9xNPH5glh9Pfo8IJj0vVIknszNTSJ19q46i8lVv9XAsloZSG9g/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Senegal Vs Iraq 2461119 — delta" tvg-id="Senegal_Vs_Iraq_2461119_—_delta" group-title="Streamed.pk Live Football",Senegal Vs Iraq 2461119 — delta
-# match: Senegal Vs Iraq 2461119
+#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — admin" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_admin" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — admin
+# match: Cape Verde Vs Saudi Arabia 2391772
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/1
+https://lb2.strmd.st/secure/BOCxrfwkqIgCcXICfVVyiPeeKOLeXRlz/rtmp/stream/wVyS_DIq5NBH-pWswvJErw-J3go_HEw3zqFu1UYDxWQrkXhm6exBDeTyN4AcQ4qITU3UBP8G/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — delta" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_delta" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — delta
+# match: Cape Verde Vs Saudi Arabia 2391772
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-i_senegal-iraq-live-streaming-1243884870/1
-https://lb3.strmd.st/secure/jfxtLHyeCRTJMoiBigexOLDguZEzvBrk/delta/stream/live_world-championship-gr-i_senegal-iraq-live-streaming-1243884870/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-h_cabo-verde-saudi-arabia-live-streaming-1243828926/1
+https://lb9.strmd.st/secure/iSEaAsKKROxabwgLcreNuFyGsWqRfdgi/delta/stream/live_world-championship-gr-h_cabo-verde-saudi-arabia-live-streaming-1243828926/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Senegal Vs Iraq 2461119 — echo" tvg-id="Senegal_Vs_Iraq_2461119_—_echo" group-title="Streamed.pk Live Football",Senegal Vs Iraq 2461119 — echo
-# match: Senegal Vs Iraq 2461119
+#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — echo" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_echo" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — echo
+# match: Cape Verde Vs Saudi Arabia 2391772
 # provider: echo
-# embed: https://embed.st/embed/echo/senegal-vs-iraq-football-1539074/1
-https://lb5.strmd.st/secure/JYwPxgPWGwdlKxZLCBxrmStvDyTfmTBR/echo/stream/senegal-vs-iraq-football-1539074/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/cape-verde-islands-vs-saudi-arabia-football-1489413/1
+https://lb17.strmd.st/secure/HuOzqXCDPuQnNxjJffvOaTJePCMKJeZD/echo/stream/cape-verde-islands-vs-saudi-arabia-football-1489413/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
 # match: Travelers Championship Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb18.strmd.st/secure/KqRhrmxvMYSgXgduVhlnYYqZeKnaSkEL/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+https://lb3.strmd.st/secure/flNYTYoNfIqZcKhWoPniTNgjxDLFqeAn/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Leeds Rhinos Vs Hull Kingston Rovers 2395947 — echo" tvg-id="Leeds_Rhinos_Vs_Hull_Kingston_Rovers_2395947_—_echo" group-title="Streamed.pk Live Football",Leeds Rhinos Vs Hull Kingston Rovers 2395947 — echo
 # match: Leeds Rhinos Vs Hull Kingston Rovers 2395947
 # provider: echo
 # embed: https://embed.st/embed/echo/leeds-rhinos-vs-hull-k-r-game-37322/1
-https://lb6.strmd.st/secure/AazkmauQRcWIRoUFekzoRrsVPlDluuUe/echo/stream/leeds-rhinos-vs-hull-k-r-game-37322/1/playlist.m3u8
+https://lb10.strmd.st/secure/CfacvjFbtJaWhjFPbsFZwmQqDiyXyGrg/echo/stream/leeds-rhinos-vs-hull-k-r-game-37322/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Kent Spitfires Vs Notts Outlaws 2427829 — echo" tvg-id="Kent_Spitfires_Vs_Notts_Outlaws_2427829_—_echo" group-title="Streamed.pk Live Football",Kent Spitfires Vs Notts Outlaws 2427829 — echo
 # match: Kent Spitfires Vs Notts Outlaws 2427829
 # provider: echo
 # embed: https://embed.st/embed/echo/mens-vitality-blast-kent-vs-notts-cricket-1/1
-https://lb1.strmd.st/secure/OJgGDhXTxtRhDayQYoadOSDhSFdbjuEX/echo/stream/mens-vitality-blast-kent-vs-notts-cricket-1/1/playlist.m3u8
+https://lb1.strmd.st/secure/zSaSoWjiNxcQJilvaTOfAoOprUKIupUj/echo/stream/mens-vitality-blast-kent-vs-notts-cricket-1/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02 — echo" tvg-id="Ppv_Event_02_Colosseum_Tournament_58_Romania_V_Africa_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02 — echo
 # match: Ppv Event 02 Colosseum Tournament 58 Romania V Africa Ppv 02
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-colosseum-tournament-58-romania-v-africa-ppv-02/1
-https://lb13.strmd.st/secure/cbDUFyjoEidHgnqcOTZhQNRWzCOmxukp/echo/stream/ppv-event-02-colosseum-tournament-58-romania-v-africa-ppv-02/1/playlist.m3u8
+https://lb2.strmd.st/secure/EaqwOiHyZMAKxGbePDicLSViLhhUnICQ/echo/stream/ppv-event-02-colosseum-tournament-58-romania-v-africa-ppv-02/1/playlist.m3u8
 
