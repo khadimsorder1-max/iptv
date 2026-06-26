@@ -1,35 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-26T10:21:00+00:00
-# 5 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-06-26T12:31:54+00:00
+# 6 streams captured from 5 matches
+
+#EXTINF:-1 tvg-name="Austrian Grand Prix Practice 1 2408157 — admin" tvg-id="Austrian_Grand_Prix_Practice_1_2408157_—_admin" group-title="Streamed.pk Live Football",Austrian Grand Prix Practice 1 2408157 — admin
+# match: Austrian Grand Prix Practice 1 2408157
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-austrian-grand-prix-practice-2/1
+https://lb18.strmd.st/secure/ySNNOerowDYPUbkvWsTbbTeYaPkKXfBE/rtmp/stream/9WU-GA8ifcXYRhrAzNdDVdoCCp399yBsp7rLm2VPzZhWDk_4FeOTg51S3oby_EkWTjzO9w29qmJtykSa9RW4nzZywqM/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv One Friday Fights 160 The Inner Circle 20 — admin" tvg-id="Ppv_One_Friday_Fights_160_The_Inner_Circle_20_—_admin" group-title="Streamed.pk Live Football",Ppv One Friday Fights 160 The Inner Circle 20 — admin
+# match: Ppv One Friday Fights 160 The Inner Circle 20
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-one-friday-fights-160-the-inner-circle-20/1
+https://lb15.strmd.st/secure/KRlmvypUbvjSJgqzKEUiRAIVYnApFeKQ/rtmp/stream/39Zi4T1xi7G-4bVhOF1G8Xedzp5np7abGBCW_0lBa3mY47sF5TsYN1NqA16WWjFRw_G4Ddjoig/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brisbane Broncos Vs Sydney Roosters 2417286 — admin" tvg-id="Brisbane_Broncos_Vs_Sydney_Roosters_2417286_—_admin" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Sydney Roosters 2417286 — admin
 # match: Brisbane Broncos Vs Sydney Roosters 2417286
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-broncos-vs-roosters/1
-https://lb2.strmd.st/secure/ovMsZyLcgONNTdkdpwvOHHsizoUUZQEq/rtmp/stream/_lsFggrDW_OoYKOh7zjKQJeTE_-qolJdbrDXtw98CW1qhF5hr3QLYv1dUr2sJBAi8uD8kFANrFuw-oo/1/playlist.m3u8
+https://lb13.strmd.st/secure/iOsNVBFIIfxQskXbKxeaFtqGyyUVECVl/rtmp/stream/AX7S0n15ybCOOhflWa3PpptcX4bok9zPBxXUJ74cW3cYp73_H2yTTEKZ0bj336zGDPl40rUQUTvSXeE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brisbane Broncos Vs Sydney Roosters 2417286 — echo" tvg-id="Brisbane_Broncos_Vs_Sydney_Roosters_2417286_—_echo" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Sydney Roosters 2417286 — echo
 # match: Brisbane Broncos Vs Sydney Roosters 2417286
 # provider: echo
 # embed: https://embed.st/embed/echo/brisbane-broncos-vs-sydney-roosters-game-2737723/1
-https://lb4.strmd.st/secure/ntyqRytfmKcGbUXsaQwOVorpHNVucDZy/echo/stream/brisbane-broncos-vs-sydney-roosters-game-2737723/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285 — admin" tvg-id="Gold_Coast_Titans_Vs_Canterbury_Bankstown_Bulldogs_2417285_—_admin" group-title="Streamed.pk Live Football",Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285 — admin
-# match: Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1
-https://lb14.strmd.st/secure/yWNpNejqNQVIUGhSKQmxgMBphSNGKtYO/rtmp/stream/eDvuopRqrhGUNqYRj-ANfLtkLGzbvs77by-T7IsXIKhy8yp6BcPBpcOty_3vVCEuo08kAGppy42qDys/1/playlist.m3u8
+https://lb1.strmd.st/secure/gwbHyZdfWGVhpKBbbmzrACZeSDnapzQU/echo/stream/brisbane-broncos-vs-sydney-roosters-game-2737723/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Motogp Netherlands Grand Prix Game 122273 — echo" tvg-id="Motogp_Netherlands_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Football",Motogp Netherlands Grand Prix Game 122273 — echo
 # match: Motogp Netherlands Grand Prix Game 122273
 # provider: echo
 # embed: https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/1
-https://lb14.strmd.st/secure/YMSCIvSARuaVoCWBrMjSEPaxjIiPkWJV/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
+https://lb9.strmd.st/secure/wpxnIqDWHlkrdSIAXMGoJtHzKjbMrOcN/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
 # match: World Rally Championship Greece Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
-https://lb18.strmd.st/secure/ywFPJDXPmZbGUVUAbheeFTsbZLfFBXoE/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
+https://lb14.strmd.st/secure/DLrGXaDsBocyEjwmCVsiEWakpqfwYDxB/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
 
