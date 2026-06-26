@@ -1,89 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-26T02:54:02+00:00
-# 14 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-06-26T06:52:50+00:00
+# 3 streams captured from 3 matches
 
-#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — admin" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_admin" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — admin
-# match: Ppv T Rkiye Vs United States
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-t-rkiye-vs-united-states/1
-https://lb1.strmd.st/secure/LRMMHRGdtKJAIPZzRhBtnZxEOwhXQwOp/rtmp/stream/W5P3ZSONW0xyPnahIzG7bDaRLc2myEMsz1ymW-66QF-USK1nqRGmrK-o5Wej_GY23tEqXOY0IQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — delta" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_delta" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — delta
-# match: Ppv T Rkiye Vs United States
-# provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1
-https://lb20.strmd.st/secure/RZraizgvnlPfbRCBBjrEpxpCTIccUNqR/delta/stream/live_world-championship-gr-d_turkiye-usa-live-streaming-1243813941/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv T Rkiye Vs United States — echo" tvg-id="Ppv_T_Rkiye_Vs_United_States_—_echo" group-title="Streamed.pk Live Football",Ppv T Rkiye Vs United States — echo
-# match: Ppv T Rkiye Vs United States
+#EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
+# match: World Rally Championship Greece Racing 0059
 # provider: echo
-# embed: https://embed.st/embed/echo/turkiye-vs-usa-football-1539012/1
-https://lb3.strmd.st/secure/GTAVcGsnEOEaEaELJZcGefcWiQnpdSGU/echo/stream/turkiye-vs-usa-football-1539012/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
+https://lb20.strmd.st/secure/LnpXVKEmAKuErKZOKeZIffgtdnQNuqCK/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — admin" tvg-id="Paraguay_Vs_Australia_2391770_—_admin" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — admin
-# match: Paraguay Vs Australia 2391770
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-paraguay-vs-australia/1
-https://lb5.strmd.st/secure/eejdZKQGqubwGnMregacKfivnfTuNLJc/rtmp/stream/U2kJilPb5I4jX_oh7Kd7647GEbhRcx5SfGrFHlYRQl2pp0PPyXevFRYqMdF3ZUh3wD4V2nInxQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — delta" tvg-id="Paraguay_Vs_Australia_2391770_—_delta" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — delta
-# match: Paraguay Vs Australia 2391770
-# provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1
-https://lb4.strmd.st/secure/BiUTqCERqrGEQbIvAzsDquZAiiHosHIV/delta/stream/live_world-championship-gr-d_paraguay-australia-live-streaming-1243812942/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Paraguay Vs Australia 2391770 — echo" tvg-id="Paraguay_Vs_Australia_2391770_—_echo" group-title="Streamed.pk Live Football",Paraguay Vs Australia 2391770 — echo
-# match: Paraguay Vs Australia 2391770
+#EXTINF:-1 tvg-name="Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08 — echo" tvg-id="Ppv_Event_08_Hoodslam_Sunset_Riders_2026_Ppv_08_—_echo" group-title="Streamed.pk Live Football",Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08 — echo
+# match: Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08
 # provider: echo
-# embed: https://embed.st/embed/echo/paraguay-vs-australia-football-1489411/1
-https://lb10.strmd.st/secure/spsMIHfaslPytUqRAjRlkRsuzVzKlFwn/echo/stream/paraguay-vs-australia-football-1489411/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Dallas Wings 2449076 — admin" tvg-id="Las_Vegas_Aces_Vs_Dallas_Wings_2449076_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Dallas Wings 2449076 — admin
-# match: Las Vegas Aces Vs Dallas Wings 2449076
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-las-vegas-aces/1
-https://lb16.strmd.st/secure/aHSKfesNnzCIUpIcYFMlHBSnfbuwyZUa/rtmp/stream/JjYbdkibQ8so4XY6308QRYoSGoukc9zGRJzhLbGjwDr9U5SspM_eSe4soLwe7g1AApjlzjOMdjm9gb2e5pQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Dallas Wings 2449076 — delta" tvg-id="Las_Vegas_Aces_Vs_Dallas_Wings_2449076_—_delta" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Dallas Wings 2449076 — delta
-# match: Las Vegas Aces Vs Dallas Wings 2449076
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_aces-wings-live-streaming-1211184603/1
-https://lb19.strmd.st/secure/QtJIXCHJUhfPGKyvkywZvvhROPlKLtTa/delta/stream/live_wnba_aces-wings-live-streaming-1211184603/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Winnipeg Blue Bombers Vs Edmonton Elks 2432544 — admin" tvg-id="Winnipeg_Blue_Bombers_Vs_Edmonton_Elks_2432544_—_admin" group-title="Streamed.pk Live Football",Winnipeg Blue Bombers Vs Edmonton Elks 2432544 — admin
-# match: Winnipeg Blue Bombers Vs Edmonton Elks 2432544
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-edmonton-elks-vs-winnipeg-blue-bombers/1
-https://lb3.strmd.st/secure/rnMGbpIWvLcjHftSDpIIzXfiIXdNNNGD/rtmp/stream/tO-PubBksBdaIZKP9cz6XZYenvC1_G7Y4cfnp1gfszGc-BjxhY3qWATt5gorXi201IWS45uwH88Z9kmKMd8N1-xsxU82bVROVw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Storm Vs New York Liberty 2449077 — admin" tvg-id="Seattle_Storm_Vs_New_York_Liberty_2449077_—_admin" group-title="Streamed.pk Live Football",Seattle Storm Vs New York Liberty 2449077 — admin
-# match: Seattle Storm Vs New York Liberty 2449077
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-seattle-storm/1
-https://lb2.strmd.st/secure/FQHQsNJKXdhsckviddlZvLvxbCvktfFE/rtmp/stream/dfjdxD12KvyRAnwbQ1UBLYjwxNcb3zUde2AHZV_lfnKAr6O_vpXyJ3nSZFo0h62bYc8MpgmJ0FQ_HQQ-1os/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Storm Vs New York Liberty 2449077 — delta" tvg-id="Seattle_Storm_Vs_New_York_Liberty_2449077_—_delta" group-title="Streamed.pk Live Football",Seattle Storm Vs New York Liberty 2449077 — delta
-# match: Seattle Storm Vs New York Liberty 2449077
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_storm-liberty-live-streaming-1211185602/1
-https://lb9.strmd.st/secure/HTojdSaDlLddacjUqGpvdyArFvbshvAM/delta/stream/live_wnba_storm-liberty-live-streaming-1211185602/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Dallas Wings W Basketball 494906 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Dallas_Wings_W_Basketball_494906_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Dallas Wings W Basketball 494906 — echo
-# match: Las Vegas Aces W Vs Dallas Wings W Basketball 494906
-# provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1
-https://lb15.strmd.st/secure/HenGQqIFGxMfcwOiURtWKtUBvqTauNHK/echo/stream/las-vegas-aces-w-vs-dallas-wings-w-basketball-494906/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Storm W Vs New York Liberty W Basketball 494907 — echo" tvg-id="Seattle_Storm_W_Vs_New_York_Liberty_W_Basketball_494907_—_echo" group-title="Streamed.pk Live Football",Seattle Storm W Vs New York Liberty W Basketball 494907 — echo
-# match: Seattle Storm W Vs New York Liberty W Basketball 494907
-# provider: echo
-# embed: https://embed.st/embed/echo/seattle-storm-w-vs-new-york-liberty-w-basketball-494907/1
-https://lb14.strmd.st/secure/bobmKjHCIIFdMHPzbgnvkxRBPbWdllge/echo/stream/seattle-storm-w-vs-new-york-liberty-w-basketball-494907/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-08-hoodslam-sunset-riders-2026-ppv-08/1
+https://lb5.strmd.st/secure/uUqfjyJjihVVrXfFXrrHewzRXCPZcIhw/echo/stream/ppv-event-08-hoodslam-sunset-riders-2026-ppv-08/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 07 Jackson Motorplex Ppv 07 — echo" tvg-id="Ppv_Event_07_Jackson_Motorplex_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Jackson Motorplex Ppv 07 — echo
 # match: Ppv Event 07 Jackson Motorplex Ppv 07
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-ppv-07/1
-https://lb13.strmd.st/secure/mdYTJBFuJwYxpjtDsKWOYiieAbmctUQB/echo/stream/ppv-event-07-jackson-motorplex-ppv-07/1/playlist.m3u8
+https://lb12.strmd.st/secure/LcQnHxeggIpvgONhBhlJvbmlMuxYBAdX/echo/stream/ppv-event-07-jackson-motorplex-ppv-07/1/playlist.m3u8
 
