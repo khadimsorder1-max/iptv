@@ -1,23 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-26T06:52:50+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live football matches — built 2026-06-26T10:21:00+00:00
+# 5 streams captured from 4 matches
+
+#EXTINF:-1 tvg-name="Brisbane Broncos Vs Sydney Roosters 2417286 — admin" tvg-id="Brisbane_Broncos_Vs_Sydney_Roosters_2417286_—_admin" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Sydney Roosters 2417286 — admin
+# match: Brisbane Broncos Vs Sydney Roosters 2417286
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-broncos-vs-roosters/1
+https://lb2.strmd.st/secure/ovMsZyLcgONNTdkdpwvOHHsizoUUZQEq/rtmp/stream/_lsFggrDW_OoYKOh7zjKQJeTE_-qolJdbrDXtw98CW1qhF5hr3QLYv1dUr2sJBAi8uD8kFANrFuw-oo/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brisbane Broncos Vs Sydney Roosters 2417286 — echo" tvg-id="Brisbane_Broncos_Vs_Sydney_Roosters_2417286_—_echo" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Sydney Roosters 2417286 — echo
+# match: Brisbane Broncos Vs Sydney Roosters 2417286
+# provider: echo
+# embed: https://embed.st/embed/echo/brisbane-broncos-vs-sydney-roosters-game-2737723/1
+https://lb4.strmd.st/secure/ntyqRytfmKcGbUXsaQwOVorpHNVucDZy/echo/stream/brisbane-broncos-vs-sydney-roosters-game-2737723/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285 — admin" tvg-id="Gold_Coast_Titans_Vs_Canterbury_Bankstown_Bulldogs_2417285_—_admin" group-title="Streamed.pk Live Football",Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285 — admin
+# match: Gold Coast Titans Vs Canterbury Bankstown Bulldogs 2417285
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-titans-vs-bulldogs/1
+https://lb14.strmd.st/secure/yWNpNejqNQVIUGhSKQmxgMBphSNGKtYO/rtmp/stream/eDvuopRqrhGUNqYRj-ANfLtkLGzbvs77by-T7IsXIKhy8yp6BcPBpcOty_3vVCEuo08kAGppy42qDys/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Motogp Netherlands Grand Prix Game 122273 — echo" tvg-id="Motogp_Netherlands_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Football",Motogp Netherlands Grand Prix Game 122273 — echo
+# match: Motogp Netherlands Grand Prix Game 122273
+# provider: echo
+# embed: https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/1
+https://lb14.strmd.st/secure/YMSCIvSARuaVoCWBrMjSEPaxjIiPkWJV/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
 # match: World Rally Championship Greece Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
-https://lb20.strmd.st/secure/LnpXVKEmAKuErKZOKeZIffgtdnQNuqCK/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08 — echo" tvg-id="Ppv_Event_08_Hoodslam_Sunset_Riders_2026_Ppv_08_—_echo" group-title="Streamed.pk Live Football",Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08 — echo
-# match: Ppv Event 08 Hoodslam Sunset Riders 2026 Ppv 08
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-08-hoodslam-sunset-riders-2026-ppv-08/1
-https://lb5.strmd.st/secure/uUqfjyJjihVVrXfFXrrHewzRXCPZcIhw/echo/stream/ppv-event-08-hoodslam-sunset-riders-2026-ppv-08/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 07 Jackson Motorplex Ppv 07 — echo" tvg-id="Ppv_Event_07_Jackson_Motorplex_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Jackson Motorplex Ppv 07 — echo
-# match: Ppv Event 07 Jackson Motorplex Ppv 07
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-ppv-07/1
-https://lb12.strmd.st/secure/LcQnHxeggIpvgONhBhlJvbmlMuxYBAdX/echo/stream/ppv-event-07-jackson-motorplex-ppv-07/1/playlist.m3u8
+https://lb18.strmd.st/secure/ywFPJDXPmZbGUVUAbheeFTsbZLfFBXoE/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
 
