@@ -1,71 +1,71 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T20:38:52+00:00
+# Streamed.pk live football matches — built 2026-06-27T22:01:02+00:00
 # 11 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Panama Vs England 2391781 — admin" tvg-id="Panama_Vs_England_2391781_—_admin" group-title="Streamed.pk Live Football",Panama Vs England 2391781 — admin
 # match: Panama Vs England 2391781
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-panama-vs-england/1
-https://lb8.strmd.st/secure/bydtSuVsSRzFVEyxjBLGbhjQERHusqEA/rtmp/stream/kCunXUyhnY8Udv6GoL9qhdy0SOyzwisD0u119F1g5yyBxGparuhICdFEm_FKohl3KWZC-jXmBA/1/playlist.m3u8
+https://lb12.strmd.st/secure/uPEPeWPfpSNILLmsmDufDbkZTawmeDMe/rtmp/stream/NT8NOP1j2tyf8cHs141PYC3DUW7T5EIBSlyP0CzFQ1YYCZKpNibT3HSKeKKjmohrJTGIWgQEvg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Panama Vs England 2391781 — echo" tvg-id="Panama_Vs_England_2391781_—_echo" group-title="Streamed.pk Live Football",Panama Vs England 2391781 — echo
 # match: Panama Vs England 2391781
 # provider: echo
 # embed: https://embed.st/embed/echo/panama-vs-england-football-1489422/1
-https://lb10.strmd.st/secure/UpxAcUvncekTomxDgSLpPgINpfYEhXuX/echo/stream/panama-vs-england-football-1489422/1/playlist.m3u8
+https://lb16.strmd.st/secure/vDKwEGEZCtKwswlYBRhMazTzGLrprqkM/echo/stream/panama-vs-england-football-1489422/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Croatia Vs Ghana 2391779 — admin" tvg-id="Croatia_Vs_Ghana_2391779_—_admin" group-title="Streamed.pk Live Football",Croatia Vs Ghana 2391779 — admin
 # match: Croatia Vs Ghana 2391779
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-croatia-vs-ghana/1
-https://lb19.strmd.st/secure/ItaJDJvdoVUpoQdAXJHKhluFFVstZhdd/rtmp/stream/3fEV_FDyBFKhGu4qGtDVkPpTVfzVNT00uSKtpEsg8AitBw9SbjbRtW3R4c2cbIpr6tE2WZHi/1/playlist.m3u8
+https://lb1.strmd.st/secure/RCnsoczBFvzGnHxOHMPfRcadUhvsASjA/rtmp/stream/g1GnpZ_HoxCtLzmnTjb5mZne8SCDjlEBiI0WIihmiSH7L23v0iG1FA7he699zSAoUbL9WofP/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Croatia Vs Ghana 2391779 — echo" tvg-id="Croatia_Vs_Ghana_2391779_—_echo" group-title="Streamed.pk Live Football",Croatia Vs Ghana 2391779 — echo
 # match: Croatia Vs Ghana 2391779
 # provider: echo
 # embed: https://embed.st/embed/echo/croatia-vs-ghana-football-1489420/1
-https://lb5.strmd.st/secure/fKRSRWDVzmWJBsZWSGTRBWuCqIXNPZzZ/echo/stream/croatia-vs-ghana-football-1489420/1/playlist.m3u8
+https://lb15.strmd.st/secure/SbiPgYnKbqsolnFAzgMeVpMzctWSjXzy/echo/stream/croatia-vs-ghana-football-1489420/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Night Of Champions 2468414 — admin" tvg-id="Night_Of_Champions_2468414_—_admin" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — admin
-# match: Night Of Champions 2468414
+#EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — admin" tvg-id="Colombia_Vs_Portugal_2391778_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — admin
+# match: Colombia Vs Portugal 2391778
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-night-of-champions-riyadh/1
-https://lb1.strmd.st/secure/hlnbrHwuuUBFQUidSbjHXEWBsJCdLKQQ/rtmp/stream/qI2477DPHXUHrjqSPtncP4KggtQyFQM6EUR9QeUP0c7yPvYVGwks8HGcZ7ClLhpF7jOCqDc/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-colombia-vs-portugal/1
+https://lb7.strmd.st/secure/SAIiCPQUoZxTNJJBYEqczUAgjEfQAisI/rtmp/stream/KK_eey20_hGMOQgLcqBlgjPyEHfMyiUtEp09-3aGaFaU43viJsdoEz4XhH_Li0zLd5lM-S3t6g/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Night Of Champions 2468414 — echo" tvg-id="Night_Of_Champions_2468414_—_echo" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — echo
-# match: Night Of Champions 2468414
+#EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — echo" tvg-id="Colombia_Vs_Portugal_2391778_—_echo" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — echo
+# match: Colombia Vs Portugal 2391778
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-wwe-night-of-champions-ppv-02/1
-https://lb3.strmd.st/secure/jzEmOoAIUuUIXJEphQIYhRzSpVdDqdOj/echo/stream/ppv-event-02-wwe-night-of-champions-ppv-02/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/colombia-vs-portugal-football-1489419/1
+https://lb5.strmd.st/secure/wCesknEJKeoKreRglvhxDnzAkbzpQqbc/echo/stream/colombia-vs-portugal-football-1489419/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mi New York Vs Los Angeles Knight Riders 2466425 — echo" tvg-id="Mi_New_York_Vs_Los_Angeles_Knight_Riders_2466425_—_echo" group-title="Streamed.pk Live Football",Mi New York Vs Los Angeles Knight Riders 2466425 — echo
+# match: Mi New York Vs Los Angeles Knight Riders 2466425
+# provider: echo
+# embed: https://embed.st/embed/echo/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1
+https://lb18.strmd.st/secure/TnAoCbZADyGAcdAgyOnprytgrYDkKlJG/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
 # match: Travelers Championship Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb2.strmd.st/secure/JKvmTwIygietXuTqnxiyTnomaxVEuFhM/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Phoenix Mercury 2449313 — admin" tvg-id="Toronto_Tempo_Vs_Phoenix_Mercury_2449313_—_admin" group-title="Streamed.pk Live Football",Toronto Tempo Vs Phoenix Mercury 2449313 — admin
-# match: Toronto Tempo Vs Phoenix Mercury 2449313
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-toronto-tempo/1
-https://lb20.strmd.st/secure/SFKylNPfsiGZsHMswlVkWbaZiJjnpvVB/rtmp/stream/d26Yo6Qwbd4_Urne6UKQe86zayCvSOagJmahT3Xvl4vhqS3qiaFsEWNUnoL3LLdYheM-eIGoV74DP_JWhjo/1/playlist.m3u8
+https://lb19.strmd.st/secure/EYvNDWWxfguYDkrPLlTwIgKUweNQdevS/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Toulouse Olympique Vs Leigh Leopards 2395950 — echo" tvg-id="Toulouse_Olympique_Vs_Leigh_Leopards_2395950_—_echo" group-title="Streamed.pk Live Football",Toulouse Olympique Vs Leigh Leopards 2395950 — echo
 # match: Toulouse Olympique Vs Leigh Leopards 2395950
 # provider: echo
 # embed: https://embed.st/embed/echo/toulouse-olympique-vs-leigh-leopards-game-37322/1
-https://lb16.strmd.st/secure/UlLfUQaCMakYhirxpMNaLbnlcXQWOfMP/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
+https://lb14.strmd.st/secure/vhaksErbEXqLSRsDIMUOCYElzfusBSDg/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv 2026 Nhl Draft Rounds 2 7 — admin" tvg-id="Ppv_2026_Nhl_Draft_Rounds_2_7_—_admin" group-title="Streamed.pk Live Football",Ppv 2026 Nhl Draft Rounds 2 7 — admin
-# match: Ppv 2026 Nhl Draft Rounds 2 7
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-2026-nhl-draft-rounds-2-7/1
-https://lb18.strmd.st/secure/aGMWSKpBsDiiRVoCwPUvkFCOstiJqnWt/rtmp/stream/_fWwbxDInoT-JeXS5mHw8LPEy7TOVdHjgyOi4QqDH2G9EOZBMHiTT3Yv9Ea4BqKSSZjc-WtM/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Night Of Champions 2468414 — echo" tvg-id="Night_Of_Champions_2468414_—_echo" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — echo
+# match: Night Of Champions 2468414
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-wwe-night-of-champions-ppv-02/1
+https://lb14.strmd.st/secure/PLIgappCsAKOYbaLuppkbyzRxlpaxYyE/echo/stream/ppv-event-02-wwe-night-of-champions-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hull F C Vs Wigan Warriors 2395949 — echo" tvg-id="Hull_F_C_Vs_Wigan_Warriors_2395949_—_echo" group-title="Streamed.pk Live Football",Hull F C Vs Wigan Warriors 2395949 — echo
 # match: Hull F C Vs Wigan Warriors 2395949
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-fc-vs-wigan-warriors-game-184842/1
-https://lb4.strmd.st/secure/JcFyrqVStrvNqqKSpFnVEWdWiTJKbkmy/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
+https://lb1.strmd.st/secure/IUcDNhBseXAYVHPAUTHjNGProJYdLPyb/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
 
