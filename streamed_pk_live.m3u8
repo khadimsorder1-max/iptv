@@ -1,47 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T15:00:43+00:00
-# 7 streams captured from 7 matches
+# Streamed.pk live football matches — built 2026-06-27T16:13:20+00:00
+# 7 streams captured from 6 matches
 
-#EXTINF:-1 tvg-name="Austrian Grand Prix Practice 3 2408159 — admin" tvg-id="Austrian_Grand_Prix_Practice_3_2408159_—_admin" group-title="Streamed.pk Live Football",Austrian Grand Prix Practice 3 2408159 — admin
-# match: Austrian Grand Prix Practice 3 2408159
+#EXTINF:-1 tvg-name="Ppv 2026 Nhl Draft Rounds 2 7 — admin" tvg-id="Ppv_2026_Nhl_Draft_Rounds_2_7_—_admin" group-title="Streamed.pk Live Football",Ppv 2026 Nhl Draft Rounds 2 7 — admin
+# match: Ppv 2026 Nhl Draft Rounds 2 7
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-austrian-grand-prix-qualifying/1
-https://lb9.strmd.st/secure/UwbdICKNBuwqpzBSHCakhCWJrhQXWeNi/rtmp/stream/tGAY1dv1psJtTdpulWe6XAcP86fGvh-otY8flvhaNGerXauo6pCAy_5pWo-TKU6PJuTd6fo16jZ1UsKN-pFL1O8GnKvN43r9eIG6/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Austrian Grand Prix 2408161 — admin" tvg-id="Austrian_Grand_Prix_2408161_—_admin" group-title="Streamed.pk Live Football",Austrian Grand Prix 2408161 — admin
-# match: Austrian Grand Prix 2408161
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-austrian-grand-prix-race/1
-https://lb1.strmd.st/secure/SUcjRVrrgNbVMjGVUwSdHhBrNNjFHpuj/rtmp/stream/pSDd3UpFcUcpwUfVsSnflC1oLpEpf_Z4xF_XZa8lB-gzRcil3-PezcbRUdJUTHpkffb6_qXBhPzyTM7n34xWVLF5aTlv/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-2026-nhl-draft-rounds-2-7/1
+https://lb2.strmd.st/secure/gCWMDsKHsXGHSZzgTNKGzVFclYoSxEtp/rtmp/stream/jm6cARV6lIHwPQezUrugUSGDInm0k4V-bcXhKChP1L18ho-86fjsbGuOo_CBd7Zd0RhLpsJ8/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — echo" tvg-id="New_Zealand_Vs_Belgium_2391774_—_echo" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — echo
 # match: New Zealand Vs Belgium 2391774
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1
-https://lb3.strmd.st/secure/mfmYRsmPlHWslhYjumBTbdhrsdyjRUUV/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
+https://lb7.strmd.st/secure/GwEwNiSkDrdqadPVUIlTYNEJWrXNsuvG/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Night Of Champions 2468414 — admin" tvg-id="Night_Of_Champions_2468414_—_admin" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — admin
+# match: Night Of Champions 2468414
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-wwe-night-of-champions-riyadh/1
+https://lb8.strmd.st/secure/NyEUptyjXfyYuuMVBjrQcNdDYGzMIVav/rtmp/stream/BOt5BUkic6kZXdwDDv5JgGprrDJonY9o0PsOni_q6wc6_WX_UTe5OMW-1IE4UwRa3ZyUgXA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Night Of Champions 2468414 — echo" tvg-id="Night_Of_Champions_2468414_—_echo" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — echo
+# match: Night Of Champions 2468414
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-wwe-night-of-champions-ppv-02/1
+https://lb19.strmd.st/secure/ZfUmKZTxzWuTJqxISffcspMNSQXgdrMf/echo/stream/ppv-event-02-wwe-night-of-champions-ppv-02/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Toulouse Olympique Vs Leigh Leopards Game 37322 — echo" tvg-id="Toulouse_Olympique_Vs_Leigh_Leopards_Game_37322_—_echo" group-title="Streamed.pk Live Football",Toulouse Olympique Vs Leigh Leopards Game 37322 — echo
+# match: Toulouse Olympique Vs Leigh Leopards Game 37322
+# provider: echo
+# embed: https://embed.st/embed/echo/toulouse-olympique-vs-leigh-leopards-game-37322/1
+https://lb16.strmd.st/secure/ZnDKqzpNxvJdpijTobstlDcLHFFBkXtq/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hull F C Vs Wigan Warriors 2395949 — echo" tvg-id="Hull_F_C_Vs_Wigan_Warriors_2395949_—_echo" group-title="Streamed.pk Live Football",Hull F C Vs Wigan Warriors 2395949 — echo
 # match: Hull F C Vs Wigan Warriors 2395949
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-fc-vs-wigan-warriors-game-184842/1
-https://lb15.strmd.st/secure/CPNgASIuGuiJcEVOkOwdvYKInOakuHNl/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Barbarians Vs Wales Rugby 2460815 — echo" tvg-id="Barbarians_Vs_Wales_Rugby_2460815_—_echo" group-title="Streamed.pk Live Football",Barbarians Vs Wales Rugby 2460815 — echo
-# match: Barbarians Vs Wales Rugby 2460815
-# provider: echo
-# embed: https://embed.st/embed/echo/barbarians-vs-wales-rugby-52834/1
-https://lb10.strmd.st/secure/qLoTuRaYxPkUJhxEYTEUrySzUxZVQmmI/echo/stream/barbarians-vs-wales-rugby-52834/1/playlist.m3u8
+https://lb13.strmd.st/secure/WtQspRlnbhGmbDIzkWXRmCnvMhsWBdtX/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Manly Sea Eagles Vs Melbourne Storm 2417289 — echo" tvg-id="Manly_Sea_Eagles_Vs_Melbourne_Storm_2417289_—_echo" group-title="Streamed.pk Live Football",Manly Sea Eagles Vs Melbourne Storm 2417289 — echo
 # match: Manly Sea Eagles Vs Melbourne Storm 2417289
 # provider: echo
 # embed: https://embed.st/embed/echo/manly-sea-eagles-vs-melbourne-storm-game-197832/1
-https://lb20.strmd.st/secure/WjsCjwethweWDUZemkSxYLRhSwyawSvU/echo/stream/manly-sea-eagles-vs-melbourne-storm-game-197832/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="North Queensland Cowboys Vs Penrith Panthers 2417288 — echo" tvg-id="North_Queensland_Cowboys_Vs_Penrith_Panthers_2417288_—_echo" group-title="Streamed.pk Live Football",North Queensland Cowboys Vs Penrith Panthers 2417288 — echo
-# match: North Queensland Cowboys Vs Penrith Panthers 2417288
-# provider: echo
-# embed: https://embed.st/embed/echo/north-queensland-vs-penrith-panthers-game-236363/1
-https://lb14.strmd.st/secure/KEnjqPpJMFiSJvMRhGUBLOHgGlIxWuoY/echo/stream/north-queensland-vs-penrith-panthers-game-236363/1/playlist.m3u8
+https://lb9.strmd.st/secure/ZSGSNgFhROsaPxPvHqnDKKjAfflsqGnq/echo/stream/manly-sea-eagles-vs-melbourne-storm-game-197832/1/playlist.m3u8
 
