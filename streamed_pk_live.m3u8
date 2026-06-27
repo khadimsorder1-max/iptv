@@ -1,71 +1,71 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T22:01:02+00:00
+# Streamed.pk live football matches — built 2026-06-27T23:11:21+00:00
 # 11 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Panama Vs England 2391781 — admin" tvg-id="Panama_Vs_England_2391781_—_admin" group-title="Streamed.pk Live Football",Panama Vs England 2391781 — admin
 # match: Panama Vs England 2391781
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-panama-vs-england/1
-https://lb12.strmd.st/secure/uPEPeWPfpSNILLmsmDufDbkZTawmeDMe/rtmp/stream/NT8NOP1j2tyf8cHs141PYC3DUW7T5EIBSlyP0CzFQ1YYCZKpNibT3HSKeKKjmohrJTGIWgQEvg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Panama Vs England 2391781 — echo" tvg-id="Panama_Vs_England_2391781_—_echo" group-title="Streamed.pk Live Football",Panama Vs England 2391781 — echo
-# match: Panama Vs England 2391781
-# provider: echo
-# embed: https://embed.st/embed/echo/panama-vs-england-football-1489422/1
-https://lb16.strmd.st/secure/vDKwEGEZCtKwswlYBRhMazTzGLrprqkM/echo/stream/panama-vs-england-football-1489422/1/playlist.m3u8
+https://lb19.strmd.st/secure/mCIzCXEReWeZToCurIrVWqcAJSJxWzQH/rtmp/stream/FM02JeLLJD2uSb2XddxcCIVibV9qaainUR7W9Q78LZ5MZ3Oyk8UpbXPSXP8-mNCUImL_mVcj4w/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Croatia Vs Ghana 2391779 — admin" tvg-id="Croatia_Vs_Ghana_2391779_—_admin" group-title="Streamed.pk Live Football",Croatia Vs Ghana 2391779 — admin
 # match: Croatia Vs Ghana 2391779
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-croatia-vs-ghana/1
-https://lb1.strmd.st/secure/RCnsoczBFvzGnHxOHMPfRcadUhvsASjA/rtmp/stream/g1GnpZ_HoxCtLzmnTjb5mZne8SCDjlEBiI0WIihmiSH7L23v0iG1FA7he699zSAoUbL9WofP/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Croatia Vs Ghana 2391779 — echo" tvg-id="Croatia_Vs_Ghana_2391779_—_echo" group-title="Streamed.pk Live Football",Croatia Vs Ghana 2391779 — echo
-# match: Croatia Vs Ghana 2391779
-# provider: echo
-# embed: https://embed.st/embed/echo/croatia-vs-ghana-football-1489420/1
-https://lb15.strmd.st/secure/SbiPgYnKbqsolnFAzgMeVpMzctWSjXzy/echo/stream/croatia-vs-ghana-football-1489420/1/playlist.m3u8
+https://lb14.strmd.st/secure/gHzhZKLxsCUiODqYyKjKaivyLQvsEjfL/rtmp/stream/-7ozuFb2PGmHiLl53VClhTPj0rTgqxhzaBZq4GQVD93ARtn-TFkj8c1Pqn3sskyqupCyC7Td/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — admin" tvg-id="Colombia_Vs_Portugal_2391778_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — admin
 # match: Colombia Vs Portugal 2391778
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-colombia-vs-portugal/1
-https://lb7.strmd.st/secure/SAIiCPQUoZxTNJJBYEqczUAgjEfQAisI/rtmp/stream/KK_eey20_hGMOQgLcqBlgjPyEHfMyiUtEp09-3aGaFaU43viJsdoEz4XhH_Li0zLd5lM-S3t6g/1/playlist.m3u8
+https://lb2.strmd.st/secure/JORJYCKhBivyoKzuzVMcMHsRLyQMfRHR/rtmp/stream/Te6nkb_SgoZgGHTt-boGAJUacyO-Q_PbmVa_mOJEb9jRHN6WGcL-xEGo6TPmqO9qmLPWWoqlxg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — echo" tvg-id="Colombia_Vs_Portugal_2391778_—_echo" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — echo
 # match: Colombia Vs Portugal 2391778
 # provider: echo
 # embed: https://embed.st/embed/echo/colombia-vs-portugal-football-1489419/1
-https://lb5.strmd.st/secure/wCesknEJKeoKreRglvhxDnzAkbzpQqbc/echo/stream/colombia-vs-portugal-football-1489419/1/playlist.m3u8
+https://lb20.strmd.st/secure/anpBsbnrtFZKUpXFOOIIWMkXRDWPtpUw/echo/stream/colombia-vs-portugal-football-1489419/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dr Congo Vs Uzbekistan 2461120 — admin" tvg-id="Dr_Congo_Vs_Uzbekistan_2461120_—_admin" group-title="Streamed.pk Live Football",Dr Congo Vs Uzbekistan 2461120 — admin
+# match: Dr Congo Vs Uzbekistan 2461120
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-congo-dr-vs-uzbekistan/1
+https://lb19.strmd.st/secure/QvhriEqcPwrWIhzlkDQysZrRRARDSJKm/rtmp/stream/JTdWRydsEJEsuj60gmrvvHvwPhKuCl40kesszDFLatYqWbDF-OC86hZOfyevGd2GitagiU9m/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dr Congo Vs Uzbekistan 2461120 — echo" tvg-id="Dr_Congo_Vs_Uzbekistan_2461120_—_echo" group-title="Streamed.pk Live Football",Dr Congo Vs Uzbekistan 2461120 — echo
+# match: Dr Congo Vs Uzbekistan 2461120
+# provider: echo
+# embed: https://embed.st/embed/echo/congo-dr-vs-uzbekistan-football-1539013/1
+https://lb3.strmd.st/secure/WgFCBldZvaRTGMuhHBFTvOBSZlUGiLXd/echo/stream/congo-dr-vs-uzbekistan-football-1539013/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xander Zayas Vs Jaron Ennis 2466558 — admin" tvg-id="Xander_Zayas_Vs_Jaron_Ennis_2466558_—_admin" group-title="Streamed.pk Live Football",Xander Zayas Vs Jaron Ennis 2466558 — admin
+# match: Xander Zayas Vs Jaron Ennis 2466558
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-xander-zayas-vs-jaron-boots-ennis/1
+https://lb1.strmd.st/secure/LrZyavShFMNytrKEHizPSrCqpdoxznRt/rtmp/stream/-7Td9s93OqTBof2VD45tFBIQi4CF34sgHwBPN6TRrTbFAmFFDkOhwxB79U51jAqDjm7bfvzcl-hHWVw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Xander Zayas Vs Jaron Ennis 2466558 — echo" tvg-id="Xander_Zayas_Vs_Jaron_Ennis_2466558_—_echo" group-title="Streamed.pk Live Football",Xander Zayas Vs Jaron Ennis 2466558 — echo
+# match: Xander Zayas Vs Jaron Ennis 2466558
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-05-zayas-v-ennis-ppv-05/1
+https://lb15.strmd.st/secure/MlrrbJcvgjZjnUWZtGPFkaiPdhIHbFQz/echo/stream/ppv-event-05-zayas-v-ennis-ppv-05/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bc Lions Vs Calgary Stampeders 2432546 — admin" tvg-id="Bc_Lions_Vs_Calgary_Stampeders_2432546_—_admin" group-title="Streamed.pk Live Football",Bc Lions Vs Calgary Stampeders 2432546 — admin
+# match: Bc Lions Vs Calgary Stampeders 2432546
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/1
+https://lb5.strmd.st/secure/nDAkCxCWaCrgYKPzBpjbIRwWUpFoMfsI/rtmp/stream/LbXOnD1INNX9_vYke9K2MBqW3hOgOJkwKKwWcwZ0_dkjPZ88tSeN7d7Xu6WC7OgkGydH0F2AZPL2Dl4TSg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mi New York Vs Los Angeles Knight Riders 2466425 — echo" tvg-id="Mi_New_York_Vs_Los_Angeles_Knight_Riders_2466425_—_echo" group-title="Streamed.pk Live Football",Mi New York Vs Los Angeles Knight Riders 2466425 — echo
 # match: Mi New York Vs Los Angeles Knight Riders 2466425
 # provider: echo
 # embed: https://embed.st/embed/echo/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1
-https://lb18.strmd.st/secure/TnAoCbZADyGAcdAgyOnprytgrYDkKlJG/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
+https://lb10.strmd.st/secure/rkOrAQZWvQxgTaAjcZysMXkdIyzKNmeh/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
 # match: Travelers Championship Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb19.strmd.st/secure/EYvNDWWxfguYDkrPLlTwIgKUweNQdevS/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toulouse Olympique Vs Leigh Leopards 2395950 — echo" tvg-id="Toulouse_Olympique_Vs_Leigh_Leopards_2395950_—_echo" group-title="Streamed.pk Live Football",Toulouse Olympique Vs Leigh Leopards 2395950 — echo
-# match: Toulouse Olympique Vs Leigh Leopards 2395950
-# provider: echo
-# embed: https://embed.st/embed/echo/toulouse-olympique-vs-leigh-leopards-game-37322/1
-https://lb14.strmd.st/secure/vhaksErbEXqLSRsDIMUOCYElzfusBSDg/echo/stream/toulouse-olympique-vs-leigh-leopards-game-37322/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Night Of Champions 2468414 — echo" tvg-id="Night_Of_Champions_2468414_—_echo" group-title="Streamed.pk Live Football",Night Of Champions 2468414 — echo
-# match: Night Of Champions 2468414
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-wwe-night-of-champions-ppv-02/1
-https://lb14.strmd.st/secure/PLIgappCsAKOYbaLuppkbyzRxlpaxYyE/echo/stream/ppv-event-02-wwe-night-of-champions-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hull F C Vs Wigan Warriors 2395949 — echo" tvg-id="Hull_F_C_Vs_Wigan_Warriors_2395949_—_echo" group-title="Streamed.pk Live Football",Hull F C Vs Wigan Warriors 2395949 — echo
-# match: Hull F C Vs Wigan Warriors 2395949
-# provider: echo
-# embed: https://embed.st/embed/echo/hull-fc-vs-wigan-warriors-game-184842/1
-https://lb1.strmd.st/secure/IUcDNhBseXAYVHPAUTHjNGProJYdLPyb/echo/stream/hull-fc-vs-wigan-warriors-game-184842/1/playlist.m3u8
+https://lb11.strmd.st/secure/vMASIdGOfRbupgJViVdBJedTMvBWxApQ/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
 
