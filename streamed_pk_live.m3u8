@@ -1,59 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T07:46:50+00:00
-# 9 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-06-27T10:02:50+00:00
+# 8 streams captured from 6 matches
+
+#EXTINF:-1 tvg-name="Manly Sea Eagles Vs Melbourne Storm 2417289 — admin" tvg-id="Manly_Sea_Eagles_Vs_Melbourne_Storm_2417289_—_admin" group-title="Streamed.pk Live Football",Manly Sea Eagles Vs Melbourne Storm 2417289 — admin
+# match: Manly Sea Eagles Vs Melbourne Storm 2417289
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-sea-eagles-vs-storm/1
+https://lb3.strmd.st/secure/LeqXNmRUdXAZKrcNSLMQoieuGYLmkaYE/rtmp/stream/O83byxFv-mdXPhmkhn6eakOigIuVwiVLZphipmMX_3Hk4YeP8Qxt36jE0agNfrlczW9H87yzS3SvJ5A/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Manly Sea Eagles Vs Melbourne Storm 2417289 — echo" tvg-id="Manly_Sea_Eagles_Vs_Melbourne_Storm_2417289_—_echo" group-title="Streamed.pk Live Football",Manly Sea Eagles Vs Melbourne Storm 2417289 — echo
+# match: Manly Sea Eagles Vs Melbourne Storm 2417289
+# provider: echo
+# embed: https://embed.st/embed/echo/manly-sea-eagles-vs-melbourne-storm-game-197832/1
+https://lb2.strmd.st/secure/eLzuEHfzHzrJLOdWBmpUZToEkANDbocj/echo/stream/manly-sea-eagles-vs-melbourne-storm-game-197832/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="North Queensland Cowboys Vs Penrith Panthers 2417288 — admin" tvg-id="North_Queensland_Cowboys_Vs_Penrith_Panthers_2417288_—_admin" group-title="Streamed.pk Live Football",North Queensland Cowboys Vs Penrith Panthers 2417288 — admin
 # match: North Queensland Cowboys Vs Penrith Panthers 2417288
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-cowboys-vs-panthers/1
-https://lb3.strmd.st/secure/TMUTfhutqoaUYYlmgqmYHdcnvpdwoPAd/rtmp/stream/L4TlYwp1PgY-DDylRkmzm-vLtY63VbmKIcVnWcGF1mjdBCarlHFnvPhwjzXqdXIGI8j9V8HDSJvxwJo/1/playlist.m3u8
+https://lb9.strmd.st/secure/YjuePWieUnvtTWyBFappZFItCqJTMoxV/rtmp/stream/UoWg8Bpn2iKIxlMZhKlqKmW05N8U39sbbDPoAfB03wgBP-w8RP8zn42Bs7fFcFn7zDyKVcgKetUUhHA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="North Queensland Cowboys Vs Penrith Panthers 2417288 — echo" tvg-id="North_Queensland_Cowboys_Vs_Penrith_Panthers_2417288_—_echo" group-title="Streamed.pk Live Football",North Queensland Cowboys Vs Penrith Panthers 2417288 — echo
 # match: North Queensland Cowboys Vs Penrith Panthers 2417288
 # provider: echo
 # embed: https://embed.st/embed/echo/north-queensland-vs-penrith-panthers-game-236363/1
-https://lb17.strmd.st/secure/KgDDQMSnxzsfYQSYxBtjMhkpgJrgGCUJ/echo/stream/north-queensland-vs-penrith-panthers-game-236363/1/playlist.m3u8
+https://lb5.strmd.st/secure/UtoCZuvOjMuiTpDoOGzrmzGQTyBYZsGm/echo/stream/north-queensland-vs-penrith-panthers-game-236363/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Port Adelaide Power Vs Adelaide Crows Australian Football 3555 — echo" tvg-id="Port_Adelaide_Power_Vs_Adelaide_Crows_Australian_Football_3555_—_echo" group-title="Streamed.pk Live Football",Port Adelaide Power Vs Adelaide Crows Australian Football 3555 — echo
+# match: Port Adelaide Power Vs Adelaide Crows Australian Football 3555
+# provider: echo
+# embed: https://embed.st/embed/echo/port-adelaide-power-vs-adelaide-crows-australian-football-3555/1
+https://lb17.strmd.st/secure/SALCoXywDXXmPZZEGcYkzNdGPdohuoCK/echo/stream/port-adelaide-power-vs-adelaide-crows-australian-football-3555/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
 # match: World Rally Championship Greece Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
-https://lb10.strmd.st/secure/HTLBNwPKGDySbIvOlvlkwDQxvxfRVBUz/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
+https://lb6.strmd.st/secure/mydBRYBbjJNfBXWpUtEXEQcvSAumrVxf/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dolphins Vs New Zealand Warriors 2417287 — echo" tvg-id="Dolphins_Vs_New_Zealand_Warriors_2417287_—_echo" group-title="Streamed.pk Live Football",Dolphins Vs New Zealand Warriors 2417287 — echo
 # match: Dolphins Vs New Zealand Warriors 2417287
 # provider: echo
 # embed: https://embed.st/embed/echo/dolphins-vs-new-zealand-warriors-game-3373252/1
-https://lb8.strmd.st/secure/aqSXuYNCQkJepOwXFymSxgwvjNjkmHkP/echo/stream/dolphins-vs-new-zealand-warriors-game-3373252/1/playlist.m3u8
+https://lb8.strmd.st/secure/KieZxitLuHsTohqKUZYFOnmclNaSNGqY/echo/stream/dolphins-vs-new-zealand-warriors-game-3373252/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08 — echo" tvg-id="Ppv_Event_08_One_Fight_Night_44_Jarvis_V_Rungrawee_Ii_Mma_Ppv_08_—_echo" group-title="Streamed.pk Live Football",Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08 — echo
-# match: Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08
+#EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — echo" tvg-id="New_Zealand_Vs_Belgium_2391774_—_echo" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — echo
+# match: New Zealand Vs Belgium 2391774
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-08-one-fight-night-44-jarvis-v-rungrawee-ii-mma-ppv-08/1
-https://lb15.strmd.st/secure/hhlJyXZChSeHcTZVJWubUWovtTpPdtAR/echo/stream/ppv-event-08-one-fight-night-44-jarvis-v-rungrawee-ii-mma-ppv-08/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 07 Cage Fury Fc 156 Ppv 07 — echo" tvg-id="Ppv_Event_07_Cage_Fury_Fc_156_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Cage Fury Fc 156 Ppv 07 — echo
-# match: Ppv Event 07 Cage Fury Fc 156 Ppv 07
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-07-cage-fury-fc-156-ppv-07/1
-https://lb10.strmd.st/secure/fArpWJpkKiXMoSsXyuFhNglxhuxBSfjH/echo/stream/ppv-event-07-cage-fury-fc-156-ppv-07/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 05 Bkfc Fight Night Vancamp V Cisneros Ppv 05 — echo" tvg-id="Ppv_Event_05_Bkfc_Fight_Night_Vancamp_V_Cisneros_Ppv_05_—_echo" group-title="Streamed.pk Live Football",Ppv Event 05 Bkfc Fight Night Vancamp V Cisneros Ppv 05 — echo
-# match: Ppv Event 05 Bkfc Fight Night Vancamp V Cisneros Ppv 05
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-05-bkfc-fight-night-vancamp-v-cisneros-ppv-05/1
-https://lb5.strmd.st/secure/BGLdnbyVsdRecKTDSusOHvyvoGMqZbOz/echo/stream/ppv-event-05-bkfc-fight-night-vancamp-v-cisneros-ppv-05/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 23 World Of Outlaws Sprint Cars Cedar Lake Ppv 32 — echo" tvg-id="Ppv_Event_23_World_Of_Outlaws_Sprint_Cars_Cedar_Lake_Ppv_32_—_echo" group-title="Streamed.pk Live Football",Ppv Event 23 World Of Outlaws Sprint Cars Cedar Lake Ppv 32 — echo
-# match: Ppv Event 23 World Of Outlaws Sprint Cars Cedar Lake Ppv 32
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-23-world-of-outlaws-sprint-cars-cedar-lake-ppv-32/1
-https://lb7.strmd.st/secure/zFOShJjvaMZSihktvTuAurlSZLKASsqg/echo/stream/ppv-event-23-world-of-outlaws-sprint-cars-cedar-lake-ppv-32/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 25 World Of Outlaws Late Models River Cities Ppv 25 — echo" tvg-id="Ppv_Event_25_World_Of_Outlaws_Late_Models_River_Cities_Ppv_25_—_echo" group-title="Streamed.pk Live Football",Ppv Event 25 World Of Outlaws Late Models River Cities Ppv 25 — echo
-# match: Ppv Event 25 World Of Outlaws Late Models River Cities Ppv 25
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-25-world-of-outlaws-late-models-river-cities-ppv-25/1
-https://lb18.strmd.st/secure/yElcQbvidOTbqIbRUaUerteuQETnLlVK/echo/stream/ppv-event-25-world-of-outlaws-late-models-river-cities-ppv-25/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/england-vs-new-zealand-third-test-cricket-hundred-1/1
+https://lb11.strmd.st/secure/pGAvpWwVFRtZWEeZUpjWamPBOeEpPdQt/echo/stream/england-vs-new-zealand-third-test-cricket-hundred-1/1/playlist.m3u8
 
