@@ -1,107 +1,83 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T00:04:12+00:00
-# 17 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-06-27T04:34:45+00:00
+# 13 streams captured from 6 matches
 
-#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — admin" tvg-id="Uruguay_Vs_Spain_2391776_—_admin" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — admin
-# match: Uruguay Vs Spain 2391776
+#EXTINF:-1 tvg-name="Egypt Vs Iran 2391773 — admin" tvg-id="Egypt_Vs_Iran_2391773_—_admin" group-title="Streamed.pk Live Football",Egypt Vs Iran 2391773 — admin
+# match: Egypt Vs Iran 2391773
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-uruguay-vs-spain/1
-https://lb17.strmd.st/secure/pRxRHRnluIedfeGzLvsYygcxysPyBjKl/rtmp/stream/3BjKdC0eCuVwrGm2c75DIhm05AomngsVqXHBhnjsjKUBydu6PmR-0o29NtEidJLO-gbJ9LPuhw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-egypt-vs-iran/1
+https://lb7.strmd.st/secure/YpPRUwcLITSyphexiVqUXzEkHMQiYcft/rtmp/stream/UgX4klWVx89SxnxIQUNgAlwctwkAI6K7bOmhumTQE1V1mEEprgG0YO3jrblmlf3hQKwZpJJW/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — delta" tvg-id="Uruguay_Vs_Spain_2391776_—_delta" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — delta
-# match: Uruguay Vs Spain 2391776
+#EXTINF:-1 tvg-name="Egypt Vs Iran 2391773 — charlie" tvg-id="Egypt_Vs_Iran_2391773_—_charlie" group-title="Streamed.pk Live Football",Egypt Vs Iran 2391773 — charlie
+# match: Egypt Vs Iran 2391773
+# provider: charlie
+# embed: https://embed.st/embed/charlie/egypt-vs-iran-1489414/1
+https://lb12.strmd.st/secure/YJGJOTSRWBAGtgakINVZCUJwgmWmrSVq/charlie/stream/egypt-vs-iran-1489414/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Egypt Vs Iran 2391773 — delta" tvg-id="Egypt_Vs_Iran_2391773_—_delta" group-title="Streamed.pk Live Football",Egypt Vs Iran 2391773 — delta
+# match: Egypt Vs Iran 2391773
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-h_uruguay-spain-live-streaming-1243829925/1
-https://lb1.strmd.st/secure/QhuIWHdkyPdtleTLFmEjnYVaqMuDuWIe/delta/stream/live_world-championship-gr-h_uruguay-spain-live-streaming-1243829925/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-g_egypt-iran-live-streaming-1243826928/1
+https://lb20.strmd.st/secure/wESNkthscvUYccAlyMHcODnhyNRwXlPz/delta/stream/live_world-championship-gr-g_egypt-iran-live-streaming-1243826928/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Uruguay Vs Spain 2391776 — echo" tvg-id="Uruguay_Vs_Spain_2391776_—_echo" group-title="Streamed.pk Live Football",Uruguay Vs Spain 2391776 — echo
-# match: Uruguay Vs Spain 2391776
+#EXTINF:-1 tvg-name="Egypt Vs Iran 2391773 — echo" tvg-id="Egypt_Vs_Iran_2391773_—_echo" group-title="Streamed.pk Live Football",Egypt Vs Iran 2391773 — echo
+# match: Egypt Vs Iran 2391773
 # provider: echo
-# embed: https://embed.st/embed/echo/uruguay-vs-spain-football-1489417/1
-https://lb7.strmd.st/secure/LgZUCvuLSpeQlIlqIRhHDGxYkBpQtNDo/echo/stream/uruguay-vs-spain-football-1489417/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/egypt-vs-iran-football-1489414/1
+https://lb6.strmd.st/secure/IrBGwnxlEJjiYXgheBcYRABKajpSCaKQ/echo/stream/egypt-vs-iran-football-1489414/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — admin" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_admin" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — admin
-# match: Cape Verde Vs Saudi Arabia 2391772
+#EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — admin" tvg-id="New_Zealand_Vs_Belgium_2391774_—_admin" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — admin
+# match: New Zealand Vs Belgium 2391774
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-cape-verde-vs-saudi-arabia/1
-https://lb6.strmd.st/secure/XgGKbLwAwGYmRLtCpPiLjYtsulSMhMMO/rtmp/stream/y2qGqRsvJ-behEeulRGOOduXVtndVj8gFEbaF8Jo6C1k4wS_KMOlX4ot1W6DfKrPdn1Mwnch/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-new-zealand-vs-belgium/1
+https://lb17.strmd.st/secure/xCgpXplxODXWUVoJonopyGXhUGRyTmiD/rtmp/stream/ibSnK1oGqDeMaQ7b38iorr441AqtJvVbGQYE6bNJK-3wFOmGNhi-zztJXEtmKLv17GedT8KfoQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — delta" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_delta" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — delta
-# match: Cape Verde Vs Saudi Arabia 2391772
+#EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — charlie" tvg-id="New_Zealand_Vs_Belgium_2391774_—_charlie" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — charlie
+# match: New Zealand Vs Belgium 2391774
+# provider: charlie
+# embed: https://embed.st/embed/charlie/new-zealand-vs-belgium-1489415/1
+https://lb8.strmd.st/secure/MueinvhHUVJKOxXncLJQJyjrjAHiZbDz/charlie/stream/new-zealand-vs-belgium-1489415/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — delta" tvg-id="New_Zealand_Vs_Belgium_2391774_—_delta" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — delta
+# match: New Zealand Vs Belgium 2391774
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-championship-gr-h_cabo-verde-saudi-arabia-live-streaming-1243828926/1
-https://lb10.strmd.st/secure/aDARvVjFEokBjbjdDHmvPQykiAHzTzvO/delta/stream/live_world-championship-gr-h_cabo-verde-saudi-arabia-live-streaming-1243828926/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-championship-gr-g_new-zealand-belgium-live-streaming-1243827927/1
+https://lb13.strmd.st/secure/pfkEmljlnItflZCEnMpfBlCODOyTjjBA/delta/stream/live_world-championship-gr-g_new-zealand-belgium-live-streaming-1243827927/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Cape Verde Vs Saudi Arabia 2391772 — echo" tvg-id="Cape_Verde_Vs_Saudi_Arabia_2391772_—_echo" group-title="Streamed.pk Live Football",Cape Verde Vs Saudi Arabia 2391772 — echo
-# match: Cape Verde Vs Saudi Arabia 2391772
+#EXTINF:-1 tvg-name="New Zealand Vs Belgium 2391774 — echo" tvg-id="New_Zealand_Vs_Belgium_2391774_—_echo" group-title="Streamed.pk Live Football",New Zealand Vs Belgium 2391774 — echo
+# match: New Zealand Vs Belgium 2391774
 # provider: echo
-# embed: https://embed.st/embed/echo/cape-verde-islands-vs-saudi-arabia-football-1489413/1
-https://lb8.strmd.st/secure/peaJrXuobvEoKEiVAdbICvHnapOCKqhS/echo/stream/cape-verde-islands-vs-saudi-arabia-football-1489413/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/new-zealand-vs-belgium-football-1489415/1
+https://lb10.strmd.st/secure/gTqYnHqWCXiZHNiZkmzgnqBsBrbsknCM/echo/stream/new-zealand-vs-belgium-football-1489415/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — admin" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — admin
-# match: Ppv Wwe Friday Night Smackdown
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1
-https://lb2.strmd.st/secure/iHDgmFaUbQVEEiHhEaTTVHwwQKrPlAAI/rtmp/stream/bV5-wvxpv1JokZZUXCVxVCHLR3Xl_wXk1c3X7EcXUuoRV2zQrwnh42BRk99YPxd9jWSI1vQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — delta" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_delta" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — delta
-# match: Ppv Wwe Friday Night Smackdown
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_friday-night-smackdown-live-stream/1
-https://lb20.strmd.st/secure/QLlrzZgQCtktcphYELVpOBQduzaCoqPp/delta/stream/live-event_friday-night-smackdown-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — echo" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — echo
-# match: Ppv Wwe Friday Night Smackdown
+#EXTINF:-1 tvg-name="Carlton Football Club Vs West Coast Eagles 2495751 — echo" tvg-id="Carlton_Football_Club_Vs_West_Coast_Eagles_2495751_—_echo" group-title="Streamed.pk Live Football",Carlton Football Club Vs West Coast Eagles 2495751 — echo
+# match: Carlton Football Club Vs West Coast Eagles 2495751
 # provider: echo
-# embed: https://embed.st/embed/echo/wwe-friday-night-smackdown-game-2457754/1
-https://lb13.strmd.st/secure/xBADRziGwZgiVCqnHTDQmvkpZGxsQzcQ/echo/stream/wwe-friday-night-smackdown-game-2457754/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/carlton-blues-vs-west-coast-eagles-australian-football-3553/1
+https://lb4.strmd.st/secure/uJpLnXebQQBcgnpQnubFfREcUhOTEjRL/echo/stream/carlton-blues-vs-west-coast-eagles-australian-football-3553/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv 2026 Nhl Draft Round 1 — admin" tvg-id="Ppv_2026_Nhl_Draft_Round_1_—_admin" group-title="Streamed.pk Live Football",Ppv 2026 Nhl Draft Round 1 — admin
-# match: Ppv 2026 Nhl Draft Round 1
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-2026-nhl-draft-round-1/1
-https://lb4.strmd.st/secure/hbBaUdPMPfBzJOewsBOOixHszKJomyUS/rtmp/stream/OXDP5RHb-EBXtnxum_4wlPdeKdfS-k_e0XhyGBxnTg1rxphsg4eHsfcWsq7Bu9Xa4KAMlAM4Dg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv 2026 Nhl Draft Round 1 — delta" tvg-id="Ppv_2026_Nhl_Draft_Round_1_—_delta" group-title="Streamed.pk Live Football",Ppv 2026 Nhl Draft Round 1 — delta
-# match: Ppv 2026 Nhl Draft Round 1
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_2026-nhl-draft-live-stream/1
-https://lb16.strmd.st/secure/RcsBnYxtsYzyseMwGZbfJODNrYEkdXFA/delta/stream/live-event_2026-nhl-draft-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Washington Mystics 2449078 — admin" tvg-id="Connecticut_Sun_Vs_Washington_Mystics_2449078_—_admin" group-title="Streamed.pk Live Football",Connecticut Sun Vs Washington Mystics 2449078 — admin
-# match: Connecticut Sun Vs Washington Mystics 2449078
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-washington-mystics-vs-connecticut-sun/1
-https://lb18.strmd.st/secure/JdUypOyBghbxgNJyiiCmgyRCOKxNmVMJ/rtmp/stream/h-UfCffFS_QNMAYbaqtRG0SfJyqn6udJddE2ntvuYccMHHbl1mFnvGuLoHBww7G2ulNNbFRrTDCzS5Jccv8VRA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Washington Mystics 2449078 — delta" tvg-id="Connecticut_Sun_Vs_Washington_Mystics_2449078_—_delta" group-title="Streamed.pk Live Football",Connecticut Sun Vs Washington Mystics 2449078 — delta
-# match: Connecticut Sun Vs Washington Mystics 2449078
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_connecticut-mystics-live-streaming-1211194593/1
-https://lb7.strmd.st/secure/saEpTevuLmGrSzQRdmNgZRAAyjDtFeZd/delta/stream/live_wnba_connecticut-mystics-live-streaming-1211194593/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Sky W Vs Portland Fire W Basketball 494908 — echo" tvg-id="Chicago_Sky_W_Vs_Portland_Fire_W_Basketball_494908_—_echo" group-title="Streamed.pk Live Football",Chicago Sky W Vs Portland Fire W Basketball 494908 — echo
-# match: Chicago Sky W Vs Portland Fire W Basketball 494908
+#EXTINF:-1 tvg-name="Ppv Event 07 Cage Fury Fc 156 Ppv 07 — echo" tvg-id="Ppv_Event_07_Cage_Fury_Fc_156_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Cage Fury Fc 156 Ppv 07 — echo
+# match: Ppv Event 07 Cage Fury Fc 156 Ppv 07
 # provider: echo
-# embed: https://embed.st/embed/echo/chicago-sky-w-vs-portland-fire-w-basketball-494908/1
-https://lb17.strmd.st/secure/viXWiXHywNBeIBGxjGhnZPfTDiFHhhyh/echo/stream/chicago-sky-w-vs-portland-fire-w-basketball-494908/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-07-cage-fury-fc-156-ppv-07/1
+https://lb13.strmd.st/secure/RUSSkTOVlZsuYIKzSWyUCvXBXFwxGmnu/echo/stream/ppv-event-07-cage-fury-fc-156-ppv-07/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Connecticut Sun W Vs Washington Mystics W Basketball 494909 — echo" tvg-id="Connecticut_Sun_W_Vs_Washington_Mystics_W_Basketball_494909_—_echo" group-title="Streamed.pk Live Football",Connecticut Sun W Vs Washington Mystics W Basketball 494909 — echo
-# match: Connecticut Sun W Vs Washington Mystics W Basketball 494909
+#EXTINF:-1 tvg-name="Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08 — echo" tvg-id="Ppv_Event_08_One_Fight_Night_44_Jarvis_V_Rungrawee_Ii_Mma_Ppv_08_—_echo" group-title="Streamed.pk Live Football",Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08 — echo
+# match: Ppv Event 08 One Fight Night 44 Jarvis V Rungrawee Ii Mma Ppv 08
 # provider: echo
-# embed: https://embed.st/embed/echo/connecticut-sun-w-vs-washington-mystics-w-basketball-494909/1
-https://lb1.strmd.st/secure/tRLBWkplOlQmtoMYshgcXOPvyiGGDELl/echo/stream/connecticut-sun-w-vs-washington-mystics-w-basketball-494909/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-08-one-fight-night-44-jarvis-v-rungrawee-ii-mma-ppv-08/1
+https://lb5.strmd.st/secure/zkwgXnTOfGShUfoHNnzepLGgmnpdzPIL/echo/stream/ppv-event-08-one-fight-night-44-jarvis-v-rungrawee-ii-mma-ppv-08/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Sky Vs Portland Fire 2469369 — admin" tvg-id="Chicago_Sky_Vs_Portland_Fire_2469369_—_admin" group-title="Streamed.pk Live Football",Chicago Sky Vs Portland Fire 2469369 — admin
-# match: Chicago Sky Vs Portland Fire 2469369
+#EXTINF:-1 tvg-name="Golden State Valkyries Vs Atlanta Dream 2449079 — admin" tvg-id="Golden_State_Valkyries_Vs_Atlanta_Dream_2449079_—_admin" group-title="Streamed.pk Live Football",Golden State Valkyries Vs Atlanta Dream 2449079 — admin
+# match: Golden State Valkyries Vs Atlanta Dream 2449079
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-chicago-sky/1
-https://lb9.strmd.st/secure/eINYhmaLLbODGTRetQgvJDjKivzURmYS/rtmp/stream/liH6IyYX2pxhbyzj2Ux71T0_9v5hROb-GCLUlH7dL1B0DAnER8aXf-76NIobwPrHlbd_tDOP5nXh-8pp/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-atlanta-dream-vs-golden-state-valkyries/1
+https://lb9.strmd.st/secure/wAdgggKneYAIcAAkAXwJeNGVeIiDkkyR/rtmp/stream/Vdv3L471TsCyOow3yrLDI4nRR91ds0QmXvREPlyXM2HUAXsgzFoFvV6BOu-B1rspiZzPEUWzz14m67_qdcx9UXZEdfG1jQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Sky Vs Portland Fire 2469369 — delta" tvg-id="Chicago_Sky_Vs_Portland_Fire_2469369_—_delta" group-title="Streamed.pk Live Football",Chicago Sky Vs Portland Fire 2469369 — delta
-# match: Chicago Sky Vs Portland Fire 2469369
+#EXTINF:-1 tvg-name="Golden State Valkyries Vs Atlanta Dream 2449079 — delta" tvg-id="Golden_State_Valkyries_Vs_Atlanta_Dream_2449079_—_delta" group-title="Streamed.pk Live Football",Golden State Valkyries Vs Atlanta Dream 2449079 — delta
+# match: Golden State Valkyries Vs Atlanta Dream 2449079
 # provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_chicago-fire-live-streaming-1211193594/1
-https://lb6.strmd.st/secure/sTCeCaaXFGhWXKXyLkmEQOFozhlxzljN/delta/stream/live_wnba_chicago-fire-live-streaming-1211193594/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_wnba_valkyries-atlanta-live-streaming-1211195592/1
+https://lb3.strmd.st/secure/aOnGLcqoYBzZyPTWPFJzACHCuyWlJGsq/delta/stream/live_wnba_valkyries-atlanta-live-streaming-1211195592/1/playlist.m3u8
 
