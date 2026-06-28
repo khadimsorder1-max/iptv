@@ -1,53 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-28T19:54:08+00:00
-# 8 streams captured from 7 matches
+# Streamed.pk live football matches — built 2026-06-28T20:57:55+00:00
+# 9 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — admin" tvg-id="South_Africa_Vs_Canada_2499618_—_admin" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — admin
 # match: South Africa Vs Canada 2499618
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-south-africa-vs-canada/1
-https://lb12.strmd.st/secure/YkyLzDxQPsPGceBvHDZgzcpOvBCASPOG/rtmp/stream/4umnVyhCEv_GbBShGLFa_rWmOlT-HIay5-xL625OCehhHfd8fKGOs8OCRrKM9wukVWj7DTfVgg/1/playlist.m3u8
+https://lb6.strmd.st/secure/VbJFTUABlqRdeaAbSJHSrtqTRpbWqyOC/rtmp/stream/P9E1z-NY7zcEu-SD-jgJ-xs2lujAqsTr0-hR4K-24VvSqE4PkgXLdywdCCuDdjcYd5iMbQJ77A/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — echo" tvg-id="South_Africa_Vs_Canada_2499618_—_echo" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — echo
 # match: South Africa Vs Canada 2499618
 # provider: echo
 # embed: https://embed.st/embed/echo/south-africa-vs-canada-football-1561329/1
-https://lb15.strmd.st/secure/yJUSyHHelyXjLmQDFSeySpctIGmdzMfC/echo/stream/south-africa-vs-canada-football-1561329/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Dallas Wings Vs Minnesota Lynx 2449082 — admin" tvg-id="Dallas_Wings_Vs_Minnesota_Lynx_2449082_—_admin" group-title="Streamed.pk Live Football",Dallas Wings Vs Minnesota Lynx 2449082 — admin
-# match: Dallas Wings Vs Minnesota Lynx 2449082
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-dallas-wings/1
-https://lb4.strmd.st/secure/FUhKqFOMwDWqmAuytVeIJitOlRnXjwKQ/rtmp/stream/N3oYfKxpRh3lBWnCAaa8L9PuMpH6iIaeMMZEza6T12k1v8WI4-UwEov_475reiUyDFP058LupCMJBsRSqg/1/playlist.m3u8
+https://lb18.strmd.st/secure/pmMaRDydBStVlirYOfxrRjVmaPPKMoqg/echo/stream/south-africa-vs-canada-football-1561329/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Washington Mystics Vs Portland Fire 2469370 — admin" tvg-id="Washington_Mystics_Vs_Portland_Fire_2469370_—_admin" group-title="Streamed.pk Live Football",Washington Mystics Vs Portland Fire 2469370 — admin
 # match: Washington Mystics Vs Portland Fire 2469370
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-portland-fire-vs-washington-mystics/1
-https://lb10.strmd.st/secure/VTNzCBqArCsmCjMNgMpCxQNrDVHTviJi/rtmp/stream/asvcWaxFpgJeyJkLfjAD8pWv_vC150i8GfvFNrhOphGrZKQvvvgu-bmgikW_ZP2TWXUYMLXGB9pcV5Meug3KL4xnbg/1/playlist.m3u8
+https://lb10.strmd.st/secure/dldiAIFcDEikcfXrOcwVfOebpCVWlpas/rtmp/stream/tUYG8XUuuntA0xBegr0lHxzkh3bgRqsQoLWzzqQa2jtmeitsR7X2DWpAa7UmQuo7o_1aGU_ds5W844CRJ02EBnvBZg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chicago Sky Vs Las Vegas Aces 2449083 — admin" tvg-id="Chicago_Sky_Vs_Las_Vegas_Aces_2449083_—_admin" group-title="Streamed.pk Live Football",Chicago Sky Vs Las Vegas Aces 2449083 — admin
+# match: Chicago Sky Vs Las Vegas Aces 2449083
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/1
+https://lb6.strmd.st/secure/hXKiiahwuaglQWWqwxQYQmZnHIPcgFSG/rtmp/stream/5ZDhFnAkcEQy1APH40mT-JbTNwjIoQQtr5eCs39fhVp8RK3TStPxQ11wot7gTglppSqHOzs-F7A2D8Et/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Tna Slammiversary 2026 — admin" tvg-id="Ppv_Tna_Slammiversary_2026_—_admin" group-title="Streamed.pk Live Football",Ppv Tna Slammiversary 2026 — admin
+# match: Ppv Tna Slammiversary 2026
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tna-slammiversary-2026/1
+https://lb9.strmd.st/secure/oyQnfloXihVCeiwkSogvkVtemDRCVZXl/rtmp/stream/Aj2_K2sRo_jW-ZoU5Rk2LCNHEV--tpF6mDgf6spEqoUMst9nKIVsDSuEyzGcNivS-HTwDSw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
+# match: Travelers Championship Pga Tour Pga 526234
+# provider: echo
+# embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
+https://lb1.strmd.st/secure/qYZDfSiJDAkRGviFCslUHfltaKRzIUSh/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chicago Sky W Vs Las Vegas Aces W Basketball 494916 — echo" tvg-id="Chicago_Sky_W_Vs_Las_Vegas_Aces_W_Basketball_494916_—_echo" group-title="Streamed.pk Live Football",Chicago Sky W Vs Las Vegas Aces W Basketball 494916 — echo
+# match: Chicago Sky W Vs Las Vegas Aces W Basketball 494916
+# provider: echo
+# embed: https://embed.st/embed/echo/chicago-sky-w-vs-las-vegas-aces-w-basketball-494916/1
+https://lb20.strmd.st/secure/nChycqkMQFkbomBjKBTvZmLfdxagzBpa/echo/stream/chicago-sky-w-vs-las-vegas-aces-w-basketball-494916/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Washington Mystics W Vs Portland Fire W Basketball 494915 — echo" tvg-id="Washington_Mystics_W_Vs_Portland_Fire_W_Basketball_494915_—_echo" group-title="Streamed.pk Live Football",Washington Mystics W Vs Portland Fire W Basketball 494915 — echo
 # match: Washington Mystics W Vs Portland Fire W Basketball 494915
 # provider: echo
 # embed: https://embed.st/embed/echo/washington-mystics-w-vs-portland-fire-w-basketball-494915/1
-https://lb9.strmd.st/secure/RbKcElBHBbfYThziDtHlECEUqCKMYlUS/echo/stream/washington-mystics-w-vs-portland-fire-w-basketball-494915/1/playlist.m3u8
+https://lb11.strmd.st/secure/WcbBlnhzdgUKoknxheEUTHFIQLcfftzz/echo/stream/washington-mystics-w-vs-portland-fire-w-basketball-494915/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 02 Motoamerica Superbikes Ridge Motorsports Ppv 02 — echo" tvg-id="Ppv_Event_02_Motoamerica_Superbikes_Ridge_Motorsports_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Motoamerica Superbikes Ridge Motorsports Ppv 02 — echo
 # match: Ppv Event 02 Motoamerica Superbikes Ridge Motorsports Ppv 02
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-motoamerica-superbikes-ridge-motorsports-ppv-02/1
-https://lb19.strmd.st/secure/rziqlLKgrBVdlMiACFaulnbqjGrlfWwm/echo/stream/ppv-event-02-motoamerica-superbikes-ridge-motorsports-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Monster Energy Mammoth Motorcross Ppv 01 — echo" tvg-id="Ppv_Event_01_Monster_Energy_Mammoth_Motorcross_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Monster Energy Mammoth Motorcross Ppv 01 — echo
-# match: Ppv Event 01 Monster Energy Mammoth Motorcross Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-monster-energy-mammoth-motorcross-ppv-01/1
-https://lb17.strmd.st/secure/opNwjEHXQDARLgyzcpFCtTKRhcxmHOIK/echo/stream/ppv-event-01-monster-energy-mammoth-motorcross-ppv-01/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Dallas Wings W Vs Minnesota Lynx W Basketball 494914 — echo" tvg-id="Dallas_Wings_W_Vs_Minnesota_Lynx_W_Basketball_494914_—_echo" group-title="Streamed.pk Live Football",Dallas Wings W Vs Minnesota Lynx W Basketball 494914 — echo
-# match: Dallas Wings W Vs Minnesota Lynx W Basketball 494914
-# provider: echo
-# embed: https://embed.st/embed/echo/dallas-wings-w-vs-minnesota-lynx-w-basketball-494914/1
-https://lb3.strmd.st/secure/yvYAGURQtnPXLuDUcSvRHnFfhLbZbnVr/echo/stream/dallas-wings-w-vs-minnesota-lynx-w-basketball-494914/1/playlist.m3u8
+https://lb15.strmd.st/secure/HnsxCEaXaNqMIefKGbLdFoEHvwKNzpcr/echo/stream/ppv-event-02-motoamerica-superbikes-ridge-motorsports-ppv-02/1/playlist.m3u8
 
