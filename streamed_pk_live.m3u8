@@ -1,47 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-28T22:03:35+00:00
-# 7 streams captured from 7 matches
+# Streamed.pk live football matches — built 2026-06-28T23:39:04+00:00
+# 10 streams captured from 8 matches
+
+#EXTINF:-1 tvg-name="De Los Santos Vs Valenzuela 2478615 — admin" tvg-id="De_Los_Santos_Vs_Valenzuela_2478615_—_admin" group-title="Streamed.pk Live Football",De Los Santos Vs Valenzuela 2478615 — admin
+# match: De Los Santos Vs Valenzuela 2478615
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-zuffa-boxing-08-de-los-santos-vs-valenzuela/1
+https://lb20.strmd.st/secure/ClJZuYPHpAJfIcMeBuIfMtyVBPqTpSOi/rtmp/stream/QKFWNCBvRMJ-8lq3Gnv-jjV5V3Cam8TIzutEUYVUDO0rp2qavCgDTN756FTJa2dFaHFsu8Xs0Q/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="De Los Santos Vs Valenzuela 2478615 — echo" tvg-id="De_Los_Santos_Vs_Valenzuela_2478615_—_echo" group-title="Streamed.pk Live Football",De Los Santos Vs Valenzuela 2478615 — echo
 # match: De Los Santos Vs Valenzuela 2478615
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-09-santos-v-valenzuela-ppv-09/1
-https://lb2.strmd.st/secure/AizhxwDXYlTagFxYsdPcniZoyzIJZJwq/echo/stream/ppv-event-09-santos-v-valenzuela-ppv-09/1/playlist.m3u8
+https://lb10.strmd.st/secure/WKorVnYXtmMyVvtHOPQJQuyRrcHAOkuS/echo/stream/ppv-event-09-santos-v-valenzuela-ppv-09/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Sky Vs Las Vegas Aces 2449083 — admin" tvg-id="Chicago_Sky_Vs_Las_Vegas_Aces_2449083_—_admin" group-title="Streamed.pk Live Football",Chicago Sky Vs Las Vegas Aces 2449083 — admin
-# match: Chicago Sky Vs Las Vegas Aces 2449083
+#EXTINF:-1 tvg-name="Golden State Valkyries Vs New York Liberty 2449084 — admin" tvg-id="Golden_State_Valkyries_Vs_New_York_Liberty_2449084_—_admin" group-title="Streamed.pk Live Football",Golden State Valkyries Vs New York Liberty 2449084 — admin
+# match: Golden State Valkyries Vs New York Liberty 2449084
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-las-vegas-aces-vs-chicago-sky/1
-https://lb17.strmd.st/secure/twsCjEyXzGOCHFPMaIrvEBNSlZRrSiWP/rtmp/stream/JaQl_qN4gtV8C6v4QK2bsBjHPud9QNxmMuhssVDL4yAswRjgTjAufh6QDr9eOXeie2RpZDQManOlq00q/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-golden-state-valkyries/1
+https://lb19.strmd.st/secure/YfUWVIIZcGfmyPxzEZnToNZBDRLbCLnT/rtmp/stream/Mzf9IQ5QgkkatFsSVixeViIx6FUQ_unV5QrcmlmLVlCV9T8aQYYNQ3cv4qjHIe1ozAn0s6v6ZIJs_Eki3vagnPUxd3yzBQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Tna Slammiversary 2026 — admin" tvg-id="Ppv_Tna_Slammiversary_2026_—_admin" group-title="Streamed.pk Live Football",Ppv Tna Slammiversary 2026 — admin
-# match: Ppv Tna Slammiversary 2026
+#EXTINF:-1 tvg-name="Montreal Alouettes Vs Ottawa Redblacks 2432547 — admin" tvg-id="Montreal_Alouettes_Vs_Ottawa_Redblacks_2432547_—_admin" group-title="Streamed.pk Live Football",Montreal Alouettes Vs Ottawa Redblacks 2432547 — admin
+# match: Montreal Alouettes Vs Ottawa Redblacks 2432547
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-tna-slammiversary-2026/1
-https://lb10.strmd.st/secure/uNdnQMUQZfcGqJBlRktRwrppxzyBeGVy/rtmp/stream/mmLO78wXRTNlbBUIXF2go6FqeidpNG2eo3wfrWbcL_wtMLv9ICZV9LFJdw3ZTzKsBFsCX2I/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-montreal-alouettes/1
+https://lb15.strmd.st/secure/ElVeaLLJATJXwAILGPkscbNtHxUGiDOm/rtmp/stream/huKsluQCmFWdJS247xq6v14Adu5hybyrm_Ex3EPr-2Y9PbXRgY7RSYl1uwxYuoVuVUEh1S1ahdWZSVrsh8pC5iGjC10Nvyg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Los Angeles Knight Riders Vs Seattle Orcas 2466427 — echo" tvg-id="Los_Angeles_Knight_Riders_Vs_Seattle_Orcas_2466427_—_echo" group-title="Streamed.pk Live Football",Los Angeles Knight Riders Vs Seattle Orcas 2466427 — echo
-# match: Los Angeles Knight Riders Vs Seattle Orcas 2466427
+#EXTINF:-1 tvg-name="Ppv Aew Forbidden Door 2026 — admin" tvg-id="Ppv_Aew_Forbidden_Door_2026_—_admin" group-title="Streamed.pk Live Football",Ppv Aew Forbidden Door 2026 — admin
+# match: Ppv Aew Forbidden Door 2026
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-aew-forbidden-door-2026/1
+https://lb5.strmd.st/secure/JplAtZJWTvfgkdKQQtOmgrkebEMUOIEO/rtmp/stream/GMgMBkE9hqaXLgwvvLWj_2V97AERMNcSMcJSwv6MTg1VQHIrjvZVSYjV1RjBbxZrQVGObeg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Aew Forbidden Door 2026 — echo" tvg-id="Ppv_Aew_Forbidden_Door_2026_—_echo" group-title="Streamed.pk Live Football",Ppv Aew Forbidden Door 2026 — echo
+# match: Ppv Aew Forbidden Door 2026
 # provider: echo
-# embed: https://embed.st/embed/echo/mlc-la-knight-riders-vs-seattle-orcas-cricket-1/1
-https://lb8.strmd.st/secure/lzLENOORNpMcAvJLvxEqbEjhxocdSyyO/echo/stream/mlc-la-knight-riders-vs-seattle-orcas-cricket-1/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-05-aew-forbidden-door-ppv-05/1
+https://lb10.strmd.st/secure/DNLsTKeQOpXMWSCnkFUMOYZZVFntaKkP/echo/stream/ppv-event-05-aew-forbidden-door-ppv-05/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
 # match: Travelers Championship Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb7.strmd.st/secure/KVSjDsyohVsfvVogQUfsXZcainMiqlyZ/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+https://lb4.strmd.st/secure/RTQecVRPPvORffZsAJaGOitZqtEiJLBL/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Sky W Vs Las Vegas Aces W Basketball 494916 — echo" tvg-id="Chicago_Sky_W_Vs_Las_Vegas_Aces_W_Basketball_494916_—_echo" group-title="Streamed.pk Live Football",Chicago Sky W Vs Las Vegas Aces W Basketball 494916 — echo
-# match: Chicago Sky W Vs Las Vegas Aces W Basketball 494916
+#EXTINF:-1 tvg-name="Golden State Valkyries W Vs New York Liberty W Basketball 494917 — echo" tvg-id="Golden_State_Valkyries_W_Vs_New_York_Liberty_W_Basketball_494917_—_echo" group-title="Streamed.pk Live Football",Golden State Valkyries W Vs New York Liberty W Basketball 494917 — echo
+# match: Golden State Valkyries W Vs New York Liberty W Basketball 494917
 # provider: echo
-# embed: https://embed.st/embed/echo/chicago-sky-w-vs-las-vegas-aces-w-basketball-494916/1
-https://lb4.strmd.st/secure/PHxcjYcXcnjriehPNQbeClcwHKelSiXF/echo/stream/chicago-sky-w-vs-las-vegas-aces-w-basketball-494916/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/golden-state-valkyries-w-vs-new-york-liberty-w-basketball-494917/1
+https://lb15.strmd.st/secure/uhlxJjAPMlRlsOfekbHfuoMrOKRJRirE/echo/stream/golden-state-valkyries-w-vs-new-york-liberty-w-basketball-494917/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Washington Mystics W Vs Portland Fire W Basketball 494915 — echo" tvg-id="Washington_Mystics_W_Vs_Portland_Fire_W_Basketball_494915_—_echo" group-title="Streamed.pk Live Football",Washington Mystics W Vs Portland Fire W Basketball 494915 — echo
-# match: Washington Mystics W Vs Portland Fire W Basketball 494915
+#EXTINF:-1 tvg-name="Los Angeles Knight Riders Vs Seattle Orcas 2466427 — echo" tvg-id="Los_Angeles_Knight_Riders_Vs_Seattle_Orcas_2466427_—_echo" group-title="Streamed.pk Live Football",Los Angeles Knight Riders Vs Seattle Orcas 2466427 — echo
+# match: Los Angeles Knight Riders Vs Seattle Orcas 2466427
 # provider: echo
-# embed: https://embed.st/embed/echo/washington-mystics-w-vs-portland-fire-w-basketball-494915/1
-https://lb18.strmd.st/secure/bKIdoGyknaNtQeGSlHAxiQOjrexOwKMN/echo/stream/washington-mystics-w-vs-portland-fire-w-basketball-494915/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/mlc-la-knight-riders-vs-seattle-orcas-cricket-1/1
+https://lb18.strmd.st/secure/dMLCALFwjwKoDvAKkvNRwFuuBqFhatmb/echo/stream/mlc-la-knight-riders-vs-seattle-orcas-cricket-1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Tna Slammiversary 2026 — admin" tvg-id="Ppv_Tna_Slammiversary_2026_—_admin" group-title="Streamed.pk Live Football",Ppv Tna Slammiversary 2026 — admin
+# match: Ppv Tna Slammiversary 2026
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tna-slammiversary-2026/1
+https://lb16.strmd.st/secure/ZyRiHaQBBPzlOdufuRjNzrvuIwhGDWwr/rtmp/stream/AUdMgcjoZn_5Lj4-4DPZYFs9NuREhMan0czn6zY1PKI6J6GrET41En0vw7RtGQ0xD0MWOtw/1/playlist.m3u8
 
