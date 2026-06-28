@@ -1,71 +1,71 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-27T23:11:21+00:00
-# 11 streams captured from 8 matches
-
-#EXTINF:-1 tvg-name="Panama Vs England 2391781 — admin" tvg-id="Panama_Vs_England_2391781_—_admin" group-title="Streamed.pk Live Football",Panama Vs England 2391781 — admin
-# match: Panama Vs England 2391781
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-panama-vs-england/1
-https://lb19.strmd.st/secure/mCIzCXEReWeZToCurIrVWqcAJSJxWzQH/rtmp/stream/FM02JeLLJD2uSb2XddxcCIVibV9qaainUR7W9Q78LZ5MZ3Oyk8UpbXPSXP8-mNCUImL_mVcj4w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Croatia Vs Ghana 2391779 — admin" tvg-id="Croatia_Vs_Ghana_2391779_—_admin" group-title="Streamed.pk Live Football",Croatia Vs Ghana 2391779 — admin
-# match: Croatia Vs Ghana 2391779
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-croatia-vs-ghana/1
-https://lb14.strmd.st/secure/gHzhZKLxsCUiODqYyKjKaivyLQvsEjfL/rtmp/stream/-7ozuFb2PGmHiLl53VClhTPj0rTgqxhzaBZq4GQVD93ARtn-TFkj8c1Pqn3sskyqupCyC7Td/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-28T01:35:15+00:00
+# 11 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — admin" tvg-id="Colombia_Vs_Portugal_2391778_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — admin
 # match: Colombia Vs Portugal 2391778
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-colombia-vs-portugal/1
-https://lb2.strmd.st/secure/JORJYCKhBivyoKzuzVMcMHsRLyQMfRHR/rtmp/stream/Te6nkb_SgoZgGHTt-boGAJUacyO-Q_PbmVa_mOJEb9jRHN6WGcL-xEGo6TPmqO9qmLPWWoqlxg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Colombia Vs Portugal 2391778 — echo" tvg-id="Colombia_Vs_Portugal_2391778_—_echo" group-title="Streamed.pk Live Football",Colombia Vs Portugal 2391778 — echo
-# match: Colombia Vs Portugal 2391778
-# provider: echo
-# embed: https://embed.st/embed/echo/colombia-vs-portugal-football-1489419/1
-https://lb20.strmd.st/secure/anpBsbnrtFZKUpXFOOIIWMkXRDWPtpUw/echo/stream/colombia-vs-portugal-football-1489419/1/playlist.m3u8
+https://lb1.strmd.st/secure/OFGkLhNoZgMMKMRXsNjxVeAxIfSEXwOV/rtmp/stream/69Bbp6l6jvOeBi-p0n2VSY2Rsiks9nPlXCqvF2zRe-BUonvWGUbNUYV3W1cj4sqfUsYOK2j1Ig/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dr Congo Vs Uzbekistan 2461120 — admin" tvg-id="Dr_Congo_Vs_Uzbekistan_2461120_—_admin" group-title="Streamed.pk Live Football",Dr Congo Vs Uzbekistan 2461120 — admin
 # match: Dr Congo Vs Uzbekistan 2461120
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-congo-dr-vs-uzbekistan/1
-https://lb19.strmd.st/secure/QvhriEqcPwrWIhzlkDQysZrRRARDSJKm/rtmp/stream/JTdWRydsEJEsuj60gmrvvHvwPhKuCl40kesszDFLatYqWbDF-OC86hZOfyevGd2GitagiU9m/1/playlist.m3u8
+https://lb20.strmd.st/secure/qbYRGTAVfBDNsWlbqsOufjIpnZVOCIAv/rtmp/stream/ibX4R45rneb2_ww9TOfYzX-iAkF1tAicjDIbs7uLE5Bn4D-XFI_A1YRYpAC5UipI3zvhlxFS/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dr Congo Vs Uzbekistan 2461120 — echo" tvg-id="Dr_Congo_Vs_Uzbekistan_2461120_—_echo" group-title="Streamed.pk Live Football",Dr Congo Vs Uzbekistan 2461120 — echo
 # match: Dr Congo Vs Uzbekistan 2461120
 # provider: echo
 # embed: https://embed.st/embed/echo/congo-dr-vs-uzbekistan-football-1539013/1
-https://lb3.strmd.st/secure/WgFCBldZvaRTGMuhHBFTvOBSZlUGiLXd/echo/stream/congo-dr-vs-uzbekistan-football-1539013/1/playlist.m3u8
+https://lb13.strmd.st/secure/CcxAwlkhCMISAFJwIqKPgZUWtskphNuO/echo/stream/congo-dr-vs-uzbekistan-football-1539013/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Xander Zayas Vs Jaron Ennis 2466558 — admin" tvg-id="Xander_Zayas_Vs_Jaron_Ennis_2466558_—_admin" group-title="Streamed.pk Live Football",Xander Zayas Vs Jaron Ennis 2466558 — admin
 # match: Xander Zayas Vs Jaron Ennis 2466558
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-xander-zayas-vs-jaron-boots-ennis/1
-https://lb1.strmd.st/secure/LrZyavShFMNytrKEHizPSrCqpdoxznRt/rtmp/stream/-7Td9s93OqTBof2VD45tFBIQi4CF34sgHwBPN6TRrTbFAmFFDkOhwxB79U51jAqDjm7bfvzcl-hHWVw/1/playlist.m3u8
+https://lb11.strmd.st/secure/XAxTEhymzObFbZkiuwviGzfOrVXXWHWG/rtmp/stream/t2jt8OpvOxk6UXdrFfymPa0v3-8WIvpPMDyGp01eTDqNpqFUsuKvQqJosbT4WeZnO5y3aDNXhQQxQZE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Xander Zayas Vs Jaron Ennis 2466558 — echo" tvg-id="Xander_Zayas_Vs_Jaron_Ennis_2466558_—_echo" group-title="Streamed.pk Live Football",Xander Zayas Vs Jaron Ennis 2466558 — echo
 # match: Xander Zayas Vs Jaron Ennis 2466558
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-zayas-v-ennis-ppv-05/1
-https://lb15.strmd.st/secure/MlrrbJcvgjZjnUWZtGPFkaiPdhIHbFQz/echo/stream/ppv-event-05-zayas-v-ennis-ppv-05/1/playlist.m3u8
+https://lb8.strmd.st/secure/ccsRFZUwMzbQxSgfdEmNQbdFyABHzNuK/echo/stream/ppv-event-05-zayas-v-ennis-ppv-05/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bc Lions Vs Calgary Stampeders 2432546 — admin" tvg-id="Bc_Lions_Vs_Calgary_Stampeders_2432546_—_admin" group-title="Streamed.pk Live Football",Bc Lions Vs Calgary Stampeders 2432546 — admin
-# match: Bc Lions Vs Calgary Stampeders 2432546
+#EXTINF:-1 tvg-name="Jordan Vs Argentina 2391780 — admin" tvg-id="Jordan_Vs_Argentina_2391780_—_admin" group-title="Streamed.pk Live Football",Jordan Vs Argentina 2391780 — admin
+# match: Jordan Vs Argentina 2391780
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-calgary-stampeders-vs-bc-lions/1
-https://lb5.strmd.st/secure/nDAkCxCWaCrgYKPzBpjbIRwWUpFoMfsI/rtmp/stream/LbXOnD1INNX9_vYke9K2MBqW3hOgOJkwKKwWcwZ0_dkjPZ88tSeN7d7Xu6WC7OgkGydH0F2AZPL2Dl4TSg/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-jordan-vs-argentina/1
+https://lb3.strmd.st/secure/RmvRpPNbENhHKrjpRypOTLyRCsQmefbb/rtmp/stream/in8Zl8JiGl-FMAWAU-LFxKMQuZnyR3lJgWd6TlYc4lSPpthGAmx24nOtvr7yFBQi5B1IMZNWgw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mi New York Vs Los Angeles Knight Riders 2466425 — echo" tvg-id="Mi_New_York_Vs_Los_Angeles_Knight_Riders_2466425_—_echo" group-title="Streamed.pk Live Football",Mi New York Vs Los Angeles Knight Riders 2466425 — echo
-# match: Mi New York Vs Los Angeles Knight Riders 2466425
+#EXTINF:-1 tvg-name="Jordan Vs Argentina 2391780 — echo" tvg-id="Jordan_Vs_Argentina_2391780_—_echo" group-title="Streamed.pk Live Football",Jordan Vs Argentina 2391780 — echo
+# match: Jordan Vs Argentina 2391780
 # provider: echo
-# embed: https://embed.st/embed/echo/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1
-https://lb10.strmd.st/secure/rkOrAQZWvQxgTaAjcZysMXkdIyzKNmeh/echo/stream/mlc-mi-new-york-vs-la-knight-riders-cricket-1/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/jordan-vs-argentina-football-1489421/1
+https://lb12.strmd.st/secure/iGddUVtfZXNerkqclmmNfhpzunHhUpYA/echo/stream/jordan-vs-argentina-football-1489421/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
-# match: Travelers Championship Pga Tour Pga 526234
+#EXTINF:-1 tvg-name="Seattle Storm Vs Atlanta Dream 2449081 — admin" tvg-id="Seattle_Storm_Vs_Atlanta_Dream_2449081_—_admin" group-title="Streamed.pk Live Football",Seattle Storm Vs Atlanta Dream 2449081 — admin
+# match: Seattle Storm Vs Atlanta Dream 2449081
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-atlanta-dream-vs-seattle-storm/1
+https://lb7.strmd.st/secure/oCPdxfqKgBWPPFEfficpfIEldQHPanyF/rtmp/stream/jAugLSFSS1d3sRngRqcT_ISf45yLPDy_LC-W05Gcbo5MH3RoOjUfrmaXX3eMfPMAOq5RqfyJLfCptnhEdfw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indiana Fever Vs Los Angeles Sparks 2449080 — admin" tvg-id="Indiana_Fever_Vs_Los_Angeles_Sparks_2449080_—_admin" group-title="Streamed.pk Live Football",Indiana Fever Vs Los Angeles Sparks 2449080 — admin
+# match: Indiana Fever Vs Los Angeles Sparks 2449080
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-indiana-fever/1
+https://lb2.strmd.st/secure/JGvuCqQZuGGkrjwLfnTYLNLmvpPmqqbo/rtmp/stream/eJe1frv7ybuNd4v1WZS1f51lSQn67RBAGX1OGpJnkcho0dZ7ZDGehgmsl0qRAZzk3-KrsPrVCkndDaSY3dI/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Algeria Vs Austria 2391777 — admin" tvg-id="Algeria_Vs_Austria_2391777_—_admin" group-title="Streamed.pk Live Football",Algeria Vs Austria 2391777 — admin
+# match: Algeria Vs Austria 2391777
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-algeria-vs-austria/1
+https://lb19.strmd.st/secure/qMYDGjlDansOtiGOmbxfLQSSAWVLaMRQ/rtmp/stream/azniucDn5-cZP6fjCvOyMp_os9LLKagIMx52SZNf7l5_9RoDl-5F1CjechvO0mDgCUjxIIIs/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Algeria Vs Austria 2391777 — echo" tvg-id="Algeria_Vs_Austria_2391777_—_echo" group-title="Streamed.pk Live Football",Algeria Vs Austria 2391777 — echo
+# match: Algeria Vs Austria 2391777
 # provider: echo
-# embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb11.strmd.st/secure/vMASIdGOfRbupgJViVdBJedTMvBWxApQ/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/algeria-vs-austria-football-1489418/1
+https://lb9.strmd.st/secure/zbYkGDRCaNjeCMwuPiQDskfQcxCeGpMf/echo/stream/algeria-vs-austria-football-1489418/1/playlist.m3u8
 
