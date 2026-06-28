@@ -1,17 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-28T16:43:04+00:00
-# 2 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-06-28T18:02:52+00:00
+# 3 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — admin" tvg-id="South_Africa_Vs_Canada_2499618_—_admin" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — admin
 # match: South Africa Vs Canada 2499618
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-south-africa-vs-canada/1
-https://lb4.strmd.st/secure/IowHNNNodScBvMorEHYEVqmDMnNiTmyg/rtmp/stream/fbWIdKWN7PvRqLcPn8aUrVRTPD79Zhhnxh5m8HGpoRL1VTJNOhWN8bdlDGY-nTjjkDJM6t-kPA/1/playlist.m3u8
+https://lb12.strmd.st/secure/qOUIKyIhUYghPlcLspQzkbIsjCWzDmWf/rtmp/stream/fJAnhhQNemToSWGDfiXLwRli7JCyVDWxjUvsjQIaLToatHfUlBA9Zlh0mkWFUlNVAHhctrRmTQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — echo" tvg-id="South_Africa_Vs_Canada_2499618_—_echo" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — echo
 # match: South Africa Vs Canada 2499618
 # provider: echo
 # embed: https://embed.st/embed/echo/south-africa-vs-canada-football-1561329/1
-https://lb11.strmd.st/secure/CgIdgIsfpKZtWxKrlGJpyzUNvDYTTQDd/echo/stream/south-africa-vs-canada-football-1561329/1/playlist.m3u8
+https://lb18.strmd.st/secure/bSVxKDcZBkaNeMTNdsABaKnoIuggZJAK/echo/stream/south-africa-vs-canada-football-1561329/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dallas Wings Vs Minnesota Lynx 2449082 — admin" tvg-id="Dallas_Wings_Vs_Minnesota_Lynx_2449082_—_admin" group-title="Streamed.pk Live Football",Dallas Wings Vs Minnesota Lynx 2449082 — admin
+# match: Dallas Wings Vs Minnesota Lynx 2449082
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-dallas-wings/1
+https://lb4.strmd.st/secure/IbOVVJpfJEmzWciOUhFaGGebcAmmRJbk/rtmp/stream/EoxLrPV1DsfnPanzc5fjaGTMGFY9vvUv9LHDRGSOSBOow_TnnUd4IpHXzwuNXQgZDC7NdNnAhjQI-CYMZQ/1/playlist.m3u8
 
