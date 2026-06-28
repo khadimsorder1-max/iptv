@@ -1,53 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-28T09:41:33+00:00
-# 8 streams captured from 8 matches
-
-#EXTINF:-1 tvg-name="Motogp Netherlands Grand Prix Game 122273 — echo" tvg-id="Motogp_Netherlands_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Football",Motogp Netherlands Grand Prix Game 122273 — echo
-# match: Motogp Netherlands Grand Prix Game 122273
-# provider: echo
-# embed: https://embed.st/embed/echo/motogp-netherlands-grand-prix-game-122273/1
-https://lb5.strmd.st/secure/vToOduwzspeVtMbEHqcHBUlIjHrwVtAp/echo/stream/motogp-netherlands-grand-prix-game-122273/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fremantle Dockers Vs Gold Coast Suns Australian Football 3557 — echo" tvg-id="Fremantle_Dockers_Vs_Gold_Coast_Suns_Australian_Football_3557_—_echo" group-title="Streamed.pk Live Football",Fremantle Dockers Vs Gold Coast Suns Australian Football 3557 — echo
-# match: Fremantle Dockers Vs Gold Coast Suns Australian Football 3557
-# provider: echo
-# embed: https://embed.st/embed/echo/fremantle-dockers-vs-gold-coast-suns-australian-football-3557/1
-https://lb15.strmd.st/secure/HSfVKCeBGHajjIhRlOpwdPlXceTOMQlS/echo/stream/fremantle-dockers-vs-gold-coast-suns-australian-football-3557/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="World Rally Championship Greece Racing 0059 — echo" tvg-id="World_Rally_Championship_Greece_Racing_0059_—_echo" group-title="Streamed.pk Live Football",World Rally Championship Greece Racing 0059 — echo
-# match: World Rally Championship Greece Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/world-rally-championship-greece-racing-0059/1
-https://lb8.strmd.st/secure/mRQvgehnJssYQYlQhspWERCWjgoFeNjj/echo/stream/world-rally-championship-greece-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 15 Pancrase 363 Pppv15 — echo" tvg-id="Ppv_Event_15_Pancrase_363_Pppv15_—_echo" group-title="Streamed.pk Live Football",Ppv Event 15 Pancrase 363 Pppv15 — echo
-# match: Ppv Event 15 Pancrase 363 Pppv15
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-15-pancrase-363-pppv15/1
-https://lb9.strmd.st/secure/lLAHLQoPpUcrxdZjdYfIxxTulSlVKiTE/echo/stream/ppv-event-15-pancrase-363-pppv15/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 14 Gcw Amerikaz Most Wanted Ppv14 — echo" tvg-id="Ppv_Event_14_Gcw_Amerikaz_Most_Wanted_Ppv14_—_echo" group-title="Streamed.pk Live Football",Ppv Event 14 Gcw Amerikaz Most Wanted Ppv14 — echo
-# match: Ppv Event 14 Gcw Amerikaz Most Wanted Ppv14
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-14-gcw-amerikaz-most-wanted-ppv14/1
-https://lb11.strmd.st/secure/NZvYkbVTeUsEWnKMlTHJXtPAKAZCJOsk/echo/stream/ppv-event-14-gcw-amerikaz-most-wanted-ppv14/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Canberra Raiders Vs St George Illawara Dragons 2417290 — admin" tvg-id="Canberra_Raiders_Vs_St_George_Illawara_Dragons_2417290_—_admin" group-title="Streamed.pk Live Football",Canberra Raiders Vs St George Illawara Dragons 2417290 — admin
-# match: Canberra Raiders Vs St George Illawara Dragons 2417290
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-raiders-vs-dragons/1
-https://lb1.strmd.st/secure/PzoATYuxWYkPobDaSTuBGIeGwtTjVJKV/rtmp/stream/PjyWcUVX2CJ0SgAdieoo2BTcSiJCzEQyX43BfC-BvRyvIYkFfNyiFM6Xb2oFjwuDDBi_x91TCYK0UI0/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 12 Mma Mexico 8 Ppv 12 — echo" tvg-id="Ppv_Event_12_Mma_Mexico_8_Ppv_12_—_echo" group-title="Streamed.pk Live Football",Ppv Event 12 Mma Mexico 8 Ppv 12 — echo
-# match: Ppv Event 12 Mma Mexico 8 Ppv 12
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-12-mma-mexico-8-ppv-12/1
-https://lb19.strmd.st/secure/rGIKyIscsamMoDxiRMcSNGqeeKlsqCGg/echo/stream/ppv-event-12-mma-mexico-8-ppv-12/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 11 Urijah Fabers A1 Combat 36 Ppv 11 — echo" tvg-id="Ppv_Event_11_Urijah_Fabers_A1_Combat_36_Ppv_11_—_echo" group-title="Streamed.pk Live Football",Ppv Event 11 Urijah Fabers A1 Combat 36 Ppv 11 — echo
-# match: Ppv Event 11 Urijah Fabers A1 Combat 36 Ppv 11
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-11-urijah-fabers-a1-combat-36-ppv-11/1
-https://lb9.strmd.st/secure/XbWlbPKjllinJavQeMRGGBrsFlkoLINt/echo/stream/ppv-event-11-urijah-fabers-a1-combat-36-ppv-11/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-28T11:44:58+00:00
+# 0 streams captured from 0 matches
 
