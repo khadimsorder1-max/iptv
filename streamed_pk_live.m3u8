@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-28T15:03:31+00:00
-# 2 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-06-28T16:43:04+00:00
+# 2 streams captured from 1 matches
 
-#EXTINF:-1 tvg-name="Austrian Grand Prix 2408161 — admin" tvg-id="Austrian_Grand_Prix_2408161_—_admin" group-title="Streamed.pk Live Football",Austrian Grand Prix 2408161 — admin
-# match: Austrian Grand Prix 2408161
+#EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — admin" tvg-id="South_Africa_Vs_Canada_2499618_—_admin" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — admin
+# match: South Africa Vs Canada 2499618
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-austrian-grand-prix-race/1
-https://lb3.strmd.st/secure/BGoFvZdatrVlsAxXnrHVTFNfFaMHHDiL/rtmp/stream/eSZbwbznC_ZVy-eFiJiaVxIhSG4hsmrLo3Z0Mkcy7GAcc5EydptUmA0DffqySMZjjtpovosqXZ9nNE9P-D8L-SAi-BfL/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-south-africa-vs-canada/1
+https://lb4.strmd.st/secure/IowHNNNodScBvMorEHYEVqmDMnNiTmyg/rtmp/stream/fbWIdKWN7PvRqLcPn8aUrVRTPD79Zhhnxh5m8HGpoRL1VTJNOhWN8bdlDGY-nTjjkDJM6t-kPA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Firenze Red Lions Vs Wroc Aw Panthers 2475810 — admin" tvg-id="Firenze_Red_Lions_Vs_Wroc_Aw_Panthers_2475810_—_admin" group-title="Streamed.pk Live Football",Firenze Red Lions Vs Wroc Aw Panthers 2475810 — admin
-# match: Firenze Red Lions Vs Wroc Aw Panthers 2475810
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-panthers-wroclaw-vs-firenze-red-lions/1
-https://lb4.strmd.st/secure/jliTuOUbQaySpWctfFAzPbKosnoLDGKw/rtmp/stream/wZV4gGWxAW_Sz2eenEYkDVyPr7RkKAUZUbovlMu9Fnz8GhBecAn5-RtCfyPRTBDnxgksxeSgn9PuuNY77rwsc0gu-Fbh-Q/1/playlist.m3u8
+#EXTINF:-1 tvg-name="South Africa Vs Canada 2499618 — echo" tvg-id="South_Africa_Vs_Canada_2499618_—_echo" group-title="Streamed.pk Live Football",South Africa Vs Canada 2499618 — echo
+# match: South Africa Vs Canada 2499618
+# provider: echo
+# embed: https://embed.st/embed/echo/south-africa-vs-canada-football-1561329/1
+https://lb11.strmd.st/secure/CgIdgIsfpKZtWxKrlGJpyzUNvDYTTQDd/echo/stream/south-africa-vs-canada-football-1561329/1/playlist.m3u8
 
