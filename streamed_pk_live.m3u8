@@ -1,11 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-29T12:45:54+00:00
-# 1 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-06-29T16:37:40+00:00
+# 3 streams captured from 2 matches
+
+#EXTINF:-1 tvg-name="Brazil Vs Japan 2499835 — admin" tvg-id="Brazil_Vs_Japan_2499835_—_admin" group-title="Streamed.pk Live Football",Brazil Vs Japan 2499835 — admin
+# match: Brazil Vs Japan 2499835
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-brazil-vs-japan/1
+https://lb9.strmd.st/secure/kUsuKRbHkiCzWnnpKrKWBuPaOaLhVUCz/rtmp/stream/KA0Il1lra6HZC_iL7-q0iQTDB8Bs4MB-akLac2fNz_zwiVsNWQFhSjNUooUTzEsVsiskerDMZQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brazil Vs Japan 2499835 — echo" tvg-id="Brazil_Vs_Japan_2499835_—_echo" group-title="Streamed.pk Live Football",Brazil Vs Japan 2499835 — echo
+# match: Brazil Vs Japan 2499835
+# provider: echo
+# embed: https://embed.st/embed/echo/brazil-vs-japan-football-1562344/1
+https://lb5.strmd.st/secure/vaFDjNwpBPGWkxfGyXbrYiqPzFgQNzQz/echo/stream/brazil-vs-japan-football-1562344/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb7.strmd.st/secure/kFUoiDdPwWLsquRuWfRnTOCtbrpUPADI/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb13.strmd.st/secure/NIRDDCuYVnEDyFNrbXqdlZNGIDQUooXK/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
