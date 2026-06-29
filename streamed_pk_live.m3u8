@@ -1,53 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-29T02:59:33+00:00
-# 8 streams captured from 6 matches
-
-#EXTINF:-1 tvg-name="Ppv Aew Forbidden Door 2026 — admin" tvg-id="Ppv_Aew_Forbidden_Door_2026_—_admin" group-title="Streamed.pk Live Football",Ppv Aew Forbidden Door 2026 — admin
-# match: Ppv Aew Forbidden Door 2026
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-aew-forbidden-door-2026/1
-https://lb2.strmd.st/secure/esaOmfuRBcshmBOTWKNbQMfXIjcKMdiB/rtmp/stream/tLhOob6dQA8MwLD-ljWpMGj2csA1M-TeMIZVm6xkc_MkFsieSXO86ynPV9tFM8IjmvJu0qY/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Aew Forbidden Door 2026 — echo" tvg-id="Ppv_Aew_Forbidden_Door_2026_—_echo" group-title="Streamed.pk Live Football",Ppv Aew Forbidden Door 2026 — echo
-# match: Ppv Aew Forbidden Door 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-05-aew-forbidden-door-ppv-05/1
-https://lb1.strmd.st/secure/gDkXUdXPyYEbQkgShaECGieusCtfFcSc/echo/stream/ppv-event-05-aew-forbidden-door-ppv-05/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="De Los Santos Vs Valenzuela 2478615 — admin" tvg-id="De_Los_Santos_Vs_Valenzuela_2478615_—_admin" group-title="Streamed.pk Live Football",De Los Santos Vs Valenzuela 2478615 — admin
-# match: De Los Santos Vs Valenzuela 2478615
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-zuffa-boxing-08-de-los-santos-vs-valenzuela/1
-https://lb3.strmd.st/secure/pfCbqvRWxrGcChIiPkMzFKZaRWWVrRKs/rtmp/stream/wwqO3K2rS_URpnyzGA-AnmVPFsVxRxPd2B9w6cbmMxh7UBMKpB0nlQ3YXId6BDDaxnB0JXL2Qg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="De Los Santos Vs Valenzuela 2478615 — echo" tvg-id="De_Los_Santos_Vs_Valenzuela_2478615_—_echo" group-title="Streamed.pk Live Football",De Los Santos Vs Valenzuela 2478615 — echo
-# match: De Los Santos Vs Valenzuela 2478615
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-09-santos-v-valenzuela-ppv-09/1
-https://lb1.strmd.st/secure/pNzvDudwaWymtMLhjJtryBFjWYieIFVg/echo/stream/ppv-event-09-santos-v-valenzuela-ppv-09/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-29T08:17:15+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Ppv Event 08 Gcw Life Of Crime Ppv 08 — echo" tvg-id="Ppv_Event_08_Gcw_Life_Of_Crime_Ppv_08_—_echo" group-title="Streamed.pk Live Football",Ppv Event 08 Gcw Life Of Crime Ppv 08 — echo
 # match: Ppv Event 08 Gcw Life Of Crime Ppv 08
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-08-gcw-life-of-crime-ppv-08/1
-https://lb1.strmd.st/secure/wqzckhuxEXhAtLIrsAWuCfFAFiBwBVxw/echo/stream/ppv-event-08-gcw-life-of-crime-ppv-08/1/playlist.m3u8
+https://lb7.strmd.st/secure/MhtSXTQooUvkVYMFRUHrxWODDJYckmcn/echo/stream/ppv-event-08-gcw-life-of-crime-ppv-08/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 07 World Of Outlaws Late Models Nodak Ppv 07 — echo" tvg-id="Ppv_Event_07_World_Of_Outlaws_Late_Models_Nodak_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 World Of Outlaws Late Models Nodak Ppv 07 — echo
 # match: Ppv Event 07 World Of Outlaws Late Models Nodak Ppv 07
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-world-of-outlaws-late-models-nodak-ppv-07/1
-https://lb2.strmd.st/secure/gWbpDSscznLphqvBlyxCXfyGBWXFfbEa/echo/stream/ppv-event-07-world-of-outlaws-late-models-nodak-ppv-07/1/playlist.m3u8
+https://lb8.strmd.st/secure/IMwOipkUNAgRRateXjCVaMTRGdMDjqGE/echo/stream/ppv-event-07-world-of-outlaws-late-models-nodak-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Weekly Racing Slinger Ppv 06 — echo" tvg-id="Ppv_Event_06_Weekly_Racing_Slinger_Ppv_06_—_echo" group-title="Streamed.pk Live Football",Ppv Event 06 Weekly Racing Slinger Ppv 06 — echo
 # match: Ppv Event 06 Weekly Racing Slinger Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-weekly-racing-slinger-ppv-06/1
-https://lb8.strmd.st/secure/JRJuaJmdeEOlhoNcowefXQbKCVzQCINo/echo/stream/ppv-event-06-weekly-racing-slinger-ppv-06/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Travelers Championship Pga Tour Pga 526234 — echo" tvg-id="Travelers_Championship_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Travelers Championship Pga Tour Pga 526234 — echo
-# match: Travelers Championship Pga Tour Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/travelers-championship-pga-tour-pga-526234/1
-https://lb9.strmd.st/secure/TwVzUBLIvQbFTdrnNRNaxwepVqjVADvX/echo/stream/travelers-championship-pga-tour-pga-526234/1/playlist.m3u8
+https://lb2.strmd.st/secure/xrlzlEWdvrUIAZeMWzVFQEelxtCgPrNR/echo/stream/ppv-event-06-weekly-racing-slinger-ppv-06/1/playlist.m3u8
 
