@@ -1,29 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-29T19:03:36+00:00
-# 4 streams captured from 2 matches
-
-#EXTINF:-1 tvg-name="Brazil Vs Japan 2499835 — admin" tvg-id="Brazil_Vs_Japan_2499835_—_admin" group-title="Streamed.pk Live Football",Brazil Vs Japan 2499835 — admin
-# match: Brazil Vs Japan 2499835
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-brazil-vs-japan/1
-https://lb2.strmd.st/secure/JzpfxGcNRPIrJSTdEgJXEBTxRUGGkIEl/rtmp/stream/DmvqPB8xrZnnqE_m9zJIEoWB7-3vo6cSYxW_xJLgiOq9gx8FW0cDSZODeYYoz5oElOrwIc4Zrw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brazil Vs Japan 2499835 — echo" tvg-id="Brazil_Vs_Japan_2499835_—_echo" group-title="Streamed.pk Live Football",Brazil Vs Japan 2499835 — echo
-# match: Brazil Vs Japan 2499835
-# provider: echo
-# embed: https://embed.st/embed/echo/brazil-vs-japan-football-1562344/1
-https://lb8.strmd.st/secure/jsgivgHHfSdyPvtgTRQAUaJzdcPQEGHV/echo/stream/brazil-vs-japan-football-1562344/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-06-29T21:07:34+00:00
+# 2 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Germany Vs Paraguay 2502846 — admin" tvg-id="Germany_Vs_Paraguay_2502846_—_admin" group-title="Streamed.pk Live Football",Germany Vs Paraguay 2502846 — admin
 # match: Germany Vs Paraguay 2502846
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-germany-vs-paraguay/1
-https://lb3.strmd.st/secure/xewCjDVPOwVHzMKrBCeTLlHxmUhSNEVt/rtmp/stream/9VY_hYeMiO3DRtelbD_D1D8JFodvUp-KPKpN4l0n89S3JOclidkHjfhISEim3pTxR759VT-_TQ/1/playlist.m3u8
+https://lb5.strmd.st/secure/XUVZcxqpHKikjMTpOxycNeLXxoohoREq/rtmp/stream/9ZusCM2KNrgsjlejFAcddU3hYEpyPXlZX7_10Glx4ojd5IiyOS1GnSk26sEt0izZNAtFRKifKw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Germany Vs Paraguay 2502846 — echo" tvg-id="Germany_Vs_Paraguay_2502846_—_echo" group-title="Streamed.pk Live Football",Germany Vs Paraguay 2502846 — echo
 # match: Germany Vs Paraguay 2502846
 # provider: echo
 # embed: https://embed.st/embed/echo/germany-vs-paraguay-football-1565176/1
-https://lb9.strmd.st/secure/PIikqboNSYMATWhWOUTTzBvEPjYZbEnv/echo/stream/germany-vs-paraguay-football-1565176/1/playlist.m3u8
+https://lb3.strmd.st/secure/WDujLFODCKzlaCUeUnbfMmqDUNKkbINE/echo/stream/germany-vs-paraguay-football-1565176/1/playlist.m3u8
 
