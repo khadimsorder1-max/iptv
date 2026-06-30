@@ -1,23 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-30T16:01:51+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-06-30T18:19:06+00:00
+# 4 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="Ivory Coast Vs Norway 2502605 — admin" tvg-id="Ivory_Coast_Vs_Norway_2502605_—_admin" group-title="Streamed.pk Live Football",Ivory Coast Vs Norway 2502605 — admin
 # match: Ivory Coast Vs Norway 2502605
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-ivory-coast-vs-norway/1
-https://lb7.strmd.st/secure/cePuIWThFxckyXGzoxlndENMmxyMFnth/rtmp/stream/7EBgeJd9OMowF3zoWjR0Y7TyKGpm7p4nmevS_U-pYe9cuX3-V8pp7Jvwx5gz9UgL5h6aWBUI9w/1/playlist.m3u8
+https://lb2.strmd.st/secure/ShUOetDqQnMLvctudPTAeVynUFBdUMTf/rtmp/stream/V2uls-1_1jxYIj3XdRnSUu_av2PH7fIrxXsxFSZQwwFnC31DmO6T-QGP8QMiEA--PIyhNTl_hQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ivory Coast Vs Norway 2502605 — echo" tvg-id="Ivory_Coast_Vs_Norway_2502605_—_echo" group-title="Streamed.pk Live Football",Ivory Coast Vs Norway 2502605 — echo
 # match: Ivory Coast Vs Norway 2502605
 # provider: echo
 # embed: https://embed.st/embed/echo/ivory-coast-vs-norway-football-1564789/1
-https://lb1.strmd.st/secure/kTmJPszkXZGVShQacAfXxOdWKjKbRuIT/echo/stream/ivory-coast-vs-norway-football-1564789/1/playlist.m3u8
+https://lb11.strmd.st/secure/gOejHcakBNAcPKEzbsGOznLmENFgwYDA/echo/stream/ivory-coast-vs-norway-football-1564789/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
+#EXTINF:-1 tvg-name="France Vs Sweden 2502847 — admin" tvg-id="France_Vs_Sweden_2502847_—_admin" group-title="Streamed.pk Live Football",France Vs Sweden 2502847 — admin
+# match: France Vs Sweden 2502847
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-france-vs-sweden/1
+https://lb5.strmd.st/secure/mjVzvoFkebNHcPePWshlJafFqgkIBGXC/rtmp/stream/py5tBr3fg-PEeQWsYYq9NoE9FD_XyM1WD5Jza3D8QPstTqYMJKOHDcF9uoXIPohyxLFxq3c3rw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France Vs Sweden 2502847 — echo" tvg-id="France_Vs_Sweden_2502847_—_echo" group-title="Streamed.pk Live Football",France Vs Sweden 2502847 — echo
+# match: France Vs Sweden 2502847
 # provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb15.strmd.st/secure/joKWHLaaxymkrrHXHADqrhGjvkwfHQTk/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/france-vs-sweden-football-1565177/1
+https://lb4.strmd.st/secure/jLjHQYYyTTrhFyJLWytXYzWloXDzrDdL/echo/stream/france-vs-sweden-football-1565177/1/playlist.m3u8
 
