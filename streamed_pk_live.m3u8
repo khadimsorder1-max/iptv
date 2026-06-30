@@ -1,41 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-29T22:37:00+00:00
+# Streamed.pk live football matches — built 2026-06-30T00:00:21+00:00
 # 6 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Germany Vs Paraguay 2502846 — admin" tvg-id="Germany_Vs_Paraguay_2502846_—_admin" group-title="Streamed.pk Live Football",Germany Vs Paraguay 2502846 — admin
 # match: Germany Vs Paraguay 2502846
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-germany-vs-paraguay/1
-https://lb19.strmd.st/secure/BrUATlHiWTVZqzBanucEqFnDZwknJQDx/rtmp/stream/40a6_z9MoIN9lYOIy9JYYnR0becn4tftNhJJbGAwWIUo5q4T3MxrLn2XgfQ4Z3cflmnFfOBi9w/1/playlist.m3u8
+https://lb8.strmd.st/secure/YdKqdZatwYhBdNciIqoGHEhXoLRMJndx/rtmp/stream/3MshGVXbQfs8VoGCTAH6gdHhiz_GyXDX4qCU-U4Gwlh_HeqWEsoJJArJ8sKlQHpz7oM-ZWAKIQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Germany Vs Paraguay 2502846 — echo" tvg-id="Germany_Vs_Paraguay_2502846_—_echo" group-title="Streamed.pk Live Football",Germany Vs Paraguay 2502846 — echo
 # match: Germany Vs Paraguay 2502846
 # provider: echo
 # embed: https://embed.st/embed/echo/germany-vs-paraguay-football-1565176/1
-https://lb4.strmd.st/secure/bUmHTNMnZZjYZNwRtsQDJLvVUDZKIGcV/echo/stream/germany-vs-paraguay-football-1565176/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — admin" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — admin
-# match: Ppv Wwe Monday Night Raw
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1
-https://lb6.strmd.st/secure/TGjyuPmeFEFrUgjxyFsWYJBlIIliTEbH/rtmp/stream/YJcv9QbwMWQwxXmpZovhVgyBF6f5fgqjwg_vKPXiJZ5hxf9dZYb3Jok4S3bNsC_k_6nNOg0YUg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — echo" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — echo
-# match: Ppv Wwe Monday Night Raw
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-wwe-monday-night-raw-ppv-01/1
-https://lb14.strmd.st/secure/QjODbmdWPtnZdGGvKVDQJQzYfiYYrosx/echo/stream/ppv-event-01-wwe-monday-night-raw-ppv-01/1/playlist.m3u8
+https://lb19.strmd.st/secure/lGhmQqJsrPzRJkwZgppxtRLQXfuvvoDt/echo/stream/germany-vs-paraguay-football-1565176/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Netherlands Vs Morocco 2499836 — admin" tvg-id="Netherlands_Vs_Morocco_2499836_—_admin" group-title="Streamed.pk Live Football",Netherlands Vs Morocco 2499836 — admin
 # match: Netherlands Vs Morocco 2499836
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-netherlands-vs-morocco/1
-https://lb18.strmd.st/secure/CphvWTrckTeBgQZsueRqKZfxUzVUbpEK/rtmp/stream/U4uf0mB8WEcnYR4l4lWZCEjgn2nKhgo-CdFcLE-SG3FANo7etT2IfrSI1zRfnCRkI4G9tZQjpQ/1/playlist.m3u8
+https://lb20.strmd.st/secure/AlHNltbEjseXAYwkWycaLZIxHgpnnYce/rtmp/stream/3mhaE_iUQTztCXcZOaBhbVcBzc4ONbDY7ploDjFItK475ombTS3rGxERins8Z-Si2z1KtyEVVA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Netherlands Vs Morocco 2499836 — echo" tvg-id="Netherlands_Vs_Morocco_2499836_—_echo" group-title="Streamed.pk Live Football",Netherlands Vs Morocco 2499836 — echo
 # match: Netherlands Vs Morocco 2499836
 # provider: echo
 # embed: https://embed.st/embed/echo/netherlands-vs-morocco-football-1562345/1
-https://lb7.strmd.st/secure/vnqzYcPatdXubKlZoxXedzmdRkBMiLDz/echo/stream/netherlands-vs-morocco-football-1562345/1/playlist.m3u8
+https://lb11.strmd.st/secure/QqUjcnHzjDROzbTUywJbZrNRsfEFQIBr/echo/stream/netherlands-vs-morocco-football-1562345/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — admin" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — admin
+# match: Ppv Wwe Monday Night Raw
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1
+https://lb18.strmd.st/secure/icVXACsPSlIdhmJaLVgmTuMGNbFLCRuz/rtmp/stream/Z65BHiDy86RkAZJ2m6HaTnCke-PYJhP2q2zUDXnnfu8T5w6MGbz8CQDXHht58GlCwUo2_pRLbg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — echo" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — echo
+# match: Ppv Wwe Monday Night Raw
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-wwe-monday-night-raw-ppv-01/1
+https://lb11.strmd.st/secure/CXGIfrTZiQiAZIjXczbUQBXEotPMnnVO/echo/stream/ppv-event-01-wwe-monday-night-raw-ppv-01/1/playlist.m3u8
 
