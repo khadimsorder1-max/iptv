@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-30T04:08:45+00:00
+# Streamed.pk live football matches — built 2026-06-30T08:06:36+00:00
 # 1 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Ppv Event 01 Wwe Monday Night Raw Ppv 01 — echo" tvg-id="Ppv_Event_01_Wwe_Monday_Night_Raw_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Wwe Monday Night Raw Ppv 01 — echo
 # match: Ppv Event 01 Wwe Monday Night Raw Ppv 01
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-01-wwe-monday-night-raw-ppv-01/1
-https://lb5.strmd.st/secure/wlDUWKAnZnslyOCkeqzcvnoWHnHPxdOp/echo/stream/ppv-event-01-wwe-monday-night-raw-ppv-01/1/playlist.m3u8
+https://lb7.strmd.st/secure/berAQXFyTIeatcHcDPzEfuUIDTkyBTTB/echo/stream/ppv-event-01-wwe-monday-night-raw-ppv-01/1/playlist.m3u8
 
