@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-01T20:22:47+00:00
+# Streamed.pk live football matches — built 2026-07-01T21:58:55+00:00
 # 2 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Belgium Vs Senegal 2503392 — admin" tvg-id="Belgium_Vs_Senegal_2503392_—_admin" group-title="Streamed.pk Live Football",Belgium Vs Senegal 2503392 — admin
 # match: Belgium Vs Senegal 2503392
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-belgium-vs-senegal/1
-https://lb13.strmd.st/secure/pEhImJHhombjFulPpwBWRytgHuiyceNT/rtmp/stream/6xlMdkrkK5_HZzdUPqQ7IuLw6PqPdIytEZf9EEGBx9-Nk4U0WF2ANhle1XW-8-ehSA-kL363vg/1/playlist.m3u8
+https://lb3.strmd.st/secure/lqxWhyOTmFSBvzVtnZkIDlrBqGpTlJPH/rtmp/stream/6pMeiUZ1uwQ5Ora8fAGwORh0sxMcqooSQXMp9gZFyXOVpa3wK1QAJKMgtSKuj69qAKO41WpheA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Belgium Vs Senegal 2503392 — echo" tvg-id="Belgium_Vs_Senegal_2503392_—_echo" group-title="Streamed.pk Live Football",Belgium Vs Senegal 2503392 — echo
 # match: Belgium Vs Senegal 2503392
 # provider: echo
 # embed: https://embed.st/embed/echo/belgium-vs-senegal-football-1567308/1
-https://lb6.strmd.st/secure/IfvBaLqLsElTerwFasHTQiHBFPaGEmqH/echo/stream/belgium-vs-senegal-football-1567308/1/playlist.m3u8
+https://lb4.strmd.st/secure/PWFOUljCZrmMHYKEsWMgIyfrHiLZDchz/echo/stream/belgium-vs-senegal-football-1567308/1/playlist.m3u8
 
