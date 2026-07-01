@@ -1,41 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-06-30T23:13:07+00:00
-# 6 streams captured from 5 matches
-
-#EXTINF:-1 tvg-name="France Vs Sweden 2502847 — admin" tvg-id="France_Vs_Sweden_2502847_—_admin" group-title="Streamed.pk Live Football",France Vs Sweden 2502847 — admin
-# match: France Vs Sweden 2502847
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-france-vs-sweden/1
-https://lb1.strmd.st/secure/kdiDEnnkZrFDNIDQxXgqkcmdQPvDRvHg/rtmp/stream/eY2KkPbXIahVKbl-DrSNqTEFHHeMJ2ScgjFt-UH43CK3ClnC3MYBWSwh-ZdVX27JmtgNrYcViw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New York Liberty Vs Las Vegas Aces 2496686 — admin" tvg-id="New_York_Liberty_Vs_Las_Vegas_Aces_2496686_—_admin" group-title="Streamed.pk Live Football",New York Liberty Vs Las Vegas Aces 2496686 — admin
-# match: New York Liberty Vs Las Vegas Aces 2496686
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-las-vegas-aces-vs-new-york-liberty/1
-https://lb4.strmd.st/secure/eYxXrYycqYseWiLUByzMCSjQjKMnqViI/rtmp/stream/wBFSi1M-jEz560DSWPN9iw2UATjxRIwFrARRqQ6OrmQ93ghjvFAsl9GAuju3FSIsuTn3ptc5QJqgpmGCGUTuVg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mexico Vs Ecuador 2503390 — admin" tvg-id="Mexico_Vs_Ecuador_2503390_—_admin" group-title="Streamed.pk Live Football",Mexico Vs Ecuador 2503390 — admin
-# match: Mexico Vs Ecuador 2503390
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-mexico-vs-ecuador/1
-https://lb8.strmd.st/secure/jjoQOZdeKWoyenELowoARiwdbRFTWwCb/rtmp/stream/ebk3Gm8vIom5PJS3DT953Ir9S5AqD9fA97NBDda5Pc_mAN3MrIj06BHCrLrTKJ0QnZe3lTkSxQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mexico Vs Ecuador 2503390 — echo" tvg-id="Mexico_Vs_Ecuador_2503390_—_echo" group-title="Streamed.pk Live Football",Mexico Vs Ecuador 2503390 — echo
-# match: Mexico Vs Ecuador 2503390
-# provider: echo
-# embed: https://embed.st/embed/echo/mexico-vs-ecuador-football-1567306/1
-https://lb12.strmd.st/secure/gDjFkaaYYSNvpiExqCgbPMTdFZUiIiTF/echo/stream/mexico-vs-ecuador-football-1567306/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New York Liberty W Vs Las Vegas Aces W Basketball 501754 — echo" tvg-id="New_York_Liberty_W_Vs_Las_Vegas_Aces_W_Basketball_501754_—_echo" group-title="Streamed.pk Live Football",New York Liberty W Vs Las Vegas Aces W Basketball 501754 — echo
-# match: New York Liberty W Vs Las Vegas Aces W Basketball 501754
-# provider: echo
-# embed: https://embed.st/embed/echo/new-york-liberty-w-vs-las-vegas-aces-w-basketball-501754/1
-https://lb11.strmd.st/secure/vdDoxDOmVmnBgZbQiHAqBifbtffEYtTm/echo/stream/new-york-liberty-w-vs-las-vegas-aces-w-basketball-501754/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ivory Coast Vs Norway 2502605 — admin" tvg-id="Ivory_Coast_Vs_Norway_2502605_—_admin" group-title="Streamed.pk Live Football",Ivory Coast Vs Norway 2502605 — admin
-# match: Ivory Coast Vs Norway 2502605
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-ivory-coast-vs-norway/1
-https://lb10.strmd.st/secure/CtmoAuKyaYWYVPGRgrHjdHavPpgjJKKd/rtmp/stream/TisgysuJVtGDoRYCGcjMJwvN20vNOwuMjo0kSSBCb4p4V8ic_Ff1fuIQNRsADQl9tDRMFlkDAg/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-07-01T01:38:45+00:00
+# 0 streams captured from 0 matches
 
