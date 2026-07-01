@@ -1,11 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-01T13:18:26+00:00
-# 1 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-07-01T16:05:09+00:00
+# 9 streams captured from 8 matches
+
+#EXTINF:-1 tvg-name="England Vs Dr Congo 2503391 — admin" tvg-id="England_Vs_Dr_Congo_2503391_—_admin" group-title="Streamed.pk Live Football",England Vs Dr Congo 2503391 — admin
+# match: England Vs Dr Congo 2503391
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-england-vs-congo-dr/1
+https://lb10.strmd.st/secure/YmWOzEjoPkBAwoJhCqcIbIUMMaZQKUBM/rtmp/stream/agaJBvOM6Bje5WsOJeisaLGh93sm_insTujg3PZyKd2cnHVlUS374DNhLI1d67SBH98tSCsVIg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs Dr Congo 2503391 — echo" tvg-id="England_Vs_Dr_Congo_2503391_—_echo" group-title="Streamed.pk Live Football",England Vs Dr Congo 2503391 — echo
+# match: England Vs Dr Congo 2503391
+# provider: echo
+# embed: https://embed.st/embed/echo/england-vs-congo-dr-football-1567307/1
+https://lb14.strmd.st/secure/YxJcQAHBEavWDQhmBBaZbnqZwxCcyzST/echo/stream/england-vs-congo-dr-football-1567307/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hawthorn Hawks Vs Melbourne Demons Australian Football 3484 — echo" tvg-id="Hawthorn_Hawks_Vs_Melbourne_Demons_Australian_Football_3484_—_echo" group-title="Streamed.pk Live Football",Hawthorn Hawks Vs Melbourne Demons Australian Football 3484 — echo
+# match: Hawthorn Hawks Vs Melbourne Demons Australian Football 3484
+# provider: echo
+# embed: https://embed.st/embed/echo/hawthorn-hawks-vs-melbourne-demons-australian-football-3484/1
+https://lb8.strmd.st/secure/fQcxMNUBbyFomCnIFsLOGCuEQeYzdwdq/echo/stream/hawthorn-hawks-vs-melbourne-demons-australian-football-3484/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="West Coast Eagles Vs Adelaide Crows Australian Football 3488 — echo" tvg-id="West_Coast_Eagles_Vs_Adelaide_Crows_Australian_Football_3488_—_echo" group-title="Streamed.pk Live Football",West Coast Eagles Vs Adelaide Crows Australian Football 3488 — echo
+# match: West Coast Eagles Vs Adelaide Crows Australian Football 3488
+# provider: echo
+# embed: https://embed.st/embed/echo/west-coast-eagles-vs-adelaide-crows-australian-football-3488/1
+https://lb6.strmd.st/secure/RikDkmxxKTnRLcHqESbzqGQcqwHMDcvI/echo/stream/west-coast-eagles-vs-adelaide-crows-australian-football-3488/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sydney Swans Vs Western Bulldogs Australian Football 3487 — echo" tvg-id="Sydney_Swans_Vs_Western_Bulldogs_Australian_Football_3487_—_echo" group-title="Streamed.pk Live Football",Sydney Swans Vs Western Bulldogs Australian Football 3487 — echo
+# match: Sydney Swans Vs Western Bulldogs Australian Football 3487
+# provider: echo
+# embed: https://embed.st/embed/echo/sydney-swans-vs-western-bulldogs-australian-football-3487/1
+https://lb3.strmd.st/secure/uOJXTpaIiRAkeHsaVQekpDilnAHnFQds/echo/stream/sydney-swans-vs-western-bulldogs-australian-football-3487/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Essendon Bombers Vs St Kilda Saints Australian Football 3480 — echo" tvg-id="Essendon_Bombers_Vs_St_Kilda_Saints_Australian_Football_3480_—_echo" group-title="Streamed.pk Live Football",Essendon Bombers Vs St Kilda Saints Australian Football 3480 — echo
+# match: Essendon Bombers Vs St Kilda Saints Australian Football 3480
+# provider: echo
+# embed: https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3480/1
+https://lb9.strmd.st/secure/oATaztaZWbhqagRjKhMQcidPSQkxVlcc/echo/stream/essendon-bombers-vs-st-kilda-saints-australian-football-3480/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Port Adelaide Power Vs North Melbourne Kangaroos Australian Football 3485 — echo" tvg-id="Port_Adelaide_Power_Vs_North_Melbourne_Kangaroos_Australian_Football_3485_—_echo" group-title="Streamed.pk Live Football",Port Adelaide Power Vs North Melbourne Kangaroos Australian Football 3485 — echo
+# match: Port Adelaide Power Vs North Melbourne Kangaroos Australian Football 3485
+# provider: echo
+# embed: https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3485/1
+https://lb6.strmd.st/secure/bLaGlTPMrrInlINRGyakWBCtqGGUlmEF/echo/stream/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3485/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gold Coast Suns Vs Collingwood Magpies Australian Football 3482 — echo" tvg-id="Gold_Coast_Suns_Vs_Collingwood_Magpies_Australian_Football_3482_—_echo" group-title="Streamed.pk Live Football",Gold Coast Suns Vs Collingwood Magpies Australian Football 3482 — echo
+# match: Gold Coast Suns Vs Collingwood Magpies Australian Football 3482
+# provider: echo
+# embed: https://embed.st/embed/echo/gold-coast-suns-vs-collingwood-magpies-australian-football-3482/1
+https://lb12.strmd.st/secure/HldEbqUjtVBDejJexgiiRohkXdTuFcGS/echo/stream/gold-coast-suns-vs-collingwood-magpies-australian-football-3482/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb8.strmd.st/secure/VWxOubtYYMtzgTGZZmLHWQKoNSbCehbS/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb2.strmd.st/secure/qNyQfmqtHOMVZWbdzQcbcYgHKsYNLXGr/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
