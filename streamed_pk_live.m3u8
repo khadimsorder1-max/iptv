@@ -1,23 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-02T20:00:40+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-07-02T21:18:36+00:00
+# 4 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Spain Vs Austria 2503636 — admin" tvg-id="Spain_Vs_Austria_2503636_—_admin" group-title="Streamed.pk Live Football",Spain Vs Austria 2503636 — admin
 # match: Spain Vs Austria 2503636
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-spain-vs-austria/1
-https://lb9.strmd.st/secure/vufAGuRXkKCRMFGUFAWgicyVAIGIPezl/rtmp/stream/oX1sCBl0-aa_87tRzHDmu9fYnymeQpt_0R7n9_71gO0bB9GGse952F_9B4k_ZeGoncdUjXOFAg/1/playlist.m3u8
+https://lb13.strmd.st/secure/rjQRKKQWqVqTLCorgpMxlcztWPvLePGH/rtmp/stream/Gv0I8izpd9nNfGWEH2TtKkJeLUFhLGzwCM4_yLNK5tcFqZDCwhHi5TYuTqJ5lKMHqFuCtxGnJw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Spain Vs Austria 2503636 — echo" tvg-id="Spain_Vs_Austria_2503636_—_echo" group-title="Streamed.pk Live Football",Spain Vs Austria 2503636 — echo
-# match: Spain Vs Austria 2503636
+#EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — admin" tvg-id="Portugal_Vs_Croatia_2503393_—_admin" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — admin
+# match: Portugal Vs Croatia 2503393
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-portugal-vs-croatia/1
+https://lb2.strmd.st/secure/muFMufbYfCmbXdWNFaOXSGGsGrDZNLgE/rtmp/stream/Wsl8dM1BGqnDAZ9hyseusH57fG0z-9CGeF0I47bOYG1EEY5fqOHhrzOJ3ay3Ln5IaE1CfnwwyQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — echo" tvg-id="Portugal_Vs_Croatia_2503393_—_echo" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — echo
+# match: Portugal Vs Croatia 2503393
 # provider: echo
-# embed: https://embed.st/embed/echo/spain-vs-austria-football-1567311/1
-https://lb6.strmd.st/secure/nIDtFEtQuteximUZaJauaJOqWMSQhllx/echo/stream/spain-vs-austria-football-1567311/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1
+https://lb9.strmd.st/secure/NvualdoXaLjvTUbOKSbShbJSrVApOoAO/echo/stream/portugal-vs-croatia-football-1567309/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pga Tour John Deere Classic Pga 526234 — echo" tvg-id="Pga_Tour_John_Deere_Classic_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Pga Tour John Deere Classic Pga 526234 — echo
 # match: Pga Tour John Deere Classic Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/pga-tour-john-deere-classic-pga-526234/1
-https://lb5.strmd.st/secure/NGYrIdwFNOEeLMboMANgEzQGGuWNOHlh/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
+https://lb5.strmd.st/secure/isxzoyFjENulkTXQgKTsLHXFQYSBVANL/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
 
