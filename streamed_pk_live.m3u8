@@ -1,29 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-02T01:31:34+00:00
-# 4 streams captured from 2 matches
-
-#EXTINF:-1 tvg-name="Usa Vs Bosnia Herzegovina 2499837 — admin" tvg-id="Usa_Vs_Bosnia_Herzegovina_2499837_—_admin" group-title="Streamed.pk Live Football",Usa Vs Bosnia Herzegovina 2499837 — admin
-# match: Usa Vs Bosnia Herzegovina 2499837
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-united-states-vs-bosnia-herzegovina/1
-https://lb2.strmd.st/secure/YhRXsrqdNTAmxmELhDPNHyStsRjfOyto/rtmp/stream/15JjsIBdDxTVWOyPXi7y0OVv3SoP_g8JiiA054DSboA1HhQyU2MyXcoqsxXD8eAnVcfL2-NURg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Usa Vs Bosnia Herzegovina 2499837 — echo" tvg-id="Usa_Vs_Bosnia_Herzegovina_2499837_—_echo" group-title="Streamed.pk Live Football",Usa Vs Bosnia Herzegovina 2499837 — echo
-# match: Usa Vs Bosnia Herzegovina 2499837
-# provider: echo
-# embed: https://embed.st/embed/echo/usa-vs-bosnia-herzegovina-football-1562586/1
-https://lb12.strmd.st/secure/JEIvDqCIRKDZxtMyHLvGjTtJyxVPZLEy/echo/stream/usa-vs-bosnia-herzegovina-football-1562586/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — admin" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_admin" group-title="Streamed.pk Live Football",Ppv Aew Wednesday Night Dynamite — admin
-# match: Ppv Aew Wednesday Night Dynamite
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1
-https://lb9.strmd.st/secure/zfCmkHruTCLmdhxoOiHycucIKozqqWEb/rtmp/stream/5xo7VG31nOCz95i9Y156IX2SfquFZpl4mgldRM93qFc5G59tnW6ifq0d6mGiFiaqWgwxMJY/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — echo" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_echo" group-title="Streamed.pk Live Football",Ppv Aew Wednesday Night Dynamite — echo
-# match: Ppv Aew Wednesday Night Dynamite
-# provider: echo
-# embed: https://embed.st/embed/echo/aew-wednesday-night-dynamite-aew/1
-https://lb5.strmd.st/secure/CBYeodKKMKEeRQNIMJJzEMjRvVpvJRBJ/echo/stream/aew-wednesday-night-dynamite-aew/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-07-02T05:55:24+00:00
+# 0 streams captured from 0 matches
 
