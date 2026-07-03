@@ -1,23 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-03T12:54:41+00:00
+# Streamed.pk live football matches — built 2026-07-03T15:07:58+00:00
 # 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="British Grand Prix Practice 1 2408162 — admin" tvg-id="British_Grand_Prix_Practice_1_2408162_—_admin" group-title="Streamed.pk Live Football",British Grand Prix Practice 1 2408162 — admin
 # match: British Grand Prix Practice 1 2408162
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-british-grand-prix-sprint-qualifying/1
-https://lb12.strmd.st/secure/GEusHtRazxfijcJAeYpOkElFvOSBHEMl/rtmp/stream/Zp8iT8ZzbVGHGDwvCsWTpreKap4wmGqtwxxdRJaTGO803uE_SjJzPYP3YFtd6L3JIp_Oh6QJvpSW6PwrC_zSrPZLAwLeUxS3yUV4efAebA/1/playlist.m3u8
+https://lb3.strmd.st/secure/CByxpwRGfzZQzxvssaJWsOaMKRzBpOod/rtmp/stream/4bSaUeuVJciVRGs28FBMHQD2oorZndz5YV8WERPVLhhG7QCZqM_DgYw8zQQnXjpcmnhVdHc7pRg4Hg0WMzgiCYK0cL_UHr5fptteX3uEsg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="West Coast Eagles Vs Adelaide Football Club 2495758 — echo" tvg-id="West_Coast_Eagles_Vs_Adelaide_Football_Club_2495758_—_echo" group-title="Streamed.pk Live Football",West Coast Eagles Vs Adelaide Football Club 2495758 — echo
-# match: West Coast Eagles Vs Adelaide Football Club 2495758
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
-# embed: https://embed.st/embed/echo/west-coast-eagles-vs-adelaide-crows-australian-football-3559/1
-https://lb8.strmd.st/secure/KENrPBmWjieQfaiGvzCnSEmODyGlwGmO/echo/stream/west-coast-eagles-vs-adelaide-crows-australian-football-3559/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb10.strmd.st/secure/xAcCQvAtQzSQVPyybYyyHRcjpghxXqvW/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Penrith Panthers Vs South Sydney Rabbitohs 2417292 — echo" tvg-id="Penrith_Panthers_Vs_South_Sydney_Rabbitohs_2417292_—_echo" group-title="Streamed.pk Live Football",Penrith Panthers Vs South Sydney Rabbitohs 2417292 — echo
 # match: Penrith Panthers Vs South Sydney Rabbitohs 2417292
 # provider: echo
 # embed: https://embed.st/embed/echo/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1
-https://lb15.strmd.st/secure/kMEbIqPPLDQXEmpCtsrWuUXIlnknsZko/echo/stream/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1/playlist.m3u8
+https://lb13.strmd.st/secure/PDfauRjZgGZrejlpxdTPjvPUuWHEDwYx/echo/stream/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1/playlist.m3u8
 
