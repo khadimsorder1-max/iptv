@@ -1,23 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-02T22:36:14+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-07-03T00:02:55+00:00
+# 5 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — admin" tvg-id="Portugal_Vs_Croatia_2503393_—_admin" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — admin
 # match: Portugal Vs Croatia 2503393
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-portugal-vs-croatia/1
-https://lb6.strmd.st/secure/SKweZeyPxOvUeGNLrsqhFrQQuHyjQxWK/rtmp/stream/Gx6MUa0YezPurmNHqqKdfFxF88PVamEQN3uLZsSv4cZNaEjUPKWMZaBKc4d2VbkwKoTSnneHjg/1/playlist.m3u8
+https://lb9.strmd.st/secure/donucxpYJMKlOVSygNPUXUVBylyjrwKP/rtmp/stream/nPucwrcbY8vgRTiRiTtdulolkXC7LZPxMBFw44Wk9C55YYAi30A4V-49k5KwUewySwvVrQRaxA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — echo" tvg-id="Portugal_Vs_Croatia_2503393_—_echo" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — echo
 # match: Portugal Vs Croatia 2503393
 # provider: echo
 # embed: https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1
-https://lb5.strmd.st/secure/XKeIiposlauJLZDBwDZYEJYjcVBPwwpp/echo/stream/portugal-vs-croatia-football-1567309/1/playlist.m3u8
+https://lb2.strmd.st/secure/EORmqRRBGmNuFAxswDzsCsnPjgZlvfiu/echo/stream/portugal-vs-croatia-football-1567309/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Pga Tour John Deere Classic Pga 526234 — echo" tvg-id="Pga_Tour_John_Deere_Classic_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Pga Tour John Deere Classic Pga 526234 — echo
-# match: Pga Tour John Deere Classic Pga 526234
+#EXTINF:-1 tvg-name="Washington Mystics Vs Atlanta Dream 2449085 — admin" tvg-id="Washington_Mystics_Vs_Atlanta_Dream_2449085_—_admin" group-title="Streamed.pk Live Football",Washington Mystics Vs Atlanta Dream 2449085 — admin
+# match: Washington Mystics Vs Atlanta Dream 2449085
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-atlanta-dream-vs-washington-mystics/1
+https://lb8.strmd.st/secure/CRLhevTchJULMfthjWUrCNFeXyBYDchB/rtmp/stream/IcwdM7Z-pZJbcFb3gKwYi0AHsZednvh2_dDa1I_ugaxsYP-TiC6sfTIJgjXZVzrqvDTY3NnHFnvgGqhRwrCnCSeJHA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Connecticut Sun Vs Dallas Wings 2449086 — admin" tvg-id="Connecticut_Sun_Vs_Dallas_Wings_2449086_—_admin" group-title="Streamed.pk Live Football",Connecticut Sun Vs Dallas Wings 2449086 — admin
+# match: Connecticut Sun Vs Dallas Wings 2449086
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-connecticut-sun/1
+https://lb13.strmd.st/secure/rRvHmMEwbjrjYTzXMRaaNCbDybvtTzLO/rtmp/stream/3K7jYdtjIZ3Yj3rurQ8AId4EmEPxvD0cbYBn6ay862AkJQ1TZ8KjflbQI13QaURyWpdpiG5FicH7LRpntnyAuA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Washington Mystics W Vs Atlanta Dream W Basketball 494918 — echo" tvg-id="Washington_Mystics_W_Vs_Atlanta_Dream_W_Basketball_494918_—_echo" group-title="Streamed.pk Live Football",Washington Mystics W Vs Atlanta Dream W Basketball 494918 — echo
+# match: Washington Mystics W Vs Atlanta Dream W Basketball 494918
 # provider: echo
-# embed: https://embed.st/embed/echo/pga-tour-john-deere-classic-pga-526234/1
-https://lb14.strmd.st/secure/IOOnSUMKavqCmHwMUXchpXRbvRooaVDx/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/washington-mystics-w-vs-atlanta-dream-w-basketball-494918/1
+https://lb6.strmd.st/secure/FNHfivooNzXdyFSOiUjmiwZfGlHiMCgA/echo/stream/washington-mystics-w-vs-atlanta-dream-w-basketball-494918/1/playlist.m3u8
 
