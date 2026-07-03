@@ -1,35 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-03T00:02:55+00:00
+# Streamed.pk live football matches — built 2026-07-03T04:25:26+00:00
 # 5 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — admin" tvg-id="Portugal_Vs_Croatia_2503393_—_admin" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — admin
-# match: Portugal Vs Croatia 2503393
+#EXTINF:-1 tvg-name="Switzerland Vs Algeria 2503635 — admin" tvg-id="Switzerland_Vs_Algeria_2503635_—_admin" group-title="Streamed.pk Live Football",Switzerland Vs Algeria 2503635 — admin
+# match: Switzerland Vs Algeria 2503635
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-portugal-vs-croatia/1
-https://lb9.strmd.st/secure/donucxpYJMKlOVSygNPUXUVBylyjrwKP/rtmp/stream/nPucwrcbY8vgRTiRiTtdulolkXC7LZPxMBFw44Wk9C55YYAi30A4V-49k5KwUewySwvVrQRaxA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-switzerland-vs-algeria/1
+https://lb12.strmd.st/secure/mmIEfUvVkvODcmBunZzltCkSvCkdDjvQ/rtmp/stream/UwIi_H6tE5VOJ5IM4rcGP_eDcS1ad0VpKhuefIqAWJz-aTs7iQAHJijIw6KDJvLM24uXACzStA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Portugal Vs Croatia 2503393 — echo" tvg-id="Portugal_Vs_Croatia_2503393_—_echo" group-title="Streamed.pk Live Football",Portugal Vs Croatia 2503393 — echo
-# match: Portugal Vs Croatia 2503393
+#EXTINF:-1 tvg-name="Switzerland Vs Algeria 2503635 — echo" tvg-id="Switzerland_Vs_Algeria_2503635_—_echo" group-title="Streamed.pk Live Football",Switzerland Vs Algeria 2503635 — echo
+# match: Switzerland Vs Algeria 2503635
 # provider: echo
-# embed: https://embed.st/embed/echo/portugal-vs-croatia-football-1567309/1
-https://lb2.strmd.st/secure/EORmqRRBGmNuFAxswDzsCsnPjgZlvfiu/echo/stream/portugal-vs-croatia-football-1567309/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/switzerland-vs-algeria-football-1567312/1
+https://lb10.strmd.st/secure/LnjxTIGGlYncSGiuBUiLNQqikLWJmvea/echo/stream/switzerland-vs-algeria-football-1567312/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Washington Mystics Vs Atlanta Dream 2449085 — admin" tvg-id="Washington_Mystics_Vs_Atlanta_Dream_2449085_—_admin" group-title="Streamed.pk Live Football",Washington Mystics Vs Atlanta Dream 2449085 — admin
-# match: Washington Mystics Vs Atlanta Dream 2449085
+#EXTINF:-1 tvg-name="Phoenix Mercury Vs Seattle Storm 2449087 — admin" tvg-id="Phoenix_Mercury_Vs_Seattle_Storm_2449087_—_admin" group-title="Streamed.pk Live Football",Phoenix Mercury Vs Seattle Storm 2449087 — admin
+# match: Phoenix Mercury Vs Seattle Storm 2449087
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-atlanta-dream-vs-washington-mystics/1
-https://lb8.strmd.st/secure/CRLhevTchJULMfthjWUrCNFeXyBYDchB/rtmp/stream/IcwdM7Z-pZJbcFb3gKwYi0AHsZednvh2_dDa1I_ugaxsYP-TiC6sfTIJgjXZVzrqvDTY3NnHFnvgGqhRwrCnCSeJHA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-phoenix-mercury/1
+https://lb1.strmd.st/secure/EpuSOpjnPqFscszMlPMLUKQLdwGPgVvP/rtmp/stream/59aFK2Wonp_WoQQyVy7XI1XUvn8FA64NDEV9AKIw_hSmW_0W6Y70Cgq7BUHfM0grO0rqVqBElrzP2X6mW7O0kQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Dallas Wings 2449086 — admin" tvg-id="Connecticut_Sun_Vs_Dallas_Wings_2449086_—_admin" group-title="Streamed.pk Live Football",Connecticut Sun Vs Dallas Wings 2449086 — admin
-# match: Connecticut Sun Vs Dallas Wings 2449086
+#EXTINF:-1 tvg-name="Calgary Stampeders Vs Toronto Argonauts 2432548 — admin" tvg-id="Calgary_Stampeders_Vs_Toronto_Argonauts_2432548_—_admin" group-title="Streamed.pk Live Football",Calgary Stampeders Vs Toronto Argonauts 2432548 — admin
+# match: Calgary Stampeders Vs Toronto Argonauts 2432548
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-connecticut-sun/1
-https://lb13.strmd.st/secure/rRvHmMEwbjrjYTzXMRaaNCbDybvtTzLO/rtmp/stream/3K7jYdtjIZ3Yj3rurQ8AId4EmEPxvD0cbYBn6ay862AkJQ1TZ8KjflbQI13QaURyWpdpiG5FicH7LRpntnyAuA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-toronto-argonauts-vs-calgary-stampeders/1
+https://lb15.strmd.st/secure/DkOimAngVuWWPrXcpyXVAVSdhlngwXzU/rtmp/stream/UpZK7DYddqa13SS4BWGy4s6ttji4JrNDXUvIi2YNP8R6Mb14VCugOpyzDe0M9t3gzRKsnNdSOyCLKK5uzasmRhl-qhNw3cg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Washington Mystics W Vs Atlanta Dream W Basketball 494918 — echo" tvg-id="Washington_Mystics_W_Vs_Atlanta_Dream_W_Basketball_494918_—_echo" group-title="Streamed.pk Live Football",Washington Mystics W Vs Atlanta Dream W Basketball 494918 — echo
 # match: Washington Mystics W Vs Atlanta Dream W Basketball 494918
 # provider: echo
 # embed: https://embed.st/embed/echo/washington-mystics-w-vs-atlanta-dream-w-basketball-494918/1
-https://lb6.strmd.st/secure/FNHfivooNzXdyFSOiUjmiwZfGlHiMCgA/echo/stream/washington-mystics-w-vs-atlanta-dream-w-basketball-494918/1/playlist.m3u8
+https://lb3.strmd.st/secure/PTAKWNMJvtZZSESAKHExliretHJqIAyC/echo/stream/washington-mystics-w-vs-atlanta-dream-w-basketball-494918/1/playlist.m3u8
 
