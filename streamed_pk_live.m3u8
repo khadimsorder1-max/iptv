@@ -1,23 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-03T15:07:58+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live football matches — built 2026-07-03T16:54:02+00:00
+# 7 streams captured from 6 matches
+
+#EXTINF:-1 tvg-name="Australia Vs Egypt 2502848 — admin" tvg-id="Australia_Vs_Egypt_2502848_—_admin" group-title="Streamed.pk Live Football",Australia Vs Egypt 2502848 — admin
+# match: Australia Vs Egypt 2502848
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-australia-vs-egypt/1
+https://lb14.strmd.st/secure/RIuGjUJLefNOrYObMlAyLxwlRitKTXUa/rtmp/stream/u51mmfgDaLnsUo5PJ-MvFQzIvMctUgNRkFtY1aBEAhUhuPn9YLE4VOHecl7pibN9iOxOTQ6qLQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Australia Vs Egypt 2502848 — echo" tvg-id="Australia_Vs_Egypt_2502848_—_echo" group-title="Streamed.pk Live Football",Australia Vs Egypt 2502848 — echo
+# match: Australia Vs Egypt 2502848
+# provider: echo
+# embed: https://embed.st/embed/echo/australia-vs-egypt-football-1565178/1
+https://lb13.strmd.st/secure/NdtEtnRbLHOeUZsusdRehgFBMzYfFAkX/echo/stream/australia-vs-egypt-football-1565178/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="British Grand Prix Practice 1 2408162 — admin" tvg-id="British_Grand_Prix_Practice_1_2408162_—_admin" group-title="Streamed.pk Live Football",British Grand Prix Practice 1 2408162 — admin
 # match: British Grand Prix Practice 1 2408162
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-british-grand-prix-sprint-qualifying/1
-https://lb3.strmd.st/secure/CByxpwRGfzZQzxvssaJWsOaMKRzBpOod/rtmp/stream/4bSaUeuVJciVRGs28FBMHQD2oorZndz5YV8WERPVLhhG7QCZqM_DgYw8zQQnXjpcmnhVdHc7pRg4Hg0WMzgiCYK0cL_UHr5fptteX3uEsg/1/playlist.m3u8
+https://lb5.strmd.st/secure/jHSnuNhgrAuVmrOkAEmckeXLLShooBtR/rtmp/stream/XtGV7LcFZxaN5M1RCQ6gFlNwQCS6CJhDBoDFtlYDQfCpBbOqMIMnQMy57CDLVGWxAvaGfOeNnrN3xrHOkXlldmcxv49BIGHs2PApGV7iRQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 01 Scull V Castillo Ppv 01 — echo" tvg-id="Ppv_Event_01_Scull_V_Castillo_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Scull V Castillo Ppv 01 — echo
+# match: Ppv Event 01 Scull V Castillo Ppv 01
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-scull-v-castillo-ppv-01/1
+https://lb1.strmd.st/secure/fCMlbqxxpftxeOmjedVTLjMuITDHRVrv/echo/stream/ppv-event-01-scull-v-castillo-ppv-01/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Pga Tour John Deere Classic Pga 526234 — echo" tvg-id="Pga_Tour_John_Deere_Classic_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Pga Tour John Deere Classic Pga 526234 — echo
+# match: Pga Tour John Deere Classic Pga 526234
+# provider: echo
+# embed: https://embed.st/embed/echo/pga-tour-john-deere-classic-pga-526234/1
+https://lb7.strmd.st/secure/bbkNLmaSmovGNZoMRxNLnwXyPcbWlapy/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb10.strmd.st/secure/xAcCQvAtQzSQVPyybYyyHRcjpghxXqvW/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb11.strmd.st/secure/fgPuPusmUcLgQmXldsSvfOlNmRtmzXbw/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Penrith Panthers Vs South Sydney Rabbitohs 2417292 — echo" tvg-id="Penrith_Panthers_Vs_South_Sydney_Rabbitohs_2417292_—_echo" group-title="Streamed.pk Live Football",Penrith Panthers Vs South Sydney Rabbitohs 2417292 — echo
 # match: Penrith Panthers Vs South Sydney Rabbitohs 2417292
 # provider: echo
 # embed: https://embed.st/embed/echo/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1
-https://lb13.strmd.st/secure/PDfauRjZgGZrejlpxdTPjvPUuWHEDwYx/echo/stream/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1/playlist.m3u8
+https://lb12.strmd.st/secure/OhtsVKlNREaAUylIsRAVoooQAoiPuQDA/echo/stream/penrith-panthers-vs-south-sydney-rabbitohs-game-236363/1/playlist.m3u8
 
