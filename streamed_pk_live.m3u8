@@ -1,59 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T19:45:13+00:00
-# 9 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-07-04T20:52:58+00:00
+# 8 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Paraguay Vs France 2505624 — admin" tvg-id="Paraguay_Vs_France_2505624_—_admin" group-title="Streamed.pk Live Football",Paraguay Vs France 2505624 — admin
 # match: Paraguay Vs France 2505624
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-paraguay-vs-france/1
-https://lb6.strmd.st/secure/YWfzWFwylWCbdAXbMknBPabvRMLFZWPi/rtmp/stream/iVqqwQ4BdKCm0RoFXPx9QSXX8bui4WX6cRjzAUQ8Uq6XG7Xh3PJW6KCAZc28ghMZj8iGIDCCFQ/1/playlist.m3u8
+https://lb6.strmd.st/secure/UcaAiWHOVoqyQqQLtHUCiumKhqSAwSvK/rtmp/stream/sg_rK_ozLbR7P6Y_NfHPjjp2ghqaRf6iSR_zbG-2De4UwgEPOK9wjeiEaw7XsvLax9bs51WvjQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Paraguay Vs France 2505624 — echo" tvg-id="Paraguay_Vs_France_2505624_—_echo" group-title="Streamed.pk Live Football",Paraguay Vs France 2505624 — echo
 # match: Paraguay Vs France 2505624
 # provider: echo
 # embed: https://embed.st/embed/echo/paraguay-vs-france-football-1569870/1
-https://lb12.strmd.st/secure/BfMBhfLiGWvTYcvWmKTTIrKRbdikhaKX/echo/stream/paraguay-vs-france-football-1569870/1/playlist.m3u8
+https://lb15.strmd.st/secure/jDVHbDDWMDfZXFsmDWZLEelpQIldnmyt/echo/stream/paraguay-vs-france-football-1569870/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Memphis Grizzlies 2505199 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Memphis_Grizzlies_2505199_—_admin" group-title="Streamed.pk Live Football",Oklahoma City Thunder Vs Memphis Grizzlies 2505199 — admin
 # match: Oklahoma City Thunder Vs Memphis Grizzlies 2505199
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-oklahoma-city-thunder/1
-https://lb3.strmd.st/secure/zBwysNMnDwZwWFEBNuxAGYAFAnCkUsvJ/rtmp/stream/EAFE4PLv6US3EBdgZfAJ9Hya8XxUf0bmHyLpxo3nrqFM0ANdRNHsUvkDTlvicNlSGWn07IxB570NTwPVA6ICkLTOBS5g/1/playlist.m3u8
+https://lb9.strmd.st/secure/WPNfdwzTQZgSpcAeLRsHrAaSuRctDSrI/rtmp/stream/m6pJ6YxRnxpkWbI56CwWhHP0dPFq1jR9NAGH-GVC4MRVDHmk7ffNk9jUlyJaEMcJW_vWQN-zgSbc5GPUAPBmLu16WQUa/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Golden State Warriors Vs Milwaukee Bucks 2479092 — admin" tvg-id="Golden_State_Warriors_Vs_Milwaukee_Bucks_2479092_—_admin" group-title="Streamed.pk Live Football",Golden State Warriors Vs Milwaukee Bucks 2479092 — admin
 # match: Golden State Warriors Vs Milwaukee Bucks 2479092
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-golden-state-warriors-blue/1
-https://lb8.strmd.st/secure/sAoThKnsMrNsYmzrReGuTXaIcGYMGBwS/rtmp/stream/p0tl98JvY-mh_W64KGb04hWYd-g-r-E0B_sX6C70pRLL3-biZEFNxFiyismssDYkayd7HFmWCzc42xdRcpMCUoJ_VZUNaBXQSQ/1/playlist.m3u8
+https://lb3.strmd.st/secure/soUeRuwvNLMcfoSYnYTnbnQihRhfYbvZ/rtmp/stream/BaURTd55zuvE-K2OivtBdK6Vps-LvFevBUGsPNS2ynN-aDDqaXIjfWMPz6AafAslE-f-MDrST8HeyufefWx_cl7lMGu1_Bblzw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Pro Motocross Red Bud — admin" tvg-id="Ppv_Pro_Motocross_Red_Bud_—_admin" group-title="Streamed.pk Live Football",Ppv Pro Motocross Red Bud — admin
 # match: Ppv Pro Motocross Red Bud
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-pro-motocross-red-bud/1
-https://lb1.strmd.st/secure/hTdvaxYQHzJXFkslIlAJURsGxjICSIOu/rtmp/stream/-m6bI1IFVvogpErqHruH0N6m4LFJ35r-aResN1wv-ec5cXgDn8I2P8R6kInMms-vhv1_hnE/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Atlanta Dream Vs Golden State Valkyries 2449090 — admin" tvg-id="Atlanta_Dream_Vs_Golden_State_Valkyries_2449090_—_admin" group-title="Streamed.pk Live Football",Atlanta Dream Vs Golden State Valkyries 2449090 — admin
-# match: Atlanta Dream Vs Golden State Valkyries 2449090
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-atlanta-dream/1
-https://lb4.strmd.st/secure/bCKFpmvnOnWGiCGOyuVkryMliZexqoEB/rtmp/stream/Xa6UUtlK7Q6zCeG54zNuJiVOXJtgPIzoF7yuIx20J9HD5YWPWEy497kxVRKvazifV3o22hQYyr3aeGEeUBs/1/playlist.m3u8
+https://lb2.strmd.st/secure/AbbsqnmNwPkBSofslkAmVXgrkLPtQWnN/rtmp/stream/3_cZNa6BFbGIX0nwke49Z3eA6XWtpY2S0I-WSrX50dFVXOYs1MimMD0lUUMTym1ZNO-hHqM/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
 # match: John Deere Classic Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb15.strmd.st/secure/cCnKdgzZubHAVIiUJYNArWVrTGnsDJHU/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+https://lb6.strmd.st/secure/zAgmKAtZgYKqemkAZRzCOwGVTuwyHVMN/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo" tvg-id="Ppv_Event_04_Ama_Supercross_Championship_Buchanan_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo
 # match: Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1
-https://lb12.strmd.st/secure/AFsJhRCDrojwBtUCeFywNRyQTtQhsZeX/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
+https://lb7.strmd.st/secure/vLQueKDdbEYAiafrzbSxSySGNNULquZy/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="British Superbikes Snetterton Racing 0059 — echo" tvg-id="British_Superbikes_Snetterton_Racing_0059_—_echo" group-title="Streamed.pk Live Football",British Superbikes Snetterton Racing 0059 — echo
 # match: British Superbikes Snetterton Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/1
-https://lb7.strmd.st/secure/iHMoPMeUsfeiUOeZiAmNGsSdrwBvGzHl/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
+https://lb8.strmd.st/secure/qUtdPrCOIhqVDgnFFXDsWQWqepdkhgcF/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
 
