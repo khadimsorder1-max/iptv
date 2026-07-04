@@ -1,59 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T21:56:54+00:00
-# 9 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-07-04T22:56:04+00:00
+# 7 streams captured from 6 matches
 
 #EXTINF:-1 tvg-name="Paraguay Vs France 2505624 — admin" tvg-id="Paraguay_Vs_France_2505624_—_admin" group-title="Streamed.pk Live Football",Paraguay Vs France 2505624 — admin
 # match: Paraguay Vs France 2505624
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-paraguay-vs-france/1
-https://lb9.strmd.st/secure/QGkALTEgwsqeTLondGRILfMgCLplGlai/rtmp/stream/_WaL6odaNzeh7amKwx5WorJ6676T_eXO3LHdRFMwOaNPFp6knbzjL35O4g6yjjVVhcMf6vJPdA/1/playlist.m3u8
+https://lb1.strmd.st/secure/TlWhpPNwmPraBVsbgmoUbRSBXulLJfIo/rtmp/stream/q74QGy968oj-ldsN21OloAFAWphWaspr0Ey9mUPDMmff02R5phG5tnVxfBPgMfFtzTmHOWMQlg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Paraguay Vs France 2505624 — echo" tvg-id="Paraguay_Vs_France_2505624_—_echo" group-title="Streamed.pk Live Football",Paraguay Vs France 2505624 — echo
 # match: Paraguay Vs France 2505624
 # provider: echo
 # embed: https://embed.st/embed/echo/paraguay-vs-france-football-1569870/1
-https://lb6.strmd.st/secure/mczoWwIhvVaPiwydffTcwrkxlpKTjnBl/echo/stream/paraguay-vs-france-football-1569870/1/playlist.m3u8
+https://lb3.strmd.st/secure/KNBeXzMlTLfdIuOKCLaLOgzghJVpXowy/echo/stream/paraguay-vs-france-football-1569870/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Utah Jazz Vs Atlanta Hawks 2505200 — admin" tvg-id="Utah_Jazz_Vs_Atlanta_Hawks_2505200_—_admin" group-title="Streamed.pk Live Football",Utah Jazz Vs Atlanta Hawks 2505200 — admin
 # match: Utah Jazz Vs Atlanta Hawks 2505200
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-utah-jazz/1
-https://lb7.strmd.st/secure/hlgjklqeGURbrgwSJdofodUOXvnNEMwM/rtmp/stream/tZwNi9rwbDK7gunx--HWKbCPyiwZD22VjuVo-ruSOD0LI5-e0Okk4z6fZiCwYWw1oWfWoghLzqHZyg/1/playlist.m3u8
+https://lb6.strmd.st/secure/XGPUwwYfkuofVxUuZGHpoznkBALHcClu/rtmp/stream/doFzXu11cukUnUlk0DhbhWYGS8o580YI_w_ebNCpm9GEiCXwO3Z6FReCgzBs__hZvoaHMu1yRGc7LA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sacramento Kings Vs Brooklyn Nets 2479093 — admin" tvg-id="Sacramento_Kings_Vs_Brooklyn_Nets_2479093_—_admin" group-title="Streamed.pk Live Football",Sacramento Kings Vs Brooklyn Nets 2479093 — admin
 # match: Sacramento Kings Vs Brooklyn Nets 2479093
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-sacramento-kings/1
-https://lb14.strmd.st/secure/uIubrwqZxvYQICLEdeVvLimaSaEOkQFP/rtmp/stream/BxuNM3xE21OSKJMDR45y-opjVluuytxDayV1uKuktV66S06sUTFs2azKsbgESeCpOci7-P1Dh8jPzNTkzo4LIow/1/playlist.m3u8
+https://lb2.strmd.st/secure/FSXqxEtfFFRVoiBZhHCcyENfMaUdtKpT/rtmp/stream/dsuM7XQpr6k6A4FzwK7Xxm7DO7L1k__2jaOnUuR2y6Q4h1FyOrvJpzFoOmztv0lSqUDLnPA_JidcQDifUVgkL0I/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Abdullah Mason Vs Albert Bell 2466559 — echo" tvg-id="Abdullah_Mason_Vs_Albert_Bell_2466559_—_echo" group-title="Streamed.pk Live Football",Abdullah Mason Vs Albert Bell 2466559 — echo
 # match: Abdullah Mason Vs Albert Bell 2466559
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-03-mason-v-bell-ppv-03/1
-https://lb12.strmd.st/secure/mRNACVEvqgSMASHfGCHDKQDhipJVYjFU/echo/stream/ppv-event-03-mason-v-bell-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Memphis Grizzlies 2505199 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Memphis_Grizzlies_2505199_—_admin" group-title="Streamed.pk Live Football",Oklahoma City Thunder Vs Memphis Grizzlies 2505199 — admin
-# match: Oklahoma City Thunder Vs Memphis Grizzlies 2505199
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-oklahoma-city-thunder/1
-https://lb10.strmd.st/secure/WbZGyRqNobxTynqktzkMfGJWLPohpiWI/rtmp/stream/C-a5eu8ktqAywQLk-Iz1ynYknPKXh2jEtp3tkICpXTKNZjVlmj_vCYVUhU04HPEfo26IJ4ESqIa5vC-O7XwAM1peoa9X/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Warriors Vs Milwaukee Bucks 2479092 — admin" tvg-id="Golden_State_Warriors_Vs_Milwaukee_Bucks_2479092_—_admin" group-title="Streamed.pk Live Football",Golden State Warriors Vs Milwaukee Bucks 2479092 — admin
-# match: Golden State Warriors Vs Milwaukee Bucks 2479092
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-golden-state-warriors-blue/1
-https://lb14.strmd.st/secure/POEOzJDEscVIrheWobabedJkCFNtCjza/rtmp/stream/evy2YRx5idZq4Uyc_IKNq6Z17oF8-WATt-vHKR0IePwL0sUF9aonWQhHOMAv3Rq3SEvwoioIWGJH6bKOEUhpOYHdHOmNsdk27A/1/playlist.m3u8
+https://lb1.strmd.st/secure/BdUcGsjWTlVZzHekQsDpltLCdBCTjoxc/echo/stream/ppv-event-03-mason-v-bell-ppv-03/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
 # match: John Deere Classic Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb14.strmd.st/secure/nGsOMTUBurSCVWIMIjqnPjoNvLvifgGB/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+https://lb2.strmd.st/secure/UsPBLQZjLCTXRribeqxCGmLlghOSKPhS/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo" tvg-id="Ppv_Event_04_Ama_Supercross_Championship_Buchanan_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo
 # match: Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1
-https://lb13.strmd.st/secure/EvHLvoWIXZRxkepwBFroPtHkYXsbvEFS/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
+https://lb12.strmd.st/secure/VzXTAxlpdWcmkPxLSNeKDzYUfmiUblNd/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
 
