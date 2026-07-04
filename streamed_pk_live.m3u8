@@ -1,47 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T04:10:26+00:00
-# 7 streams captured from 7 matches
+# Streamed.pk live football matches — built 2026-07-04T07:21:34+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Colombia Vs Ghana 2503394 — admin" tvg-id="Colombia_Vs_Ghana_2503394_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Ghana 2503394 — admin
-# match: Colombia Vs Ghana 2503394
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-colombia-vs-ghana/1
-https://lb14.strmd.st/secure/FmpKSGlWXaPVNSoAcILiLzCNdGeNeQoW/rtmp/stream/-RAXe-uIurYRzmWKjyzlyfQkCKoJ103xQ78GlPuEUpCgv4WeavojQ8NuLUlkDw5FzYEGT9sNHA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Chicago Sky 2449089 — admin" tvg-id="Las_Vegas_Aces_Vs_Chicago_Sky_2449089_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Chicago Sky 2449089 — admin
-# match: Las Vegas Aces Vs Chicago Sky 2449089
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-las-vegas-aces/1
-https://lb3.strmd.st/secure/VtZKlBhKvkuVSwLuBeNjYKylQxQUUmzI/rtmp/stream/8D8tefz4Wqs_yczLUVtwPUR-ltvrgvY8DWLoB6Us4WPlKkAHeio1a32fsi3MDxbeaPhs9hqhcPiZZsxd0OA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Chicago Sky W Basketball 494922 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Chicago_Sky_W_Basketball_494922_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Chicago Sky W Basketball 494922 — echo
-# match: Las Vegas Aces W Vs Chicago Sky W Basketball 494922
+#EXTINF:-1 tvg-name="Gold Coast Suns Vs Collingwood Magpies Australian Football 3562 — echo" tvg-id="Gold_Coast_Suns_Vs_Collingwood_Magpies_Australian_Football_3562_—_echo" group-title="Streamed.pk Live Football",Gold Coast Suns Vs Collingwood Magpies Australian Football 3562 — echo
+# match: Gold Coast Suns Vs Collingwood Magpies Australian Football 3562
 # provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-chicago-sky-w-basketball-494922/1
-https://lb15.strmd.st/secure/YhZueUhCiojxPJwzQsUpgxnUQceMrzSo/echo/stream/las-vegas-aces-w-vs-chicago-sky-w-basketball-494922/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hawthorn Hawks Vs Melbourne Demons Australian Football 3560 — echo" tvg-id="Hawthorn_Hawks_Vs_Melbourne_Demons_Australian_Football_3560_—_echo" group-title="Streamed.pk Live Football",Hawthorn Hawks Vs Melbourne Demons Australian Football 3560 — echo
-# match: Hawthorn Hawks Vs Melbourne Demons Australian Football 3560
-# provider: echo
-# embed: https://embed.st/embed/echo/hawthorn-hawks-vs-melbourne-demons-australian-football-3560/1
-https://lb10.strmd.st/secure/VoTaZjdRpkVXUqIaPIyDFOorkHgYcoRv/echo/stream/hawthorn-hawks-vs-melbourne-demons-australian-football-3560/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Warriors Vs Los Angeles Lakers 2479091 — admin" tvg-id="Golden_State_Warriors_Vs_Los_Angeles_Lakers_2479091_—_admin" group-title="Streamed.pk Live Football",Golden State Warriors Vs Los Angeles Lakers 2479091 — admin
-# match: Golden State Warriors Vs Los Angeles Lakers 2479091
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-golden-state-warriors-gold/1
-https://lb9.strmd.st/secure/QQoGpowtpoflAoMrdCOJWyVepbOQsdfK/rtmp/stream/OWC0kYhjwvwlLYtgiu8-3oDvZreldrEvk0MviBEC3sDzP3sczGeJByJ5eBf2Kbnt0zZ2oBL-6oMtnO3u3UFhycgWK-wJGoaTWg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 04 Budo Sento Championship 35 Ppv 004 — echo" tvg-id="Ppv_Event_04_Budo_Sento_Championship_35_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Budo Sento Championship 35 Ppv 004 — echo
-# match: Ppv Event 04 Budo Sento Championship 35 Ppv 004
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-04-budo-sento-championship-35-ppv-004/1
-https://lb7.strmd.st/secure/OpEEOJQIbZydKmhQQFLdWOpHgMhyXTXA/echo/stream/ppv-event-04-budo-sento-championship-35-ppv-004/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/gold-coast-suns-vs-collingwood-magpies-australian-football-3562/1
+https://lb9.strmd.st/secure/JMFhHTfveWDuasUOIEtaAabFSRCLXGxF/echo/stream/gold-coast-suns-vs-collingwood-magpies-australian-football-3562/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo" tvg-id="Ppv_Event_10_Williams_Grove_Sprint_Cars_Ppv_10_—_echo" group-title="Streamed.pk Live Football",Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo
 # match: Ppv Event 10 Williams Grove Sprint Cars Ppv 10
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-10-williams-grove-sprint-cars-ppv-10/1
-https://lb5.strmd.st/secure/stoCXJeNwurLrYcpammBYCFyLcPVeFqF/echo/stream/ppv-event-10-williams-grove-sprint-cars-ppv-10/1/playlist.m3u8
+https://lb8.strmd.st/secure/NJFxnHwirhpSKaqJJFSZBLfHRvaSQoJZ/echo/stream/ppv-event-10-williams-grove-sprint-cars-ppv-10/1/playlist.m3u8
 
