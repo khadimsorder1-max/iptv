@@ -1,35 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T14:26:03+00:00
-# 5 streams captured from 5 matches
+# Streamed.pk live football matches — built 2026-07-04T15:42:25+00:00
+# 9 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="British Grand Prix Sprint 2408164 — admin" tvg-id="British_Grand_Prix_Sprint_2408164_—_admin" group-title="Streamed.pk Live Football",British Grand Prix Sprint 2408164 — admin
 # match: British Grand Prix Sprint 2408164
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1
-https://lb12.strmd.st/secure/LJNOoCwImDVLecBdWraGdZyPgyShzRHI/rtmp/stream/_Gx7BacyRUhQGByMdOrY4Alhzc9zmCEq3XpdRYjUpNSmv-iagpW01P2m2ReAWbXVQkuLURnApalKN1Cz31s5VngfgLuf5CukhdpIokYJufsq/1/playlist.m3u8
+https://lb5.strmd.st/secure/QTbvaKqsfImnkugXIQuHHkrrfgXUnYqE/rtmp/stream/hxbeaPDUqRGvMGdeXNTWayP5cNQMfaTNddJZrt-h8c5HsZUSaFCQmFIm9ErKWVEijX2Oje-0Nu9uTREFUGlDOz9MIRt2fL6N7BC0hE51Trxz/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canada Vs Morocco 2505183 — admin" tvg-id="Canada_Vs_Morocco_2505183_—_admin" group-title="Streamed.pk Live Football",Canada Vs Morocco 2505183 — admin
+# match: Canada Vs Morocco 2505183
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-canada-vs-morocco/1
+https://lb6.strmd.st/secure/rjKIiNYvyXzHAdIwXkGDhGrKeRAfQyGo/rtmp/stream/lJXWnIPdhUCSqNR76HqBKPpJeiFDIXIuE9Z3D0z_TTJNYaMCLc6myKmIwkGK_FPeeFv6ToHUWA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canada Vs Morocco 2505183 — echo" tvg-id="Canada_Vs_Morocco_2505183_—_echo" group-title="Streamed.pk Live Football",Canada Vs Morocco 2505183 — echo
+# match: Canada Vs Morocco 2505183
+# provider: echo
+# embed: https://embed.st/embed/echo/canada-vs-morocco-football-1567824/1
+https://lb1.strmd.st/secure/aTIyVGqrUhXsRAkchGyxVokonxFfCYoc/echo/stream/canada-vs-morocco-football-1567824/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 1 2447748 — admin" tvg-id="Tour_De_France_Stage_1_2447748_—_admin" group-title="Streamed.pk Live Football",Tour De France Stage 1 2447748 — admin
+# match: Tour De France Stage 1 2447748
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france/1
+https://lb8.strmd.st/secure/oPdeCAzAuAwHUtGJoxylPqhtEfDWuswz/rtmp/stream/Clg6_Ys3RMvE_L5e42YKz8SIPqfhhtr7m3-ZH6emlu3E2NwXw6et3yz64o61Dh1ya5aUE_2V/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="British Grand Prix 2408166 — admin" tvg-id="British_Grand_Prix_2408166_—_admin" group-title="Streamed.pk Live Football",British Grand Prix 2408166 — admin
+# match: British Grand Prix 2408166
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-british-grand-prix-race/1
+https://lb9.strmd.st/secure/vfoVatnAQdmyYcSIVHPfYlomrMZMdqSZ/rtmp/stream/WRhUtJpK-SSjO3lW4glX5c0hS0NH74-5CGD-tj8ZILLO1bhhs9IaXmiu6DhzNfVgoolb538XUnwjIIWH7BlpR7BEZzJ0KxtFq3uF/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo" tvg-id="Ppv_Event_04_Ama_Supercross_Championship_Buchanan_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo
+# match: Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1
+https://lb11.strmd.st/secure/jVkqNiUCvVbHbWmkOgYDZMCFmRAtbKMb/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Firenze Red Lions Vs London Warriors 2475812 — admin" tvg-id="Firenze_Red_Lions_Vs_London_Warriors_2475812_—_admin" group-title="Streamed.pk Live Football",Firenze Red Lions Vs London Warriors 2475812 — admin
+# match: Firenze Red Lions Vs London Warriors 2475812
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-london-warriors-vs-firenze-red-lions/1
+https://lb5.strmd.st/secure/xSAqAkFvcdPQICnItaVFSyLRiIKaietp/rtmp/stream/U6lvhR8yv725ls8keDchJaecvNlqQ0R13pfEwkbqmoLe6UVKFpDQIMNP_Obd_oBUrPjY1MlYLJ1C_bTkhIMExttc_VnzQA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Tour De France — admin" tvg-id="Ppv_Tour_De_France_—_admin" group-title="Streamed.pk Live Football",Ppv Tour De France — admin
+# match: Ppv Tour De France
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france/1
+https://lb10.strmd.st/secure/YzHcvzvWskqmuGEvvmhXxmNONEhExrLf/rtmp/stream/Clg6_Ys3RMvE_L5e42YKz8SIPqfhhtr7m3-ZH6emlu3E2NwXw6et3yz64o61Dh1ya5aUE_2V/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Pro Motocross Red Bud — admin" tvg-id="Ppv_Pro_Motocross_Red_Bud_—_admin" group-title="Streamed.pk Live Football",Ppv Pro Motocross Red Bud — admin
 # match: Ppv Pro Motocross Red Bud
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-pro-motocross-red-bud/1
-https://lb15.strmd.st/secure/BqvFHehHPkPlcpMpEPiWtFGiIxTpXdGm/rtmp/stream/x17LXLkMPVpUD5euETM78QUlyHG-E1Rqt3Di5EAs-UixnjZZkQfOOU33p6HncxLBpVZPH9Y/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="British Superbikes Snetterton Racing 0059 — echo" tvg-id="British_Superbikes_Snetterton_Racing_0059_—_echo" group-title="Streamed.pk Live Football",British Superbikes Snetterton Racing 0059 — echo
-# match: British Superbikes Snetterton Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/1
-https://lb10.strmd.st/secure/OPfoWYCObhycCbtBQVUPvUJqiUhYjvxw/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wroc Aw Panthers Vs Paris Lights 2475811 — admin" tvg-id="Wroc_Aw_Panthers_Vs_Paris_Lights_2475811_—_admin" group-title="Streamed.pk Live Football",Wroc Aw Panthers Vs Paris Lights 2475811 — admin
-# match: Wroc Aw Panthers Vs Paris Lights 2475811
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-paris-lights-vs-panthers-wroclaw/1
-https://lb5.strmd.st/secure/TaTBvCTUOUdeIBFSiwOOtiDYbTqEbrsk/rtmp/stream/KwX1O2CLoYW_ri7YWmaLKEmcbXYFrRfQg2fAtQvNZVd3jSelOj-xtawz2k6C4PhO-zCSY284cNuwSjQ_EGRdbgTR56fn9A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb2.strmd.st/secure/XtpTwpJxeNQqDjzTkYEUtpjOqQxVusqg/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb11.strmd.st/secure/GkLeeVrFGkmgufDtcXzeRFUGGmPIQXeN/rtmp/stream/08sbVNgsFpNxn-YnsmfBP6koB7btrEe6kr-QwDdf1TwvFcjiYyO8NpFZcxA7enashtY6UlU/1/playlist.m3u8
 
