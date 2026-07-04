@@ -1,17 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T07:21:34+00:00
-# 2 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-07-04T09:35:08+00:00
+# 1 streams captured from 1 matches
 
-#EXTINF:-1 tvg-name="Gold Coast Suns Vs Collingwood Magpies Australian Football 3562 — echo" tvg-id="Gold_Coast_Suns_Vs_Collingwood_Magpies_Australian_Football_3562_—_echo" group-title="Streamed.pk Live Football",Gold Coast Suns Vs Collingwood Magpies Australian Football 3562 — echo
-# match: Gold Coast Suns Vs Collingwood Magpies Australian Football 3562
-# provider: echo
-# embed: https://embed.st/embed/echo/gold-coast-suns-vs-collingwood-magpies-australian-football-3562/1
-https://lb9.strmd.st/secure/JMFhHTfveWDuasUOIEtaAabFSRCLXGxF/echo/stream/gold-coast-suns-vs-collingwood-magpies-australian-football-3562/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo" tvg-id="Ppv_Event_10_Williams_Grove_Sprint_Cars_Ppv_10_—_echo" group-title="Streamed.pk Live Football",Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo
-# match: Ppv Event 10 Williams Grove Sprint Cars Ppv 10
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-10-williams-grove-sprint-cars-ppv-10/1
-https://lb8.strmd.st/secure/NJFxnHwirhpSKaqJJFSZBLfHRvaSQoJZ/echo/stream/ppv-event-10-williams-grove-sprint-cars-ppv-10/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Brisbane Broncos Vs Cronulla Sharks 2417294 — admin" tvg-id="Brisbane_Broncos_Vs_Cronulla_Sharks_2417294_—_admin" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Cronulla Sharks 2417294 — admin
+# match: Brisbane Broncos Vs Cronulla Sharks 2417294
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-broncos-vs-sharks/1
+https://lb1.strmd.st/secure/GqDdeATYWBsFZnvHzJLNSbzhBvINkyxW/rtmp/stream/f2GZeRB9MBf7u5gpqsEfJSDN7TxdVdne6vMmNJQQs1szXcKrFZipgDKVHBeqh2m7zOIDzUacIuthF10/1/playlist.m3u8
 
