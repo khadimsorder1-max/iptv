@@ -1,77 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T00:03:09+00:00
-# 12 streams captured from 8 matches
-
-#EXTINF:-1 tvg-name="Ppv Argentina Vs Cape Verde — admin" tvg-id="Ppv_Argentina_Vs_Cape_Verde_—_admin" group-title="Streamed.pk Live Football",Ppv Argentina Vs Cape Verde — admin
-# match: Ppv Argentina Vs Cape Verde
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1
-https://lb10.strmd.st/secure/qQCxwEuvczAIjQVqITwmTOCtujwagUJL/rtmp/stream/a83nCkN51IFC_03qfzAwfDMVFuoVqtIkV8LtHuBXBoZ8ighI7OTGn8JUOpeQsZEzjcC2HMBsiQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Argentina Vs Cape Verde — echo" tvg-id="Ppv_Argentina_Vs_Cape_Verde_—_echo" group-title="Streamed.pk Live Football",Ppv Argentina Vs Cape Verde — echo
-# match: Ppv Argentina Vs Cape Verde
-# provider: echo
-# embed: https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1
-https://lb5.strmd.st/secure/gaCDIxRgCEPZbnREXVfAMbsowOgmgpkM/echo/stream/argentina-vs-cape-verde-islands-football-1565179/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-07-04T04:10:26+00:00
+# 7 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Colombia Vs Ghana 2503394 — admin" tvg-id="Colombia_Vs_Ghana_2503394_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Ghana 2503394 — admin
 # match: Colombia Vs Ghana 2503394
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-colombia-vs-ghana/1
-https://lb11.strmd.st/secure/YNiXHbTtBtJjOmmQeyNmSMPJuFxkcHDy/rtmp/stream/cOidBDaxQpzBp4_QcbBvPCrGu5oU9gxMR7ke8tFvclYS8uM3Wy2CeQgqbuTWDoy019zm-wfSGw/1/playlist.m3u8
+https://lb14.strmd.st/secure/FmpKSGlWXaPVNSoAcILiLzCNdGeNeQoW/rtmp/stream/-RAXe-uIurYRzmWKjyzlyfQkCKoJ103xQ78GlPuEUpCgv4WeavojQ8NuLUlkDw5FzYEGT9sNHA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Colombia Vs Ghana 2503394 — echo" tvg-id="Colombia_Vs_Ghana_2503394_—_echo" group-title="Streamed.pk Live Football",Colombia Vs Ghana 2503394 — echo
-# match: Colombia Vs Ghana 2503394
-# provider: echo
-# embed: https://embed.st/embed/echo/colombia-vs-ghana-football-1567310/1
-https://lb7.strmd.st/secure/fqxtxdbiUjQowORSxnHAHsIFuStWfmwH/echo/stream/colombia-vs-ghana-football-1567310/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — admin" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — admin
-# match: Ppv Wwe Friday Night Smackdown
+#EXTINF:-1 tvg-name="Las Vegas Aces Vs Chicago Sky 2449089 — admin" tvg-id="Las_Vegas_Aces_Vs_Chicago_Sky_2449089_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Chicago Sky 2449089 — admin
+# match: Las Vegas Aces Vs Chicago Sky 2449089
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1
-https://lb13.strmd.st/secure/KNVKpZGJUyZdsKOlLvUdxVvHGMYbFnNv/rtmp/stream/HtvpEXblCgt-1lY2o-QUGjGhcHRX-2x9s3Flg4_RPDN5VlbaBOpXYczRHMWhlXOfL7uA5N0/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-las-vegas-aces/1
+https://lb3.strmd.st/secure/VtZKlBhKvkuVSwLuBeNjYKylQxQUUmzI/rtmp/stream/8D8tefz4Wqs_yczLUVtwPUR-ltvrgvY8DWLoB6Us4WPlKkAHeio1a32fsi3MDxbeaPhs9hqhcPiZZsxd0OA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — echo" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — echo
-# match: Ppv Wwe Friday Night Smackdown
+#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Chicago Sky W Basketball 494922 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Chicago_Sky_W_Basketball_494922_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Chicago Sky W Basketball 494922 — echo
+# match: Las Vegas Aces W Vs Chicago Sky W Basketball 494922
 # provider: echo
-# embed: https://embed.st/embed/echo/wwe-friday-night-smackdown-game-2457754/1
-https://lb12.strmd.st/secure/nTRlSOzxvKkpfvPixWCYoCrOauUpTwqw/echo/stream/wwe-friday-night-smackdown-game-2457754/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-chicago-sky-w-basketball-494922/1
+https://lb15.strmd.st/secure/YhZueUhCiojxPJwzQsUpgxnUQceMrzSo/echo/stream/las-vegas-aces-w-vs-chicago-sky-w-basketball-494922/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="New York Liberty W Vs Minnesota Lynx W Basketball 494921 — echo" tvg-id="New_York_Liberty_W_Vs_Minnesota_Lynx_W_Basketball_494921_—_echo" group-title="Streamed.pk Live Football",New York Liberty W Vs Minnesota Lynx W Basketball 494921 — echo
-# match: New York Liberty W Vs Minnesota Lynx W Basketball 494921
+#EXTINF:-1 tvg-name="Hawthorn Hawks Vs Melbourne Demons Australian Football 3560 — echo" tvg-id="Hawthorn_Hawks_Vs_Melbourne_Demons_Australian_Football_3560_—_echo" group-title="Streamed.pk Live Football",Hawthorn Hawks Vs Melbourne Demons Australian Football 3560 — echo
+# match: Hawthorn Hawks Vs Melbourne Demons Australian Football 3560
 # provider: echo
-# embed: https://embed.st/embed/echo/new-york-liberty-w-vs-minnesota-lynx-w-basketball-494921/1
-https://lb10.strmd.st/secure/SVMkKpRWFjsgjeyNCKLRdkKCpBkQPhGD/echo/stream/new-york-liberty-w-vs-minnesota-lynx-w-basketball-494921/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/hawthorn-hawks-vs-melbourne-demons-australian-football-3560/1
+https://lb10.strmd.st/secure/VoTaZjdRpkVXUqIaPIyDFOorkHgYcoRv/echo/stream/hawthorn-hawks-vs-melbourne-demons-australian-football-3560/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="New York Liberty Vs Minnesota Lynx 2449088 — admin" tvg-id="New_York_Liberty_Vs_Minnesota_Lynx_2449088_—_admin" group-title="Streamed.pk Live Football",New York Liberty Vs Minnesota Lynx 2449088 — admin
-# match: New York Liberty Vs Minnesota Lynx 2449088
+#EXTINF:-1 tvg-name="Golden State Warriors Vs Los Angeles Lakers 2479091 — admin" tvg-id="Golden_State_Warriors_Vs_Los_Angeles_Lakers_2479091_—_admin" group-title="Streamed.pk Live Football",Golden State Warriors Vs Los Angeles Lakers 2479091 — admin
+# match: Golden State Warriors Vs Los Angeles Lakers 2479091
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-new-york-liberty/1
-https://lb15.strmd.st/secure/GRlMVOYDulNEYPrjxwnOrRdoXcGDQkGS/rtmp/stream/cG-CFxtm_o9sK2hvqE7G4X2_GkoTwnRg3kJx__pEjsY1GgAuyxjCPUDqd4eopfQjKMTs2V1jgZHpRht87HxmgA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-golden-state-warriors-gold/1
+https://lb9.strmd.st/secure/QQoGpowtpoflAoMrdCOJWyVepbOQsdfK/rtmp/stream/OWC0kYhjwvwlLYtgiu8-3oDvZreldrEvk0MviBEC3sDzP3sczGeJByJ5eBf2Kbnt0zZ2oBL-6oMtnO3u3UFhycgWK-wJGoaTWg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ottawa Redblacks Vs Saskatchewan Roughriders 2432549 — admin" tvg-id="Ottawa_Redblacks_Vs_Saskatchewan_Roughriders_2432549_—_admin" group-title="Streamed.pk Live Football",Ottawa Redblacks Vs Saskatchewan Roughriders 2432549 — admin
-# match: Ottawa Redblacks Vs Saskatchewan Roughriders 2432549
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-ottawa-red-blacks/1
-https://lb14.strmd.st/secure/DjoleKHVFsaSooKNUchXYEWZgAVPiSQl/rtmp/stream/pc3zc4rSEcDBKQci0hW9G2qzc3KoBycZbzuTsQlmX6G9DBmwWAu7AqvHXApXEx7mm5dr2cRclhJeVlqLYsbQ9oiil3Ok/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 07 Usac Sprints Lincoln Ppv 07 — echo" tvg-id="Ppv_Event_07_Usac_Sprints_Lincoln_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Usac Sprints Lincoln Ppv 07 — echo
-# match: Ppv Event 07 Usac Sprints Lincoln Ppv 07
+#EXTINF:-1 tvg-name="Ppv Event 04 Budo Sento Championship 35 Ppv 004 — echo" tvg-id="Ppv_Event_04_Budo_Sento_Championship_35_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Budo Sento Championship 35 Ppv 004 — echo
+# match: Ppv Event 04 Budo Sento Championship 35 Ppv 004
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-07-usac-sprints-lincoln-ppv-07/1
-https://lb8.strmd.st/secure/LdHAPmgLBaOrArrfPpWXTjKuoKzbNAOr/echo/stream/ppv-event-07-usac-sprints-lincoln-ppv-07/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-04-budo-sento-championship-35-ppv-004/1
+https://lb7.strmd.st/secure/OpEEOJQIbZydKmhQQFLdWOpHgMhyXTXA/echo/stream/ppv-event-04-budo-sento-championship-35-ppv-004/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Argentina Vs Cape Verde 2502849 — admin" tvg-id="Argentina_Vs_Cape_Verde_2502849_—_admin" group-title="Streamed.pk Live Football",Argentina Vs Cape Verde 2502849 — admin
-# match: Argentina Vs Cape Verde 2502849
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1
-https://lb1.strmd.st/secure/purYJXPodaixKJWtSaZynyYUQjTllnWl/rtmp/stream/a83nCkN51IFC_03qfzAwfDMVFuoVqtIkV8LtHuBXBoZ8ighI7OTGn8JUOpeQsZEzjcC2HMBsiQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Argentina Vs Cape Verde 2502849 — echo" tvg-id="Argentina_Vs_Cape_Verde_2502849_—_echo" group-title="Streamed.pk Live Football",Argentina Vs Cape Verde 2502849 — echo
-# match: Argentina Vs Cape Verde 2502849
+#EXTINF:-1 tvg-name="Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo" tvg-id="Ppv_Event_10_Williams_Grove_Sprint_Cars_Ppv_10_—_echo" group-title="Streamed.pk Live Football",Ppv Event 10 Williams Grove Sprint Cars Ppv 10 — echo
+# match: Ppv Event 10 Williams Grove Sprint Cars Ppv 10
 # provider: echo
-# embed: https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1
-https://lb11.strmd.st/secure/gHxCAIhZuuGYcMftrbvGqzNWwWMXAsAn/echo/stream/argentina-vs-cape-verde-islands-football-1565179/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-10-williams-grove-sprint-cars-ppv-10/1
+https://lb5.strmd.st/secure/stoCXJeNwurLrYcpammBYCFyLcPVeFqF/echo/stream/ppv-event-10-williams-grove-sprint-cars-ppv-10/1/playlist.m3u8
 
