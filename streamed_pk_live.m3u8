@@ -1,59 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T17:00:56+00:00
+# Streamed.pk live football matches — built 2026-07-04T18:08:21+00:00
 # 9 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Canada Vs Morocco 2505183 — admin" tvg-id="Canada_Vs_Morocco_2505183_—_admin" group-title="Streamed.pk Live Football",Canada Vs Morocco 2505183 — admin
 # match: Canada Vs Morocco 2505183
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-canada-vs-morocco/1
-https://lb8.strmd.st/secure/iybJwSTnXrdiGedAJShMpgeNKELAtpij/rtmp/stream/CBSCXjCOtzJbsz4j5oSD_09bY_7IJWs5ZXrGPQtaM9Qqlz4IE5FJB2n6iW12B6KbE79zzThEIA/1/playlist.m3u8
+https://lb9.strmd.st/secure/vnApavYiPWLyCUHgsBTuHpJoHZlCcbuw/rtmp/stream/RqTr8IIgj4bFtm2MigUYerGbqKxetgvha9tmiRRJPYKrjyD1Pi0e1IwRSdJkrXIOWEmnK1dMgQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Canada Vs Morocco 2505183 — echo" tvg-id="Canada_Vs_Morocco_2505183_—_echo" group-title="Streamed.pk Live Football",Canada Vs Morocco 2505183 — echo
 # match: Canada Vs Morocco 2505183
 # provider: echo
 # embed: https://embed.st/embed/echo/canada-vs-morocco-football-1567824/1
-https://lb7.strmd.st/secure/EGZRwVjJTFiLXcJTYHfRAeGUHRrshjvT/echo/stream/canada-vs-morocco-football-1567824/1/playlist.m3u8
+https://lb11.strmd.st/secure/BzVvWHGnkYpVJbSuxaHBEsbjvbedJYnh/echo/stream/canada-vs-morocco-football-1567824/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="British Grand Prix Sprint 2408164 — admin" tvg-id="British_Grand_Prix_Sprint_2408164_—_admin" group-title="Streamed.pk Live Football",British Grand Prix Sprint 2408164 — admin
-# match: British Grand Prix Sprint 2408164
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Golden State Valkyries 2449090 — admin" tvg-id="Atlanta_Dream_Vs_Golden_State_Valkyries_2449090_—_admin" group-title="Streamed.pk Live Football",Atlanta Dream Vs Golden State Valkyries 2449090 — admin
+# match: Atlanta Dream Vs Golden State Valkyries 2449090
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1
-https://lb10.strmd.st/secure/ufSRauwgTLyOLlrkoLPPRdIXBEuFeiYc/rtmp/stream/ny7oVHuPnBvZ81w3pVf1snftyMWWy8NWMVnIUsihdOg62WMcYyoiWLaP9K2QPrpsaUOJ41ubJghYpPq8GqMReubn-KNoRyYttT28WrlOOMGk/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-atlanta-dream/1
+https://lb10.strmd.st/secure/yMqQegkqaFPKJKYMfjexFoxYRTmNquxD/rtmp/stream/FoWJcjDbV-v_nh2oD8JDd0GZeq7aizDqUuks3ZTeBbHCc50RFPMg1fAqeKRpnndjf66uTj1W5jCVDLvS4s0/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Tour De France Stage 1 2447748 — admin" tvg-id="Tour_De_France_Stage_1_2447748_—_admin" group-title="Streamed.pk Live Football",Tour De France Stage 1 2447748 — admin
-# match: Tour De France Stage 1 2447748
+#EXTINF:-1 tvg-name="Ppv Pro Motocross Red Bud — admin" tvg-id="Ppv_Pro_Motocross_Red_Bud_—_admin" group-title="Streamed.pk Live Football",Ppv Pro Motocross Red Bud — admin
+# match: Ppv Pro Motocross Red Bud
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france/1
-https://lb1.strmd.st/secure/ZcoJtcHwsZCzhiDhwLcglFsuTsSwIWwj/rtmp/stream/dDqZSvmyokNVcjZgovpy08WIbkPvaMZkTNoP4gwFj8Fl37HlI7oMg2ibIecgZgItBWpWV9aS/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-pro-motocross-red-bud/1
+https://lb5.strmd.st/secure/nMtTHNUgGNqmjJiamXAbOnEDYMpUnajT/rtmp/stream/HbJthtwwoYWipHwwCcANb5SawWHHzD14HHKUUGSonCKxIVn64vnoVcycrPcc-BOqc7KCHSw/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
+#EXTINF:-1 tvg-name="Atlanta Dream W Vs Golden State Valkyries W Basketball 494923 — echo" tvg-id="Atlanta_Dream_W_Vs_Golden_State_Valkyries_W_Basketball_494923_—_echo" group-title="Streamed.pk Live Football",Atlanta Dream W Vs Golden State Valkyries W Basketball 494923 — echo
+# match: Atlanta Dream W Vs Golden State Valkyries W Basketball 494923
 # provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb5.strmd.st/secure/SFXEHrODubSalyuqXFxybdSCknLztAaV/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/atlanta-dream-w-vs-golden-state-valkyries-w-basketball-494923/1
+https://lb6.strmd.st/secure/MhxjLYdOYHRNcETlfCExpIBiHAfJPWOV/echo/stream/atlanta-dream-w-vs-golden-state-valkyries-w-basketball-494923/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
 # match: John Deere Classic Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb2.strmd.st/secure/DlviaIGsYHrgACduCtqrHypHnnjLkSVr/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+https://lb12.strmd.st/secure/urPkHncrgPdsjtmcbFzBUaIjDgocxJZe/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo" tvg-id="Ppv_Event_04_Ama_Supercross_Championship_Buchanan_Ppv_004_—_echo" group-title="Streamed.pk Live Football",Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004 — echo
 # match: Ppv Event 04 Ama Supercross Championship Buchanan Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1
-https://lb9.strmd.st/secure/rfTUXykdbaKPBLWYWSzqMDkEnpraqpFu/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
+https://lb8.strmd.st/secure/sejDrgjKJtiKsCdHRopFOQMHCShITsIp/echo/stream/ppv-event-04-ama-supercross-championship-buchanan-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Firenze Red Lions Vs London Warriors 2475812 — admin" tvg-id="Firenze_Red_Lions_Vs_London_Warriors_2475812_—_admin" group-title="Streamed.pk Live Football",Firenze Red Lions Vs London Warriors 2475812 — admin
 # match: Firenze Red Lions Vs London Warriors 2475812
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-london-warriors-vs-firenze-red-lions/1
-https://lb11.strmd.st/secure/oFOtkTiwVANzOsYIuiaQQdyOBEZDmUIK/rtmp/stream/rjoO6Qbh_CJ1nERuelukxV09ZfywUCw4nS34mcKrnN8CYxwcrr5ZXHlZ_cBMmw6sHBTagqn_-o_sd58So0dQXIACq32Fww/1/playlist.m3u8
+https://lb3.strmd.st/secure/qFnedPFXEfrHUusMATQSHlyLlZHdSCWo/rtmp/stream/kG8qSoLdYTaeQ8FPbu76IJtgmG8_euDGm60z3zfZ0jpflX643nGk5fRM1jUTz_CS2qy1o-IJWm2V4y_4NdBooCbaf5V39Q/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Tour De France — admin" tvg-id="Ppv_Tour_De_France_—_admin" group-title="Streamed.pk Live Football",Ppv Tour De France — admin
-# match: Ppv Tour De France
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france/1
-https://lb8.strmd.st/secure/UEeFtrzBPVhRJMpfpliuEUSWiZQRtZOM/rtmp/stream/dDqZSvmyokNVcjZgovpy08WIbkPvaMZkTNoP4gwFj8Fl37HlI7oMg2ibIecgZgItBWpWV9aS/1/playlist.m3u8
+#EXTINF:-1 tvg-name="British Superbikes Snetterton Racing 0059 — echo" tvg-id="British_Superbikes_Snetterton_Racing_0059_—_echo" group-title="Streamed.pk Live Football",British Superbikes Snetterton Racing 0059 — echo
+# match: British Superbikes Snetterton Racing 0059
+# provider: echo
+# embed: https://embed.st/embed/echo/british-superbikes-snetterton-racing-0059/1
+https://lb13.strmd.st/secure/WQlbFbhTAiDXTrOmVOyerXLQFVXgVcLs/echo/stream/british-superbikes-snetterton-racing-0059/1/playlist.m3u8
 
