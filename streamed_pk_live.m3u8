@@ -1,23 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T11:23:29+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live football matches — built 2026-07-04T12:42:32+00:00
+# 2 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="British Grand Prix Sprint 2408164 — admin" tvg-id="British_Grand_Prix_Sprint_2408164_—_admin" group-title="Streamed.pk Live Football",British Grand Prix Sprint 2408164 — admin
 # match: British Grand Prix Sprint 2408164
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-british-grand-prix-qualifying/1
-https://lb11.strmd.st/secure/CZflDeXSqiEoLRsxoUeIilbnQeGbSXnd/rtmp/stream/SpzPBFqrbo5sOh_SPNoP0ztmpAdTWBzSsKRynVkNPC0MDuOcpOXzZ6FrCxkVVhjW2_ZY1w-Oy-pGlHab-yHFZllwI8nAnX_ezdcN2LthwvwH/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brisbane Broncos Vs Cronulla Sharks 2417294 — admin" tvg-id="Brisbane_Broncos_Vs_Cronulla_Sharks_2417294_—_admin" group-title="Streamed.pk Live Football",Brisbane Broncos Vs Cronulla Sharks 2417294 — admin
-# match: Brisbane Broncos Vs Cronulla Sharks 2417294
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-broncos-vs-sharks/1
-https://lb4.strmd.st/secure/BIIxUmGbOsegORkZBQjtAgaCjbogUOBj/rtmp/stream/wQuVpPIaPi_Gyb9HgblGJ_MQrvmeCsAvFxNdjKNQy45WBZViHdzufpkTyRqt3N5Lrdawk5cnTUq3XBE/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-british-grand-prix-sprint/1
+https://lb8.strmd.st/secure/blIHuWRvkwOmbXYsLbLUuTrHLxmVHuJx/rtmp/stream/a6QP3G-hgJ9mSQ6Blo4v3HU3D3AqLCksd_HJeuj0cpYgunhrNzsK2RT3fJicRC18-gbcLEp3wU01wMQcp8vWLLPDdW_ixaxwMfZED3Y/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb2.strmd.st/secure/pJwXAcXMoOtVYctzTbGPVlzJwYrxfiik/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb15.strmd.st/secure/WEHcTFupGvVzfwKWBYusxRMDIoJoGSIY/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
