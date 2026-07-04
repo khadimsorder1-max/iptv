@@ -1,47 +1,77 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-03T22:33:29+00:00
-# 7 streams captured from 6 matches
+# Streamed.pk live football matches — built 2026-07-04T00:03:09+00:00
+# 12 streams captured from 8 matches
+
+#EXTINF:-1 tvg-name="Ppv Argentina Vs Cape Verde — admin" tvg-id="Ppv_Argentina_Vs_Cape_Verde_—_admin" group-title="Streamed.pk Live Football",Ppv Argentina Vs Cape Verde — admin
+# match: Ppv Argentina Vs Cape Verde
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1
+https://lb10.strmd.st/secure/qQCxwEuvczAIjQVqITwmTOCtujwagUJL/rtmp/stream/a83nCkN51IFC_03qfzAwfDMVFuoVqtIkV8LtHuBXBoZ8ighI7OTGn8JUOpeQsZEzjcC2HMBsiQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Argentina Vs Cape Verde — echo" tvg-id="Ppv_Argentina_Vs_Cape_Verde_—_echo" group-title="Streamed.pk Live Football",Ppv Argentina Vs Cape Verde — echo
+# match: Ppv Argentina Vs Cape Verde
+# provider: echo
+# embed: https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1
+https://lb5.strmd.st/secure/gaCDIxRgCEPZbnREXVfAMbsowOgmgpkM/echo/stream/argentina-vs-cape-verde-islands-football-1565179/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Colombia Vs Ghana 2503394 — admin" tvg-id="Colombia_Vs_Ghana_2503394_—_admin" group-title="Streamed.pk Live Football",Colombia Vs Ghana 2503394 — admin
+# match: Colombia Vs Ghana 2503394
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-colombia-vs-ghana/1
+https://lb11.strmd.st/secure/YNiXHbTtBtJjOmmQeyNmSMPJuFxkcHDy/rtmp/stream/cOidBDaxQpzBp4_QcbBvPCrGu5oU9gxMR7ke8tFvclYS8uM3Wy2CeQgqbuTWDoy019zm-wfSGw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Colombia Vs Ghana 2503394 — echo" tvg-id="Colombia_Vs_Ghana_2503394_—_echo" group-title="Streamed.pk Live Football",Colombia Vs Ghana 2503394 — echo
+# match: Colombia Vs Ghana 2503394
+# provider: echo
+# embed: https://embed.st/embed/echo/colombia-vs-ghana-football-1567310/1
+https://lb7.strmd.st/secure/fqxtxdbiUjQowORSxnHAHsIFuStWfmwH/echo/stream/colombia-vs-ghana-football-1567310/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — admin" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — admin
+# match: Ppv Wwe Friday Night Smackdown
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-wwe-friday-night-smackdown/1
+https://lb13.strmd.st/secure/KNVKpZGJUyZdsKOlLvUdxVvHGMYbFnNv/rtmp/stream/HtvpEXblCgt-1lY2o-QUGjGhcHRX-2x9s3Flg4_RPDN5VlbaBOpXYczRHMWhlXOfL7uA5N0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Friday Night Smackdown — echo" tvg-id="Ppv_Wwe_Friday_Night_Smackdown_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Friday Night Smackdown — echo
+# match: Ppv Wwe Friday Night Smackdown
+# provider: echo
+# embed: https://embed.st/embed/echo/wwe-friday-night-smackdown-game-2457754/1
+https://lb12.strmd.st/secure/nTRlSOzxvKkpfvPixWCYoCrOauUpTwqw/echo/stream/wwe-friday-night-smackdown-game-2457754/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Liberty W Vs Minnesota Lynx W Basketball 494921 — echo" tvg-id="New_York_Liberty_W_Vs_Minnesota_Lynx_W_Basketball_494921_—_echo" group-title="Streamed.pk Live Football",New York Liberty W Vs Minnesota Lynx W Basketball 494921 — echo
+# match: New York Liberty W Vs Minnesota Lynx W Basketball 494921
+# provider: echo
+# embed: https://embed.st/embed/echo/new-york-liberty-w-vs-minnesota-lynx-w-basketball-494921/1
+https://lb10.strmd.st/secure/SVMkKpRWFjsgjeyNCKLRdkKCpBkQPhGD/echo/stream/new-york-liberty-w-vs-minnesota-lynx-w-basketball-494921/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Liberty Vs Minnesota Lynx 2449088 — admin" tvg-id="New_York_Liberty_Vs_Minnesota_Lynx_2449088_—_admin" group-title="Streamed.pk Live Football",New York Liberty Vs Minnesota Lynx 2449088 — admin
+# match: New York Liberty Vs Minnesota Lynx 2449088
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-new-york-liberty/1
+https://lb15.strmd.st/secure/GRlMVOYDulNEYPrjxwnOrRdoXcGDQkGS/rtmp/stream/cG-CFxtm_o9sK2hvqE7G4X2_GkoTwnRg3kJx__pEjsY1GgAuyxjCPUDqd4eopfQjKMTs2V1jgZHpRht87HxmgA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ottawa Redblacks Vs Saskatchewan Roughriders 2432549 — admin" tvg-id="Ottawa_Redblacks_Vs_Saskatchewan_Roughriders_2432549_—_admin" group-title="Streamed.pk Live Football",Ottawa Redblacks Vs Saskatchewan Roughriders 2432549 — admin
+# match: Ottawa Redblacks Vs Saskatchewan Roughriders 2432549
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-saskatchewan-roughriders-vs-ottawa-red-blacks/1
+https://lb14.strmd.st/secure/DjoleKHVFsaSooKNUchXYEWZgAVPiSQl/rtmp/stream/pc3zc4rSEcDBKQci0hW9G2qzc3KoBycZbzuTsQlmX6G9DBmwWAu7AqvHXApXEx7mm5dr2cRclhJeVlqLYsbQ9oiil3Ok/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 07 Usac Sprints Lincoln Ppv 07 — echo" tvg-id="Ppv_Event_07_Usac_Sprints_Lincoln_Ppv_07_—_echo" group-title="Streamed.pk Live Football",Ppv Event 07 Usac Sprints Lincoln Ppv 07 — echo
+# match: Ppv Event 07 Usac Sprints Lincoln Ppv 07
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-07-usac-sprints-lincoln-ppv-07/1
+https://lb8.strmd.st/secure/LdHAPmgLBaOrArrfPpWXTjKuoKzbNAOr/echo/stream/ppv-event-07-usac-sprints-lincoln-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Argentina Vs Cape Verde 2502849 — admin" tvg-id="Argentina_Vs_Cape_Verde_2502849_—_admin" group-title="Streamed.pk Live Football",Argentina Vs Cape Verde 2502849 — admin
 # match: Argentina Vs Cape Verde 2502849
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-argentina-vs-cape-verde/1
-https://lb4.strmd.st/secure/WfYQQbXQMnIIokJcMstQMFhdDjTgJuYl/rtmp/stream/WB86Klzk_vccyGrac-FH9U4BVwa82UrjU2qaFOuuMFu_9uUiwfjP3wDHGyuQ1mHrHbkUiXoqPw/1/playlist.m3u8
+https://lb1.strmd.st/secure/purYJXPodaixKJWtSaZynyYUQjTllnWl/rtmp/stream/a83nCkN51IFC_03qfzAwfDMVFuoVqtIkV8LtHuBXBoZ8ighI7OTGn8JUOpeQsZEzjcC2HMBsiQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Argentina Vs Cape Verde 2502849 — echo" tvg-id="Argentina_Vs_Cape_Verde_2502849_—_echo" group-title="Streamed.pk Live Football",Argentina Vs Cape Verde 2502849 — echo
 # match: Argentina Vs Cape Verde 2502849
 # provider: echo
 # embed: https://embed.st/embed/echo/argentina-vs-cape-verde-islands-football-1565179/1
-https://lb7.strmd.st/secure/KmSJImLUdYtMNKovVgDtDhypYxalocQq/echo/stream/argentina-vs-cape-verde-islands-football-1565179/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 02 Ares 42 Ppv 02 — echo" tvg-id="Ppv_Event_02_Ares_42_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Ares 42 Ppv 02 — echo
-# match: Ppv Event 02 Ares 42 Ppv 02
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-ares-42-ppv-02/1
-https://lb1.strmd.st/secure/XTQBxcQgoaCCIhezcyXHotxabNdJjpss/echo/stream/ppv-event-02-ares-42-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Indycar Ntt Practice Racing 0059 — echo" tvg-id="Indycar_Ntt_Practice_Racing_0059_—_echo" group-title="Streamed.pk Live Football",Indycar Ntt Practice Racing 0059 — echo
-# match: Indycar Ntt Practice Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/indycar-ntt-practice-racing-0059/1
-https://lb3.strmd.st/secure/nHxpbrKytPTnVQftjbGIUMuehoSWouRP/echo/stream/indycar-ntt-practice-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Notts Outlaws Vs Lancashire Lightning 2427844 — echo" tvg-id="Notts_Outlaws_Vs_Lancashire_Lightning_2427844_—_echo" group-title="Streamed.pk Live Football",Notts Outlaws Vs Lancashire Lightning 2427844 — echo
-# match: Notts Outlaws Vs Lancashire Lightning 2427844
-# provider: echo
-# embed: https://embed.st/embed/echo/mens-vitality-blast-notts-vs-lancashire-game-19993637/1
-https://lb13.strmd.st/secure/ebbJSyxlBhAGPBEopzblimjSOIJGNvji/echo/stream/mens-vitality-blast-notts-vs-lancashire-game-19993637/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Scull V Castillo Ppv 01 — echo" tvg-id="Ppv_Event_01_Scull_V_Castillo_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Scull V Castillo Ppv 01 — echo
-# match: Ppv Event 01 Scull V Castillo Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-scull-v-castillo-ppv-01/1
-https://lb12.strmd.st/secure/izXTvACyekHtSDiqbAImhbRWSjYduNwg/echo/stream/ppv-event-01-scull-v-castillo-ppv-01/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Pga Tour John Deere Classic Pga 526234 — echo" tvg-id="Pga_Tour_John_Deere_Classic_Pga_526234_—_echo" group-title="Streamed.pk Live Football",Pga Tour John Deere Classic Pga 526234 — echo
-# match: Pga Tour John Deere Classic Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/pga-tour-john-deere-classic-pga-526234/1
-https://lb7.strmd.st/secure/KmXKTuqcrKXOjvJVWQVCbPuJBflsmerM/echo/stream/pga-tour-john-deere-classic-pga-526234/1/playlist.m3u8
+https://lb11.strmd.st/secure/gHxCAIhZuuGYcMftrbvGqzNWwWMXAsAn/echo/stream/argentina-vs-cape-verde-islands-football-1565179/1/playlist.m3u8
 
