@@ -1,53 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-04T23:59:25+00:00
-# 8 streams captured from 8 matches
+# Streamed.pk live football matches — built 2026-07-05T03:37:24+00:00
+# 4 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="Abdullah Mason Vs Albert Bell 2466559 — echo" tvg-id="Abdullah_Mason_Vs_Albert_Bell_2466559_—_echo" group-title="Streamed.pk Live Football",Abdullah Mason Vs Albert Bell 2466559 — echo
 # match: Abdullah Mason Vs Albert Bell 2466559
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-03-mason-v-bell-ppv-03/1
-https://lb7.strmd.st/secure/FFxhbCUqGujUpxgTEcxLDRySvvKdjBkU/echo/stream/ppv-event-03-mason-v-bell-ppv-03/1/playlist.m3u8
+https://lb15.strmd.st/secure/HIDeEtmOwJWNaZhLsaYMafgSyelHqfdf/echo/stream/ppv-event-03-mason-v-bell-ppv-03/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bc Lions Vs Edmonton Elks 2432550 — admin" tvg-id="Bc_Lions_Vs_Edmonton_Elks_2432550_—_admin" group-title="Streamed.pk Live Football",Bc Lions Vs Edmonton Elks 2432550 — admin
-# match: Bc Lions Vs Edmonton Elks 2432550
+#EXTINF:-1 tvg-name="Seattle Storm Vs Portland Fire 2469371 — admin" tvg-id="Seattle_Storm_Vs_Portland_Fire_2469371_—_admin" group-title="Streamed.pk Live Football",Seattle Storm Vs Portland Fire 2469371 — admin
+# match: Seattle Storm Vs Portland Fire 2469371
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-edmonton-elks-vs-bc-lions/1
-https://lb12.strmd.st/secure/ivsOEFrBtPxRDETERhcNzEGrsjxycBJJ/rtmp/stream/_u8XFNu2WrHCC80N3p9kdEEgbjpQMg7PvMSquI3tKRZwB-MtxiXcRg_uFPrxTmAzEs7Ku8Il3vEZNWQdUw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-seattle-storm/1
+https://lb5.strmd.st/secure/VtOEQjksXcaczzeJrircpEudRpHAqfnm/rtmp/stream/vQ-lLmPDlch_3impkW8EYkq39Kw4rt9_x7V-Sc7CQbUpPcvPyIxJM1sNfD6d54a-NmYu8ZkNQrhKrmoLQvA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 16 Knoxville Sprints Ppv16 — echo" tvg-id="Ppv_Event_16_Knoxville_Sprints_Ppv16_—_echo" group-title="Streamed.pk Live Football",Ppv Event 16 Knoxville Sprints Ppv16 — echo
+# match: Ppv Event 16 Knoxville Sprints Ppv16
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-16-knoxville-sprints-ppv16/1
+https://lb11.strmd.st/secure/qOJbhMDglGygEFYFcuVxgbsBivMavpuf/echo/stream/ppv-event-16-knoxville-sprints-ppv16/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09 — echo" tvg-id="Ppv_Event_09_Lucas_Oil_Late_Models_Muskingum_Ppv_09_—_echo" group-title="Streamed.pk Live Football",Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09 — echo
 # match: Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1
-https://lb15.strmd.st/secure/wogyaAnQCLMsaoymHjLojAbjNEagZTym/echo/stream/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 11 Usac Sprints Lincoln Ppv 11 — echo" tvg-id="Ppv_Event_11_Usac_Sprints_Lincoln_Ppv_11_—_echo" group-title="Streamed.pk Live Football",Ppv Event 11 Usac Sprints Lincoln Ppv 11 — echo
-# match: Ppv Event 11 Usac Sprints Lincoln Ppv 11
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-11-usac-sprints-lincoln-ppv-11/1
-https://lb9.strmd.st/secure/PAfGiYvVfMspWVpzMQxgLAsJhuOYZBEB/echo/stream/ppv-event-11-usac-sprints-lincoln-ppv-11/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 02 Gcw Bash At The Ballpark Ppv 02 — echo" tvg-id="Ppv_Event_02_Gcw_Bash_At_The_Ballpark_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Gcw Bash At The Ballpark Ppv 02 — echo
-# match: Ppv Event 02 Gcw Bash At The Ballpark Ppv 02
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-gcw-bash-at-the-ballpark-ppv-02/1
-https://lb4.strmd.st/secure/CeNqQjJPJdydJEZQCKvVDdRqIiTuySwE/echo/stream/ppv-event-02-gcw-bash-at-the-ballpark-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Atlanta Hawks 2505200 — admin" tvg-id="Utah_Jazz_Vs_Atlanta_Hawks_2505200_—_admin" group-title="Streamed.pk Live Football",Utah Jazz Vs Atlanta Hawks 2505200 — admin
-# match: Utah Jazz Vs Atlanta Hawks 2505200
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-utah-jazz/1
-https://lb1.strmd.st/secure/MsqohtvELSrQQzIAKBwcbRTvetDIXYWe/rtmp/stream/bgqfQk-XFNW1xN_LFsBexjqVnTGxryoLOZBnnblYjH3e2hjua6iNmd71ylmXuxEY9WV3-ozRlOHULA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Brooklyn Nets 2479093 — admin" tvg-id="Sacramento_Kings_Vs_Brooklyn_Nets_2479093_—_admin" group-title="Streamed.pk Live Football",Sacramento Kings Vs Brooklyn Nets 2479093 — admin
-# match: Sacramento Kings Vs Brooklyn Nets 2479093
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-sacramento-kings/1
-https://lb4.strmd.st/secure/hJxgsCzaZUvnRuiyTnkYSgnOXxLriAsd/rtmp/stream/pl-oTjxAMmPm3JrrXNoBXVcAsH_S8zYZYvN8UwfI2KlclpL8sDlR8Q7d5WgPhd1CxQKfrQGc11PKpHXZ4O-ru1c/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
-# match: John Deere Classic Pga Tour Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb8.strmd.st/secure/AbBNuBYTwDQwWwYsyvAFNXSNpvLvRmPO/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+https://lb12.strmd.st/secure/MeKYhtsDDNTZyQpRaIhQyBYQXsJIUKta/echo/stream/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1/playlist.m3u8
 
