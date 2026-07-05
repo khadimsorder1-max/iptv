@@ -1,11 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T11:27:39+00:00
-# 1 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-07-05T12:49:16+00:00
+# 4 streams captured from 4 matches
+
+#EXTINF:-1 tvg-name="British Grand Prix 2408166 — admin" tvg-id="British_Grand_Prix_2408166_—_admin" group-title="Streamed.pk Live Football",British Grand Prix 2408166 — admin
+# match: British Grand Prix 2408166
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-british-grand-prix-race/1
+https://lb7.strmd.st/secure/NQmWfhiucjCZvODjrloprQPUEBlWJTHU/rtmp/stream/HQ4f04Wgc5QSlJsoLEmWD1bmUNzu_B43vxfX5rJf2dWKv6Z9Umk15-VIxVSm8hdgeih3qZjkpQ1suSsFd0Jm6NewQyZ82K4XdkoG/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb9.strmd.st/secure/MMxMnHnkMKjupAtypydxLSpdrVWGirnI/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 1 2447748 — admin" tvg-id="Tour_De_France_Stage_1_2447748_—_admin" group-title="Streamed.pk Live Football",Tour De France Stage 1 2447748 — admin
+# match: Tour De France Stage 1 2447748
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-2/1
+https://lb10.strmd.st/secure/CFtgtvxASVuNjcVxqlPUQgolNTtxQUMj/rtmp/stream/DrFv6aWwiL2Hhn5SH2unUOa3qZVOBhCBM4vTb4yroHOL72toBh-tL6P3gYvrIpKDjTZaljue/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Newcastle Knights Vs Dolphins 2417296 — echo" tvg-id="Newcastle_Knights_Vs_Dolphins_2417296_—_echo" group-title="Streamed.pk Live Football",Newcastle Knights Vs Dolphins 2417296 — echo
 # match: Newcastle Knights Vs Dolphins 2417296
 # provider: echo
 # embed: https://embed.st/embed/echo/newcastle-vs-dolphins-game-3373252/1
-https://lb2.strmd.st/secure/GWUnCGVyclwiWKkvGbocYxXSRAtlSuMx/echo/stream/newcastle-vs-dolphins-game-3373252/1/playlist.m3u8
+https://lb3.strmd.st/secure/gYwirrWbISSDiYcmwfTafrvZqFMqNSvk/echo/stream/newcastle-vs-dolphins-game-3373252/1/playlist.m3u8
 
