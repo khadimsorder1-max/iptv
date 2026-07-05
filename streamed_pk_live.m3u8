@@ -1,29 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T14:28:56+00:00
-# 4 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-07-05T15:48:32+00:00
+# 5 streams captured from 5 matches
 
 #EXTINF:-1 tvg-name="British Grand Prix 2408166 — admin" tvg-id="British_Grand_Prix_2408166_—_admin" group-title="Streamed.pk Live Football",British Grand Prix 2408166 — admin
 # match: British Grand Prix 2408166
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-british-grand-prix-race/1
-https://lb8.strmd.st/secure/lMMhBHSXpesQnpaEZaCHdgzoinYRXpwT/rtmp/stream/UqI00eELDwh5l5YY-mZ6U6oXTVAHuhiwIfN1gaG34Jn9h7NbujuxFcKLtFr_lR1J7bgkDu70b5eiuj5WDWaWk8xaIUleFQaY-ek2/1/playlist.m3u8
+https://lb6.strmd.st/secure/yVeZcEgHBCasThFgJiQozDrpFujMnXWt/rtmp/stream/-7SGAupK_su0ZrT3gpNc2BH68rH70L8MRNgCtmetDmHmT_E3mlH5U0ddWRHtCrnWgzgJX-oI31pNzFk3CFu_SSAcoN2Ow2Zk6_LC/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tour De France Stage 1 2447748 — admin" tvg-id="Tour_De_France_Stage_1_2447748_—_admin" group-title="Streamed.pk Live Football",Tour De France Stage 1 2447748 — admin
 # match: Tour De France Stage 1 2447748
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-2/1
-https://lb4.strmd.st/secure/FlnKLrGaUnIAKVAyKGzYSYwBvAKrkIxj/rtmp/stream/R2d66OGupPkxbV9uwQkayqcHi3stCikQ6aiLbcg409QM_PMCacFGvmbILRy09w3QgIE1xjng/1/playlist.m3u8
+https://lb2.strmd.st/secure/xHkeKRKvIzqjTlxJUDKkglzrlmzONHJr/rtmp/stream/AlNmeCyGfecDtDl6nmNsHcaJccYEzbUXoat3zvm3Ono0njhUi8GHezDtfw7KJGFUmN5o9BP6/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb2.strmd.st/secure/aCrerbUEnVNkJzIRvFNPKpqxcFIkEAel/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb13.strmd.st/secure/NDvQYqFhQHbXVQDjIngsXTMwXwXxEfDF/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Australia Vs England — admin" tvg-id="Ppv_Australia_Vs_England_—_admin" group-title="Streamed.pk Live Football",Ppv Australia Vs England — admin
+# match: Ppv Australia Vs England
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-australia-vs-england/1
+https://lb5.strmd.st/secure/hpaKRyTKJqVgJcAijFBEEPDCwIEbzjOg/rtmp/stream/BvJ6BfZbOpq2KdsrQl84Rsui_aOr2daCJkD0k4fA4QZDhz3mC0WZ_wyP6Yqbn2hEX79Nma1Q/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Leeds Rhinos Vs Bradford Bulls 2395958 — echo" tvg-id="Leeds_Rhinos_Vs_Bradford_Bulls_2395958_—_echo" group-title="Streamed.pk Live Football",Leeds Rhinos Vs Bradford Bulls 2395958 — echo
 # match: Leeds Rhinos Vs Bradford Bulls 2395958
 # provider: echo
 # embed: https://embed.st/embed/echo/leeds-rhinos-vs-bradford-bulls-game-182283/1
-https://lb1.strmd.st/secure/eUIYxXOavtcwizgBbnbkzBYDZbsYeEhr/echo/stream/leeds-rhinos-vs-bradford-bulls-game-182283/1/playlist.m3u8
+https://lb11.strmd.st/secure/EdwAzkWOhzJcFwgrxfaYuugecZGwLSSi/echo/stream/leeds-rhinos-vs-bradford-bulls-game-182283/1/playlist.m3u8
 
