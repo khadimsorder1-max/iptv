@@ -1,35 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T18:36:39+00:00
-# 5 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-07-05T20:11:01+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Brazil Vs Norway 2505462 — admin" tvg-id="Brazil_Vs_Norway_2505462_—_admin" group-title="Streamed.pk Live Football",Brazil Vs Norway 2505462 — admin
-# match: Brazil Vs Norway 2505462
+#EXTINF:-1 tvg-name="Milwaukee Bucks Vs Brooklyn Nets 2479094 — admin" tvg-id="Milwaukee_Bucks_Vs_Brooklyn_Nets_2479094_—_admin" group-title="Streamed.pk Live Football",Milwaukee Bucks Vs Brooklyn Nets 2479094 — admin
+# match: Milwaukee Bucks Vs Brooklyn Nets 2479094
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-brazil-vs-norway/1
-https://lb5.strmd.st/secure/TUQRjtmDXLsgcuFyLDQsPlEZZgWnLGql/rtmp/stream/PMGcYSB0ZRQjeKFCwzwgy-lmmtY_ucqtZxT1okM4LHZuT4UMplNRUNp606RGe4_q_B5GwRp_rg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brazil Vs Norway 2505462 — echo" tvg-id="Brazil_Vs_Norway_2505462_—_echo" group-title="Streamed.pk Live Football",Brazil Vs Norway 2505462 — echo
-# match: Brazil Vs Norway 2505462
-# provider: echo
-# embed: https://embed.st/embed/echo/brazil-vs-norway-football-1568100/1
-https://lb1.strmd.st/secure/zblroENJkmNqXCzroiyPNbICDROMvMmJ/echo/stream/brazil-vs-norway-football-1568100/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
-# match: John Deere Classic Pga Tour Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb10.strmd.st/secure/yDKlEbTpSlXIgOIAQKYEFoXdfRquIBXJ/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-milwaukee-bucks/1
+https://lb1.strmd.st/secure/yKTybKEBTewBcyjVvuukRFkuPeNFhTDi/rtmp/stream/lSnSWBvQTXOJ3UJl_7WIwjePRtUNGKRP1WwoBxJ-_0omzmvVOuXGvAJ4zxjP3hbN_5HqEXf2D8GjdUaZZ0K_ow/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Leeds Rhinos Vs Bradford Bulls 2395958 — echo" tvg-id="Leeds_Rhinos_Vs_Bradford_Bulls_2395958_—_echo" group-title="Streamed.pk Live Football",Leeds Rhinos Vs Bradford Bulls 2395958 — echo
 # match: Leeds Rhinos Vs Bradford Bulls 2395958
 # provider: echo
 # embed: https://embed.st/embed/echo/leeds-rhinos-vs-bradford-bulls-game-182283/1
-https://lb13.strmd.st/secure/ciyBszlXNQjCjbueoUeuQIHblMJsaWNm/echo/stream/leeds-rhinos-vs-bradford-bulls-game-182283/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb7.strmd.st/secure/icaPmNIwnchTorQSCHdunmAsJFsdvHJs/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb9.strmd.st/secure/aIbthbXnAxgvwGhEVVBPdZrzZoKoRoCn/echo/stream/leeds-rhinos-vs-bradford-bulls-game-182283/1/playlist.m3u8
 
