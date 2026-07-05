@@ -1,65 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T21:35:39+00:00
-# 10 streams captured from 8 matches
-
-#EXTINF:-1 tvg-name="Brazil Vs Norway 2505462 — admin" tvg-id="Brazil_Vs_Norway_2505462_—_admin" group-title="Streamed.pk Live Football",Brazil Vs Norway 2505462 — admin
-# match: Brazil Vs Norway 2505462
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-brazil-vs-norway/1
-https://lb10.strmd.st/secure/PyLwbYtDuvkeKnkFwxvBGjZHYUuPzIav/rtmp/stream/5q5AIsvE4DmjYP9fGAwYzHUjieY9xG1vPKE654EOLYdE4BspbMkjdmLmyzIBC_96524CI6YK1w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brazil Vs Norway 2505462 — echo" tvg-id="Brazil_Vs_Norway_2505462_—_echo" group-title="Streamed.pk Live Football",Brazil Vs Norway 2505462 — echo
-# match: Brazil Vs Norway 2505462
-# provider: echo
-# embed: https://embed.st/embed/echo/brazil-vs-norway-football-1568100/1
-https://lb15.strmd.st/secure/VYWpqQQPPsxjecADMKkkdkDbutvZWDMB/echo/stream/brazil-vs-norway-football-1568100/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Golden State Warriors 2479096 — admin" tvg-id="Sacramento_Kings_Vs_Golden_State_Warriors_2479096_—_admin" group-title="Streamed.pk Live Football",Sacramento Kings Vs Golden State Warriors 2479096 — admin
-# match: Sacramento Kings Vs Golden State Warriors 2479096
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-blue-vs-sacramento-kings/1
-https://lb14.strmd.st/secure/qHCbzKGKysWzfPziZUhSiQIntIeZFvVY/rtmp/stream/s5105MGESbbVoBZuYYOz-Q-llBFkhprjQEE4J0RrC64W8NKtNjneXkppynCHXqGPfLnLwb9KeeliHyFtFLlC1_M/1/playlist.m3u8
+# Streamed.pk live football matches — built 2026-07-05T22:59:13+00:00
+# 6 streams captured from 5 matches
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — admin" tvg-id="Mexico_Vs_England_2507706_—_admin" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — admin
 # match: Mexico Vs England 2507706
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-mexico-vs-england/1
-https://lb11.strmd.st/secure/nNJgkbhbZjXquiNQpuXfUXdJshxJzYeq/rtmp/stream/q2qR3mb250GQ9KMcIRD6AvTAnd-2H4-XToVWX3O6EuH8KdvdtRCxpOtK65N91a8cQ_vRW27gwQ/1/playlist.m3u8
+https://lb15.strmd.st/secure/gpVNjJuwaJxKZLoEjyyfeElQVqsjbMfW/rtmp/stream/aXPNdJzRvSfQIpqR7p6sSjoqmhjBPokL8g_j2kLdH_4XMTRwa60GX3JwcgKa5OyeVGOvuxj5fw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — echo" tvg-id="Mexico_Vs_England_2507706_—_echo" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — echo
 # match: Mexico Vs England 2507706
 # provider: echo
 # embed: https://embed.st/embed/echo/mexico-vs-england-football-1570714/1
-https://lb4.strmd.st/secure/xfuTivnnluAnJsEsrvxjpTjFYSVbzSrK/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
+https://lb12.strmd.st/secure/vhFqTARUkzNAtjOOpKzzXQMtjyrRfbqO/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sacramento Kings Vs Golden State Warriors 2479096 — admin" tvg-id="Sacramento_Kings_Vs_Golden_State_Warriors_2479096_—_admin" group-title="Streamed.pk Live Football",Sacramento Kings Vs Golden State Warriors 2479096 — admin
+# match: Sacramento Kings Vs Golden State Warriors 2479096
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-blue-vs-sacramento-kings/1
+https://lb7.strmd.st/secure/QKdTNrCesBTGZCbnwhMLULUKiuJnkmyg/rtmp/stream/vPSdNP9Vo_QfCK3KIsr608E8ixdm4o-l24tef7U2SZm62STLi3DUsLXX6wMLno8viPMAhEki2prulNHOfA4vZDw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo" tvg-id="Ppv_Event_02_Usac_Sumar_Classic_At_Terre_Haute_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo
+# match: Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1
+https://lb5.strmd.st/secure/wGQtMDUjxhBaKDSGvzWVxYpCkUxLgLEa/echo/stream/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01 — echo" tvg-id="Ppv_Event_01_Gcw_Backyard_Wrestling_8_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01 — echo
 # match: Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-01-gcw-backyard-wrestling-8-ppv-01/1
-https://lb9.strmd.st/secure/zaEQNELcwpFsDgdeaPsZkoUWgvOrwkIH/echo/stream/ppv-event-01-gcw-backyard-wrestling-8-ppv-01/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Milwaukee Bucks Vs Brooklyn Nets 2479094 — admin" tvg-id="Milwaukee_Bucks_Vs_Brooklyn_Nets_2479094_—_admin" group-title="Streamed.pk Live Football",Milwaukee Bucks Vs Brooklyn Nets 2479094 — admin
-# match: Milwaukee Bucks Vs Brooklyn Nets 2479094
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-milwaukee-bucks/1
-https://lb2.strmd.st/secure/QgASxagXfvZCGoAIRZOZyxyGthIgwtAM/rtmp/stream/xYMXLkq26WQuqWJdc9814sBLXMS6HH26kJz_bUCLUDop91WLKzCusk2p4tC4u3ZPYz25wCxXdwtUFGQdTt_d7w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Dallas Wings 2449314 — admin" tvg-id="Toronto_Tempo_Vs_Dallas_Wings_2449314_—_admin" group-title="Streamed.pk Live Football",Toronto Tempo Vs Dallas Wings 2449314 — admin
-# match: Toronto Tempo Vs Dallas Wings 2449314
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-toronto-tempo/1
-https://lb13.strmd.st/secure/YwoGawtpIyYSJoKxuYLJgvzUETfOmVGy/rtmp/stream/uFTGt2DO0JS0QMAVZ1PZaqImA7WXAxSBPD_iT6BjnC2UVk7CDwDxYvP0S7YtREs_HRgh3kI81fzzsZBksY0/1/playlist.m3u8
+https://lb2.strmd.st/secure/AsEKMwokrJeuZgXGUTNHjbEgolBCCMfh/echo/stream/ppv-event-01-gcw-backyard-wrestling-8-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
 # match: John Deere Classic Pga Tour Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb1.strmd.st/secure/MOtsISAZAtEiHRcjjpAGdfDqItvbDmcc/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Leeds Rhinos Vs Bradford Bulls 2395958 — echo" tvg-id="Leeds_Rhinos_Vs_Bradford_Bulls_2395958_—_echo" group-title="Streamed.pk Live Football",Leeds Rhinos Vs Bradford Bulls 2395958 — echo
-# match: Leeds Rhinos Vs Bradford Bulls 2395958
-# provider: echo
-# embed: https://embed.st/embed/echo/leeds-rhinos-vs-bradford-bulls-game-182283/1
-https://lb5.strmd.st/secure/nBRcbdQPuIAXhFmaGNCLfuKQorzzGsnp/echo/stream/leeds-rhinos-vs-bradford-bulls-game-182283/1/playlist.m3u8
+https://lb4.strmd.st/secure/afcnMVvToIsGPhVZlvAHLqDTJKGgfecD/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
 
