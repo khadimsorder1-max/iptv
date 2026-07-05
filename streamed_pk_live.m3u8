@@ -1,29 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T03:37:24+00:00
-# 4 streams captured from 4 matches
+# Streamed.pk live football matches — built 2026-07-05T07:21:30+00:00
+# 5 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Abdullah Mason Vs Albert Bell 2466559 — echo" tvg-id="Abdullah_Mason_Vs_Albert_Bell_2466559_—_echo" group-title="Streamed.pk Live Football",Abdullah Mason Vs Albert Bell 2466559 — echo
-# match: Abdullah Mason Vs Albert Bell 2466559
+#EXTINF:-1 tvg-name="Port Adelaide Football Club Vs North Melbourne Football Club 2495764 — echo" tvg-id="Port_Adelaide_Football_Club_Vs_North_Melbourne_Football_Club_2495764_—_echo" group-title="Streamed.pk Live Football",Port Adelaide Football Club Vs North Melbourne Football Club 2495764 — echo
+# match: Port Adelaide Football Club Vs North Melbourne Football Club 2495764
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-mason-v-bell-ppv-03/1
-https://lb15.strmd.st/secure/HIDeEtmOwJWNaZhLsaYMafgSyelHqfdf/echo/stream/ppv-event-03-mason-v-bell-ppv-03/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1
+https://lb1.strmd.st/secure/sXHXkTZmcKCbaLHUYzgBdYnaXnbQquzW/echo/stream/port-adelaide-power-vs-north-melbourne-kangaroos-australian-football-3565/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Seattle Storm Vs Portland Fire 2469371 — admin" tvg-id="Seattle_Storm_Vs_Portland_Fire_2469371_—_admin" group-title="Streamed.pk Live Football",Seattle Storm Vs Portland Fire 2469371 — admin
-# match: Seattle Storm Vs Portland Fire 2469371
+#EXTINF:-1 tvg-name="Newcastle Knights Vs Dolphins 2417296 — admin" tvg-id="Newcastle_Knights_Vs_Dolphins_2417296_—_admin" group-title="Streamed.pk Live Football",Newcastle Knights Vs Dolphins 2417296 — admin
+# match: Newcastle Knights Vs Dolphins 2417296
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-seattle-storm/1
-https://lb5.strmd.st/secure/VtOEQjksXcaczzeJrircpEudRpHAqfnm/rtmp/stream/vQ-lLmPDlch_3impkW8EYkq39Kw4rt9_x7V-Sc7CQbUpPcvPyIxJM1sNfD6d54a-NmYu8ZkNQrhKrmoLQvA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-knights-vs-dolphins/1
+https://lb2.strmd.st/secure/kFkesCtppQXzQIMCpSnPutlHYzWBCunH/rtmp/stream/iKNb1H996iK0-FQzD5-kHqCjeeITv3nvKvQz-K7Jch3xcrYZMaUzZ3KUPdigksphxh0iBC08Wh_y6GA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Newcastle Knights Vs Dolphins 2417296 — echo" tvg-id="Newcastle_Knights_Vs_Dolphins_2417296_—_echo" group-title="Streamed.pk Live Football",Newcastle Knights Vs Dolphins 2417296 — echo
+# match: Newcastle Knights Vs Dolphins 2417296
+# provider: echo
+# embed: https://embed.st/embed/echo/newcastle-vs-dolphins-game-3373252/1
+https://lb8.strmd.st/secure/YZONYZgYioVKzvbkiTKBsGHNfTlmCAhG/echo/stream/newcastle-vs-dolphins-game-3373252/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Essendon Bombers Vs St Kilda Saints Australian Football 3564 — echo" tvg-id="Essendon_Bombers_Vs_St_Kilda_Saints_Australian_Football_3564_—_echo" group-title="Streamed.pk Live Football",Essendon Bombers Vs St Kilda Saints Australian Football 3564 — echo
+# match: Essendon Bombers Vs St Kilda Saints Australian Football 3564
+# provider: echo
+# embed: https://embed.st/embed/echo/essendon-bombers-vs-st-kilda-saints-australian-football-3564/1
+https://lb1.strmd.st/secure/CkhoVDGrfqyiylRjKZHqaHXTbwzYsgXB/echo/stream/essendon-bombers-vs-st-kilda-saints-australian-football-3564/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 16 Knoxville Sprints Ppv16 — echo" tvg-id="Ppv_Event_16_Knoxville_Sprints_Ppv16_—_echo" group-title="Streamed.pk Live Football",Ppv Event 16 Knoxville Sprints Ppv16 — echo
 # match: Ppv Event 16 Knoxville Sprints Ppv16
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-16-knoxville-sprints-ppv16/1
-https://lb11.strmd.st/secure/qOJbhMDglGygEFYFcuVxgbsBivMavpuf/echo/stream/ppv-event-16-knoxville-sprints-ppv16/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09 — echo" tvg-id="Ppv_Event_09_Lucas_Oil_Late_Models_Muskingum_Ppv_09_—_echo" group-title="Streamed.pk Live Football",Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09 — echo
-# match: Ppv Event 09 Lucas Oil Late Models Muskingum Ppv 09
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1
-https://lb12.strmd.st/secure/MeKYhtsDDNTZyQpRaIhQyBYQXsJIUKta/echo/stream/ppv-event-09-lucas-oil-late-models-muskingum-ppv-09/1/playlist.m3u8
+https://lb2.strmd.st/secure/YOFYTawsyfHLOnDFtIzkzcOjxbCCrnhx/echo/stream/ppv-event-16-knoxville-sprints-ppv16/1/playlist.m3u8
 
