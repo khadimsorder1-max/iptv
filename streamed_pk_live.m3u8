@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-06T20:22:49+00:00
+# Streamed.pk live football matches — built 2026-07-06T21:54:43+00:00
 # 2 streams captured from 1 matches
 
-#EXTINF:-1 tvg-name="Portugal Vs Spain 2511721 — admin" tvg-id="Portugal_Vs_Spain_2511721_—_admin" group-title="Streamed.pk Live Football",Portugal Vs Spain 2511721 — admin
-# match: Portugal Vs Spain 2511721
+#EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — admin" tvg-id="Usa_Vs_Belgium_2507707_—_admin" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — admin
+# match: Usa Vs Belgium 2507707
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-portugal-vs-spain/1
-https://lb7.strmd.st/secure/cQoBgvrMUSCgZOrdSREIAusjMftXaLvn/rtmp/stream/LnpURfC7fugCo56cVc-aH-6fHwXASvzqPbEaHl5f3UT5tW_fyOZNgFFQRkXIVbiR9RKmtPX4Aw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-united-states-vs-belgium/1
+https://lb9.strmd.st/secure/dRgBNuhjxlWflVzqgvDUYbddnMnrYdKk/rtmp/stream/IliDEry42x8nIlfbKVHjneVRJ5mPnPl5piUPxi7JTzhrVTZ9f5yBrdc-Rw2pncrQpO89FrJaoA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Portugal Vs Spain 2511721 — echo" tvg-id="Portugal_Vs_Spain_2511721_—_echo" group-title="Streamed.pk Live Football",Portugal Vs Spain 2511721 — echo
-# match: Portugal Vs Spain 2511721
+#EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — echo" tvg-id="Usa_Vs_Belgium_2507707_—_echo" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — echo
+# match: Usa Vs Belgium 2507707
 # provider: echo
-# embed: https://embed.st/embed/echo/portugal-vs-spain-football-1576756/1
-https://lb7.strmd.st/secure/YFeIWZfgJzgJJyTLrBqmAkjYNsgWEOSH/echo/stream/portugal-vs-spain-football-1576756/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/usa-vs-belgium-football-1570715/1
+https://lb8.strmd.st/secure/TVHBwkTWJBWpgdBfldFBBANnxUycDbzH/echo/stream/usa-vs-belgium-football-1570715/1/playlist.m3u8
 
