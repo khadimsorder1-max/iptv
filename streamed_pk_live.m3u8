@@ -1,23 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-06T18:26:15+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-07-06T20:22:49+00:00
+# 2 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Portugal Vs Spain 2511721 — admin" tvg-id="Portugal_Vs_Spain_2511721_—_admin" group-title="Streamed.pk Live Football",Portugal Vs Spain 2511721 — admin
 # match: Portugal Vs Spain 2511721
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-portugal-vs-spain/1
-https://lb5.strmd.st/secure/lphwhyWnupItXcaBMWMsDTyRsDZEggbn/rtmp/stream/_SsK_vTfXx3k_xzYsEh1CkCnhAvyJTSFidJCiBZ70JWuZeW9nGvayBxmFX2XrirO2SS9_-_FEA/1/playlist.m3u8
+https://lb7.strmd.st/secure/cQoBgvrMUSCgZOrdSREIAusjMftXaLvn/rtmp/stream/LnpURfC7fugCo56cVc-aH-6fHwXASvzqPbEaHl5f3UT5tW_fyOZNgFFQRkXIVbiR9RKmtPX4Aw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Portugal Vs Spain 2511721 — echo" tvg-id="Portugal_Vs_Spain_2511721_—_echo" group-title="Streamed.pk Live Football",Portugal Vs Spain 2511721 — echo
 # match: Portugal Vs Spain 2511721
 # provider: echo
 # embed: https://embed.st/embed/echo/portugal-vs-spain-football-1576756/1
-https://lb2.strmd.st/secure/nvWgcwJBwYskeQxLCaPtEZcDFQmaGPdq/echo/stream/portugal-vs-spain-football-1576756/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Football",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb6.strmd.st/secure/CuVhApJWqTJIrIBuxMwEUbexjEovvdzC/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb7.strmd.st/secure/YFeIWZfgJzgJJyTLrBqmAkjYNsgWEOSH/echo/stream/portugal-vs-spain-football-1576756/1/playlist.m3u8
 
