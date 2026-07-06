@@ -1,53 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-06T00:09:47+00:00
-# 8 streams captured from 7 matches
+# Streamed.pk live football matches — built 2026-07-06T04:50:12+00:00
+# 2 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — admin" tvg-id="Mexico_Vs_England_2507706_—_admin" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — admin
 # match: Mexico Vs England 2507706
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-mexico-vs-england/1
-https://lb5.strmd.st/secure/rrAlDIvJEbDnxUDdLEQBYESBUxNMVOKf/rtmp/stream/G46ExkEyLCW_fmlWojvY9GHJ16KHeGVOaNIDyEL4y96C8MhC0XbeR_K6E2Xu-FlWGuCJAgHJWA/1/playlist.m3u8
+https://lb6.strmd.st/secure/mFJhwDbbHUsGgMnYzNTrfSqEqcdcfoLU/rtmp/stream/UFvW3Yzuj2oCwhhKHE7jlkzkQ7ByFj6W1Lzyo6uJDdgFrRPEeqJhTa3CPdLrVsWKR88AreigJw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — echo" tvg-id="Mexico_Vs_England_2507706_—_echo" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — echo
 # match: Mexico Vs England 2507706
 # provider: echo
-# embed: https://embed.st/embed/echo/mexico-vs-england-football-1570714/1
-https://lb2.strmd.st/secure/ytjIOIeKxfBbovhJYrpOvhaNnBlaZATu/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces Vs Indiana Fever 2449091 — admin" tvg-id="Las_Vegas_Aces_Vs_Indiana_Fever_2449091_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Indiana Fever 2449091 — admin
-# match: Las Vegas Aces Vs Indiana Fever 2449091
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1
-https://lb10.strmd.st/secure/tJPJfxPQHROdyMtNijWdWvkHNrpYzGph/rtmp/stream/K0l0tCcbWVxGNInOLi0zFvfuXJZXpoVKPpXp7B4ravRKGkZ1U_K33wxT_nFPS2Djzcd1dKZFszT57j2_198/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Indiana Fever W Basketball 494926 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Indiana_Fever_W_Basketball_494926_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Indiana Fever W Basketball 494926 — echo
-# match: Las Vegas Aces W Vs Indiana Fever W Basketball 494926
-# provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1
-https://lb7.strmd.st/secure/cWYSBrHpcBBvjmmEzyLytMezwabJmvFs/echo/stream/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551 — admin" tvg-id="Hamilton_Tiger_Cats_Vs_Winnipeg_Blue_Bombers_2432551_—_admin" group-title="Streamed.pk Live Football",Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551 — admin
-# match: Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1
-https://lb14.strmd.st/secure/nePqZuHNTBgEmQFRskyEGVtmqVkzeNpL/rtmp/stream/6gbs2VI921OmiO5RX8hHLxyTdhYFinA8HpYlBzOVOd82Dt0RvetkVqWv5dqWrti1UiW6U0Esgl5hvhetbzR4o1QRwUfyoD4/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 03 Weekly Racing Slinger Ppv 03 — echo" tvg-id="Ppv_Event_03_Weekly_Racing_Slinger_Ppv_03_—_echo" group-title="Streamed.pk Live Football",Ppv Event 03 Weekly Racing Slinger Ppv 03 — echo
-# match: Ppv Event 03 Weekly Racing Slinger Ppv 03
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-weekly-racing-slinger-ppv-03/1
-https://lb15.strmd.st/secure/BYnEthoTAslIXHyJnDcwsJGgClioVFPG/echo/stream/ppv-event-03-weekly-racing-slinger-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Golden State Warriors Gold — admin" tvg-id="Ppv_San_Antonio_Spurs_Vs_Golden_State_Warriors_Gold_—_admin" group-title="Streamed.pk Live Football",Ppv San Antonio Spurs Vs Golden State Warriors Gold — admin
-# match: Ppv San Antonio Spurs Vs Golden State Warriors Gold
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-golden-state-warriors-gold/1
-https://lb3.strmd.st/secure/rIMYdpryxAqgzuanipgfzcuyvOIZllpe/rtmp/stream/vwPh05bdtYuJLF-8OQgwj7K_lkJG1v0-1zaM5ed9IEBBEro35wL22Y8uLo8GHow08V9yModxyKCCQKQxyzxv-3S7zp7Ye84YoQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo" tvg-id="Ppv_Event_02_Usac_Sumar_Classic_At_Terre_Haute_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo
-# match: Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1
-https://lb2.strmd.st/secure/hLXkOHvuIvFdMlunwXDKYDVIlNHJNDjn/echo/stream/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/mexico-vs-england-german-spainish-gamebkf-13/1
+https://lb4.strmd.st/secure/rwmhRcGzzIoFNXQlfRcxvxSDhOcrCNFW/echo/stream/mexico-vs-england-german-spainish-gamebkf-13/1/playlist.m3u8
 
