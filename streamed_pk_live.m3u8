@@ -1,41 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-05T22:59:13+00:00
-# 6 streams captured from 5 matches
+# Streamed.pk live football matches — built 2026-07-06T00:09:47+00:00
+# 8 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — admin" tvg-id="Mexico_Vs_England_2507706_—_admin" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — admin
 # match: Mexico Vs England 2507706
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-mexico-vs-england/1
-https://lb15.strmd.st/secure/gpVNjJuwaJxKZLoEjyyfeElQVqsjbMfW/rtmp/stream/aXPNdJzRvSfQIpqR7p6sSjoqmhjBPokL8g_j2kLdH_4XMTRwa60GX3JwcgKa5OyeVGOvuxj5fw/1/playlist.m3u8
+https://lb5.strmd.st/secure/rrAlDIvJEbDnxUDdLEQBYESBUxNMVOKf/rtmp/stream/G46ExkEyLCW_fmlWojvY9GHJ16KHeGVOaNIDyEL4y96C8MhC0XbeR_K6E2Xu-FlWGuCJAgHJWA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mexico Vs England 2507706 — echo" tvg-id="Mexico_Vs_England_2507706_—_echo" group-title="Streamed.pk Live Football",Mexico Vs England 2507706 — echo
 # match: Mexico Vs England 2507706
 # provider: echo
 # embed: https://embed.st/embed/echo/mexico-vs-england-football-1570714/1
-https://lb12.strmd.st/secure/vhFqTARUkzNAtjOOpKzzXQMtjyrRfbqO/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
+https://lb2.strmd.st/secure/ytjIOIeKxfBbovhJYrpOvhaNnBlaZATu/echo/stream/mexico-vs-england-football-1570714/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Golden State Warriors 2479096 — admin" tvg-id="Sacramento_Kings_Vs_Golden_State_Warriors_2479096_—_admin" group-title="Streamed.pk Live Football",Sacramento Kings Vs Golden State Warriors 2479096 — admin
-# match: Sacramento Kings Vs Golden State Warriors 2479096
+#EXTINF:-1 tvg-name="Las Vegas Aces Vs Indiana Fever 2449091 — admin" tvg-id="Las_Vegas_Aces_Vs_Indiana_Fever_2449091_—_admin" group-title="Streamed.pk Live Football",Las Vegas Aces Vs Indiana Fever 2449091 — admin
+# match: Las Vegas Aces Vs Indiana Fever 2449091
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-blue-vs-sacramento-kings/1
-https://lb7.strmd.st/secure/QKdTNrCesBTGZCbnwhMLULUKiuJnkmyg/rtmp/stream/vPSdNP9Vo_QfCK3KIsr608E8ixdm4o-l24tef7U2SZm62STLi3DUsLXX6wMLno8viPMAhEki2prulNHOfA4vZDw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-indiana-fever-vs-las-vegas-aces/1
+https://lb10.strmd.st/secure/tJPJfxPQHROdyMtNijWdWvkHNrpYzGph/rtmp/stream/K0l0tCcbWVxGNInOLi0zFvfuXJZXpoVKPpXp7B4ravRKGkZ1U_K33wxT_nFPS2Djzcd1dKZFszT57j2_198/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Indiana Fever W Basketball 494926 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Indiana_Fever_W_Basketball_494926_—_echo" group-title="Streamed.pk Live Football",Las Vegas Aces W Vs Indiana Fever W Basketball 494926 — echo
+# match: Las Vegas Aces W Vs Indiana Fever W Basketball 494926
+# provider: echo
+# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1
+https://lb7.strmd.st/secure/cWYSBrHpcBBvjmmEzyLytMezwabJmvFs/echo/stream/las-vegas-aces-w-vs-indiana-fever-w-basketball-494926/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551 — admin" tvg-id="Hamilton_Tiger_Cats_Vs_Winnipeg_Blue_Bombers_2432551_—_admin" group-title="Streamed.pk Live Football",Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551 — admin
+# match: Hamilton Tiger Cats Vs Winnipeg Blue Bombers 2432551
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-hamilton-tiger-cats/1
+https://lb14.strmd.st/secure/nePqZuHNTBgEmQFRskyEGVtmqVkzeNpL/rtmp/stream/6gbs2VI921OmiO5RX8hHLxyTdhYFinA8HpYlBzOVOd82Dt0RvetkVqWv5dqWrti1UiW6U0Esgl5hvhetbzR4o1QRwUfyoD4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Weekly Racing Slinger Ppv 03 — echo" tvg-id="Ppv_Event_03_Weekly_Racing_Slinger_Ppv_03_—_echo" group-title="Streamed.pk Live Football",Ppv Event 03 Weekly Racing Slinger Ppv 03 — echo
+# match: Ppv Event 03 Weekly Racing Slinger Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-weekly-racing-slinger-ppv-03/1
+https://lb15.strmd.st/secure/BYnEthoTAslIXHyJnDcwsJGgClioVFPG/echo/stream/ppv-event-03-weekly-racing-slinger-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Golden State Warriors Gold — admin" tvg-id="Ppv_San_Antonio_Spurs_Vs_Golden_State_Warriors_Gold_—_admin" group-title="Streamed.pk Live Football",Ppv San Antonio Spurs Vs Golden State Warriors Gold — admin
+# match: Ppv San Antonio Spurs Vs Golden State Warriors Gold
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-golden-state-warriors-gold/1
+https://lb3.strmd.st/secure/rIMYdpryxAqgzuanipgfzcuyvOIZllpe/rtmp/stream/vwPh05bdtYuJLF-8OQgwj7K_lkJG1v0-1zaM5ed9IEBBEro35wL22Y8uLo8GHow08V9yModxyKCCQKQxyzxv-3S7zp7Ye84YoQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo" tvg-id="Ppv_Event_02_Usac_Sumar_Classic_At_Terre_Haute_Ppv_02_—_echo" group-title="Streamed.pk Live Football",Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02 — echo
 # match: Ppv Event 02 Usac Sumar Classic At Terre Haute Ppv 02
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1
-https://lb5.strmd.st/secure/wGQtMDUjxhBaKDSGvzWVxYpCkUxLgLEa/echo/stream/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01 — echo" tvg-id="Ppv_Event_01_Gcw_Backyard_Wrestling_8_Ppv_01_—_echo" group-title="Streamed.pk Live Football",Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01 — echo
-# match: Ppv Event 01 Gcw Backyard Wrestling 8 Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-gcw-backyard-wrestling-8-ppv-01/1
-https://lb2.strmd.st/secure/AsEKMwokrJeuZgXGUTNHjbEgolBCCMfh/echo/stream/ppv-event-01-gcw-backyard-wrestling-8-ppv-01/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="John Deere Classic Pga Tour Pga 526234 — echo" tvg-id="John_Deere_Classic_Pga_Tour_Pga_526234_—_echo" group-title="Streamed.pk Live Football",John Deere Classic Pga Tour Pga 526234 — echo
-# match: John Deere Classic Pga Tour Pga 526234
-# provider: echo
-# embed: https://embed.st/embed/echo/john-deere-classic-pga-tour-pga-526234/1
-https://lb4.strmd.st/secure/afcnMVvToIsGPhVZlvAHLqDTJKGgfecD/echo/stream/john-deere-classic-pga-tour-pga-526234/1/playlist.m3u8
+https://lb2.strmd.st/secure/hLXkOHvuIvFdMlunwXDKYDVIlNHJNDjn/echo/stream/ppv-event-02-usac-sumar-classic-at-terre-haute-ppv-02/1/playlist.m3u8
 
