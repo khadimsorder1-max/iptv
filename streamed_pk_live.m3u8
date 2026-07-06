@@ -1,17 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-06T21:54:43+00:00
-# 2 streams captured from 1 matches
+# Streamed.pk live football matches — built 2026-07-06T23:04:07+00:00
+# 3 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — admin" tvg-id="Usa_Vs_Belgium_2507707_—_admin" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — admin
 # match: Usa Vs Belgium 2507707
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-united-states-vs-belgium/1
-https://lb9.strmd.st/secure/dRgBNuhjxlWflVzqgvDUYbddnMnrYdKk/rtmp/stream/IliDEry42x8nIlfbKVHjneVRJ5mPnPl5piUPxi7JTzhrVTZ9f5yBrdc-Rw2pncrQpO89FrJaoA/1/playlist.m3u8
+https://lb13.strmd.st/secure/BExCuEbKlMosACZioADFDEJWURejpEYK/rtmp/stream/QfayDg7M7zfckan1qlsR9DkkqhVrv5q4xKtl87_b-cA7BHfZpel4hM8oIurGw5kXpQqGfqB8Mg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — echo" tvg-id="Usa_Vs_Belgium_2507707_—_echo" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — echo
 # match: Usa Vs Belgium 2507707
 # provider: echo
 # embed: https://embed.st/embed/echo/usa-vs-belgium-football-1570715/1
-https://lb8.strmd.st/secure/TVHBwkTWJBWpgdBfldFBBANnxUycDbzH/echo/stream/usa-vs-belgium-football-1570715/1/playlist.m3u8
+https://lb15.strmd.st/secure/HldWmxjLXQLuAuoplnhZXjhKxuwyTSIg/echo/stream/usa-vs-belgium-football-1570715/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_admin" group-title="Streamed.pk Live Football",Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin
+# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-oklahoma-city-thunder/1
+https://lb8.strmd.st/secure/IGstPmJKZjqtiZXJZtAROqhkNbWwqjzo/rtmp/stream/5Ga6ADpLqvJhriFwDln180uL4_dqpbghTVZ-Fs0WCMeavNtpHEU6KbMrdOcA7xRHpbe-SApi2zF5lwCiX3k8ejWR9rCf/1/playlist.m3u8
 
