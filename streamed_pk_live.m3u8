@@ -1,23 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-07T12:25:06+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-07T15:25:29+00:00
+# 6 streams captured from 4 matches
+
+#EXTINF:-1 tvg-name="Argentina Vs Egypt 2513670 — admin" tvg-id="Argentina_Vs_Egypt_2513670_—_admin" group-title="Streamed.pk Live Sports",Argentina Vs Egypt 2513670 — admin
+# match: Argentina Vs Egypt 2513670
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-argentina-vs-egypt/1
+https://lb9.strmd.st/secure/HRzvWeehitwmqWGGIyjqLuNcGxFVqUBc/rtmp/stream/YZcjbkDhX7UjewJk5n2T4aQxeiD9hvaqOugIs7gVUNh7ZWCJ_YNvyb52_IOUWSF4hZhbb8H6kw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Argentina Vs Egypt 2513670 — echo" tvg-id="Argentina_Vs_Egypt_2513670_—_echo" group-title="Streamed.pk Live Sports",Argentina Vs Egypt 2513670 — echo
+# match: Argentina Vs Egypt 2513670
+# provider: echo
+# embed: https://embed.st/embed/echo/argentina-vs-egypt-football-1576804/1
+https://lb8.strmd.st/secure/BOJmEbMqwEvRtkPVbLwDHmBHYTXcNTSm/echo/stream/argentina-vs-egypt-football-1576804/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Argentina Vs Egypt 2513670 — golf" tvg-id="Argentina_Vs_Egypt_2513670_—_golf" group-title="Streamed.pk Live Sports",Argentina Vs Egypt 2513670 — golf
+# match: Argentina Vs Egypt 2513670
+# provider: golf
+# embed: https://embed.st/embed/golf/23585/1
+https://cdn8.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=BqdHDC1U0Wk5swkBdIo-8g&expires=1783445103
 
 #EXTINF:-1 tvg-name="Tour De France Stage 3 2447750 — admin" tvg-id="Tour_De_France_Stage_3_2447750_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 3 2447750 — admin
 # match: Tour De France Stage 3 2447750
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-4/1
-https://lb12.strmd.st/secure/RBWupbpgsPCuGfBwujBDrLmmerQfaAOL/rtmp/stream/xmdknpXVZspEHwFCEZgy0A7PCUDs2uy_-r8quY7A7x1P2nBCX1Mnbq4XSkKj4pT2knfy4Tkl/1/playlist.m3u8
+https://lb14.strmd.st/secure/LBaTvuXSifwSlhDBhcLKgscIIbAkkXJb/rtmp/stream/2U4R2TklwtmQKuDpovxfh7PorYqq15NTEU4BrpwANwBlRwuzX4ZL4eIsE6ufNAwsQfuphOtc/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb3.strmd.st/secure/yYyRlQwuffmOGFZayzbAvLogmkQNUrbk/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb12.strmd.st/secure/xJagnDFclWaUAIBSYPQryoKKKPBgDDRS/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb5.strmd.st/secure/ApdBOWpluCRElVoBHyIxXXhvaeIWmjVs/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb4.strmd.st/secure/IlGZMGGKBBEdGxSNnekzWKVDPlthdVuD/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
