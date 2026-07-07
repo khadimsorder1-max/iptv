@@ -1,5 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-07T17:32:15+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-07T19:48:43+00:00
+# 5 streams captured from 3 matches
+
+#EXTINF:-1 tvg-name="Switzerland Vs Colombia 2513671 — admin" tvg-id="Switzerland_Vs_Colombia_2513671_—_admin" group-title="Streamed.pk Live Sports",Switzerland Vs Colombia 2513671 — admin
+# match: Switzerland Vs Colombia 2513671
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-switzerland-vs-colombia/1
+https://lb15.strmd.st/secure/MBSEWJfpCYOWobJGBRQSRzBPJAqQAOAt/rtmp/stream/WxP-EMG5FrGyJJyVceCYQU5m2T44HnMTvMd4-jYSKNPb8pc5lIwzjqSDdowUEjWUGMAFwKYQ3g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Switzerland Vs Colombia 2513671 — echo" tvg-id="Switzerland_Vs_Colombia_2513671_—_echo" group-title="Streamed.pk Live Sports",Switzerland Vs Colombia 2513671 — echo
+# match: Switzerland Vs Colombia 2513671
+# provider: echo
+# embed: https://embed.st/embed/echo/switzerland-vs-colombia-football-1576805/1
+https://lb9.strmd.st/secure/ZWPprSXblvfHzvXkcUWytINYFLsPxPbj/echo/stream/switzerland-vs-colombia-football-1576805/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Switzerland Vs Colombia 2513671 — golf" tvg-id="Switzerland_Vs_Colombia_2513671_—_golf" group-title="Streamed.pk Live Sports",Switzerland Vs Colombia 2513671 — golf
+# match: Switzerland Vs Colombia 2513671
+# provider: golf
+# embed: https://embed.st/embed/golf/23586/1
+https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=oyFTmHBH-sbLtGdLk6VqDQ&expires=1783460907
+
+#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
+# match: Admin Willow Cricket
+# provider: admin
+# embed: https://embed.st/embed/admin/admin-willow-cricket/1
+https://lb6.strmd.st/secure/DnGlvRrhJYmIugZvofaMXmFzgOFVWCTm/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs India Third T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Third_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Third T20 International Game 19993637 — echo
+# match: England Vs India Third T20 International Game 19993637
+# provider: echo
+# embed: https://embed.st/embed/echo/england-vs-india-third-t20-international-game-19993637/1
+https://lb11.strmd.st/secure/uqatDodJRGaFheGvNDYnYHDRPKHwdseR/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
 
