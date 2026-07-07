@@ -1,23 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live football matches — built 2026-07-06T23:04:07+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live football matches — built 2026-07-07T01:17:18+00:00
+# 10 streams captured from 8 matches
 
 #EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — admin" tvg-id="Usa_Vs_Belgium_2507707_—_admin" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — admin
 # match: Usa Vs Belgium 2507707
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-united-states-vs-belgium/1
-https://lb13.strmd.st/secure/BExCuEbKlMosACZioADFDEJWURejpEYK/rtmp/stream/QfayDg7M7zfckan1qlsR9DkkqhVrv5q4xKtl87_b-cA7BHfZpel4hM8oIurGw5kXpQqGfqB8Mg/1/playlist.m3u8
+https://lb12.strmd.st/secure/TuOvyWbJwAHcHAEetlBEjVUMmBnBEMVU/rtmp/stream/MXNM_o0jnrUsmsO_CGC3QSaCG_QKxRoXUElwOSF5EowKIv1TIXhQscZPpxQ6wsFNwWq5sIw78Q/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Usa Vs Belgium 2507707 — echo" tvg-id="Usa_Vs_Belgium_2507707_—_echo" group-title="Streamed.pk Live Football",Usa Vs Belgium 2507707 — echo
 # match: Usa Vs Belgium 2507707
 # provider: echo
 # embed: https://embed.st/embed/echo/usa-vs-belgium-football-1570715/1
-https://lb15.strmd.st/secure/HldWmxjLXQLuAuoplnhZXjhKxuwyTSIg/echo/stream/usa-vs-belgium-football-1570715/1/playlist.m3u8
+https://lb11.strmd.st/secure/CiXVmNfuUmXuQWzDJQONpVXEpbzDcmyt/echo/stream/usa-vs-belgium-football-1570715/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_admin" group-title="Streamed.pk Live Football",Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin
-# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
+#EXTINF:-1 tvg-name="Washington Mystics Vs Golden State Valkyries 2449092 — admin" tvg-id="Washington_Mystics_Vs_Golden_State_Valkyries_2449092_—_admin" group-title="Streamed.pk Live Football",Washington Mystics Vs Golden State Valkyries 2449092 — admin
+# match: Washington Mystics Vs Golden State Valkyries 2449092
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-oklahoma-city-thunder/1
-https://lb8.strmd.st/secure/IGstPmJKZjqtiZXJZtAROqhkNbWwqjzo/rtmp/stream/5Ga6ADpLqvJhriFwDln180uL4_dqpbghTVZ-Fs0WCMeavNtpHEU6KbMrdOcA7xRHpbe-SApi2zF5lwCiX3k8ejWR9rCf/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-washington-mystics/1
+https://lb8.strmd.st/secure/RBdtHmTTDANEYlZqCHXyyWBHuiKzPlIy/rtmp/stream/7dZN5jTcZgA-FR-0LWevfmCAFXJv-p3_9r3erDkCQKMYAeB4uRK4GDpD8QVd7Lsjnq1omyBBpPxnkDKvvpqcEbhLVA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="San Antonio Spurs Vs Los Angeles Lakers 2479101 — admin" tvg-id="San_Antonio_Spurs_Vs_Los_Angeles_Lakers_2479101_—_admin" group-title="Streamed.pk Live Football",San Antonio Spurs Vs Los Angeles Lakers 2479101 — admin
+# match: San Antonio Spurs Vs Los Angeles Lakers 2479101
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-san-antonio-spurs/1
+https://lb9.strmd.st/secure/PzwQTMizRzOoYIMXPeNbBbYFxAxKjWqY/rtmp/stream/oMeqUAMPtLCmMNwp9qs_gPmT3tc_Ch_EsVoUZj0ZaBEikrcN9MZpbnSHpvrguAQuzDI72anZbELOs1hei2NnQl0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Utah Jazz Vs Oklahoma City Thunder 2505204 — admin" tvg-id="Utah_Jazz_Vs_Oklahoma_City_Thunder_2505204_—_admin" group-title="Streamed.pk Live Football",Utah Jazz Vs Oklahoma City Thunder 2505204 — admin
+# match: Utah Jazz Vs Oklahoma City Thunder 2505204
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-utah-jazz/1
+https://lb13.strmd.st/secure/YXgMitSavSNzHXUPhoStEitYmdapAmCB/rtmp/stream/bbMbCe1aTAQlTy-nfMqB5gXhjITjWOAnUS4WC_1teSEHgjRzi2eSPRx4OPaPRzFZC5jFZaqOz3VklQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — admin" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_admin" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — admin
+# match: Ppv Wwe Monday Night Raw
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-wwe-monday-night-raw/1
+https://lb10.strmd.st/secure/STKlSSjsIwyAwAVhMWvrhcZhbRKFJZAB/rtmp/stream/78mrDYhbMJudT-NPGJgiKt3KjRvicPv36RzSvaIZXpQhs-uUAZZxVUoL_0LU6gmMlT2X0Bn4s8Ho/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Wwe Monday Night Raw — echo" tvg-id="Ppv_Wwe_Monday_Night_Raw_—_echo" group-title="Streamed.pk Live Football",Ppv Wwe Monday Night Raw — echo
+# match: Ppv Wwe Monday Night Raw
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-wwe-monday-night-raw-ppv-01/1
+https://lb11.strmd.st/secure/wsWGPMgyMekcPqaoLysfuGfXWVSHPURK/echo/stream/ppv-event-01-wwe-monday-night-raw-ppv-01/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Golden State Warriors Blue Vs Brooklyn Nets — admin" tvg-id="Ppv_Golden_State_Warriors_Blue_Vs_Brooklyn_Nets_—_admin" group-title="Streamed.pk Live Football",Ppv Golden State Warriors Blue Vs Brooklyn Nets — admin
+# match: Ppv Golden State Warriors Blue Vs Brooklyn Nets
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-blue-vs-brooklyn-nets/1
+https://lb7.strmd.st/secure/aQakrYmnzlGskDjYLuBPITZtCdkLcmZO/rtmp/stream/jD7mDWPvL1MQusrsQwlNFjakpWn-GTtwOouACMdYQgHJr8HQ6QP3ywxE-UU3cROuZMowQP1O_Hv6ne2P958/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Washington Mystics W Vs Golden State Valkyries W Basketball 494927 — echo" tvg-id="Washington_Mystics_W_Vs_Golden_State_Valkyries_W_Basketball_494927_—_echo" group-title="Streamed.pk Live Football",Washington Mystics W Vs Golden State Valkyries W Basketball 494927 — echo
+# match: Washington Mystics W Vs Golden State Valkyries W Basketball 494927
+# provider: echo
+# embed: https://embed.st/embed/echo/washington-mystics-w-vs-golden-state-valkyries-w-basketball-494927/1
+https://lb13.strmd.st/secure/asZHcPSqjNFcMqiECXlFmyUjeIJnasRQ/echo/stream/washington-mystics-w-vs-golden-state-valkyries-w-basketball-494927/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs Connecticut Sun 2449093 — admin" tvg-id="Minnesota_Lynx_Vs_Connecticut_Sun_2449093_—_admin" group-title="Streamed.pk Live Football",Minnesota Lynx Vs Connecticut Sun 2449093 — admin
+# match: Minnesota Lynx Vs Connecticut Sun 2449093
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-connecticut-sun-vs-minnesota-lynx/1
+https://lb12.strmd.st/secure/ruzTGGqyullXlwMUvWgVvagzGtZvwpgf/rtmp/stream/_VL1zDal4HvDtSSrjUZsHCKDOkhKavldzQDgCpJgRTGrTistaPDcvUcdfSZeaVUa2HV_4Lh0HNd49CuzOAx8/1/playlist.m3u8
 
