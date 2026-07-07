@@ -1,23 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-07T22:36:40+00:00
-# 3 streams captured from 2 matches
+# Streamed.pk live sports matches — built 2026-07-07T23:55:59+00:00
+# 7 streams captured from 5 matches
 
-#EXTINF:-1 tvg-name="Switzerland Vs Colombia 2513671 — admin" tvg-id="Switzerland_Vs_Colombia_2513671_—_admin" group-title="Streamed.pk Live Sports",Switzerland Vs Colombia 2513671 — admin
-# match: Switzerland Vs Colombia 2513671
+#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_admin" group-title="Streamed.pk Live Sports",Memphis Grizzlies Vs Atlanta Hawks 2505203 — admin
+# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-switzerland-vs-colombia/1
-https://lb9.strmd.st/secure/orxctPsbyZoZodlCoisQLHeulyKiuEwl/rtmp/stream/j9ljCmIYEv-XJxBZtiy8kbVw4c_Ob8f2uB13GswHFqu_r8AYk_1HnbJiY0v2YwxHeF-loN_jnA/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-memphis-grizzlies/1
+https://lb8.strmd.st/secure/qDrvORsZYddzCBtkqYFbJfMZnaVGJPWF/rtmp/stream/SD16mCW_Hws-E7t5KrhgOK4LF9dTUbNMBgh2vu09aUrcdOpUd1otIJ3Hb_DMx22fTSBXjY_EoOt3F6lA-6VB8rZ9/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Switzerland Vs Colombia 2513671 — echo" tvg-id="Switzerland_Vs_Colombia_2513671_—_echo" group-title="Streamed.pk Live Sports",Switzerland Vs Colombia 2513671 — echo
-# match: Switzerland Vs Colombia 2513671
+#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — echo" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_echo" group-title="Streamed.pk Live Sports",Memphis Grizzlies Vs Atlanta Hawks 2505203 — echo
+# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
 # provider: echo
-# embed: https://embed.st/embed/echo/switzerland-vs-colombia-football-1576805/1
-https://lb3.strmd.st/secure/fFhOXetROHODlKVHFIafzEHLdUpiXWhe/echo/stream/switzerland-vs-colombia-football-1576805/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/memphis-grizzlies-vs-atlanta-hawks-basketball-501866/1
+https://lb9.strmd.st/secure/NogRBmpYNeENaVPjcIdMGddIpXrmTOoG/echo/stream/memphis-grizzlies-vs-atlanta-hawks-basketball-501866/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — golf" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_golf" group-title="Streamed.pk Live Sports",Memphis Grizzlies Vs Atlanta Hawks 2505203 — golf
+# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
+# provider: golf
+# embed: https://embed.st/embed/golf/23639/1
+https://cdn14.zohanayaan.com:1686/hls/mmemphisgrizzlies.m3u8?md5=1IDorNgYeaJq6CaYi44leA&expires=1783475725
+
+#EXTINF:-1 tvg-name="Ppv Event 04 Millbridge Youth Divisions Ppv 004 — echo" tvg-id="Ppv_Event_04_Millbridge_Youth_Divisions_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Millbridge Youth Divisions Ppv 004 — echo
+# match: Ppv Event 04 Millbridge Youth Divisions Ppv 004
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-04-millbridge-youth-divisions-ppv-004/1
+https://lb2.strmd.st/secure/iessxmEIgNSlFYllHjmGkkhWzIywkrjj/echo/stream/ppv-event-04-millbridge-youth-divisions-ppv-004/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Summer Shootout Charlotte Ppv 03 — echo" tvg-id="Ppv_Event_03_Summer_Shootout_Charlotte_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Summer Shootout Charlotte Ppv 03 — echo
+# match: Ppv Event 03 Summer Shootout Charlotte Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-summer-shootout-charlotte-ppv-03/1
+https://lb6.strmd.st/secure/TaHSSGsUVAGJYJgrnJEXduEKzHSUVoml/echo/stream/ppv-event-03-summer-shootout-charlotte-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01 — echo" tvg-id="Ppv_Event_01_Super_Dirtcar_Series_Cornwall_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01 — echo
+# match: Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-super-dirtcar-series-cornwall-ppv-01/1
+https://lb8.strmd.st/secure/atVtVOKsHDuMNxkgHPvAMJMtPAVMdusr/echo/stream/ppv-event-01-super-dirtcar-series-cornwall-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="England Vs India Third T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Third_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Third T20 International Game 19993637 — echo
 # match: England Vs India Third T20 International Game 19993637
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-india-third-t20-international-game-19993637/1
-https://lb15.strmd.st/secure/pLYMWOopeKkhaVNXUridTrmsCQPYRogW/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
+https://lb10.strmd.st/secure/FwRUpqGwzoozfMNZJZYRmjRHqJIfqknq/echo/stream/england-vs-india-third-t20-international-game-19993637/1/playlist.m3u8
 
