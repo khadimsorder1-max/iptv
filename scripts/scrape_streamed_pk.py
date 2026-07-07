@@ -8,7 +8,7 @@ import os
 STREAMED_PK_HOME = 'https://streamed.pk'
 UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36'
 
-# Non-football keywords to filter out
+# Non-sports keywords to filter out (removed 'cricket' to allow cricket streams)
 SKIP_KEYWORDS = [
     'braves', 'brewers', 'tigers', 'white-sox', 'yankees', 'reds',
     'marlins', 'giants', 'rays', 'nationals', 'atp', 'wta', 'halle',
@@ -19,7 +19,7 @@ SKIP_KEYWORDS = [
     'guardians', 'padres', 'rockies', 'dodgers', 'diamondbacks',
     'cardinals', 'pirates', 'cubs', 'red-sox', 'blue-jays',
     'orioles', 'angels', 'mariners', 'astros', 'baseball', 'tennis',
-    'golf', 'f1', 'formula', 'nascar', 'ufc', 'boxing', 'cricket'
+    'golf', 'f1', 'formula', 'nascar', 'ufc', 'boxing'
 ]
 
 def fetch_html(url):
@@ -30,7 +30,7 @@ def fetch_html(url):
     with urllib.request.urlopen(req, timeout=15) as response:
         return response.read().decode('utf-8', errors='ignore')
 
-def is_football(slug):
+def is_valid_sport(slug):
     slug_lower = slug.lower()
     return not any(keyword in slug_lower for keyword in SKIP_KEYWORDS)
 
@@ -47,10 +47,10 @@ def extract_match_slugs():
     # Find all /watch/<slug> links
     for m in re.finditer(r'/watch/([a-z0-9-]+)', html):
         slug = m.group(1)
-        if slug not in seen and is_football(slug):
+        if slug not in seen and is_valid_sport(slug):
             seen.add(slug)
-            slugs.push(slug) if hasattr(slugs, 'push') else slugs.append(slug)
-    print(f"Found {len(slugs)} football matches.")
+            slugs.append(slug)
+    print(f"Found {len(slugs)} sports matches.")
     return slugs
 
 def extract_sources_from_page(slug):
@@ -58,13 +58,10 @@ def extract_sources_from_page(slug):
     print(f"Fetching match page: {url}")
     html = fetch_html(url)
     
-    # Next.js payload format can contain varied quotes/spaces:
-    # e.g., {"source":"admin","id":"ppv-spain-vs-saudi-arabia"} or {source:"admin", id:"ppv-spain-vs-saudi-arabia"}
     sources = []
     seen = set()
     
-    # Format 1: JSON/quoted keys with flexible spacing and single/double quotes
-    # {"source": "admin", "id": "ppv-spain-vs-saudi-arabia"}
+    # Format 1: {"source": "admin", "id": "ppv-spain-vs-saudi-arabia"}
     matches1 = re.finditer(r'\{["\']source["\']\s*:\s*["\']([^"\']+)["\']\s*,\s*["\']id["\']\s*:\s*["\']([^"\']+)["\']\}', html)
     for m in matches1:
         source, stream_id = m.group(1), m.group(2)
@@ -73,8 +70,7 @@ def extract_sources_from_page(slug):
             seen.add(key)
             sources.append({"source": source, "id": stream_id})
 
-    # Format 2: Standard javascript objects with unquoted keys
-    # {source: "admin", id: "ppv-spain-vs-saudi-arabia"}
+    # Format 2: {source: "admin", id: "ppv-spain-vs-saudi-arabia"}
     matches2 = re.finditer(r'\{\s*source\s*:\s*["\']([^"\']+)["\']\s*,\s*id\s*:\s*["\']([^"\']+)["\']\s*\}', html)
     for m in matches2:
         source, stream_id = m.group(1), m.group(2)
@@ -90,7 +86,6 @@ def capture_m3u8(embed_url):
     m3u8_url = None
     
     with sync_playwright() as p:
-        # Launch chromium browser
         browser = p.chromium.launch(headless=True)
         context = browser.new_context(user_agent=UA)
         page = context.new_page()
@@ -99,7 +94,7 @@ def capture_m3u8(embed_url):
         def handle_request(request):
             nonlocal m3u8_url
             url = request.url
-            if '.m3u8' in url and 'strmd.st' in url:
+            if ('.m3u8' in url or '.mpd' in url) and not any(x in url for x in ['google', 'analytics', 'doubleclick', 'facebook', 'yandex', 'cloudflare']):
                 print(f"Captured HLS Stream: {url}")
                 m3u8_url = url
         
@@ -109,6 +104,13 @@ def capture_m3u8(embed_url):
             print(f"Loading embed page in browser: {embed_url}")
             page.goto(embed_url, wait_until="domcontentloaded", timeout=30000)
             
+            # Click play/viewport to trigger stream load
+            page.wait_for_timeout(2000)
+            try:
+                page.mouse.click(640, 360)
+            except Exception as e:
+                print(f"Interaction click failed: {e}")
+                
             # Wait a few seconds for player scripts to run and trigger request
             start_time = time.time()
             while time.time() - start_time < 8:
@@ -124,8 +126,8 @@ def capture_m3u8(embed_url):
 
 def main():
     slugs = extract_match_slugs()
-    # Limit to top 8 matches to run within Github Action limit
-    slugs = slugs[:8]
+    # Limit to top 20 matches (expanded from 8) to capture more matches
+    slugs = slugs[:20]
     
     playlist_entries = []
     
@@ -166,15 +168,14 @@ def main():
     with open(playlist_path, "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         f.write("#EXT-X-VERSION:3\n")
-        f.write(f"# Streamed.pk live football matches — built {time.strftime('%Y-%m-%dT%H:%M:%S+00:00', time.gmtime())}\n")
+        f.write(f"# Streamed.pk live sports matches — built {time.strftime('%Y-%m-%dT%H:%M:%S+00:00', time.gmtime())}\n")
         f.write(f"# {len(playlist_entries)} streams captured from {len(set(e['slug'] for e in playlist_entries))} matches\n\n")
         
         for e in playlist_entries:
             # Clean title formatting
-            # Spain Vs Saudi Arabia 2391756 — admin -> Spain Vs Saudi Arabia — admin
             tvg_name = f"{e['title']} — {e['source']}"
             tvg_id = tvg_name.replace(' ', '_').replace('—', '—')
-            f.write(f'#EXTINF:-1 tvg-name="{tvg_name}" tvg-id="{tvg_id}" group-title="Streamed.pk Live Football",{tvg_name}\n')
+            f.write(f'#EXTINF:-1 tvg-name="{tvg_name}" tvg-id="{tvg_id}" group-title="Streamed.pk Live Sports",{tvg_name}\n')
             f.write(f"# match: {e['title']}\n")
             f.write(f"# provider: {e['source']}\n")
             f.write(f"# embed: {e['embed_url']}\n")
