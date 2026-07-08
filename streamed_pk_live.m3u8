@@ -1,83 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-08T02:13:10+00:00
-# 13 streams captured from 9 matches
-
-#EXTINF:-1 tvg-name="New York Liberty Vs Dallas Wings 2449095 — admin" tvg-id="New_York_Liberty_Vs_Dallas_Wings_2449095_—_admin" group-title="Streamed.pk Live Sports",New York Liberty Vs Dallas Wings 2449095 — admin
-# match: New York Liberty Vs Dallas Wings 2449095
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-new-york-liberty/1
-https://lb13.strmd.st/secure/RUNeylGMIkAbkDPFbzwWpZTfuCNHkcnf/rtmp/stream/p_6_S6FWhTwxs_HBWTHqcCjdQ2l3KNUC1fLryxIJxKl3M4_sMxx0zP2JOSsy2-8i1yyXwpcl6ZLgjDruBYgcdg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix Mercury Vs Chicago Sky 2449096 — admin" tvg-id="Phoenix_Mercury_Vs_Chicago_Sky_2449096_—_admin" group-title="Streamed.pk Live Sports",Phoenix Mercury Vs Chicago Sky 2449096 — admin
-# match: Phoenix Mercury Vs Chicago Sky 2449096
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-phoenix-mercury/1
-https://lb10.strmd.st/secure/OgknvuZfefZQXGfYiciUOqdlEdunQqzY/rtmp/stream/awEMEqIZn-K8NTIl_RD7ivCSC1DLsmYVtd8zlzdnEXn-R7xioGlZTtN-_csQIuFp-zyNxPlnF_SUCHrD_CDTeA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Oklahoma City Thunder 2505204 — admin" tvg-id="Utah_Jazz_Vs_Oklahoma_City_Thunder_2505204_—_admin" group-title="Streamed.pk Live Sports",Utah Jazz Vs Oklahoma City Thunder 2505204 — admin
-# match: Utah Jazz Vs Oklahoma City Thunder 2505204
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-utah-jazz/1
-https://lb3.strmd.st/secure/MEQxJbIgRQFVUrlBTbrVDwajmPgGbwRq/rtmp/stream/Fbg78C4bEpQkuXcKSwKcW2--B5ZzwPWZV8BK7sNeazx6vvJNw2FUV6doVldhpqT7tISUL_Fs650cBg/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Oklahoma City Thunder 2505204 — echo" tvg-id="Utah_Jazz_Vs_Oklahoma_City_Thunder_2505204_—_echo" group-title="Streamed.pk Live Sports",Utah Jazz Vs Oklahoma City Thunder 2505204 — echo
-# match: Utah Jazz Vs Oklahoma City Thunder 2505204
-# provider: echo
-# embed: https://embed.st/embed/echo/utah-jazz-vs-oklahoma-city-thunder-basketball-501867/1
-https://lb15.strmd.st/secure/wlOQKKkLJsTqdEbOoZlQtIuoNHgjJTDr/echo/stream/utah-jazz-vs-oklahoma-city-thunder-basketball-501867/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Oklahoma City Thunder 2505204 — golf" tvg-id="Utah_Jazz_Vs_Oklahoma_City_Thunder_2505204_—_golf" group-title="Streamed.pk Live Sports",Utah Jazz Vs Oklahoma City Thunder 2505204 — golf
-# match: Utah Jazz Vs Oklahoma City Thunder 2505204
-# provider: golf
-# embed: https://embed.st/embed/golf/23640/1
-https://cdn12.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=gnXlolcOkKoJmHUbDxd35Q&expires=1783483934
-
-#EXTINF:-1 tvg-name="New York Liberty W Vs Dallas Wings W Basketball 494930 — echo" tvg-id="New_York_Liberty_W_Vs_Dallas_Wings_W_Basketball_494930_—_echo" group-title="Streamed.pk Live Sports",New York Liberty W Vs Dallas Wings W Basketball 494930 — echo
-# match: New York Liberty W Vs Dallas Wings W Basketball 494930
-# provider: echo
-# embed: https://embed.st/embed/echo/new-york-liberty-w-vs-dallas-wings-w-basketball-494930/1
-https://lb12.strmd.st/secure/OoORfkWMRirVmvUeAOBBNbSQuaFIHoNz/echo/stream/new-york-liberty-w-vs-dallas-wings-w-basketball-494930/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix Mercury W Vs Chicago Sky W Basketball 494931 — echo" tvg-id="Phoenix_Mercury_W_Vs_Chicago_Sky_W_Basketball_494931_—_echo" group-title="Streamed.pk Live Sports",Phoenix Mercury W Vs Chicago Sky W Basketball 494931 — echo
-# match: Phoenix Mercury W Vs Chicago Sky W Basketball 494931
-# provider: echo
-# embed: https://embed.st/embed/echo/phoenix-mercury-w-vs-chicago-sky-w-basketball-494931/1
-https://lb1.strmd.st/secure/MZLGYIyNWUUkAoKgjXqyiZlpXDedhKyk/echo/stream/phoenix-mercury-w-vs-chicago-sky-w-basketball-494931/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-08T05:36:07+00:00
+# 1 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Ppv Event 05 Usac National Sweet Springs Ppv 05 — echo" tvg-id="Ppv_Event_05_Usac_National_Sweet_Springs_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Usac National Sweet Springs Ppv 05 — echo
 # match: Ppv Event 05 Usac National Sweet Springs Ppv 05
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-usac-national-sweet-springs-ppv-05/1
-https://lb4.strmd.st/secure/uzSyWLjudkottYVgArFwmprbsEtFvEJb/echo/stream/ppv-event-05-usac-national-sweet-springs-ppv-05/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Nxt — admin" tvg-id="Ppv_Wwe_Nxt_—_admin" group-title="Streamed.pk Live Sports",Ppv Wwe Nxt — admin
-# match: Ppv Wwe Nxt
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-nxt/1
-https://lb12.strmd.st/secure/BkqmDpiFrzasgJtcrDWsujdcooCeCRvD/rtmp/stream/TlQSUbu-jD8DxPj8NlAVlD-V6yT8HWy1-6-lqqExx_xPrvf_lHrFR4C8XfzMzcGvKaKn9FH7Hhrm/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Nxt — echo" tvg-id="Ppv_Wwe_Nxt_—_echo" group-title="Streamed.pk Live Sports",Ppv Wwe Nxt — echo
-# match: Ppv Wwe Nxt
-# provider: echo
-# embed: https://embed.st/embed/echo/wwe-nxt-wwe2026/1
-https://lb3.strmd.st/secure/odlwDZrcluPQtbugJUBJcqyQVvEofxKZ/echo/stream/wwe-nxt-wwe2026/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — echo" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_echo" group-title="Streamed.pk Live Sports",Memphis Grizzlies Vs Atlanta Hawks 2505203 — echo
-# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
-# provider: echo
-# embed: https://embed.st/embed/echo/memphis-grizzlies-vs-atlanta-hawks-basketball-501866/1
-https://lb8.strmd.st/secure/vSInjSCcOAujkTfwsRwaZlziAkjtZfnp/echo/stream/memphis-grizzlies-vs-atlanta-hawks-basketball-501866/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Memphis Grizzlies Vs Atlanta Hawks 2505203 — golf" tvg-id="Memphis_Grizzlies_Vs_Atlanta_Hawks_2505203_—_golf" group-title="Streamed.pk Live Sports",Memphis Grizzlies Vs Atlanta Hawks 2505203 — golf
-# match: Memphis Grizzlies Vs Atlanta Hawks 2505203
-# provider: golf
-# embed: https://embed.st/embed/golf/23639/1
-https://cdn13.zohanayaan.com:1686/hls/mmemphisgrizzlies.m3u8?md5=PNiqdyRpsJ3z-9e4DP6bzw&expires=1783483979
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01 — echo" tvg-id="Ppv_Event_01_Super_Dirtcar_Series_Cornwall_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01 — echo
-# match: Ppv Event 01 Super Dirtcar Series Cornwall Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-super-dirtcar-series-cornwall-ppv-01/1
-https://lb5.strmd.st/secure/MGiwLIPGmPjYCUBTQqsXYlZtVUCljGFv/echo/stream/ppv-event-01-super-dirtcar-series-cornwall-ppv-01/1/playlist.m3u8
+https://lb1.strmd.st/secure/ZFerPhEiajLaWUJCZCyFjqofBCFKCDve/echo/stream/ppv-event-05-usac-national-sweet-springs-ppv-05/1/playlist.m3u8
 
