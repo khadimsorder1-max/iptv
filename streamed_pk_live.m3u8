@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-08T05:36:07+00:00
+# Streamed.pk live sports matches — built 2026-07-08T08:19:08+00:00
 # 1 streams captured from 1 matches
 
 #EXTINF:-1 tvg-name="Ppv Event 05 Usac National Sweet Springs Ppv 05 — echo" tvg-id="Ppv_Event_05_Usac_National_Sweet_Springs_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Usac National Sweet Springs Ppv 05 — echo
 # match: Ppv Event 05 Usac National Sweet Springs Ppv 05
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-usac-national-sweet-springs-ppv-05/1
-https://lb1.strmd.st/secure/ZFerPhEiajLaWUJCZCyFjqofBCFKCDve/echo/stream/ppv-event-05-usac-national-sweet-springs-ppv-05/1/playlist.m3u8
+https://lb13.strmd.st/secure/mdeQKcRVmZjXQCVsumjGhzfsqxRRKhMq/echo/stream/ppv-event-05-usac-national-sweet-springs-ppv-05/1/playlist.m3u8
 
