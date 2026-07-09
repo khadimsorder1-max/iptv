@@ -1,47 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T18:56:04+00:00
-# 7 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-09T20:45:01+00:00
+# 10 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="France Vs Morocco 2515305 — admin" tvg-id="France_Vs_Morocco_2515305_—_admin" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — admin
 # match: France Vs Morocco 2515305
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-france-vs-morocco/1
-https://lb2.strmd.st/secure/CARDXZPiMmmvuVTbzxrzSsdmviUPckyA/rtmp/stream/gXioqe-GnQ3teyUImwIg0lwdly4IENDD-xpAAHchdQ1Yv-sRWUDzoxtYDrm8tS7z89KMQv5O5Q/1/playlist.m3u8
+https://lb2.strmd.st/secure/YaHCIuSZadErQCKuqyMmwcdsbetyioGw/rtmp/stream/IerUQR4hzy-22JvpPnkRRM2wxodpIuDsSRePuAQZt91dfwcYPJE5oNaFYxpp-XzFt3WkIIE1Wg/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Morocco 2515305 — echo" tvg-id="France_Vs_Morocco_2515305_—_echo" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — echo
 # match: France Vs Morocco 2515305
 # provider: echo
 # embed: https://embed.st/embed/echo/france-vs-morocco-football-1578539/1
-https://lb9.strmd.st/secure/KjrzEmCSESHlqXeHxhRrRzZquoZqbjdb/echo/stream/france-vs-morocco-football-1578539/1/playlist.m3u8
+https://lb3.strmd.st/secure/ArHOwXPGujKtVUuwomHtZaZitYFgaFqK/echo/stream/france-vs-morocco-football-1578539/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Morocco 2515305 — golf" tvg-id="France_Vs_Morocco_2515305_—_golf" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — golf
 # match: France Vs Morocco 2515305
 # provider: golf
 # embed: https://embed.st/embed/golf/23636/1
-https://cdn15.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=bXBqGWXIK2ZyAfnA3bLdlA&expires=1783630531
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=6o0K9g9pt81qfpzyhAD8ww&expires=1783637051
 
-#EXTINF:-1 tvg-name="England Cricket Vs India Cricket 2524738 — admin" tvg-id="England_Cricket_Vs_India_Cricket_2524738_—_admin" group-title="Streamed.pk Live Sports",England Cricket Vs India Cricket 2524738 — admin
-# match: England Cricket Vs India Cricket 2524738
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — admin" tvg-id="New_Orleans_Pelicans_Vs_Minnesota_Timberwolves_2505625_—_admin" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — admin
+# match: New Orleans Pelicans Vs Minnesota Timberwolves 2505625
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-england-vs-india/1
-https://lb13.strmd.st/secure/CJTrOgCCnqnvoAZkLJNTBjQaXyvqzrpR/rtmp/stream/uTpe6rPx8M7QXcWKGNQFIldyw4eHqlLnbsmL22p_GpiSEIP0EszOlmD89dHOOxn0UklFR9SlLrm1/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-new-orleans-pelicans/1
+https://lb7.strmd.st/secure/lSJGhOGwVFZvopWQPoHcipWWSRTGZFkz/rtmp/stream/7LjHp9kBhHg2Ni_rDg2AFuYjrBH1QrEL6jdc-81jypY9A5m4dWrGjiEyCL6s6W9rrXCrhdBwbua3GnpK7WIs80rajBY/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — echo" tvg-id="New_Orleans_Pelicans_Vs_Minnesota_Timberwolves_2505625_—_echo" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — echo
+# match: New Orleans Pelicans Vs Minnesota Timberwolves 2505625
+# provider: echo
+# embed: https://embed.st/embed/echo/new-orleans-pelicans-vs-minnesota-timberwolves-basketball-502063/1
+https://lb13.strmd.st/secure/DMrgUrQFEsqoaezmwaYoyZfBVMpSvJho/echo/stream/new-orleans-pelicans-vs-minnesota-timberwolves-basketball-502063/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — golf" tvg-id="New_Orleans_Pelicans_Vs_Minnesota_Timberwolves_2505625_—_golf" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — golf
+# match: New Orleans Pelicans Vs Minnesota Timberwolves 2505625
+# provider: golf
+# embed: https://embed.st/embed/golf/23657/1
+https://cdn14.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=cmjPrQQPz94W84oJC3LpAg&expires=1783637073
+
+#EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — admin" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_admin" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — admin
+# match: Atlanta Hawks Vs San Antonio Spurs 2505626
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-atlanta-hawks/1
+https://lb11.strmd.st/secure/COvYOybtHpzpBHgrlWXxvyBifouqoBOR/rtmp/stream/mR9xnZ6AAjr--DO4zxmXwCf4wb77BdlWKVos7ttxxH19155z-0yO8DsTLhOWGFIADHJsIleRrTbE3I6Nw0M/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — echo" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_echo" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — echo
+# match: Atlanta Hawks Vs San Antonio Spurs 2505626
+# provider: echo
+# embed: https://embed.st/embed/echo/atlanta-hawks-vs-san-antonio-spurs-basketball-502064/1
+https://lb15.strmd.st/secure/ekzMyJEvBmqjfgrVBBCavwjSnCypBVOo/echo/stream/atlanta-hawks-vs-san-antonio-spurs-basketball-502064/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — golf" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_golf" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — golf
+# match: Atlanta Hawks Vs San Antonio Spurs 2505626
+# provider: golf
+# embed: https://embed.st/embed/golf/23658/1
+https://cdn11.zohanayaan.com:1686/hls/matlantahawks.m3u8?md5=XQT57EgFJhyylZ4QXF5tUQ&expires=1783637090
 
 #EXTINF:-1 tvg-name="England Vs India Fourth T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Fourth_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Fourth T20 International Game 19993637 — echo
 # match: England Vs India Fourth T20 International Game 19993637
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-india-fourth-t20-international-game-19993637/1
-https://lb10.strmd.st/secure/vOlxqSuKYUkKwIULqlPWAQVdtKakQJYq/echo/stream/england-vs-india-fourth-t20-international-game-19993637/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
-# match: Admin Willow Cricket
-# provider: admin
-# embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb5.strmd.st/secure/leoQyKJkmjKHCudnkleLnCweWTuudbif/rtmp/stream/streamed-willow_720/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb7.strmd.st/secure/GugCOhcLfyZBMojDALoHVYUSwKkUAnpd/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb14.strmd.st/secure/yIvsZbpnnUiufniNUHnYpzCoVvNiCbhI/echo/stream/england-vs-india-fourth-t20-international-game-19993637/1/playlist.m3u8
 
