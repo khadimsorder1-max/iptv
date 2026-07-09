@@ -1,71 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T22:19:04+00:00
-# 11 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-09T23:46:08+00:00
+# 9 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — admin" tvg-id="France_Vs_Morocco_2515305_—_admin" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — admin
-# match: France Vs Morocco 2515305
+#EXTINF:-1 tvg-name="Dallas Mavericks Vs Golden State Warriors 2505628 — admin" tvg-id="Dallas_Mavericks_Vs_Golden_State_Warriors_2505628_—_admin" group-title="Streamed.pk Live Sports",Dallas Mavericks Vs Golden State Warriors 2505628 — admin
+# match: Dallas Mavericks Vs Golden State Warriors 2505628
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-france-vs-morocco/1
-https://lb4.strmd.st/secure/dMlOwTEsCdxMnYUWNAeHwayCNpsDHnyb/rtmp/stream/hbHPsifh1Jr1sJuPD77tRJkPL1xGROp-ttcmChc-B2M8iJuIptH1Fe8hiCyOSVM5aFmw-36Cxw/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-vs-dallas-mavericks/1
+https://lb11.strmd.st/secure/GBwpexiHTpZelmGqYurXztvvQYtdonwZ/rtmp/stream/7F_yUnAaw2LQfW-dqRcVqPv7LGv4hEtTAsG5aF9Ed49xv99JMX48RIPoJZWkYkdhIm7e3NcH-5LkQJcN6akmb24/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — echo" tvg-id="France_Vs_Morocco_2515305_—_echo" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — echo
-# match: France Vs Morocco 2515305
+#EXTINF:-1 tvg-name="Dallas Mavericks Vs Golden State Warriors 2505628 — echo" tvg-id="Dallas_Mavericks_Vs_Golden_State_Warriors_2505628_—_echo" group-title="Streamed.pk Live Sports",Dallas Mavericks Vs Golden State Warriors 2505628 — echo
+# match: Dallas Mavericks Vs Golden State Warriors 2505628
 # provider: echo
-# embed: https://embed.st/embed/echo/france-vs-morocco-german-french-spainish-gamebker-12/1
-https://lb5.strmd.st/secure/rOIVkbqrSjkqLTlVFXVEDsSEHiUaICSR/echo/stream/france-vs-morocco-german-french-spainish-gamebker-12/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1
+https://lb4.strmd.st/secure/nSIkaLozlYSLHwEDkTYAydSnLtRGKUkq/echo/stream/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — golf" tvg-id="France_Vs_Morocco_2515305_—_golf" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — golf
-# match: France Vs Morocco 2515305
+#EXTINF:-1 tvg-name="Dallas Mavericks Vs Golden State Warriors 2505628 — golf" tvg-id="Dallas_Mavericks_Vs_Golden_State_Warriors_2505628_—_golf" group-title="Streamed.pk Live Sports",Dallas Mavericks Vs Golden State Warriors 2505628 — golf
+# match: Dallas Mavericks Vs Golden State Warriors 2505628
 # provider: golf
-# embed: https://embed.st/embed/golf/23636/1
-https://lb12.strmd.st/secure/MHHSBkYYLungsioatNiekavWrCEwISqe/golf/stream/23636/1/playlist.m3u8
+# embed: https://embed.st/embed/golf/23660/1
+https://cdn11.zohanayaan.com:1686/hls/mdallasmavericks.m3u8?md5=KeTLWq-_OLBpgZj5I2L5pA&expires=1783647922
 
 #EXTINF:-1 tvg-name="Philadelphia 76ers Vs Detroit Pistons 2505627 — admin" tvg-id="Philadelphia_76ers_Vs_Detroit_Pistons_2505627_—_admin" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Detroit Pistons 2505627 — admin
 # match: Philadelphia 76ers Vs Detroit Pistons 2505627
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-detroit-pistons-vs-philadelphia-76-ers/1
-https://lb11.strmd.st/secure/cWamUBydNSogbksumJPPPtGrAELcWlyM/rtmp/stream/BK18JIu-s-oi54BXaauaCRvhlrye_H4m9IxAyuzeEG1HweCX336W0JDiyJFB53Bb7aTYckMxMrNu31_ZdFL61LCCiw/1/playlist.m3u8
+https://lb14.strmd.st/secure/wyEGKntlMXwCfHNWFCUZeqOXtrrhQeCe/rtmp/stream/ioz1ZSmo-rUBvQI_ywu33XhR2lknaN9SFUtR9-d63jbcBXkT99QVhwF_zSDneqhBzVHeQjmGA_1WseuwkC2k-DGKOQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Philadelphia 76ers Vs Detroit Pistons 2505627 — echo" tvg-id="Philadelphia_76ers_Vs_Detroit_Pistons_2505627_—_echo" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Detroit Pistons 2505627 — echo
 # match: Philadelphia 76ers Vs Detroit Pistons 2505627
 # provider: echo
 # embed: https://embed.st/embed/echo/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1
-https://lb3.strmd.st/secure/NbzWVSdRkmjaRaRhRkerGPTIoYMCufbt/echo/stream/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1/playlist.m3u8
+https://lb12.strmd.st/secure/MrUDCFetEMMrfQrLYhWqTRMpzzBYEaZt/echo/stream/philadelphia-76ers-vs-detroit-pistons-basketball-502065/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Philadelphia 76ers Vs Detroit Pistons 2505627 — golf" tvg-id="Philadelphia_76ers_Vs_Detroit_Pistons_2505627_—_golf" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Detroit Pistons 2505627 — golf
 # match: Philadelphia 76ers Vs Detroit Pistons 2505627
 # provider: golf
 # embed: https://embed.st/embed/golf/23659/1
-https://cdn14.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=qYJB_yg9Bpw2CKRIEfiDiQ&expires=1783642706
+https://cdn11.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=EVKc1YwNw8-ukEa4pVNsFg&expires=1783647943
 
-#EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — admin" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_admin" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — admin
-# match: Atlanta Hawks Vs San Antonio Spurs 2505626
+#EXTINF:-1 tvg-name="Orlando Magic Vs Charlotte Hornets 2505629 — admin" tvg-id="Orlando_Magic_Vs_Charlotte_Hornets_2505629_—_admin" group-title="Streamed.pk Live Sports",Orlando Magic Vs Charlotte Hornets 2505629 — admin
+# match: Orlando Magic Vs Charlotte Hornets 2505629
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-atlanta-hawks/1
-https://lb11.strmd.st/secure/ivfaPnlBNTUeORWQfEUsFPlnQboqaRKY/rtmp/stream/bK1JhaBeWun8vFVPdggtPYQGyhRO5dWVB6JS7CfbzKi5RDA6Gnh4ysTriGNPp1FS62FBYo2rNk0PE2Aha4I/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1
+https://lb13.strmd.st/secure/PvaOHJirallDBhNHnxJwiIGLvujkkLPM/rtmp/stream/lF3-O3FaLIDG6NyjSLx_gRktZ5WUnE9T31mHSGxgZkQw0xWpvL0gwQSwwtLBYi3DVjB_ZkeNjufnpPWOsNU/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — echo" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_echo" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — echo
-# match: Atlanta Hawks Vs San Antonio Spurs 2505626
-# provider: echo
-# embed: https://embed.st/embed/echo/atlanta-hawks-vs-san-antonio-spurs-basketball-502064/1
-https://lb2.strmd.st/secure/jgkpqHJegyTgoGewLHTSkFFOoOgkfeAG/echo/stream/atlanta-hawks-vs-san-antonio-spurs-basketball-502064/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Orlando Magic Vs Charlotte Hornets 2505629 — golf" tvg-id="Orlando_Magic_Vs_Charlotte_Hornets_2505629_—_golf" group-title="Streamed.pk Live Sports",Orlando Magic Vs Charlotte Hornets 2505629 — golf
+# match: Orlando Magic Vs Charlotte Hornets 2505629
+# provider: golf
+# embed: https://embed.st/embed/golf/23661/1
+https://cdn15.zohanayaan.com:1686/hls/morlandomagic.m3u8?md5=eMCbNkPkz0gTNDp1O9Gx8g&expires=1783647956
 
 #EXTINF:-1 tvg-name="Atlanta Hawks Vs San Antonio Spurs 2505626 — golf" tvg-id="Atlanta_Hawks_Vs_San_Antonio_Spurs_2505626_—_golf" group-title="Streamed.pk Live Sports",Atlanta Hawks Vs San Antonio Spurs 2505626 — golf
 # match: Atlanta Hawks Vs San Antonio Spurs 2505626
 # provider: golf
 # embed: https://embed.st/embed/golf/23658/1
-https://cdn11.zohanayaan.com:1686/hls/matlantahawks.m3u8?md5=6lQUVrVJhlP2e0NXFFfGiA&expires=1783642726
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — admin" tvg-id="New_Orleans_Pelicans_Vs_Minnesota_Timberwolves_2505625_—_admin" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — admin
-# match: New Orleans Pelicans Vs Minnesota Timberwolves 2505625
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-new-orleans-pelicans/1
-https://lb14.strmd.st/secure/VZvZRUMVFOluzzFuSeIQWrAYHsQvToZD/rtmp/stream/It97Ze1yOLLhrRsVmMnxXsgWllbNlVSRaZSPzZE5RSUpxzwfZWqKO8lavbbXUhAunY7ldX9H5bDwSrADtyywlRxjA30/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — golf" tvg-id="New_Orleans_Pelicans_Vs_Minnesota_Timberwolves_2505625_—_golf" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Minnesota Timberwolves 2505625 — golf
-# match: New Orleans Pelicans Vs Minnesota Timberwolves 2505625
-# provider: golf
-# embed: https://embed.st/embed/golf/23657/1
-https://cdn13.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=a4jP-sBwMgf3ir7nwpTM9Q&expires=1783642740
+https://cdn15.zohanayaan.com:1686/hls/matlantahawks.m3u8?md5=6anJuB1JlYQAIJ1BWRB6jw&expires=1783647964
 
