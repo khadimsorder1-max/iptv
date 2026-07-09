@@ -1,41 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T00:06:40+00:00
-# 6 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-09T04:29:28+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — admin" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_admin" group-title="Streamed.pk Live Sports",Ppv Aew Wednesday Night Dynamite — admin
-# match: Ppv Aew Wednesday Night Dynamite
+#EXTINF:-1 tvg-name="Los Angeles Sparks Vs Indiana Fever 2449098 — admin" tvg-id="Los_Angeles_Sparks_Vs_Indiana_Fever_2449098_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Indiana Fever 2449098 — admin
+# match: Los Angeles Sparks Vs Indiana Fever 2449098
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1
-https://lb2.strmd.st/secure/tlXMcyUxfwmkPxfdheCvkaRdCyphjEmc/rtmp/stream/Vue7khMg5XIgK2AkDDwIhAMVBOmlZkDthj6YadGr-Sm8Gd-Cw4U1-kP5AuztT_Q0k956xAo/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-indiana-fever-vs-los-angeles-sparks/1
+https://lb14.strmd.st/secure/ZpSpvnpaDepMVyBLxiexbVDoqQZWrJuj/rtmp/stream/i7KgxdqHiWEfLuYirvDVW7KlO7Q5HVv37OltplQmsF3EgsqiB_24s7aMTkFSIy4MLZbSSYOxIGKxU4YZJxlNQy1Z/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — echo" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_echo" group-title="Streamed.pk Live Sports",Ppv Aew Wednesday Night Dynamite — echo
-# match: Ppv Aew Wednesday Night Dynamite
+#EXTINF:-1 tvg-name="Vancouver Whitecaps Vs Cavalry Fc Football 1544685 — echo" tvg-id="Vancouver_Whitecaps_Vs_Cavalry_Fc_Football_1544685_—_echo" group-title="Streamed.pk Live Sports",Vancouver Whitecaps Vs Cavalry Fc Football 1544685 — echo
+# match: Vancouver Whitecaps Vs Cavalry Fc Football 1544685
 # provider: echo
-# embed: https://embed.st/embed/echo/aew-wednesday-night-dynamite-aew/1
-https://lb5.strmd.st/secure/YtBEIpwETmzktLBztUpwHwEQInGJzImb/echo/stream/aew-wednesday-night-dynamite-aew/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Golden State Valkyries 2449315 — admin" tvg-id="Toronto_Tempo_Vs_Golden_State_Valkyries_2449315_—_admin" group-title="Streamed.pk Live Sports",Toronto Tempo Vs Golden State Valkyries 2449315 — admin
-# match: Toronto Tempo Vs Golden State Valkyries 2449315
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-toronto-tempo/1
-https://lb6.strmd.st/secure/BIstyJTccBcMCaTcLCAhHsrrZzCYfMVt/rtmp/stream/A5a-pSwLlqw4VnX7ok7E9v1EKc5W48UVm6Ue76wpr3n0WdLN9MeU-aU50AWfAejliwAGRoh_D4aKRrYeLbc/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Minnesota Lynx 2449097 — admin" tvg-id="Connecticut_Sun_Vs_Minnesota_Lynx_2449097_—_admin" group-title="Streamed.pk Live Sports",Connecticut Sun Vs Minnesota Lynx 2449097 — admin
-# match: Connecticut Sun Vs Minnesota Lynx 2449097
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-connecticut-sun/1
-https://lb3.strmd.st/secure/ePObTYkavYSyXNvzpGGBpdyCNZWvaOVd/rtmp/stream/z7To43pkrnFpeVCwD2ivRQPLU_B2liZpzVs2GTBxTDLHkorLkZ-0X4Vggx1sIuKhCtVuhSOKxzDZPGDdMvbWMw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Connecticut Sun W Vs Minnesota Lynx W Basketball 494933 — echo" tvg-id="Connecticut_Sun_W_Vs_Minnesota_Lynx_W_Basketball_494933_—_echo" group-title="Streamed.pk Live Sports",Connecticut Sun W Vs Minnesota Lynx W Basketball 494933 — echo
-# match: Connecticut Sun W Vs Minnesota Lynx W Basketball 494933
-# provider: echo
-# embed: https://embed.st/embed/echo/connecticut-sun-w-vs-minnesota-lynx-w-basketball-494933/1
-https://lb1.strmd.st/secure/DPSGGBoLKlrTnsIMPXoagWyxlRjFNrsV/echo/stream/connecticut-sun-w-vs-minnesota-lynx-w-basketball-494933/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toronto Tempo W Vs Golden State Valkyries W Basketball 494932 — echo" tvg-id="Toronto_Tempo_W_Vs_Golden_State_Valkyries_W_Basketball_494932_—_echo" group-title="Streamed.pk Live Sports",Toronto Tempo W Vs Golden State Valkyries W Basketball 494932 — echo
-# match: Toronto Tempo W Vs Golden State Valkyries W Basketball 494932
-# provider: echo
-# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-golden-state-valkyries-w-basketball-494932/1
-https://lb8.strmd.st/secure/ingGLcHhEHLFtvVPQcpVXdWKbcsmHHdF/echo/stream/toronto-tempo-w-vs-golden-state-valkyries-w-basketball-494932/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/vancouver-whitecaps-vs-cavalry-fc-football-1544685/1
+https://lb15.strmd.st/secure/jVDXpkVvTNkAhkNEehtRxrafZFAneaER/echo/stream/vancouver-whitecaps-vs-cavalry-fc-football-1544685/1/playlist.m3u8
 
