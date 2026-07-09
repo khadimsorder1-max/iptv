@@ -1,17 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T04:29:28+00:00
-# 2 streams captured from 2 matches
-
-#EXTINF:-1 tvg-name="Los Angeles Sparks Vs Indiana Fever 2449098 — admin" tvg-id="Los_Angeles_Sparks_Vs_Indiana_Fever_2449098_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Indiana Fever 2449098 — admin
-# match: Los Angeles Sparks Vs Indiana Fever 2449098
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-indiana-fever-vs-los-angeles-sparks/1
-https://lb14.strmd.st/secure/ZpSpvnpaDepMVyBLxiexbVDoqQZWrJuj/rtmp/stream/i7KgxdqHiWEfLuYirvDVW7KlO7Q5HVv37OltplQmsF3EgsqiB_24s7aMTkFSIy4MLZbSSYOxIGKxU4YZJxlNQy1Z/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Vancouver Whitecaps Vs Cavalry Fc Football 1544685 — echo" tvg-id="Vancouver_Whitecaps_Vs_Cavalry_Fc_Football_1544685_—_echo" group-title="Streamed.pk Live Sports",Vancouver Whitecaps Vs Cavalry Fc Football 1544685 — echo
-# match: Vancouver Whitecaps Vs Cavalry Fc Football 1544685
-# provider: echo
-# embed: https://embed.st/embed/echo/vancouver-whitecaps-vs-cavalry-fc-football-1544685/1
-https://lb15.strmd.st/secure/jVDXpkVvTNkAhkNEehtRxrafZFAneaER/echo/stream/vancouver-whitecaps-vs-cavalry-fc-football-1544685/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-09T08:02:00+00:00
+# 0 streams captured from 0 matches
 
