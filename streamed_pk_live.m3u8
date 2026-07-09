@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T11:25:09+00:00
+# Streamed.pk live sports matches — built 2026-07-09T14:03:59+00:00
 # 2 streams captured from 2 matches
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb7.strmd.st/secure/AlbpRRrpfobjCJIDJpqygHrHgYCdUmhX/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tour De France Stage 5 2447752 — admin" tvg-id="Tour_De_France_Stage_5_2447752_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 5 2447752 — admin
 # match: Tour De France Stage 5 2447752
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-6/1
-https://lb4.strmd.st/secure/edbefzHgwxbnQioJuCqjXRElyIfpodsY/rtmp/stream/2RCEZ3M0W5DhGBIb7D19eUnEXmxudNpnIUUh22uwmMzvH09cbdJ5-Srzoa5qmUAq7AsTl9db/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Fremantle Football Club Vs Sydney Swans 2495765 — echo" tvg-id="Fremantle_Football_Club_Vs_Sydney_Swans_2495765_—_echo" group-title="Streamed.pk Live Sports",Fremantle Football Club Vs Sydney Swans 2495765 — echo
-# match: Fremantle Football Club Vs Sydney Swans 2495765
-# provider: echo
-# embed: https://embed.st/embed/echo/fremantle-dockers-vs-sydney-swans-australian-football-3493/1
-https://lb2.strmd.st/secure/mDpwNsRdaIbqepMrmTDEKkKfMAhPDELd/echo/stream/fremantle-dockers-vs-sydney-swans-australian-football-3493/1/playlist.m3u8
+https://lb13.strmd.st/secure/tAyAzaKGsrPAlBarUPGZkVZdhUlviyvL/rtmp/stream/zxU5JOeDbercO1R9EKiEOi6zxQkdhhg7mkGK3ZXZgkfIrzZ05bBerDcSG9kngtJB92t3jFqL/1/playlist.m3u8
 
