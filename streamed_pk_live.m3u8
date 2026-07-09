@@ -1,29 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-09T17:01:11+00:00
-# 4 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-09T18:56:04+00:00
+# 7 streams captured from 5 matches
 
-#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
-# match: Admin Willow Cricket
+#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — admin" tvg-id="France_Vs_Morocco_2515305_—_admin" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — admin
+# match: France Vs Morocco 2515305
 # provider: admin
-# embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb5.strmd.st/secure/MYfHLaxDLPPdhNrkcsQIJRSlcMIGchmM/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-france-vs-morocco/1
+https://lb2.strmd.st/secure/CARDXZPiMmmvuVTbzxrzSsdmviUPckyA/rtmp/stream/gXioqe-GnQ3teyUImwIg0lwdly4IENDD-xpAAHchdQ1Yv-sRWUDzoxtYDrm8tS7z89KMQv5O5Q/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="England Vs India Fourth T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Fourth_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Fourth T20 International Game 19993637 — echo
-# match: England Vs India Fourth T20 International Game 19993637
+#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — echo" tvg-id="France_Vs_Morocco_2515305_—_echo" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — echo
+# match: France Vs Morocco 2515305
 # provider: echo
-# embed: https://embed.st/embed/echo/england-vs-india-fourth-t20-international-game-19993637/1
-https://lb13.strmd.st/secure/baWsPVCcmXtUWFKHZYisMKNFEXznMCEt/echo/stream/england-vs-india-fourth-t20-international-game-19993637/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/france-vs-morocco-football-1578539/1
+https://lb9.strmd.st/secure/KjrzEmCSESHlqXeHxhRrRzZquoZqbjdb/echo/stream/france-vs-morocco-football-1578539/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb11.strmd.st/secure/XLdkvxHZGtjvctjixIsxxrAWRuXnBgEK/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+#EXTINF:-1 tvg-name="France Vs Morocco 2515305 — golf" tvg-id="France_Vs_Morocco_2515305_—_golf" group-title="Streamed.pk Live Sports",France Vs Morocco 2515305 — golf
+# match: France Vs Morocco 2515305
+# provider: golf
+# embed: https://embed.st/embed/golf/23636/1
+https://cdn15.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=bXBqGWXIK2ZyAfnA3bLdlA&expires=1783630531
 
 #EXTINF:-1 tvg-name="England Cricket Vs India Cricket 2524738 — admin" tvg-id="England_Cricket_Vs_India_Cricket_2524738_—_admin" group-title="Streamed.pk Live Sports",England Cricket Vs India Cricket 2524738 — admin
 # match: England Cricket Vs India Cricket 2524738
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-england-vs-india/1
-https://lb2.strmd.st/secure/CDhrcvqamXDJaBYsNYChMgVqRYhpDWrj/rtmp/stream/kMrx8TgLjN0Yak7wejGDabjUVYtDHqINa_jH0Zax8qhni-SqLETt_-8WuUleY29OPbB9fMDD1MhO/1/playlist.m3u8
+https://lb13.strmd.st/secure/CJTrOgCCnqnvoAZkLJNTBjQaXyvqzrpR/rtmp/stream/uTpe6rPx8M7QXcWKGNQFIldyw4eHqlLnbsmL22p_GpiSEIP0EszOlmD89dHOOxn0UklFR9SlLrm1/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs India Fourth T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Fourth_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Fourth T20 International Game 19993637 — echo
+# match: England Vs India Fourth T20 International Game 19993637
+# provider: echo
+# embed: https://embed.st/embed/echo/england-vs-india-fourth-t20-international-game-19993637/1
+https://lb10.strmd.st/secure/vOlxqSuKYUkKwIULqlPWAQVdtKakQJYq/echo/stream/england-vs-india-fourth-t20-international-game-19993637/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
+# match: Admin Willow Cricket
+# provider: admin
+# embed: https://embed.st/embed/admin/admin-willow-cricket/1
+https://lb5.strmd.st/secure/leoQyKJkmjKHCudnkleLnCweWTuudbif/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb7.strmd.st/secure/GugCOhcLfyZBMojDALoHVYUSwKkUAnpd/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
