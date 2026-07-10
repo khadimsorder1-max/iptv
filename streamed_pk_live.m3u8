@@ -1,47 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-10T20:26:10+00:00
-# 7 streams captured from 5 matches
-
-#EXTINF:-1 tvg-name="Spain Vs Belgium 2519345 — admin" tvg-id="Spain_Vs_Belgium_2519345_—_admin" group-title="Streamed.pk Live Sports",Spain Vs Belgium 2519345 — admin
-# match: Spain Vs Belgium 2519345
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-spain-vs-belgium/1
-https://lb15.strmd.st/secure/XwOIkqusnQMKEyWxQosQfsKPuOgQzsPf/rtmp/stream/LNO3jGlDRudtWpVJZ78mjyFjr_kKU_YdtAXlJcGL-djDcgYmlTsbOVpWKTAvbD4vpdgWb7NUSA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Spain Vs Belgium 2519345 — echo" tvg-id="Spain_Vs_Belgium_2519345_—_echo" group-title="Streamed.pk Live Sports",Spain Vs Belgium 2519345 — echo
-# match: Spain Vs Belgium 2519345
-# provider: echo
-# embed: https://embed.st/embed/echo/spain-vs-belgium-spanish-german-french-dutch-gamebker-12/1
-https://lb2.strmd.st/secure/FscgPhzbZaRMFzwmmpbacpBGCeqIXlzt/echo/stream/spain-vs-belgium-spanish-german-french-dutch-gamebker-12/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Spain Vs Belgium 2519345 — golf" tvg-id="Spain_Vs_Belgium_2519345_—_golf" group-title="Streamed.pk Live Sports",Spain Vs Belgium 2519345 — golf
-# match: Spain Vs Belgium 2519345
-# provider: golf
-# embed: https://embed.st/embed/golf/23656/1
-https://lb8.strmd.st/secure/xaMCbBmeZvRHTOgTnfMEhPVyQdsBpfEu/golf/stream/23656/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
-# provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb10.strmd.st/secure/yeRxXdAkCcDpiRdaUdXPUVDqIEyICQsf/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wigan Warriors Vs Warrington Wolves 2395961 — echo" tvg-id="Wigan_Warriors_Vs_Warrington_Wolves_2395961_—_echo" group-title="Streamed.pk Live Sports",Wigan Warriors Vs Warrington Wolves 2395961 — echo
-# match: Wigan Warriors Vs Warrington Wolves 2395961
-# provider: echo
-# embed: https://embed.st/embed/echo/wigan-warriors-vs-warrington-wolves-game-182283/1
-https://lb12.strmd.st/secure/ytShgocDnyqLPUjXutrmooGkrQywYqNz/echo/stream/wigan-warriors-vs-warrington-wolves-game-182283/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 05 Motoamerica Superbikes Ridge Motorsports Park Ppv 05 — echo" tvg-id="Ppv_Event_05_Motoamerica_Superbikes_Ridge_Motorsports_Park_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Motoamerica Superbikes Ridge Motorsports Park Ppv 05 — echo
-# match: Ppv Event 05 Motoamerica Superbikes Ridge Motorsports Park Ppv 05
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-05-motoamerica-superbikes-ridge-motorsports-park-ppv-05/1
-https://lb15.strmd.st/secure/mEqsZsqPsHgRGXIbbJnYZIwERtarwOcO/echo/stream/ppv-event-05-motoamerica-superbikes-ridge-motorsports-park-ppv-05/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03 — echo" tvg-id="Ppv_Event_03_Pfl_Mena_10_Alsaif_V_Ouhachi_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03 — echo
-# match: Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-pfl-mena-10-alsaif-v-ouhachi-ppv-03/1
-https://lb4.strmd.st/secure/iwfeAiTQFLZJYvIYtEFcnlnEohRthMMX/echo/stream/ppv-event-03-pfl-mena-10-alsaif-v-ouhachi-ppv-03/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-10T21:34:08+00:00
+# 0 streams captured from 0 matches
 
