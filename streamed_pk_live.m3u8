@@ -1,101 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-10T02:34:28+00:00
-# 16 streams captured from 11 matches
+# Streamed.pk live sports matches — built 2026-07-10T06:47:10+00:00
+# 3 streams captured from 3 matches
 
-#EXTINF:-1 tvg-name="Washington Wizards Vs Utah Jazz 2505630 — admin" tvg-id="Washington_Wizards_Vs_Utah_Jazz_2505630_—_admin" group-title="Streamed.pk Live Sports",Washington Wizards Vs Utah Jazz 2505630 — admin
-# match: Washington Wizards Vs Utah Jazz 2505630
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-utah-jazz-vs-washington-wizards/1
-https://lb15.strmd.st/secure/yZtanFeFAHcyrEIBWsGWgCNyPOjIHiYi/rtmp/stream/Bf88Bc5uTKyATOGN1S078AbN6n0q4fN62rR_0VtW2M1-QVPYqk9a83TWixpEhsSj8UqnjCNX-pnkCgNvERkIkQpHlA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Washington Wizards Vs Utah Jazz 2505630 — echo" tvg-id="Washington_Wizards_Vs_Utah_Jazz_2505630_—_echo" group-title="Streamed.pk Live Sports",Washington Wizards Vs Utah Jazz 2505630 — echo
-# match: Washington Wizards Vs Utah Jazz 2505630
+#EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
+# match: V8 Supercars Townsville 400 Racing 0059
 # provider: echo
-# embed: https://embed.st/embed/echo/washington-wizards-vs-utah-jazz-basketball-502068/1
-https://lb7.strmd.st/secure/oBSRrZOxhresKhGmATClXXpDazmWKWAA/echo/stream/washington-wizards-vs-utah-jazz-basketball-502068/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
+https://lb11.strmd.st/secure/hrSqZmKHtYLROYfvocjQqagBwEhuxZon/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Washington Wizards Vs Utah Jazz 2505630 — golf" tvg-id="Washington_Wizards_Vs_Utah_Jazz_2505630_—_golf" group-title="Streamed.pk Live Sports",Washington Wizards Vs Utah Jazz 2505630 — golf
-# match: Washington Wizards Vs Utah Jazz 2505630
+#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Sacramento Kings 2505631 — golf" tvg-id="Los_Angeles_Clippers_Vs_Sacramento_Kings_2505631_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Sacramento Kings 2505631 — golf
+# match: Los Angeles Clippers Vs Sacramento Kings 2505631
 # provider: golf
-# embed: https://embed.st/embed/golf/23662/1
-https://cdn15.zohanayaan.com:1686/hls/mwashingtonwizards.m3u8?md5=mvM9jcOySF92dVNuS5vXTg&expires=1783657967
-
-#EXTINF:-1 tvg-name="Phoenix Mercury Vs Indiana Fever 2449100 — admin" tvg-id="Phoenix_Mercury_Vs_Indiana_Fever_2449100_—_admin" group-title="Streamed.pk Live Sports",Phoenix Mercury Vs Indiana Fever 2449100 — admin
-# match: Phoenix Mercury Vs Indiana Fever 2449100
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-indiana-fever-vs-phoenix-mercury/1
-https://lb5.strmd.st/secure/LpRiuKtCnayUiIRoJUoxWYQlrnmbNSfC/rtmp/stream/KwyMlg0toG_bcS8XcQVQubmDPZZpymaptBOmvQP5pE4426JcFYIZaZ_396kOpv97FjHC2nifim7W967xlmaGkw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Fire Vs Las Vegas Aces 2469372 — admin" tvg-id="Portland_Fire_Vs_Las_Vegas_Aces_2469372_—_admin" group-title="Streamed.pk Live Sports",Portland Fire Vs Las Vegas Aces 2469372 — admin
-# match: Portland Fire Vs Las Vegas Aces 2469372
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-las-vegas-aces-vs-portland-fire/1
-https://lb11.strmd.st/secure/qPkMmRReNhimklaMETrGqlnAUiqMDLbm/rtmp/stream/oKkA2OKXt5sH_x5nLytQeoxWYcvfADbLdBfJ8uQoB4qphO7-52GS0OW4iTpXkSW33xQCyhVBKxRvhbc_03c/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Edmonton Elks Vs Ottawa Redblacks 2432552 — admin" tvg-id="Edmonton_Elks_Vs_Ottawa_Redblacks_2432552_—_admin" group-title="Streamed.pk Live Sports",Edmonton Elks Vs Ottawa Redblacks 2432552 — admin
-# match: Edmonton Elks Vs Ottawa Redblacks 2432552
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-ottawa-red-blacks-vs-edmonton-elks/1
-https://lb1.strmd.st/secure/jlDNZyfKtFYPXlmzfnTMqOpolGXKaZvS/rtmp/stream/qYS-9-6RtWUsRmMHbch6Zs23E722WUD31TNeJIRR3hIoV9Ld2P7uJDgAD1fwqQ6yLp2qVkCLqBmXLoICB6W5XZHd/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Atlanta Dream Vs Seattle Storm 2449099 — admin" tvg-id="Atlanta_Dream_Vs_Seattle_Storm_2449099_—_admin" group-title="Streamed.pk Live Sports",Atlanta Dream Vs Seattle Storm 2449099 — admin
-# match: Atlanta Dream Vs Seattle Storm 2449099
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-atlanta-dream/1
-https://lb12.strmd.st/secure/yuhGGlKboEmaMqyMqwridYQNMpBqOqmD/rtmp/stream/Gygm-ZOBf-gdLdWdU6V7ieHL1Mc9M4BW1L60NpXIINOgGHQMskxO0mGE0ekPs_kj-VctPYRWQR-uMVCkWbA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Tna Impact — admin" tvg-id="Ppv_Tna_Impact_—_admin" group-title="Streamed.pk Live Sports",Ppv Tna Impact — admin
-# match: Ppv Tna Impact
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tna-impact/1
-https://lb14.strmd.st/secure/zofccuLHqvlcBQbfZEuCxdjUpDkiHwlq/rtmp/stream/7s-Lv44rlW9S_sAKGoHhBK6qeENfX9KF61YbT1TjtDo9UaLTPOoolawLmb0qjXRxLmqQG10/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Tna Impact — echo" tvg-id="Ppv_Tna_Impact_—_echo" group-title="Streamed.pk Live Sports",Ppv Tna Impact — echo
-# match: Ppv Tna Impact
-# provider: echo
-# embed: https://embed.st/embed/echo/tna-impact-tna-1/1
-https://lb2.strmd.st/secure/oBBjMTRcILrLWorSfKoOjbGSvpNKuoeP/echo/stream/tna-impact-tna-1/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix Mercury W Vs Indiana Fever W Basketball 494936 — echo" tvg-id="Phoenix_Mercury_W_Vs_Indiana_Fever_W_Basketball_494936_—_echo" group-title="Streamed.pk Live Sports",Phoenix Mercury W Vs Indiana Fever W Basketball 494936 — echo
-# match: Phoenix Mercury W Vs Indiana Fever W Basketball 494936
-# provider: echo
-# embed: https://embed.st/embed/echo/phoenix-mercury-w-vs-indiana-fever-w-basketball-494936/1
-https://lb7.strmd.st/secure/SVOkMSzXpBWhRrRgAVrEHyphzqTAWOSV/echo/stream/phoenix-mercury-w-vs-indiana-fever-w-basketball-494936/1/playlist.m3u8
+# embed: https://embed.st/embed/golf/23663/1
+https://cdn14.zohanayaan.com:1686/hls/mlosangelesclippers.m3u8?md5=AwUleSmHSvQ4EBcuwOdDrg&expires=1783673219
 
 #EXTINF:-1 tvg-name="Washington Freedom Vs Los Angeles Knight Riders 2466437 — echo" tvg-id="Washington_Freedom_Vs_Los_Angeles_Knight_Riders_2466437_—_echo" group-title="Streamed.pk Live Sports",Washington Freedom Vs Los Angeles Knight Riders 2466437 — echo
 # match: Washington Freedom Vs Los Angeles Knight Riders 2466437
 # provider: echo
 # embed: https://embed.st/embed/echo/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1
-https://lb9.strmd.st/secure/odnYhgprvEFokdnIUFCtXTFvDYZSikCF/echo/stream/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Orlando Magic Vs Charlotte Hornets 2505629 — admin" tvg-id="Orlando_Magic_Vs_Charlotte_Hornets_2505629_—_admin" group-title="Streamed.pk Live Sports",Orlando Magic Vs Charlotte Hornets 2505629 — admin
-# match: Orlando Magic Vs Charlotte Hornets 2505629
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-charlotte-hornets-vs-orlando-magic/1
-https://lb13.strmd.st/secure/sUysMlZeNIysypoEuSeCYxcAKSlyTDvQ/rtmp/stream/82HrtACxxf9bfhoXfaPEJu70RFOjiTqdG_14JnubklzTNEMyPk4d1lkMHfAvBZYaHljddMYDQ45-refcG0A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Orlando Magic Vs Charlotte Hornets 2505629 — golf" tvg-id="Orlando_Magic_Vs_Charlotte_Hornets_2505629_—_golf" group-title="Streamed.pk Live Sports",Orlando Magic Vs Charlotte Hornets 2505629 — golf
-# match: Orlando Magic Vs Charlotte Hornets 2505629
-# provider: golf
-# embed: https://embed.st/embed/golf/23661/1
-https://cdn12.zohanayaan.com:1686/hls/morlandomagic.m3u8?md5=wooXj9fjsk6ln6Kq5bfF0Q&expires=1783658043
-
-#EXTINF:-1 tvg-name="Dallas Mavericks Vs Golden State Warriors 2505628 — echo" tvg-id="Dallas_Mavericks_Vs_Golden_State_Warriors_2505628_—_echo" group-title="Streamed.pk Live Sports",Dallas Mavericks Vs Golden State Warriors 2505628 — echo
-# match: Dallas Mavericks Vs Golden State Warriors 2505628
-# provider: echo
-# embed: https://embed.st/embed/echo/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1
-https://lb3.strmd.st/secure/nTxtiRyJwgPmBMbEuHUBcAfJiWckhIKv/echo/stream/dallas-mavericks-vs-golden-state-warriors-basketball-502066/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Dallas Mavericks Vs Golden State Warriors 2505628 — golf" tvg-id="Dallas_Mavericks_Vs_Golden_State_Warriors_2505628_—_golf" group-title="Streamed.pk Live Sports",Dallas Mavericks Vs Golden State Warriors 2505628 — golf
-# match: Dallas Mavericks Vs Golden State Warriors 2505628
-# provider: golf
-# embed: https://embed.st/embed/golf/23660/1
-https://cdn14.zohanayaan.com:1686/hls/mdallasmavericks.m3u8?md5=REpTH7tn2GsMNZos4cpLsw&expires=1783658056
-
-#EXTINF:-1 tvg-name="23669 — golf" tvg-id="23669_—_golf" group-title="Streamed.pk Live Sports",23669 — golf
-# match: 23669
-# provider: golf
-# embed: https://embed.st/embed/golf/23669/1
-https://cdn14.zohanayaan.com:1686/hls/mbaltimoreorioles.m3u8?md5=bV3oFqUZE_NXuFGQTsHBJA&expires=1783658064
+https://lb11.strmd.st/secure/wtunLWRaZHyjKEBGaRJBvrJICmofrkHS/echo/stream/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1/playlist.m3u8
 
