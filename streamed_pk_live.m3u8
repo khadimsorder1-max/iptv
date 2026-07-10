@@ -1,23 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-10T06:47:10+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-10T10:20:59+00:00
+# 5 streams captured from 5 matches
+
+#EXTINF:-1 tvg-name="Collingwood Magpies Vs North Melbourne Kangaroos Australian Football 3566 — echo" tvg-id="Collingwood_Magpies_Vs_North_Melbourne_Kangaroos_Australian_Football_3566_—_echo" group-title="Streamed.pk Live Sports",Collingwood Magpies Vs North Melbourne Kangaroos Australian Football 3566 — echo
+# match: Collingwood Magpies Vs North Melbourne Kangaroos Australian Football 3566
+# provider: echo
+# embed: https://embed.st/embed/echo/collingwood-magpies-vs-north-melbourne-kangaroos-australian-football-3566/1
+https://lb6.strmd.st/secure/bdbwlOrZXOjAqiHNRqeMoIOHpeDJpckb/echo/stream/collingwood-magpies-vs-north-melbourne-kangaroos-australian-football-3566/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Mcintyre V Ramirez Ppv 02 — echo" tvg-id="Ppv_Event_02_Mcintyre_V_Ramirez_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Mcintyre V Ramirez Ppv 02 — echo
+# match: Ppv Event 02 Mcintyre V Ramirez Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-mcintyre-v-ramirez-ppv-02/1
+https://lb2.strmd.st/secure/qpxIlBXYArpxOELyHNtMcpxhoaFjAnhk/echo/stream/ppv-event-02-mcintyre-v-ramirez-ppv-02/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_Free_Practice_Session_1_Leicestershire_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337 — echo
+# match: World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337
+# provider: echo
+# embed: https://embed.st/embed/echo/world-sbk-uk-round-free-practice-session-1-leicestershire-game-4u8337/1
+https://lb15.strmd.st/secure/grLjPuqTVAmFBXobvwfuihRbakIUWRmD/echo/stream/world-sbk-uk-round-free-practice-session-1-leicestershire-game-4u8337/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
+# match: Motogp German Grand Prix Game 122273
+# provider: echo
+# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
+https://lb2.strmd.st/secure/iiKtbrfvpqRVZCzvKzzuGbNIqHSzrNIB/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
 # match: V8 Supercars Townsville 400 Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
-https://lb11.strmd.st/secure/hrSqZmKHtYLROYfvocjQqagBwEhuxZon/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Sacramento Kings 2505631 — golf" tvg-id="Los_Angeles_Clippers_Vs_Sacramento_Kings_2505631_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Sacramento Kings 2505631 — golf
-# match: Los Angeles Clippers Vs Sacramento Kings 2505631
-# provider: golf
-# embed: https://embed.st/embed/golf/23663/1
-https://cdn14.zohanayaan.com:1686/hls/mlosangelesclippers.m3u8?md5=AwUleSmHSvQ4EBcuwOdDrg&expires=1783673219
-
-#EXTINF:-1 tvg-name="Washington Freedom Vs Los Angeles Knight Riders 2466437 — echo" tvg-id="Washington_Freedom_Vs_Los_Angeles_Knight_Riders_2466437_—_echo" group-title="Streamed.pk Live Sports",Washington Freedom Vs Los Angeles Knight Riders 2466437 — echo
-# match: Washington Freedom Vs Los Angeles Knight Riders 2466437
-# provider: echo
-# embed: https://embed.st/embed/echo/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1
-https://lb11.strmd.st/secure/wtunLWRaZHyjKEBGaRJBvrJICmofrkHS/echo/stream/mlc-washington-freedom-vs-la-knight-riders-game-1999754/1/playlist.m3u8
+https://lb12.strmd.st/secure/yxPFZuFTdarbbAPNiExdlWcPdzMmFncT/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
 
