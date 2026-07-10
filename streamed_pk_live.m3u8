@@ -1,53 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-10T12:41:18+00:00
-# 8 streams captured from 8 matches
+# Streamed.pk live sports matches — built 2026-07-10T15:30:13+00:00
+# 7 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb8.strmd.st/secure/NEGOfErsmmoxNzJoRnkZpxdHmwqHEaHE/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb13.strmd.st/secure/VydtbmEBurwslgsNtagOuHgcUPNUYumP/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tour De France Stage 7 2447754 — admin" tvg-id="Tour_De_France_Stage_7_2447754_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 7 2447754 — admin
 # match: Tour De France Stage 7 2447754
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-7/1
-https://lb2.strmd.st/secure/FjwNjKgjYcwvBgXIhrLlsOjcfXbKkmxC/rtmp/stream/YvAB_ISeaDjF0AdZjsTGqjX2hhIWzmBZZdt3e0wiXsR5gIBahZM-8UOzmz7DFUXuM7seXi1X/1/playlist.m3u8
+https://lb10.strmd.st/secure/fYCCJORruWRmKLjqFzvmxHLYdPNuYqMe/rtmp/stream/Y2eGPFHXDX6D7MKzIAuy-aj6aIAHKdtRxKj-S8YenpX87EByWqeHJ_f2mKMe1RsbtecoA0H_/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03 — echo" tvg-id="Ppv_Event_03_Pfl_Mena_10_Alsaif_V_Ouhachi_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03 — echo
+# match: Ppv Event 03 Pfl Mena 10 Alsaif V Ouhachi Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-pfl-mena-10-alsaif-v-ouhachi-ppv-03/1
+https://lb6.strmd.st/secure/arnmGabSOhSHTJTMxIopLnsCMgBinOET/echo/stream/ppv-event-03-pfl-mena-10-alsaif-v-ouhachi-ppv-03/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv One Friday Fights 161 The Inner Circle 21 — admin" tvg-id="Ppv_One_Friday_Fights_161_The_Inner_Circle_21_—_admin" group-title="Streamed.pk Live Sports",Ppv One Friday Fights 161 The Inner Circle 21 — admin
 # match: Ppv One Friday Fights 161 The Inner Circle 21
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-one-friday-fights-161-the-inner-circle-21/1
-https://lb3.strmd.st/secure/jgKsOWkLfuycRhYrUmlEaoVxtBgMNfxU/rtmp/stream/mz7NUO4fe-2f3lylCOg_dRLb6VlaxJg9CFWCuVlZFTvZkGkW2CGM8z-tHIFhMff4DHVJx__ybQ/1/playlist.m3u8
+https://lb4.strmd.st/secure/bhnNbSlqYrzDNrdIIGJdKVkBbScMWBgB/rtmp/stream/EqzlZGwjih8cilGLWM_FJJVPM0lfOhV90IH-eoHOZ-9V7WGajtV-2w_tameD_V6XtzEfEhn3zw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb6.strmd.st/secure/FlPhnqjWohlmKGMHjyrepowwVmbrXfzZ/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb9.strmd.st/secure/WpUkMbNmuAtjOKaTlveawJxNMZqCconE/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 02 Mcintyre V Ramirez Ppv 02 — echo" tvg-id="Ppv_Event_02_Mcintyre_V_Ramirez_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Mcintyre V Ramirez Ppv 02 — echo
 # match: Ppv Event 02 Mcintyre V Ramirez Ppv 02
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-mcintyre-v-ramirez-ppv-02/1
-https://lb14.strmd.st/secure/VHDvMpkxuzSicxCYvpZwmuApGLZnDYFJ/echo/stream/ppv-event-02-mcintyre-v-ramirez-ppv-02/1/playlist.m3u8
+https://lb6.strmd.st/secure/MFueuuZEqFTlGYGdxocPkGXFBrEekJTs/echo/stream/ppv-event-02-mcintyre-v-ramirez-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_Free_Practice_Session_1_Leicestershire_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337 — echo
 # match: World Sbk Uk Round Free Practice Session 1 Leicestershire Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/world-sbk-uk-round-free-practice-session-1-leicestershire-game-4u8337/1
-https://lb13.strmd.st/secure/QyAnCdRzgNmYZwnHKWxgvvhNbMiRajam/echo/stream/world-sbk-uk-round-free-practice-session-1-leicestershire-game-4u8337/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
-# match: Motogp German Grand Prix Game 122273
-# provider: echo
-# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
-https://lb1.strmd.st/secure/nTcjZbSXceultMSoyiNqWyXWbPEIjTDV/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
-# match: V8 Supercars Townsville 400 Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
-https://lb11.strmd.st/secure/HCZbjMftxgzTyHYeCBuXJHCetclIdkVL/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
+https://lb14.strmd.st/secure/fqlfcQoLNasgAYUpUkVrHyfFIKzGdSkU/echo/stream/world-sbk-uk-round-free-practice-session-1-leicestershire-game-4u8337/1/playlist.m3u8
 
