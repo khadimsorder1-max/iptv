@@ -1,161 +1,143 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T22:15:59+00:00
-# 26 streams captured from 16 matches
+# Streamed.pk live sports matches — built 2026-07-11T23:27:24+00:00
+# 23 streams captured from 15 matches
 
 #EXTINF:-1 tvg-name="Norway Vs England 2517651 — admin" tvg-id="Norway_Vs_England_2517651_—_admin" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — admin
 # match: Norway Vs England 2517651
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-norway-vs-england/1
-https://lb9.strmd.st/secure/syBcschKUejDIFhvhgmjzCBZfaDUVpAA/rtmp/stream/uRiptQ0CxUQXJ20TEtiRtGoz85RLMCSWXeY6hXiO4WH3o8zXtA2BAhbcfJdOWBpLU6ZjfSSs7A/1/playlist.m3u8
+https://lb10.strmd.st/secure/sVRMDERXHKuoxwNYOmyIRvRBaFZCCOaP/rtmp/stream/b9Ls0l1d5PUAmu9fMCuhomxHAy0gwMHrs_gNL4mrLMdiGS9m7ZfTUsub617ye8NxiACJbgISjQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Norway Vs England 2517651 — echo" tvg-id="Norway_Vs_England_2517651_—_echo" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — echo
 # match: Norway Vs England 2517651
 # provider: echo
 # embed: https://embed.st/embed/echo/norway-vs-england-football-1581037/1
-https://lb7.strmd.st/secure/vFcQsATaZMDQTooLBogomjMiicJFLdaW/echo/stream/norway-vs-england-football-1581037/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Norway Vs England 2517651 — golf" tvg-id="Norway_Vs_England_2517651_—_golf" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — golf
-# match: Norway Vs England 2517651
-# provider: golf
-# embed: https://embed.st/embed/golf/23677/1
-https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=1Yd-o67SIGUMdSzBnJ7ylw&expires=1783815191
-
-#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — admin" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_admin" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — admin
-# match: Philadelphia 76ers Vs Indiana Pacers 2505642
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-indiana-pacers-vs-philadelphia-76-ers/1
-https://lb13.strmd.st/secure/aVxrgZfPkholNumCoXOgnADodqAhqKYY/rtmp/stream/Qp9xo5BaRbZEfQuZfxfQgVh6YZk7YJMTJ_axe5sbxzYLgOcQgKBPxMK3em14MLVrYFpyY7SidAN1-8xL89a9RelwFw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — echo" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_echo" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — echo
-# match: Philadelphia 76ers Vs Indiana Pacers 2505642
-# provider: echo
-# embed: https://embed.st/embed/echo/philadelphia-76ers-vs-indiana-pacers-basketball-502080/1
-https://lb10.strmd.st/secure/tybaCqysHfmtgqPfSKMVEXLTJJIuzILY/echo/stream/philadelphia-76ers-vs-indiana-pacers-basketball-502080/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — golf" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_golf" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — golf
-# match: Philadelphia 76ers Vs Indiana Pacers 2505642
-# provider: golf
-# embed: https://embed.st/embed/golf/23705/1
-https://cdn14.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=PpvoW4xUsSZJ0G6t73w75g&expires=1783815210
+https://lb12.strmd.st/secure/RdLaRoIuwJtzenMdhRasXDaPxihgfiXl/echo/stream/norway-vs-england-football-1581037/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Argentina Vs Switzerland 2520608 — admin" tvg-id="Argentina_Vs_Switzerland_2520608_—_admin" group-title="Streamed.pk Live Sports",Argentina Vs Switzerland 2520608 — admin
 # match: Argentina Vs Switzerland 2520608
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-argentina-vs-switzerland/1
-https://lb11.strmd.st/secure/OjRgyYQiuKLnWctmIJvkUaRmtSWTVXpu/rtmp/stream/ma8_ukUNASq2_529hi4ahcTAP6tw7j6j_eDfXWd4Bv44o8PRWETaZtgSuBzfUjS3bDUZXMQM6A/1/playlist.m3u8
+https://lb5.strmd.st/secure/BzPaWNRKAHRtPGQxoXFLGytESQhkVDQB/rtmp/stream/R792b24pGTo_sbck91WkMaMSNjqQEk_d-lvPzP-YNk1IOGUEeXCyrUALqnd4a3yQiwed6HR3wA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Argentina Vs Switzerland 2520608 — echo" tvg-id="Argentina_Vs_Switzerland_2520608_—_echo" group-title="Streamed.pk Live Sports",Argentina Vs Switzerland 2520608 — echo
 # match: Argentina Vs Switzerland 2520608
 # provider: echo
 # embed: https://embed.st/embed/echo/argentina-vs-switzerland-football-1582681/1
-https://lb8.strmd.st/secure/bPQfHePnkqGSXogmZDHoEoRZBqXLfHci/echo/stream/argentina-vs-switzerland-football-1582681/1/playlist.m3u8
+https://lb9.strmd.st/secure/OxqtKKTcSviiGhZzKFaegdhdZnyfSALH/echo/stream/argentina-vs-switzerland-football-1582681/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Argentina Vs Switzerland 2520608 — golf" tvg-id="Argentina_Vs_Switzerland_2520608_—_golf" group-title="Streamed.pk Live Sports",Argentina Vs Switzerland 2520608 — golf
 # match: Argentina Vs Switzerland 2520608
 # provider: golf
 # embed: https://embed.st/embed/golf/23678/1
-https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=OUJ-yG2HCNsWYrN_VqKDow&expires=1783815229
+https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=i5AH5j3nALRZmq0MryhUlQ&expires=1783819504
 
 #EXTINF:-1 tvg-name="San Antonio Spurs Vs New York Knicks 2505643 — admin" tvg-id="San_Antonio_Spurs_Vs_New_York_Knicks_2505643_—_admin" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs New York Knicks 2505643 — admin
 # match: San Antonio Spurs Vs New York Knicks 2505643
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-new-york-knicks-vs-san-antonio-spurs/1
-https://lb1.strmd.st/secure/mtjdVeLcqSUQYNbSKbWREkIVCqiFLEmY/rtmp/stream/7Jea0_g0t1umY2PS7QAsJmBNn97NSUVIv5bytLy9CoKY9U0tlkq1QNoGzqVWqyMxwmR7XOYKyAtgEFGqE1aFx_8/1/playlist.m3u8
+https://lb7.strmd.st/secure/TlZesRcUySEmeWskjzuITxMdCqOHGKvt/rtmp/stream/yat4uQyN273oFQ47IK5vGdATRC_S-tm1WsjepePYO_cayIkUWCj8LTXnElnVFetnpNzja1SPIL-CCmekSJkpuX4/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="San Antonio Spurs Vs New York Knicks 2505643 — echo" tvg-id="San_Antonio_Spurs_Vs_New_York_Knicks_2505643_—_echo" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs New York Knicks 2505643 — echo
 # match: San Antonio Spurs Vs New York Knicks 2505643
 # provider: echo
 # embed: https://embed.st/embed/echo/san-antonio-spurs-vs-new-york-knicks-basketball-502081/1
-https://lb12.strmd.st/secure/vpUaGhoTCcYlKBEOqVNAeEwDAFxdaMre/echo/stream/san-antonio-spurs-vs-new-york-knicks-basketball-502081/1/playlist.m3u8
+https://lb14.strmd.st/secure/NpjECnnIipbVRBsmCTMbWrhujGIzTWZT/echo/stream/san-antonio-spurs-vs-new-york-knicks-basketball-502081/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="San Antonio Spurs Vs New York Knicks 2505643 — golf" tvg-id="San_Antonio_Spurs_Vs_New_York_Knicks_2505643_—_golf" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs New York Knicks 2505643 — golf
 # match: San Antonio Spurs Vs New York Knicks 2505643
 # provider: golf
 # embed: https://embed.st/embed/golf/23706/1
-https://cdn14.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=ZIspPe1yNEjaj8b5XVVatg&expires=1783815248
+https://cdn15.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=4ka91L9WZSwCCTTcyTZSEg&expires=1783819528
 
-#EXTINF:-1 tvg-name="Atlanta Dream Vs Portland Fire 2469373 — admin" tvg-id="Atlanta_Dream_Vs_Portland_Fire_2469373_—_admin" group-title="Streamed.pk Live Sports",Atlanta Dream Vs Portland Fire 2469373 — admin
-# match: Atlanta Dream Vs Portland Fire 2469373
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — admin" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_admin" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — admin
+# match: Philadelphia 76ers Vs Indiana Pacers 2505642
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-atlanta-dream/1
-https://lb15.strmd.st/secure/sIbebcnnaMUKeZNYeJjjnIRorTaHynFb/rtmp/stream/9NX4hDHXdTaqj0CoDp_8p5PEXLlS4IHifSP7O-yFwcZgVnd59XHJlKdiqfo5Sc54TqxbBlxxI2THrAHSFMc/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-indiana-pacers-vs-philadelphia-76-ers/1
+https://lb10.strmd.st/secure/hlaztYlbGAelGDYZADacDqrKaMKTKQsf/rtmp/stream/sooNuElK1dWvCxssUFV5E7Vxfrg-TjAo8TzWnNZS6ZavCunqFvv3RHJmU4kh8wcLDiSq2fnyK3QZ_kZx9NnGgswnwQ/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Phoenix_Mercury_W_Basketball_494942_—_echo" group-title="Streamed.pk Live Sports",Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942 — echo
-# match: Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — echo" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_echo" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — echo
+# match: Philadelphia 76ers Vs Indiana Pacers 2505642
 # provider: echo
-# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-phoenix-mercury-w-basketball-494942/1
-https://lb9.strmd.st/secure/TvbjSpdpGNiDJZigbKgoMtdQEnZAaFIg/echo/stream/las-vegas-aces-w-vs-phoenix-mercury-w-basketball-494942/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/philadelphia-76ers-vs-indiana-pacers-basketball-502080/1
+https://lb4.strmd.st/secure/gOZCOLzjrKXXiznDRfeOPxBfeAyFRvgM/echo/stream/philadelphia-76ers-vs-indiana-pacers-basketball-502080/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Indiana Pacers 2505642 — golf" tvg-id="Philadelphia_76ers_Vs_Indiana_Pacers_2505642_—_golf" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Indiana Pacers 2505642 — golf
+# match: Philadelphia 76ers Vs Indiana Pacers 2505642
+# provider: golf
+# embed: https://embed.st/embed/golf/23705/1
+https://cdn11.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=9Mfs8a3dCVqu--GGFT0bIA&expires=1783819548
 
 #EXTINF:-1 tvg-name="Las Vegas Aces Vs Phoenix Mercury 2449104 — admin" tvg-id="Las_Vegas_Aces_Vs_Phoenix_Mercury_2449104_—_admin" group-title="Streamed.pk Live Sports",Las Vegas Aces Vs Phoenix Mercury 2449104 — admin
 # match: Las Vegas Aces Vs Phoenix Mercury 2449104
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-las-vegas-aces/1
-https://lb5.strmd.st/secure/AcdWOuQtrxDxOGSWLGPbAEFeKCueCHUd/rtmp/stream/WLjExNIT5pQgOX5I67kiGDOB4mPK6FrgJ743i8XWS_4slbYQlQBRl4p8nOyugGvkD-My-62bAjxW1Tcb7zM/1/playlist.m3u8
+https://lb13.strmd.st/secure/SdnInkskogySSpHPeBkfpdyhMOggYxrn/rtmp/stream/4Q6OqyZOfLqdqDF4rUeZuDXfqVrnJptPnYAuukXwVUAenD028znZ-50TTS3Tw9E_tDASLeboZsLeZIi6Q5U/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Montreal Alouettes Vs Calgary Stampeders 2432554 — admin" tvg-id="Montreal_Alouettes_Vs_Calgary_Stampeders_2432554_—_admin" group-title="Streamed.pk Live Sports",Montreal Alouettes Vs Calgary Stampeders 2432554 — admin
+# match: Montreal Alouettes Vs Calgary Stampeders 2432554
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-calgary-stampeders-vs-montreal-alouettes/1
+https://lb12.strmd.st/secure/EZWFpQdsfgoZPcuNkWeYIrUDrGNbTpUP/rtmp/stream/oVHIsq9Ma7wzVlLYa9hG9E41vo4UY07CkufOocx6ki-yQf7D-UtiKjekrpTbMoTMDIGYfQixSkDuR9uPH7capaG1Vw7L2Ik/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942 — echo" tvg-id="Las_Vegas_Aces_W_Vs_Phoenix_Mercury_W_Basketball_494942_—_echo" group-title="Streamed.pk Live Sports",Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942 — echo
+# match: Las Vegas Aces W Vs Phoenix Mercury W Basketball 494942
+# provider: echo
+# embed: https://embed.st/embed/echo/las-vegas-aces-w-vs-phoenix-mercury-w-basketball-494942/1
+https://lb13.strmd.st/secure/rKmaHaaFpaFArzUujamwSOZqOUnXjKBA/echo/stream/las-vegas-aces-w-vs-phoenix-mercury-w-basketball-494942/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Texas Super Kings Vs Washington Freedom 2466440 — echo" tvg-id="Texas_Super_Kings_Vs_Washington_Freedom_2466440_—_echo" group-title="Streamed.pk Live Sports",Texas Super Kings Vs Washington Freedom 2466440 — echo
 # match: Texas Super Kings Vs Washington Freedom 2466440
 # provider: echo
 # embed: https://embed.st/embed/echo/mlc-texas-super-kings-vs-washington-freedom-game-1999754/1
-https://lb8.strmd.st/secure/AZOGXifExWsKkKvqrWJbtMhZDwSwEOQQ/echo/stream/mlc-texas-super-kings-vs-washington-freedom-game-1999754/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Atlanta Dream W Vs Portland Fire W Basketball 494943 — echo" tvg-id="Atlanta_Dream_W_Vs_Portland_Fire_W_Basketball_494943_—_echo" group-title="Streamed.pk Live Sports",Atlanta Dream W Vs Portland Fire W Basketball 494943 — echo
-# match: Atlanta Dream W Vs Portland Fire W Basketball 494943
-# provider: echo
-# embed: https://embed.st/embed/echo/atlanta-dream-w-vs-portland-fire-w-basketball-494943/1
-https://lb4.strmd.st/secure/UklOYejzlDgMNVrLdpkdCFnNxJtqlGZm/echo/stream/atlanta-dream-w-vs-portland-fire-w-basketball-494943/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Charlotte Hornets Vs New Orleans Pelicans 2505641 — admin" tvg-id="Charlotte_Hornets_Vs_New_Orleans_Pelicans_2505641_—_admin" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs New Orleans Pelicans 2505641 — admin
-# match: Charlotte Hornets Vs New Orleans Pelicans 2505641
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-charlotte-hornets/1
-https://lb6.strmd.st/secure/moQcTGwGUYPEnSxpcpDGzVEmgDfEAPaO/rtmp/stream/Lt9wIn1PL_BjkwXYMMl1dys6PIcga-4dhz0OXmGeyZvZlpDlhhm8kRmUZY1W_UZ2K6dALFg6cxobXFYJ1ZU_BYZ5/1/playlist.m3u8
+https://lb9.strmd.st/secure/orLLonttORImEjmOVCwEEBceKWoocuxe/echo/stream/mlc-texas-super-kings-vs-washington-freedom-game-1999754/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Charlotte Hornets Vs New Orleans Pelicans 2505641 — golf" tvg-id="Charlotte_Hornets_Vs_New_Orleans_Pelicans_2505641_—_golf" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs New Orleans Pelicans 2505641 — golf
 # match: Charlotte Hornets Vs New Orleans Pelicans 2505641
 # provider: golf
 # embed: https://embed.st/embed/golf/23704/1
-https://cdn14.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=FEa-U5l0mcNVCxT93rjcYQ&expires=1783815300
+https://cdn12.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=XvwBr5TU9My6jTZiSOpHeg&expires=1783819587
 
 #EXTINF:-1 tvg-name="Ppv Event 11 Ama Supercross Championship Southwick Ppv 11 — echo" tvg-id="Ppv_Event_11_Ama_Supercross_Championship_Southwick_Ppv_11_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 11 Ama Supercross Championship Southwick Ppv 11 — echo
 # match: Ppv Event 11 Ama Supercross Championship Southwick Ppv 11
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1
-https://lb14.strmd.st/secure/nDIbJXzWXPjzmUczFJuSKCmfuASowmKo/echo/stream/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1/playlist.m3u8
+https://lb2.strmd.st/secure/ToNiMkpiyBicIbdTfeiWIgZBQbthFjkL/echo/stream/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Catalans Dragons Vs Leeds Rhinos 2395965 — echo" tvg-id="Catalans_Dragons_Vs_Leeds_Rhinos_2395965_—_echo" group-title="Streamed.pk Live Sports",Catalans Dragons Vs Leeds Rhinos 2395965 — echo
 # match: Catalans Dragons Vs Leeds Rhinos 2395965
 # provider: echo
 # embed: https://embed.st/embed/echo/catalans-dragons-vs-leeds-rhinos-game-182283/1
-https://lb1.strmd.st/secure/cZMzJZpsWvvzvufndgJoKIrIBmiuOaeu/echo/stream/catalans-dragons-vs-leeds-rhinos-game-182283/1/playlist.m3u8
+https://lb10.strmd.st/secure/MOmbmbqnqZAbohRvTpZvSbfoobuSObmY/echo/stream/catalans-dragons-vs-leeds-rhinos-game-182283/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Murat Gassiev Vs Peter Kadiru 2528050 — admin" tvg-id="Murat_Gassiev_Vs_Peter_Kadiru_2528050_—_admin" group-title="Streamed.pk Live Sports",Murat Gassiev Vs Peter Kadiru 2528050 — admin
 # match: Murat Gassiev Vs Peter Kadiru 2528050
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-gassiev-vs-kadiru/1
-https://lb12.strmd.st/secure/OfwcegrKmVtQKczXPAIcPiAzdawkNefj/rtmp/stream/nQBHo457C6gtedvVQV-iad6BNeOER0Mus5vanLDIFPH8P4zoWjjTbYoeVsmoiFF4Keo8sy0Gp8vXAtPtiQ/1/playlist.m3u8
+https://lb1.strmd.st/secure/rHUXtJQODeqfVkrlZsnSwYOOvcLETZUn/rtmp/stream/iLLUsbmrCEKynbZhAMbzQYusOBLiE3L7HrFVbycb87uJSLrwhmiJHVnYc5hw_EWY0CNIAFvHl9D9oX_idA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Murat Gassiev Vs Peter Kadiru 2528050 — echo" tvg-id="Murat_Gassiev_Vs_Peter_Kadiru_2528050_—_echo" group-title="Streamed.pk Live Sports",Murat Gassiev Vs Peter Kadiru 2528050 — echo
 # match: Murat Gassiev Vs Peter Kadiru 2528050
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-gassiev-v-kadiru-ppv-07/1
-https://lb15.strmd.st/secure/CQlfTUPJIvNPiJIgADkUfijbDHJamWIi/echo/stream/ppv-event-07-gassiev-v-kadiru-ppv-07/1/playlist.m3u8
+https://lb14.strmd.st/secure/YrCJCARAZGhgJkNiHGnrzTMfOWLGPjxt/echo/stream/ppv-event-07-gassiev-v-kadiru-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo" tvg-id="Ppv_Event_06_Senshi_32_Grand_Prix_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo
 # match: Ppv Event 06 Senshi 32 Grand Prix Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-senshi-32-grand-prix-ppv-06/1
-https://lb9.strmd.st/secure/RmFKprDiDtsEyPmEbsyRzvxuHyClZOmi/echo/stream/ppv-event-06-senshi-32-grand-prix-ppv-06/1/playlist.m3u8
+https://lb15.strmd.st/secure/qppNFQrMhgNChVqskioiPklzBlulXMWV/echo/stream/ppv-event-06-senshi-32-grand-prix-ppv-06/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo" tvg-id="Ppv_Event_13_Motoamerica_Superbikes_Monterey_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo
 # match: Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1
-https://lb4.strmd.st/secure/MSseJRLBFkyQLcVHPeBTupUgVwGZHpkP/echo/stream/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1/playlist.m3u8
+https://lb5.strmd.st/secure/TppCIBjigXfaJIGndTohAKZRbqCXXShN/echo/stream/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo" tvg-id="Hull_Kingston_Rovers_Vs_Wakefield_Trinity_Wildcats_2395964_—_echo" group-title="Streamed.pk Live Sports",Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo
 # match: Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-k-r-vs-wakefield-trinity-game-37322/1
-https://lb12.strmd.st/secure/SHkdeafwReAEenXFIOzoegJPsRkuTims/echo/stream/hull-k-r-vs-wakefield-trinity-game-37322/1/playlist.m3u8
+https://lb3.strmd.st/secure/xjpUjYBSnlLGzpWqRWaeekvTGfWQGbGv/echo/stream/hull-k-r-vs-wakefield-trinity-game-37322/1/playlist.m3u8
 
