@@ -1,5 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T16:51:42+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-11T17:53:32+00:00
+# 10 streams captured from 10 matches
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb13.strmd.st/secure/XhHiefRBERtiozniDuxcwOwIJgXSEqLA/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oktagon 91 Engizek Vs Jotko 2 2475854 — admin" tvg-id="Oktagon_91_Engizek_Vs_Jotko_2_2475854_—_admin" group-title="Streamed.pk Live Sports",Oktagon 91 Engizek Vs Jotko 2 2475854 — admin
+# match: Oktagon 91 Engizek Vs Jotko 2 2475854
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-oktagon-91-engizek-vs-jotko-2/1
+https://lb12.strmd.st/secure/wIGcfDzzTNbrLNxgTusSBlwyYtlALkWJ/rtmp/stream/EhHKkCD2Q7c5RyFof2cc9182mb3K7lhIFaE0Dv5obBVhnWNmtIZqIzjazC8jDMSYRcjkRhm7SP7wlXu4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs New York Liberty 2449103 — admin" tvg-id="Minnesota_Lynx_Vs_New_York_Liberty_2449103_—_admin" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs New York Liberty 2449103 — admin
+# match: Minnesota Lynx Vs New York Liberty 2449103
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-minnesota-lynx/1
+https://lb11.strmd.st/secure/KNSOnWAYKXtJRtZBsRmpvDyWVDsQCgEI/rtmp/stream/ybtWzkaTj-Km7FsqIZkRXHUT8KBulUMv9-Kxr2W1SSMp86zA8LFiEFMdh1jUVLFnb1BoIPHc0g_a-dsN1v1N/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Raf Georgia Dvalishvili Vs Cejudo — admin" tvg-id="Ppv_Raf_Georgia_Dvalishvili_Vs_Cejudo_—_admin" group-title="Streamed.pk Live Sports",Ppv Raf Georgia Dvalishvili Vs Cejudo — admin
+# match: Ppv Raf Georgia Dvalishvili Vs Cejudo
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-raf-georgia-dvalishvili-vs-cejudo/1
+https://lb7.strmd.st/secure/hoQiGfppHxYJIEuEYwmnsldVWDXGKCrE/rtmp/stream/LnJNOa2J7h039HF1F5gGqjNwWRMXv_ZDrU1HSXCRx9E5KYMVWWaQ_wLtIGrORMkmLcpNpZ0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Pro Motocross Southwick — admin" tvg-id="Ppv_Pro_Motocross_Southwick_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Southwick — admin
+# match: Ppv Pro Motocross Southwick
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-pro-motocross-southwick/1
+https://lb11.strmd.st/secure/tsZQzaTuOJiWPSvnFSBwKqEltVFBPiPd/rtmp/stream/vWHxbKtXCFbYbR7T5LeZ2LyVrMAuku_QSQ9juw9SsLh94zwrDUr4HKwr9bA6cZdI9o7cipg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo" tvg-id="Ppv_Event_06_Senshi_32_Grand_Prix_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo
+# match: Ppv Event 06 Senshi 32 Grand Prix Ppv 06
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-06-senshi-32-grand-prix-ppv-06/1
+https://lb13.strmd.st/secure/uhmZzdjnshMYKjQnAZtcOSnZaugzFZkd/echo/stream/ppv-event-06-senshi-32-grand-prix-ppv-06/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="6 Hours Of S O Paulo Qualifying Lmgt3 2490510 — admin" tvg-id="6_Hours_Of_S_O_Paulo_Qualifying_Lmgt3_2490510_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo Qualifying Lmgt3 2490510 — admin
+# match: 6 Hours Of S O Paulo Qualifying Lmgt3 2490510
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-qualifying/1
+https://lb8.strmd.st/secure/osDcslqFwBWnFRKwdReOxljMCcyMwNTN/rtmp/stream/FgAG-IfVtylMz_x9I8uFykdo8UcRW0nSiuMLeQgiEW9xzMIA6XyaQQHnq0vMPzsrd3ZbzzeP1crh2ytGZYBoKMAM0C3jBP0v6w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo" tvg-id="Ppv_Event_13_Motoamerica_Superbikes_Monterey_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo
+# match: Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1
+https://lb10.strmd.st/secure/UfTrfbAXrgJyiPnCHpAgPFJZjSCAhEwQ/echo/stream/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo" tvg-id="Hull_Kingston_Rovers_Vs_Wakefield_Trinity_Wildcats_2395964_—_echo" group-title="Streamed.pk Live Sports",Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo
+# match: Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964
+# provider: echo
+# embed: https://embed.st/embed/echo/hull-k-r-vs-wakefield-trinity-game-37322/1
+https://lb7.strmd.st/secure/fUuEHYFxIJNriiYXhYUrXoAsXLGeXKdc/echo/stream/hull-k-r-vs-wakefield-trinity-game-37322/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rgryte Vs H Cken 2477924 — admin" tvg-id="Rgryte_Vs_H_Cken_2477924_—_admin" group-title="Streamed.pk Live Sports",Rgryte Vs H Cken 2477924 — admin
+# match: Rgryte Vs H Cken 2477924
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-rgryte-is-vs-bk-h-cken/1
+https://lb14.strmd.st/secure/KjwufQVhzgcONkRMGFGrzFoVWkfiMBye/rtmp/stream/UUsjoYtpJSqGzgupm1txrn1tPchw6NUrcXr9t2PvfETB7-DoylrptWFTauc_szevMa0rVOSqCyAb/1/playlist.m3u8
 
