@@ -1,53 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T05:26:29+00:00
-# 8 streams captured from 7 matches
+# Streamed.pk live sports matches — built 2026-07-11T07:25:02+00:00
+# 7 streams captured from 6 matches
 
 #EXTINF:-1 tvg-name="Dolphins Vs Cronulla Sharks 2417298 — admin" tvg-id="Dolphins_Vs_Cronulla_Sharks_2417298_—_admin" group-title="Streamed.pk Live Sports",Dolphins Vs Cronulla Sharks 2417298 — admin
 # match: Dolphins Vs Cronulla Sharks 2417298
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-dolphins-vs-sharks/1
-https://lb7.strmd.st/secure/qqsoKruWWBUpGoVmRYWcluuOzvvucWZa/rtmp/stream/LmLWKm8TzUFXsM83q4X3_4wLWKas2UR5zs52DdukOLAv-Q17Eg8LDgDKGDLSUkokTNVLXcZj4r7lu0Y/1/playlist.m3u8
+https://lb6.strmd.st/secure/kGLqyNzpNTfuNxGIsoaPogVpwvFuqVSl/rtmp/stream/fv3mRTkMZ9yNTSRSp-O8akc0rEwf7G0o0bJvVRgEmJD6jTzjvU85F4i6Y-iZzO1j9oK2_6R9BK6R0iI/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dolphins Vs Cronulla Sharks 2417298 — echo" tvg-id="Dolphins_Vs_Cronulla_Sharks_2417298_—_echo" group-title="Streamed.pk Live Sports",Dolphins Vs Cronulla Sharks 2417298 — echo
 # match: Dolphins Vs Cronulla Sharks 2417298
 # provider: echo
 # embed: https://embed.st/embed/echo/dolphins-vs-cronulla-sutherland-sharks-game-236363/1
-https://lb6.strmd.st/secure/mmRiuyeyGqsIUYZDxRKXHqxrtOHwNEDZ/echo/stream/dolphins-vs-cronulla-sutherland-sharks-game-236363/1/playlist.m3u8
+https://lb11.strmd.st/secure/kZWsxTnyakkmtwFhNDPBvQOWcoZrkOQO/echo/stream/dolphins-vs-cronulla-sutherland-sharks-game-236363/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="St Kilda Saints Vs Port Adelaide Power Australian Football 3567 — echo" tvg-id="St_Kilda_Saints_Vs_Port_Adelaide_Power_Australian_Football_3567_—_echo" group-title="Streamed.pk Live Sports",St Kilda Saints Vs Port Adelaide Power Australian Football 3567 — echo
-# match: St Kilda Saints Vs Port Adelaide Power Australian Football 3567
+#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
+# match: Motogp German Grand Prix Game 122273
 # provider: echo
-# embed: https://embed.st/embed/echo/st-kilda-saints-vs-port-adelaide-power-australian-football-3567/1
-https://lb4.strmd.st/secure/WSiocNSHEpTdbUpPjwqoIVoblGwteKwc/echo/stream/st-kilda-saints-vs-port-adelaide-power-australian-football-3567/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
+https://lb7.strmd.st/secure/FPnCZbSzXkyqLaENHuzvyeOCrPBrQtZe/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
 # match: V8 Supercars Townsville 400 Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
-https://lb9.strmd.st/secure/jpCELmMJyijbTWEpMewgURzeDkAKyiio/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix Suns Vs Portland Trail Blazers 2505639 — admin" tvg-id="Phoenix_Suns_Vs_Portland_Trail_Blazers_2505639_—_admin" group-title="Streamed.pk Live Sports",Phoenix Suns Vs Portland Trail Blazers 2505639 — admin
-# match: Phoenix Suns Vs Portland Trail Blazers 2505639
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-phoenix-suns/1
-https://lb7.strmd.st/secure/cEKVMGBrPWUDDFyiQBpduYROxLufSypP/admin/stream/ppv-portland-trail-blazers-vs-phoenix-suns/1/playlist.m3u8
+https://lb9.strmd.st/secure/SHgvhHOswoqRCabyBYFRXAGcvUGpMPui/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Fight To Win 32 Ppv 004 — echo" tvg-id="Ppv_Event_04_Fight_To_Win_32_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Fight To Win 32 Ppv 004 — echo
 # match: Ppv Event 04 Fight To Win 32 Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-fight-to-win-32-ppv-004/1
-https://lb2.strmd.st/secure/OxuHMsSfLZIBWtfBMxmGQsWECQbdOsqG/echo/stream/ppv-event-04-fight-to-win-32-ppv-004/1/playlist.m3u8
+https://lb1.strmd.st/secure/RndMygfJbtXnEdvcmbDKJmEMJeYdBatG/echo/stream/ppv-event-04-fight-to-win-32-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Toronto Raptors Vs Boston Celtics 2505637 — echo" tvg-id="Toronto_Raptors_Vs_Boston_Celtics_2505637_—_echo" group-title="Streamed.pk Live Sports",Toronto Raptors Vs Boston Celtics 2505637 — echo
 # match: Toronto Raptors Vs Boston Celtics 2505637
 # provider: echo
 # embed: https://embed.st/embed/echo/toronto-raptors-vs-boston-celtics-basketball-502075/1
-https://lb1.strmd.st/secure/lJSljKdALnSLvyaLxwccAlMiQAtUevmL/echo/stream/toronto-raptors-vs-boston-celtics-basketball-502075/1/playlist.m3u8
+https://lb13.strmd.st/secure/yipRheORCLbkNugSHfKMzQeqfiKrCXMd/echo/stream/toronto-raptors-vs-boston-celtics-basketball-502075/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 14 World Of Outlaws Sprint Cars Ppv14 — echo" tvg-id="Ppv_Event_14_World_Of_Outlaws_Sprint_Cars_Ppv14_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 14 World Of Outlaws Sprint Cars Ppv14 — echo
 # match: Ppv Event 14 World Of Outlaws Sprint Cars Ppv14
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-14-world-of-outlaws-sprint-cars-ppv14/1
-https://lb10.strmd.st/secure/mguQEGgDhdffmEOpOuxjwGilKGSiofsL/echo/stream/ppv-event-14-world-of-outlaws-sprint-cars-ppv14/1/playlist.m3u8
+https://lb10.strmd.st/secure/isKQqLHssdEwIdQloRmWdJObCAilDEHZ/echo/stream/ppv-event-14-world-of-outlaws-sprint-cars-ppv14/1/playlist.m3u8
 
