@@ -1,119 +1,119 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T18:57:10+00:00
-# 19 streams captured from 16 matches
+# Streamed.pk live sports matches — built 2026-07-11T20:06:12+00:00
+# 19 streams captured from 14 matches
 
 #EXTINF:-1 tvg-name="Norway Vs England 2517651 — admin" tvg-id="Norway_Vs_England_2517651_—_admin" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — admin
 # match: Norway Vs England 2517651
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-norway-vs-england/1
-https://lb5.strmd.st/secure/zthSWgfHdnbWkVXGJjXmkIYjZKjdGHzi/rtmp/stream/JkMCTNABdQYt1lb_lEihLOwr1Htbbyyq6lqz5dQWnhdMuWunnTp4cVlC7BhqPTCazFZLL7YSqw/1/playlist.m3u8
+https://lb9.strmd.st/secure/xPRtQEnjezqBKTDaucogaqzmLuwDIunY/rtmp/stream/Pf_FtznBMD-qZl26Dv2W1ohIW5slL7MWk7PD1lzz4T850cYBJvdKelYtSkhuP_LYastn4qUeVw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Norway Vs England 2517651 — echo" tvg-id="Norway_Vs_England_2517651_—_echo" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — echo
 # match: Norway Vs England 2517651
 # provider: echo
 # embed: https://embed.st/embed/echo/norway-vs-england-football-1581037/1
-https://lb6.strmd.st/secure/KUCDBiGaZuqgXpTAMPjWcqfqkRHYAfDc/echo/stream/norway-vs-england-football-1581037/1/playlist.m3u8
+https://lb12.strmd.st/secure/aCNwnOfHiugTrZieHaTgghlNCyCiqPlW/echo/stream/norway-vs-england-football-1581037/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Norway Vs England 2517651 — golf" tvg-id="Norway_Vs_England_2517651_—_golf" group-title="Streamed.pk Live Sports",Norway Vs England 2517651 — golf
 # match: Norway Vs England 2517651
 # provider: golf
 # embed: https://embed.st/embed/golf/23677/1
-https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=EPK_ODv-MlE0ZFDJ7oT13g&expires=1783803298
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=cqcTo7Fmitax2b5snKljpw&expires=1783807451
 
 #EXTINF:-1 tvg-name="Oktagon 91 Engizek Vs Jotko 2 2475854 — admin" tvg-id="Oktagon_91_Engizek_Vs_Jotko_2_2475854_—_admin" group-title="Streamed.pk Live Sports",Oktagon 91 Engizek Vs Jotko 2 2475854 — admin
 # match: Oktagon 91 Engizek Vs Jotko 2 2475854
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-oktagon-91-engizek-vs-jotko-2/1
-https://lb12.strmd.st/secure/YQoVTgzfXqvKzEJWWbuhpTjXBYrQennE/rtmp/stream/OEFVVpHIGvZLaKP6JZUqwWSLqT0lUYSaslBQaNATfaJPvOvlxFPh54Vh-sK2se4u657xRZlcrb7MOzUH/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Minnesota Lynx Vs New York Liberty 2449103 — admin" tvg-id="Minnesota_Lynx_Vs_New_York_Liberty_2449103_—_admin" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs New York Liberty 2449103 — admin
-# match: Minnesota Lynx Vs New York Liberty 2449103
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-minnesota-lynx/1
-https://lb11.strmd.st/secure/qXHBJfiWqGvOhCRJoyAOZcVFgPwthCxh/rtmp/stream/Vjo52qg8UpI7rN1Vw6X6jIKRJkSJ4Jo1REmfw8-9xo2coEOp9ZmwhnowKROWhPyP_rCnYZni5S6jf2ZniSc_/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Raf Georgia Dvalishvili Vs Cejudo — admin" tvg-id="Ppv_Raf_Georgia_Dvalishvili_Vs_Cejudo_—_admin" group-title="Streamed.pk Live Sports",Ppv Raf Georgia Dvalishvili Vs Cejudo — admin
-# match: Ppv Raf Georgia Dvalishvili Vs Cejudo
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-raf-georgia-dvalishvili-vs-cejudo/1
-https://lb14.strmd.st/secure/ejjTmTxqwzVzKQgmEYGHKyKBNHEcaYuL/rtmp/stream/Ku-vnKSeIhTcXca4WsyyolypvHBjaBiOo2EithXy7xAjmxvrqOBwoU8FpRhN0h9gMAUiJVs/1/playlist.m3u8
+https://lb7.strmd.st/secure/OYuSPzeJdMuvXpktlPVceCnnxcPtkALG/rtmp/stream/2_2RWnEbAJj4MzxzcwfozrAY2TRIxEKrNp7nNufMLMWmT3khFbgMGkD8BapC42sFxDtqno4cYm2_naRG/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Murat Gassiev Vs Peter Kadiru 2528050 — admin" tvg-id="Murat_Gassiev_Vs_Peter_Kadiru_2528050_—_admin" group-title="Streamed.pk Live Sports",Murat Gassiev Vs Peter Kadiru 2528050 — admin
 # match: Murat Gassiev Vs Peter Kadiru 2528050
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-gassiev-vs-kadiru/1
-https://lb2.strmd.st/secure/XwNxURvAgpBKpUQievNQhaTainlAPzTI/rtmp/stream/rcsx0yt5X3GFPdn_Ewb8YDhQvtxdooIkAw36vauHzqsDBpO7D3sFIdjXvTKx_TqOs_RAZCkqsoME3IAzKg/1/playlist.m3u8
+https://lb2.strmd.st/secure/KMlMJtwWJmhVVcEVkHDWOfzqmdGWLUUk/rtmp/stream/o8DGhYcvry5vYuZBzDx3jsnVhMWVDDvW8LYlqmq6ZYWL5HGa32-g29JozSfj4aKzh7WZBFfLKt0ouy4WLQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Murat Gassiev Vs Peter Kadiru 2528050 — echo" tvg-id="Murat_Gassiev_Vs_Peter_Kadiru_2528050_—_echo" group-title="Streamed.pk Live Sports",Murat Gassiev Vs Peter Kadiru 2528050 — echo
 # match: Murat Gassiev Vs Peter Kadiru 2528050
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-gassiev-v-kadiru-ppv-07/1
-https://lb1.strmd.st/secure/UerUSkynYONIyJxJdIPpOzoFTjobZjJM/echo/stream/ppv-event-07-gassiev-v-kadiru-ppv-07/1/playlist.m3u8
+https://lb1.strmd.st/secure/KlUOzkmKoNHOlLjodpGSLfsltpbSvOJE/echo/stream/ppv-event-07-gassiev-v-kadiru-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Pro Motocross Southwick — admin" tvg-id="Ppv_Pro_Motocross_Southwick_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Southwick — admin
 # match: Ppv Pro Motocross Southwick
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-pro-motocross-southwick/1
-https://lb7.strmd.st/secure/iDusdkxTfRbKxxWwRNkTqcjbFqNkvLLm/rtmp/stream/VAGNfsxaV2BIvktxiUTlMTFpmSx_vt35uePMZQ_ooQpO1t0hUY_X0rIaxfjOQsT2lHmQ3VA/1/playlist.m3u8
+https://lb5.strmd.st/secure/XIJSJUOxTtLMMKwKfDFmnQxhHOEFxEvF/rtmp/stream/Ctc0ZHb18GvYJ_Kg3hDW08gMBY0gt82q8k8QPN4jr4FmvaAdQLCPP_qWzTTaY8ApRIMWF10/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
-# match: Wimbledon Championships 2026 Roland 2026
+#EXTINF:-1 tvg-name="Argentina Rugby Vs Wales Rugby 2449596 — admin" tvg-id="Argentina_Rugby_Vs_Wales_Rugby_2449596_—_admin" group-title="Streamed.pk Live Sports",Argentina Rugby Vs Wales Rugby 2449596 — admin
+# match: Argentina Rugby Vs Wales Rugby 2449596
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-argentina-vs-wales/1
+https://lb8.strmd.st/secure/sMQPENvcnUlsrwpMbbPjXDNLUxGBgUQc/rtmp/stream/I2FTLro1HQmqff8UamP0FWAVpc7bk4ZyAayxqqE4JpFFcXgkwFGkWFiHpRqf9KoQMGSMzokeAck/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Portland Fire 2469373 — admin" tvg-id="Atlanta_Dream_Vs_Portland_Fire_2469373_—_admin" group-title="Streamed.pk Live Sports",Atlanta Dream Vs Portland Fire 2469373 — admin
+# match: Atlanta Dream Vs Portland Fire 2469373
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-atlanta-dream/1
+https://lb3.strmd.st/secure/MUqvOWGasNHRqSGgwLzMroPFCzenFSLE/rtmp/stream/G59Nx6jjwmZvDLzFa8DInXL5yT9EpcKW6RWW8X4wwLTg6ya4QB00VB7t3ZT6eEuRLRf3JTB6_vNHYbJszm4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs New Orleans Pelicans 2505641 — admin" tvg-id="Charlotte_Hornets_Vs_New_Orleans_Pelicans_2505641_—_admin" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs New Orleans Pelicans 2505641 — admin
+# match: Charlotte Hornets Vs New Orleans Pelicans 2505641
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-charlotte-hornets/1
+https://lb11.strmd.st/secure/EYiWJnyaMkxyQDTkZFOUiguHPfjHJCmr/rtmp/stream/sq-SMseAoyglKAlmjHL9A1nluV4dRsvTTs5bX7winzwC7LyKn_6CMfNDSCqu4RMzVpL-UzfGCqfk4D28iNDrIMRJ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs New Orleans Pelicans 2505641 — echo" tvg-id="Charlotte_Hornets_Vs_New_Orleans_Pelicans_2505641_—_echo" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs New Orleans Pelicans 2505641 — echo
+# match: Charlotte Hornets Vs New Orleans Pelicans 2505641
 # provider: echo
-# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb6.strmd.st/secure/OKZcPBHBvWrVQTSbQmbIKINqDprwjSgf/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/charlotte-hornets-vs-new-orleans-pelicans-basketball-502079/1
+https://lb6.strmd.st/secure/hVAkKRdCCRkpdlgbtYyATANIYKWTKrsF/echo/stream/charlotte-hornets-vs-new-orleans-pelicans-basketball-502079/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs New Orleans Pelicans 2505641 — golf" tvg-id="Charlotte_Hornets_Vs_New_Orleans_Pelicans_2505641_—_golf" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs New Orleans Pelicans 2505641 — golf
+# match: Charlotte Hornets Vs New Orleans Pelicans 2505641
+# provider: golf
+# embed: https://embed.st/embed/golf/23704/1
+https://cdn12.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=Zw0EBu--YNTG1xMPkCaQXQ&expires=1783807516
+
+#EXTINF:-1 tvg-name="Catalans Dragons Vs Leeds Rhinos 2395965 — echo" tvg-id="Catalans_Dragons_Vs_Leeds_Rhinos_2395965_—_echo" group-title="Streamed.pk Live Sports",Catalans Dragons Vs Leeds Rhinos 2395965 — echo
+# match: Catalans Dragons Vs Leeds Rhinos 2395965
+# provider: echo
+# embed: https://embed.st/embed/echo/catalans-dragons-vs-leeds-rhinos-game-182283/1
+https://lb9.strmd.st/secure/ncHKdfxzFuTdsgsJmVGqmzQiIPCVmZnN/echo/stream/catalans-dragons-vs-leeds-rhinos-game-182283/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo" tvg-id="Ppv_Event_06_Senshi_32_Grand_Prix_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Senshi 32 Grand Prix Ppv 06 — echo
 # match: Ppv Event 06 Senshi 32 Grand Prix Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-senshi-32-grand-prix-ppv-06/1
-https://lb9.strmd.st/secure/BaxgWrdlqfhFVWfzkzrIZqREUPgOVFUa/echo/stream/ppv-event-06-senshi-32-grand-prix-ppv-06/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="6 Hours Of S O Paulo Qualifying Lmgt3 2490510 — admin" tvg-id="6_Hours_Of_S_O_Paulo_Qualifying_Lmgt3_2490510_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo Qualifying Lmgt3 2490510 — admin
-# match: 6 Hours Of S O Paulo Qualifying Lmgt3 2490510
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-qualifying/1
-https://lb2.strmd.st/secure/hZxjXiPZvgnRwNhvurHLeWMFnFfGwfJA/rtmp/stream/9eeBjPIAMQS7SPy0lLkl2OG6ABAtpIMKbN3ruVbP2Bs5LPFUqKVqVhIoAg2ivVIl2ejPjEwyVzeWwX1aCQQTTJWti1P3FzrlLQ/1/playlist.m3u8
+https://lb10.strmd.st/secure/jpQoEltRpKJHaCZjaBPxwEKlrtpiBMLf/echo/stream/ppv-event-06-senshi-32-grand-prix-ppv-06/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo" tvg-id="Ppv_Event_13_Motoamerica_Superbikes_Monterey_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13 — echo
 # match: Ppv Event 13 Motoamerica Superbikes Monterey Ppv 13
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1
-https://lb12.strmd.st/secure/gHZDyqLmMclukNqspQrqrvjOAeMcpfWg/echo/stream/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Minnesota Lynx W Vs New York Liberty W Basketball 494941 — echo" tvg-id="Minnesota_Lynx_W_Vs_New_York_Liberty_W_Basketball_494941_—_echo" group-title="Streamed.pk Live Sports",Minnesota Lynx W Vs New York Liberty W Basketball 494941 — echo
-# match: Minnesota Lynx W Vs New York Liberty W Basketball 494941
-# provider: echo
-# embed: https://embed.st/embed/echo/minnesota-lynx-w-vs-new-york-liberty-w-basketball-494941/1
-https://lb10.strmd.st/secure/LPgMnlFRZaBIfXNcrfUVIhgyvurQMilQ/echo/stream/minnesota-lynx-w-vs-new-york-liberty-w-basketball-494941/1/playlist.m3u8
+https://lb14.strmd.st/secure/MsJuhorEloYwCKXHMupBftAdXFjvlnCZ/echo/stream/ppv-event-13-motoamerica-superbikes-monterey-ppv-13/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo" tvg-id="Hull_Kingston_Rovers_Vs_Wakefield_Trinity_Wildcats_2395964_—_echo" group-title="Streamed.pk Live Sports",Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964 — echo
 # match: Hull Kingston Rovers Vs Wakefield Trinity Wildcats 2395964
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-k-r-vs-wakefield-trinity-game-37322/1
-https://lb5.strmd.st/secure/BtsrCJjvPZyUpfQMlrlKkEqjhNhHTYAc/echo/stream/hull-k-r-vs-wakefield-trinity-game-37322/1/playlist.m3u8
+https://lb12.strmd.st/secure/VIadKOOjWhFVtrcrCOtmEHqCRsAmBdyJ/echo/stream/hull-k-r-vs-wakefield-trinity-game-37322/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Vienna Vikings Vs Paris Lights 2475815 — admin" tvg-id="Vienna_Vikings_Vs_Paris_Lights_2475815_—_admin" group-title="Streamed.pk Live Sports",Vienna Vikings Vs Paris Lights 2475815 — admin
-# match: Vienna Vikings Vs Paris Lights 2475815
+#EXTINF:-1 tvg-name="Ppv Raf Georgia Dvalishvili Vs Cejudo — admin" tvg-id="Ppv_Raf_Georgia_Dvalishvili_Vs_Cejudo_—_admin" group-title="Streamed.pk Live Sports",Ppv Raf Georgia Dvalishvili Vs Cejudo — admin
+# match: Ppv Raf Georgia Dvalishvili Vs Cejudo
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-paris-lights-vs-vienna-vikings/1
-https://lb15.strmd.st/secure/fPYTtlTvQLqGDswTankitAljSNUYCrwR/rtmp/stream/BaB-YR1wA285xSqhbzo02TBE31TERmN7zdYnlwfmlPvL3ZC_bYbt0KuqrSAWI5bS-UakTjtmIZzm6Ow3IXPlsBS2zvo/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-raf-georgia-dvalishvili-vs-cejudo/1
+https://lb15.strmd.st/secure/dgtOZnOGChDajFzOwXxxNVzgsCtedVdz/rtmp/stream/jfN8WFJqJasyd4FV7b_KYJTMk3lAVm27MPNRmDxKax1aVQoCMzCfFpHRz5Ahnbc6xUBJky8/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 11 Ama Supercross Championship Southwick Ppv 11 — echo" tvg-id="Ppv_Event_11_Ama_Supercross_Championship_Southwick_Ppv_11_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 11 Ama Supercross Championship Southwick Ppv 11 — echo
 # match: Ppv Event 11 Ama Supercross Championship Southwick Ppv 11
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1
-https://lb4.strmd.st/secure/iHCGDxYRrwEhtIsOWwsODijZeiXmDbOD/echo/stream/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1/playlist.m3u8
+https://lb1.strmd.st/secure/npoAMPGISDHXmcPXSpXHdOsORwbUJjRc/echo/stream/ppv-event-11-ama-supercross-championship-southwick-ppv-11/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 03 Polaris 38 Ppv 03 — echo" tvg-id="Ppv_Event_03_Polaris_38_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Polaris 38 Ppv 03 — echo
 # match: Ppv Event 03 Polaris 38 Ppv 03
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-03-polaris-38-ppv-03/1
-https://lb10.strmd.st/secure/TEqBACGCejTQuxQYAwHIKWOgAUDSWprm/echo/stream/ppv-event-03-polaris-38-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
-# match: Uci Tour De France Uci World Tour Game 13622
-# provider: echo
-# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb5.strmd.st/secure/ufQjOdaNfKznierabeCVAcaQyFXRNIaQ/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb5.strmd.st/secure/qeKWSKiJAYnmKXPrpyDDwtodKKgdkGzK/echo/stream/ppv-event-03-polaris-38-ppv-03/1/playlist.m3u8
 
