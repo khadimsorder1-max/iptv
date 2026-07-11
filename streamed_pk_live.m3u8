@@ -1,41 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T09:07:37+00:00
-# 6 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-11T10:41:56+00:00
+# 10 streams captured from 9 matches
 
-#EXTINF:-1 tvg-name="Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — admin" tvg-id="Canterbury_Bankstown_Bulldogs_Vs_Canberra_Raiders_2417299_—_admin" group-title="Streamed.pk Live Sports",Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — admin
-# match: Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299
+#EXTINF:-1 tvg-name="Sydney Roosters Vs Parramatta Eels 2417301 — admin" tvg-id="Sydney_Roosters_Vs_Parramatta_Eels_2417301_—_admin" group-title="Streamed.pk Live Sports",Sydney Roosters Vs Parramatta Eels 2417301 — admin
+# match: Sydney Roosters Vs Parramatta Eels 2417301
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-bulldogs-vs-raiders/1
-https://lb10.strmd.st/secure/itWGxQmtPOgEPhOejMYyKhbPdaEzWhYq/rtmp/stream/U0p7Cn9TZaP3cQvjVUWYDMW7r7xzJVdikccUSycqYtdloen2sVMhN2hPq0-E2zrWTgehm7cwOb-Vb1k/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-roosters-vs-eels/1
+https://lb9.strmd.st/secure/RFQxMDgZgLGXucMvoEvriWlMboGKtqpS/rtmp/stream/YDUIZGcMW0c_Ap7uuUdB2DiFLu_lfJUZsnTxZ34BrNotQO7MHEucw-tarDI5LCnAGZmHLv6lPHJrwgo/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo" tvg-id="Canterbury_Bankstown_Bulldogs_Vs_Canberra_Raiders_2417299_—_echo" group-title="Streamed.pk Live Sports",Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo
-# match: Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299
+#EXTINF:-1 tvg-name="Sydney Roosters Vs Parramatta Eels 2417301 — echo" tvg-id="Sydney_Roosters_Vs_Parramatta_Eels_2417301_—_echo" group-title="Streamed.pk Live Sports",Sydney Roosters Vs Parramatta Eels 2417301 — echo
+# match: Sydney Roosters Vs Parramatta Eels 2417301
 # provider: echo
-# embed: https://embed.st/embed/echo/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1
-https://lb12.strmd.st/secure/uTBAsnCEGFPwxneuLzAEvrYuNWcuaHkL/echo/stream/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/sydney-roosters-vs-parramatta-eels-game-197832/1
+https://lb1.strmd.st/secure/tzUUVcLPTKdYEcyNcXwCilwYioVfpXaR/echo/stream/sydney-roosters-vs-parramatta-eels-game-197832/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
-# match: Motogp German Grand Prix Game 122273
+#EXTINF:-1 tvg-name="Carlton Blues Vs Hawthorn Hawks Australian Football 3569 — echo" tvg-id="Carlton_Blues_Vs_Hawthorn_Hawks_Australian_Football_3569_—_echo" group-title="Streamed.pk Live Sports",Carlton Blues Vs Hawthorn Hawks Australian Football 3569 — echo
+# match: Carlton Blues Vs Hawthorn Hawks Australian Football 3569
 # provider: echo
-# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
-https://lb5.strmd.st/secure/whoyJUZuznGlIzitlqGZUrHldqUdOkvB/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/carlton-blues-vs-hawthorn-hawks-australian-football-3569/1
+https://lb8.strmd.st/secure/xqftTJXOnTADMLXugjNbdDnNqyuOrtRZ/echo/stream/carlton-blues-vs-hawthorn-hawks-australian-football-3569/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Japan Rugby Vs Ireland Rugby 2449591 — admin" tvg-id="Japan_Rugby_Vs_Ireland_Rugby_2449591_—_admin" group-title="Streamed.pk Live Sports",Japan Rugby Vs Ireland Rugby 2449591 — admin
+# match: Japan Rugby Vs Ireland Rugby 2449591
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-japan-vs-ireland/1
+https://lb13.strmd.st/secure/hhezugVXrZVXByRTEpopDvHKyhVomlRk/rtmp/stream/8uZ_lk6IMMNY189HfNv6i0p4mD-uWQeg4xRCDa-8Qv95PoC9T6Fb1PGWnKia_9sNm-sZhqCZYjw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Adelaide Crows Vs Gold Coast Suns Australian Football 3570 — echo" tvg-id="Adelaide_Crows_Vs_Gold_Coast_Suns_Australian_Football_3570_—_echo" group-title="Streamed.pk Live Sports",Adelaide Crows Vs Gold Coast Suns Australian Football 3570 — echo
+# match: Adelaide Crows Vs Gold Coast Suns Australian Football 3570
+# provider: echo
+# embed: https://embed.st/embed/echo/adelaide-crows-vs-gold-coast-suns-australian-football-3570/1
+https://lb10.strmd.st/secure/fUdvDaKuYxJOWzvnOIYVbKuJcxlGwkAq/echo/stream/adelaide-crows-vs-gold-coast-suns-australian-football-3570/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_World_Sbk_Championship_Season_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo
 # match: World Sbk Uk Round World Sbk Championship Season Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1
-https://lb11.strmd.st/secure/uxjWRbKTTBFfOiBawskRapZVTmWyRcQu/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb4.strmd.st/secure/xGuIUCtjMqFvlqpWAAbCVsEDmNvVWQdp/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo" tvg-id="Canterbury_Bankstown_Bulldogs_Vs_Canberra_Raiders_2417299_—_echo" group-title="Streamed.pk Live Sports",Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo
+# match: Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299
+# provider: echo
+# embed: https://embed.st/embed/echo/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1
+https://lb2.strmd.st/secure/EBBXBgORjTvXutBXoJOGytokQqZoSxcM/echo/stream/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
+# match: Motogp German Grand Prix Game 122273
+# provider: echo
+# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
+https://lb7.strmd.st/secure/kjOdOOWOzOPOwfegqigIWgqhIhPkNgAh/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
 # match: V8 Supercars Townsville 400 Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
-https://lb9.strmd.st/secure/YAtXqXfRJQRylENxuhfZDzIUjODGaAde/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
+https://lb6.strmd.st/secure/tXkGplpBCECYiEnRbMwYUaBbuRhFKCNT/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dolphins Vs Cronulla Sharks 2417298 — echo" tvg-id="Dolphins_Vs_Cronulla_Sharks_2417298_—_echo" group-title="Streamed.pk Live Sports",Dolphins Vs Cronulla Sharks 2417298 — echo
 # match: Dolphins Vs Cronulla Sharks 2417298
 # provider: echo
 # embed: https://embed.st/embed/echo/dolphins-vs-cronulla-sutherland-sharks-game-236363/1
-https://lb7.strmd.st/secure/tLbKPGmxITzoFNIwpfgvxcUduYwyCCpN/echo/stream/dolphins-vs-cronulla-sutherland-sharks-game-236363/1/playlist.m3u8
+https://lb8.strmd.st/secure/VKRouLesxvDuexUtHWXQmpqQpAchAIDv/echo/stream/dolphins-vs-cronulla-sutherland-sharks-game-236363/1/playlist.m3u8
 
