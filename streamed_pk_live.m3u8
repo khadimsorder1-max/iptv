@@ -1,5 +1,107 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-11T13:07:49+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-11T14:37:05+00:00
+# 17 streams captured from 16 matches
+
+#EXTINF:-1 tvg-name="England Cricket Vs India Cricket 2524739 — admin" tvg-id="England_Cricket_Vs_India_Cricket_2524739_—_admin" group-title="Streamed.pk Live Sports",England Cricket Vs India Cricket 2524739 — admin
+# match: England Cricket Vs India Cricket 2524739
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-england-vs-india/1
+https://lb11.strmd.st/secure/YikJyDEjcVGJcnotYKtkSLYTIRYBzOeJ/rtmp/stream/l3RvWkodoLJvt4IDJ4bvn82DtTS_pwy4_p8tpZTZJeQIZ44vV1hndjq8eNcDoLAv8a7uSWz-KNL0BxG5i2SYinPXS2QYkTXX42uB/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 8 2447755 — admin" tvg-id="Tour_De_France_Stage_8_2447755_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 8 2447755 — admin
+# match: Tour De France Stage 8 2447755
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-8/1
+https://lb14.strmd.st/secure/luRQpGzjQuQCdDUWvWbvpiSGfieRxmXc/rtmp/stream/mFch5C4i2oEHRkw15F1WZd9Db8Hcx1hlqH1uk6juzuXkyfOzlsBfFNPWzsuXWW9reJ70RVJz/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
+# match: Admin Willow Cricket
+# provider: admin
+# embed: https://embed.st/embed/admin/admin-willow-cricket/1
+https://lb9.strmd.st/secure/dRxjDMBDeSgVcwuCJVbkravJiKovkYjI/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb10.strmd.st/secure/avNglASkiSHOwLYgFlzzAuglfAzdazdV/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fiji Rugby Vs England Rugby 2449594 — admin" tvg-id="Fiji_Rugby_Vs_England_Rugby_2449594_—_admin" group-title="Streamed.pk Live Sports",Fiji Rugby Vs England Rugby 2449594 — admin
+# match: Fiji Rugby Vs England Rugby 2449594
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-fiji-vs-england/1
+https://lb1.strmd.st/secure/UIhiXPgQkIgjLWqqiVbLGVKWTfglJpDI/rtmp/stream/HBKxPI_bZhQuAksDJk16ny8_c99Aro8uATfdtIqEQzXpBXqcvjXSwwGVrDk5_djjyPB69ATxw9Y/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Polaris 38 Ppv 03 — echo" tvg-id="Ppv_Event_03_Polaris_38_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Polaris 38 Ppv 03 — echo
+# match: Ppv Event 03 Polaris 38 Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-polaris-38-ppv-03/1
+https://lb15.strmd.st/secure/yMfYPTPrprzXPTOrJYWMGCOiUItVCgze/echo/stream/ppv-event-03-polaris-38-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Pro Motocross Southwick — admin" tvg-id="Ppv_Pro_Motocross_Southwick_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Southwick — admin
+# match: Ppv Pro Motocross Southwick
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-pro-motocross-southwick/1
+https://lb13.strmd.st/secure/KHUXOljwdPICGIhcPyqAcvaKRHIOOjrn/rtmp/stream/nyODqOD7u9LFJuWbTrhSQ3rIS5XsCDDvz3qJLMfx7itAZ4l7dMvv4XjdeGOtX4uH4ibyjXs/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Alpine Rams Vs London Warriors 2475814 — admin" tvg-id="Alpine_Rams_Vs_London_Warriors_2475814_—_admin" group-title="Streamed.pk Live Sports",Alpine Rams Vs London Warriors 2475814 — admin
+# match: Alpine Rams Vs London Warriors 2475814
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-london-warriors-vs-alpine-rams/1
+https://lb12.strmd.st/secure/RbIZjtwlgxvHcyzPlYMYUEraXAEvNEoE/rtmp/stream/0LHywfRmcRfGfjq6K7BVLtCzQLfjey4iOALkdnmgHhQ3Z8PEhNwMzwZTaRjtF5RmvU4nOegnV6lOGppUYkJc7js/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs India Fifth T20 International Game 19993637 — admin" tvg-id="England_Vs_India_Fifth_T20_International_Game_19993637_—_admin" group-title="Streamed.pk Live Sports",England Vs India Fifth T20 International Game 19993637 — admin
+# match: England Vs India Fifth T20 International Game 19993637
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-norway-vs-england/1
+https://lb5.strmd.st/secure/GFCGoxfWOojyhMfnjjZoVHTfibTnfocp/rtmp/stream/j_dN12XzS4PtOlRvSi3r1vPnRxdFu5c4S9SsHF9Z6AkN7AA4Y9Ub3M740XbK4KGyRLWHDwEGXA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs India Fifth T20 International Game 19993637 — echo" tvg-id="England_Vs_India_Fifth_T20_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Fifth T20 International Game 19993637 — echo
+# match: England Vs India Fifth T20 International Game 19993637
+# provider: echo
+# embed: https://embed.st/embed/echo/england-vs-india-fifth-t20-international-game-19993637/1
+https://lb6.strmd.st/secure/RRiWJGBqyTxOzPeiCbxDxBSzTAexPFin/echo/stream/england-vs-india-fifth-t20-international-game-19993637/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mj Llby Vs Aik 2398844 — admin" tvg-id="Mj_Llby_Vs_Aik_2398844_—_admin" group-title="Streamed.pk Live Sports",Mj Llby Vs Aik 2398844 — admin
+# match: Mj Llby Vs Aik 2398844
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-mj-llby-aif-vs-aik/1
+https://lb3.strmd.st/secure/pCgxJPstZulZvhpyhaKJwHOkGULNDUTC/rtmp/stream/biSWCSdyHk3ikYyxJq6nMewGKxetcR_cag5Q0grIYyOMFrmGKkuh5PhEODNEVf6xKHO3K4GINvnm/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Namibia Rugby Vs Bulls 2496223 — echo" tvg-id="Namibia_Rugby_Vs_Bulls_2496223_—_echo" group-title="Streamed.pk Live Sports",Namibia Rugby Vs Bulls 2496223 — echo
+# match: Namibia Rugby Vs Bulls 2496223
+# provider: echo
+# embed: https://embed.st/embed/echo/namibia-vs-bulls-rugby-53782/1
+https://lb9.strmd.st/secure/hzgwCVVVeUHnVCmRipaKhGnhexuKXMfw/echo/stream/namibia-vs-bulls-rugby-53782/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
+# match: Uci Tour De France Uci World Tour Game 13622
+# provider: echo
+# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
+https://lb2.strmd.st/secure/INFXuvumNfJQNsCNnoPeSgqTAGQxwjbd/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sydney Roosters Vs Parramatta Eels 2417301 — echo" tvg-id="Sydney_Roosters_Vs_Parramatta_Eels_2417301_—_echo" group-title="Streamed.pk Live Sports",Sydney Roosters Vs Parramatta Eels 2417301 — echo
+# match: Sydney Roosters Vs Parramatta Eels 2417301
+# provider: echo
+# embed: https://embed.st/embed/echo/sydney-roosters-vs-parramatta-eels-game-197832/1
+https://lb14.strmd.st/secure/KJIZdVNegHungbMCiFKKPNJQyulFqEWL/echo/stream/sydney-roosters-vs-parramatta-eels-game-197832/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_World_Sbk_Championship_Season_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo
+# match: World Sbk Uk Round World Sbk Championship Season Game 4u8337
+# provider: echo
+# embed: https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1
+https://lb8.strmd.st/secure/GjCFYEpolfyeWicpBVwMfxusNyMJhLKs/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo" tvg-id="Canterbury_Bankstown_Bulldogs_Vs_Canberra_Raiders_2417299_—_echo" group-title="Streamed.pk Live Sports",Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299 — echo
+# match: Canterbury Bankstown Bulldogs Vs Canberra Raiders 2417299
+# provider: echo
+# embed: https://embed.st/embed/echo/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1
+https://lb10.strmd.st/secure/WnyczOJcVzgEZjsaeXDQzeDEYVCISIwV/echo/stream/canterbury-bulldogs-vs-canberra-raiders-game-3373252/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Motogp German Grand Prix Game 122273 — echo" tvg-id="Motogp_German_Grand_Prix_Game_122273_—_echo" group-title="Streamed.pk Live Sports",Motogp German Grand Prix Game 122273 — echo
+# match: Motogp German Grand Prix Game 122273
+# provider: echo
+# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
+https://lb15.strmd.st/secure/VBGbwiwWmSaLrjCoFDCGeBBWWOcCAOvG/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
 
