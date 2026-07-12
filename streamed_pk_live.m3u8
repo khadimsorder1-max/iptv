@@ -1,71 +1,95 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-12T19:04:11+00:00
-# 11 streams captured from 9 matches
+# Streamed.pk live sports matches — built 2026-07-12T20:15:01+00:00
+# 15 streams captured from 11 matches
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb10.strmd.st/secure/OrPocShlINdzJXRstoHwiTvgvAykNRdK/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb13.strmd.st/secure/AyYEyAEkbtXvdMWEungwwidEniFBZWPB/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="6 Hours Of S O Paulo 2421038 — admin" tvg-id="6_Hours_Of_S_O_Paulo_2421038_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo 2421038 — admin
 # match: 6 Hours Of S O Paulo 2421038
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-race/1
-https://lb1.strmd.st/secure/HbrNhRtpDtBegnPwZMIpkYSVANHJKetC/rtmp/stream/wnbYV7tZWRl7BeiG746eZzLS_-nSYDo9riRPshSPy_j67bh57A_CHJ-2DOI-LQ1AXVfjUHc/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — admin" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_admin" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — admin
-# match: New Orleans Pelicans Vs Phoenix Suns 2505648
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-phoenix-suns-vs-new-orleans-pelicans/1
-https://lb14.strmd.st/secure/MUMjynaxFUYlYdkxYQusOihChlzIvVQl/rtmp/stream/ATwCAAyCLkFnjuAEpudfb2JBNnK4hCQNDyq5xRRlMqBL_vmxh3kMqG3kRJ6A_mlV0kw6HFkeXIPt8fvFwnSEXrgbIhs/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — echo" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_echo" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — echo
-# match: New Orleans Pelicans Vs Phoenix Suns 2505648
-# provider: echo
-# embed: https://embed.st/embed/echo/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1
-https://lb10.strmd.st/secure/lzfWHXFouRzLhovPsJHVvJNomwlwXGkI/echo/stream/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — golf" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_golf" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — golf
-# match: New Orleans Pelicans Vs Phoenix Suns 2505648
-# provider: golf
-# embed: https://embed.st/embed/golf/23746/1
-https://cdn14.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=_DUInxH_wEzBEKKh0RBV4g&expires=1783890205
+https://lb3.strmd.st/secure/ChcRBoQjBgyfjlUVGtabsWUcRLAgnNhP/rtmp/stream/nMP71l43lqWYeQKlzGRmOCYQTibuK3xyj0zYYRqAWh4x4F-LGIyOifuhsFnnwF7N3ji1CaE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Toronto Tempo Vs New York Liberty 2449317 — admin" tvg-id="Toronto_Tempo_Vs_New_York_Liberty_2449317_—_admin" group-title="Streamed.pk Live Sports",Toronto Tempo Vs New York Liberty 2449317 — admin
 # match: Toronto Tempo Vs New York Liberty 2449317
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-new-york-liberty-vs-toronto-tempo/1
-https://lb3.strmd.st/secure/WPTOKJrUSuirTUmDHVPmqUhVkmYOgehc/rtmp/stream/lGycIvTmMMQcaKyYQE59ljztq-K8Jn1EUlJyTlQbTwqYDPR1WoTD6Bc_fkp2bs1ND3yqJethSkDexHRo_Q8/1/playlist.m3u8
+https://lb6.strmd.st/secure/FchmhEYyKZSIYPsydUqYCuiXcjyWthLH/rtmp/stream/UlUtXm-Hff0V-mKUdh_ZACkDUyTT15lu7jjHrf9DloR3IijaTimYPuyQjtPWENVpWuRryJL77fjy-RSr648/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="23742 — golf" tvg-id="23742_—_golf" group-title="Streamed.pk Live Sports",23742 — golf
-# match: 23742
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — admin" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_admin" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — admin
+# match: New Orleans Pelicans Vs Phoenix Suns 2505648
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-phoenix-suns-vs-new-orleans-pelicans/1
+https://lb14.strmd.st/secure/oKyHkhkzDjZxDOVcJDEqdHFRVkseFFBe/rtmp/stream/mmzzJ73VMLMw3IeFPKS0697F-eytLcEtUXelRdm0UbT9JXzrUVOiM0Djj21K5Z3CLX8W-bxmcV_DyLO7_Tdtz64IXNE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — echo" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_echo" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — echo
+# match: New Orleans Pelicans Vs Phoenix Suns 2505648
+# provider: echo
+# embed: https://embed.st/embed/echo/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1
+https://lb9.strmd.st/secure/MbkWQykDvndPDQbvVvigGsPsNkHHQDsn/echo/stream/new-orleans-pelicans-vs-phoenix-suns-basketball-502086/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — golf" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_golf" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — golf
+# match: New Orleans Pelicans Vs Phoenix Suns 2505648
 # provider: golf
-# embed: https://embed.st/embed/golf/23742/1
-https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=kYATaVwurrEKvol0koeLgA&expires=1783890218
+# embed: https://embed.st/embed/golf/23746/1
+https://cdn13.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=y8yjab3GDCZwvSzU7Jad8w&expires=1783894429
+
+#EXTINF:-1 tvg-name="Washington Mystics Vs Seattle Storm 2449105 — admin" tvg-id="Washington_Mystics_Vs_Seattle_Storm_2449105_—_admin" group-title="Streamed.pk Live Sports",Washington Mystics Vs Seattle Storm 2449105 — admin
+# match: Washington Mystics Vs Seattle Storm 2449105
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-washington-mystics/1
+https://lb2.strmd.st/secure/bwTtpnLqPfCqYUWgzOBZDWrXLjssEQWn/rtmp/stream/FLGP18fTKXZ2w6oWZQZmdPmLMCZVTKbfYePThcFxo61LuBeINRvms5K_zAk0grWiG7ggL9RvT8xM5tELD1v2u-JbMg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Detroit Pistons Vs Cleveland Cavaliers 2505649 — admin" tvg-id="Detroit_Pistons_Vs_Cleveland_Cavaliers_2505649_—_admin" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Cleveland Cavaliers 2505649 — admin
+# match: Detroit Pistons Vs Cleveland Cavaliers 2505649
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-detroit-pistons/1
+https://lb11.strmd.st/secure/EmUDOhVtPvCIlzMaxHIlYquRdjVYzVNX/rtmp/stream/12Bbz57Qc5KfG4saEgrI_dZj5s-bGF4ubFizZApvNYCNkQaqI8P1VW7UB58Yq0J2DGgKCJOBrGFSr-UPxAZCfA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Detroit Pistons Vs Cleveland Cavaliers 2505649 — echo" tvg-id="Detroit_Pistons_Vs_Cleveland_Cavaliers_2505649_—_echo" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Cleveland Cavaliers 2505649 — echo
+# match: Detroit Pistons Vs Cleveland Cavaliers 2505649
+# provider: echo
+# embed: https://embed.st/embed/echo/detroit-pistons-vs-cleveland-cavaliers-basketball-502087/1
+https://lb4.strmd.st/secure/fOUpkARAEzOlnKUukzJhBdpsjxiyJASc/echo/stream/detroit-pistons-vs-cleveland-cavaliers-basketball-502087/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Detroit Pistons Vs Cleveland Cavaliers 2505649 — golf" tvg-id="Detroit_Pistons_Vs_Cleveland_Cavaliers_2505649_—_golf" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Cleveland Cavaliers 2505649 — golf
+# match: Detroit Pistons Vs Cleveland Cavaliers 2505649
+# provider: golf
+# embed: https://embed.st/embed/golf/23747/1
+https://cdn14.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=pieXLyVctmYaAIY3paekkw&expires=1783894456
+
+#EXTINF:-1 tvg-name="Toronto Tempo W Vs New York Liberty W Basketball 494944 — echo" tvg-id="Toronto_Tempo_W_Vs_New_York_Liberty_W_Basketball_494944_—_echo" group-title="Streamed.pk Live Sports",Toronto Tempo W Vs New York Liberty W Basketball 494944 — echo
+# match: Toronto Tempo W Vs New York Liberty W Basketball 494944
+# provider: echo
+# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-new-york-liberty-w-basketball-494944/1
+https://lb13.strmd.st/secure/xgxukCPebVJytYMrZFdSBPDaMERrfKiZ/echo/stream/toronto-tempo-w-vs-new-york-liberty-w-basketball-494944/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Washington Mystics W Vs Seattle Storm W Basketball 494945 — echo" tvg-id="Washington_Mystics_W_Vs_Seattle_Storm_W_Basketball_494945_—_echo" group-title="Streamed.pk Live Sports",Washington Mystics W Vs Seattle Storm W Basketball 494945 — echo
+# match: Washington Mystics W Vs Seattle Storm W Basketball 494945
+# provider: echo
+# embed: https://embed.st/embed/echo/washington-mystics-w-vs-seattle-storm-w-basketball-494945/1
+https://lb6.strmd.st/secure/mLWKJgsjoVfjKKFrWSfwAixuxpanXKda/echo/stream/washington-mystics-w-vs-seattle-storm-w-basketball-494945/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo" tvg-id="Ppv_Event_01_Amsoil_Championship_Off_Road_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo
 # match: Ppv Event 01 Amsoil Championship Off Road Ppv 01
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1
-https://lb12.strmd.st/secure/NhlkgnRXMcbRZjryzbRbXAamLeKPYLOc/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
+https://lb8.strmd.st/secure/RTUaEYwMVmuOZzhjnFGtxPWenCHihixf/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gais Vs Elfsborg 2398841 — admin" tvg-id="Gais_Vs_Elfsborg_2398841_—_admin" group-title="Streamed.pk Live Sports",Gais Vs Elfsborg 2398841 — admin
 # match: Gais Vs Elfsborg 2398841
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-gais-vs-if-elfsborg/1
-https://lb6.strmd.st/secure/aUDgYnUmkbTgWvahbPaPzHiVSfXcLDXg/rtmp/stream/ygCTmiyvKbhhHNxPBsN8lLhuW4LOdkuvRdTKa9R526z5_nVx0QFKz6ExfsaN3IIeLy9V-aNAxJy17A/1/playlist.m3u8
+https://lb7.strmd.st/secure/lWOGDUheblDsfbvAxkFyMAEvvAkvyWIz/rtmp/stream/ygCTmiyvKbhhHNxPBsN8lLhuW4LOdkuvRdTKa9R526z5_nVx0QFKz6ExfsaN3IIeLy9V-aNAxJy17A/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brommapojkarna Vs Sirius 2398839 — admin" tvg-id="Brommapojkarna_Vs_Sirius_2398839_—_admin" group-title="Streamed.pk Live Sports",Brommapojkarna Vs Sirius 2398839 — admin
 # match: Brommapojkarna Vs Sirius 2398839
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1
-https://lb2.strmd.st/secure/yCspKYugkirIIoUDtIirkUQgPitDrPSR/rtmp/stream/3c7gfu63FjghMx2Jtug1wPGulnNVX50PF6M36ZdW1syAtIgo2-Gm1O4L-VCiDt05hUxkuPofdikc/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
-# match: Uci Tour De France Uci World Tour Game 13622
-# provider: echo
-# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb11.strmd.st/secure/kFGtaaBdQMhaGhbDsdKAzsJnjkwGccme/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb11.strmd.st/secure/XjGomoDlVpMjcQpgQXOVinaykkLzTfiL/rtmp/stream/3c7gfu63FjghMx2Jtug1wPGulnNVX50PF6M36ZdW1syAtIgo2-Gm1O4L-VCiDt05hUxkuPofdikc/1/playlist.m3u8
 
