@@ -1,35 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-12T14:40:54+00:00
-# 5 streams captured from 5 matches
-
-#EXTINF:-1 tvg-name="6 Hours Of S O Paulo 2421038 — admin" tvg-id="6_Hours_Of_S_O_Paulo_2421038_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo 2421038 — admin
-# match: 6 Hours Of S O Paulo 2421038
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-race/1
-https://lb8.strmd.st/secure/SALIEsuKMNigvgnGRJcvAWJYcrYXUPXK/rtmp/stream/cMAZBUQ6YRXJ6ezaYajY4MHqoD4R9rLoyM19-Lc6u30XRzfp8IFcxO_F8n5Cfy05Ll6jHIs/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tour De France Stage 9 2447756 — admin" tvg-id="Tour_De_France_Stage_9_2447756_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 9 2447756 — admin
-# match: Tour De France Stage 9 2447756
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-9/1
-https://lb4.strmd.st/secure/MWQhHtFDpQeCcluDvXHTwtWNIYlqqVYZ/rtmp/stream/BNmNvmjOR8SpHOXxYZbDhDvOvQcFR64dDOtOJZ32xwGZKxTzTiZ9d_VdDzQVPVuGV_M5rV_a/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-12T15:56:27+00:00
+# 9 streams captured from 9 matches
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb6.strmd.st/secure/ddZDVfJckKymEEaRNvpVVbWqifWXVSHE/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb13.strmd.st/secure/EDkjwjJsNigxLCNnndsikRIHlFfTewlH/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="6 Hours Of S O Paulo 2421038 — admin" tvg-id="6_Hours_Of_S_O_Paulo_2421038_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo 2421038 — admin
+# match: 6 Hours Of S O Paulo 2421038
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-race/1
+https://lb12.strmd.st/secure/jctzGeVasHlbTZdmAfdaeNGIjDCRdnfu/rtmp/stream/UADXN-2DXhqVjrwLWWUOncNgyMV7qgeFU444ErkL9Xc6oVRL-dNCL4McbofTjZ5v-Osa2Us/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 9 2447756 — admin" tvg-id="Tour_De_France_Stage_9_2447756_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 9 2447756 — admin
+# match: Tour De France Stage 9 2447756
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-9/1
+https://lb1.strmd.st/secure/MyoXrdiZHCmngNzQZsbTJRgaMQiZxmnL/rtmp/stream/xkIsaWGOs0V4fFfrrExF-5_irkXgUGXFWSQspqVO0vxWrld58u4KLDa6HLL0YfeCrG6f-An8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo" tvg-id="Ppv_Event_01_Amsoil_Championship_Off_Road_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo
+# match: Ppv Event 01 Amsoil Championship Off Road Ppv 01
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1
+https://lb5.strmd.st/secure/QIlDaCSidoHoHpCPsqVxPHUqKeWPaKrC/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv 6 Hours Of S O Paulo Race — admin" tvg-id="Ppv_6_Hours_Of_S_O_Paulo_Race_—_admin" group-title="Streamed.pk Live Sports",Ppv 6 Hours Of S O Paulo Race — admin
+# match: Ppv 6 Hours Of S O Paulo Race
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-race/1
+https://lb8.strmd.st/secure/iWJKhwBIkfcPKtEpTkCqcncNqWnSFJyj/rtmp/stream/I-_iOmZZLTxdDsLZwMw7EHrAkpLb8rGa7zUFmHZWqALILjMVjd6JLV0LjWT9xmrkXhDgClM/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Gais Vs Elfsborg 2398841 — admin" tvg-id="Gais_Vs_Elfsborg_2398841_—_admin" group-title="Streamed.pk Live Sports",Gais Vs Elfsborg 2398841 — admin
+# match: Gais Vs Elfsborg 2398841
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-gais-vs-if-elfsborg/1
+https://lb6.strmd.st/secure/GdFgAoHMMFnlaDzQLxwyEXAjQigagzCj/rtmp/stream/r0kocxkI-nWCOMByW6lXdOqbb8KGRiA5Z6YHVGmJ9PrjRj1RKKIbezw-isCqW9ZmpKl5ygFnzwmOcg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brommapojkarna Vs Sirius 2398839 — admin" tvg-id="Brommapojkarna_Vs_Sirius_2398839_—_admin" group-title="Streamed.pk Live Sports",Brommapojkarna Vs Sirius 2398839 — admin
+# match: Brommapojkarna Vs Sirius 2398839
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1
+https://lb10.strmd.st/secure/viQDIYDTAoefIEtPxBAzSSyoMjyUmuAd/rtmp/stream/W5XjPnFvICEwfjFWJpE63clguN7svHm8b4F_wAMRh1mgdyeo-Ta4sIq2HeDiezBFjeay7gov8Xoi/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb10.strmd.st/secure/icPkwMNWAxCveBVjWLtEyukHptVDjNKl/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb9.strmd.st/secure/eaHQnQdUfEGLIzbjLFZOpIbQKbyXXnUw/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_World_Sbk_Championship_Season_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo
 # match: World Sbk Uk Round World Sbk Championship Season Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1
-https://lb6.strmd.st/secure/VrycjJbAjcPdyNnmkOAzespcQvhKblew/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb11.strmd.st/secure/OtdmLyGmGJLzZlHwKTPBYFmoRajZxuYw/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
 
