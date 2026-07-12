@@ -1,53 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-12T16:55:39+00:00
-# 8 streams captured from 8 matches
+# Streamed.pk live sports matches — built 2026-07-12T17:57:38+00:00
+# 7 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
 # match: Wimbledon Championships 2026 Roland 2026
 # provider: echo
 # embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
-https://lb12.strmd.st/secure/egoSSCDIyYzRrXnraijFecLRkjFmsQPT/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
+https://lb3.strmd.st/secure/KkfBTJlvbjDPtiYAStunioLDkbUbYbiQ/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="6 Hours Of S O Paulo 2421038 — admin" tvg-id="6_Hours_Of_S_O_Paulo_2421038_—_admin" group-title="Streamed.pk Live Sports",6 Hours Of S O Paulo 2421038 — admin
 # match: 6 Hours Of S O Paulo 2421038
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-6-hours-of-s-o-paulo-race/1
-https://lb6.strmd.st/secure/uGYiAfawxHHChWKoSFtUigYJNPVpfGMx/rtmp/stream/yAo0fdlG1S9W093xxxwcUz--VzVEGqewJu14Y3od5WjQ6aqDn13vKJxKDx05xNSYGMpgcxs/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="23745 — golf" tvg-id="23745_—_golf" group-title="Streamed.pk Live Sports",23745 — golf
-# match: 23745
-# provider: golf
-# embed: https://embed.st/embed/golf/23745/1
-https://cdn12.zohanayaan.com:1686/hls/mevent1.m3u8?md5=lVvmWjUSqplD2UZNaGRvKg&expires=1783882498
+https://lb13.strmd.st/secure/WEGzWHjKKOdViyQCKfcFahptGPHFVKAP/rtmp/stream/SJFOaG0SDMkLLKT3j6Mj7UvvdJQlMxSYqKn4jGa-v-GS5vEy96WWzmVxPbmRZhxrrv-AkD0/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo" tvg-id="Ppv_Event_01_Amsoil_Championship_Off_Road_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo
 # match: Ppv Event 01 Amsoil Championship Off Road Ppv 01
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1
-https://lb5.strmd.st/secure/WFmGJpdjRKbKFzjPVtRvjCYyEiuMvNZC/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
+https://lb9.strmd.st/secure/ijOvlgatfBWNyVOcfkzKqLTrRHLXlSrO/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gais Vs Elfsborg 2398841 — admin" tvg-id="Gais_Vs_Elfsborg_2398841_—_admin" group-title="Streamed.pk Live Sports",Gais Vs Elfsborg 2398841 — admin
 # match: Gais Vs Elfsborg 2398841
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-gais-vs-if-elfsborg/1
-https://lb14.strmd.st/secure/FNbrpGJhcxzjUDHcofkWuZaJpBVuVRsY/rtmp/stream/hl50tvdlvZ4asFg4viZZ9wXgYw3lsYaBj2cGe5_mMRnLEwkW3XOsNARtFwu6MA16cMw3SYA5dRLpMQ/1/playlist.m3u8
+https://lb4.strmd.st/secure/WjQpqVRFWKUhThuyQqblEDlAHXZtyYlK/rtmp/stream/ygCTmiyvKbhhHNxPBsN8lLhuW4LOdkuvRdTKa9R526z5_nVx0QFKz6ExfsaN3IIeLy9V-aNAxJy17A/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brommapojkarna Vs Sirius 2398839 — admin" tvg-id="Brommapojkarna_Vs_Sirius_2398839_—_admin" group-title="Streamed.pk Live Sports",Brommapojkarna Vs Sirius 2398839 — admin
 # match: Brommapojkarna Vs Sirius 2398839
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1
-https://lb9.strmd.st/secure/djPvJJqaXBYtpEVygwuJbzrzxZWfRWfa/rtmp/stream/S94_4IXjG5lsiAexAF9g9VyW6BRd_Y6qR6JJdDm9fJH3MrkmRk8Zd2KGgGYoqEHIigQCgugkXNbo/1/playlist.m3u8
+https://lb13.strmd.st/secure/ShxrtXIIUvYFBMTRtYYMiJUBNQIrRlhN/rtmp/stream/3c7gfu63FjghMx2Jtug1wPGulnNVX50PF6M36ZdW1syAtIgo2-Gm1O4L-VCiDt05hUxkuPofdikc/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb10.strmd.st/secure/VSMgSUrMPtnwdofgLqZhZQbrTVXUKqDu/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb5.strmd.st/secure/MggQTjaChDGgMjBGTWjdcaXIblxuNpLj/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_World_Sbk_Championship_Season_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo
 # match: World Sbk Uk Round World Sbk Championship Season Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1
-https://lb7.strmd.st/secure/rJWFQoeuaxhzfQyddftuajdKcoSzekwQ/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
+https://lb14.strmd.st/secure/cksyhsQqXnMzeBgZhlyWDkrlYYGpZebK/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
 
