@@ -1,89 +1,95 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-12T22:15:55+00:00
-# 14 streams captured from 9 matches
-
-#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — admin" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_admin" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — admin
-# match: Boston Celtics Vs Charlotte Hornets 2505650
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-charlotte-hornets-vs-boston-celtics/1
-https://lb7.strmd.st/secure/PQaUlbdcoWcjiYznTAYlVQADotzaoPJn/rtmp/stream/Xt2SoC_kIJhE22lPMGfUE35qltaDvkeFKSONwA_A7RcfySNhkrOJUM3dsAr3GvMHf99wPh-gKBnJhFNj2g9A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — echo" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_echo" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — echo
-# match: Boston Celtics Vs Charlotte Hornets 2505650
-# provider: echo
-# embed: https://embed.st/embed/echo/boston-celtics-vs-charlotte-hornets-basketball-502088/1
-https://lb1.strmd.st/secure/udWiiatVxUhZRAIEVDblfzUecKsaSUYt/echo/stream/boston-celtics-vs-charlotte-hornets-basketball-502088/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — golf" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_golf" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — golf
-# match: Boston Celtics Vs Charlotte Hornets 2505650
-# provider: golf
-# embed: https://embed.st/embed/golf/23748/1
-https://cdn11.zohanayaan.com:1686/hls/mbostonceltics.m3u8?md5=1breGfYtHAb6IPvaT6oVNA&expires=1783901682
+# Streamed.pk live sports matches — built 2026-07-12T23:26:08+00:00
+# 15 streams captured from 10 matches
 
 #EXTINF:-1 tvg-name="Golden State Warriors Vs Oklahoma City Thunder 2505651 — admin" tvg-id="Golden_State_Warriors_Vs_Oklahoma_City_Thunder_2505651_—_admin" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Oklahoma City Thunder 2505651 — admin
 # match: Golden State Warriors Vs Oklahoma City Thunder 2505651
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-oklahoma-city-thunder-vs-golden-state-warriors/1
-https://lb6.strmd.st/secure/rNcyBlSTAUXmvkWDhpGIfjxnKGHHBMco/rtmp/stream/F8i1kU3QHD4SZY7f26TC8DhxY7YOdCEReN5QmbeX-0jKKVhgMy2pF25B1lyvWTrbC0gp91G6FrTM30XWTsHI8H2CX34e/1/playlist.m3u8
+https://lb1.strmd.st/secure/zHgxADUvBIadarWCaQFWnogShvVflNar/rtmp/stream/FU-tdVzHDssvUpQz1uuc-zDWy2TydaMBPma93uoVaC-GHJ4q0ovH9ZqOqmnktChU2gMyzD3i8uON2X4G3n9lu0vnLWJh/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Golden State Warriors Vs Oklahoma City Thunder 2505651 — echo" tvg-id="Golden_State_Warriors_Vs_Oklahoma_City_Thunder_2505651_—_echo" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Oklahoma City Thunder 2505651 — echo
 # match: Golden State Warriors Vs Oklahoma City Thunder 2505651
 # provider: echo
 # embed: https://embed.st/embed/echo/golden-state-warriors-vs-oklahoma-city-thunder-basketball-502089/1
-https://lb3.strmd.st/secure/KhSATaTemnzWeWKrqWGdRfJSEGwNMwTq/echo/stream/golden-state-warriors-vs-oklahoma-city-thunder-basketball-502089/1/playlist.m3u8
+https://lb6.strmd.st/secure/sljInMQPgnQYWNLRatZaqjqQTxvRoaNF/echo/stream/golden-state-warriors-vs-oklahoma-city-thunder-basketball-502089/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Golden State Warriors Vs Oklahoma City Thunder 2505651 — golf" tvg-id="Golden_State_Warriors_Vs_Oklahoma_City_Thunder_2505651_—_golf" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Oklahoma City Thunder 2505651 — golf
 # match: Golden State Warriors Vs Oklahoma City Thunder 2505651
 # provider: golf
 # embed: https://embed.st/embed/golf/23749/1
-https://cdn11.zohanayaan.com:1686/hls/mgoldenstatewarriors.m3u8?md5=ZBhfM5qFv2fUWnBkYcPcIw&expires=1783901700
+https://cdn13.zohanayaan.com:1686/hls/mgoldenstatewarriors.m3u8?md5=8WrM-Pv43jaeXVWlx_rUrA&expires=1783905887
+
+#EXTINF:-1 tvg-name="Dallas Wings Vs Chicago Sky 2449106 — admin" tvg-id="Dallas_Wings_Vs_Chicago_Sky_2449106_—_admin" group-title="Streamed.pk Live Sports",Dallas Wings Vs Chicago Sky 2449106 — admin
+# match: Dallas Wings Vs Chicago Sky 2449106
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-dallas-wings/1
+https://lb2.strmd.st/secure/GQSEDBgnJQaAbuUKVlrQhmHMERLplaqr/rtmp/stream/Dralpk6h45ZB-ag6uOSUSPqGLaimpZTWnUgTZXT89WF2he3Ag344qvUGyjDYLM6PDTbilnS3XWuPh0oBMg/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Dallas Wings W Vs Chicago Sky W Basketball 494946 — echo" tvg-id="Dallas_Wings_W_Vs_Chicago_Sky_W_Basketball_494946_—_echo" group-title="Streamed.pk Live Sports",Dallas Wings W Vs Chicago Sky W Basketball 494946 — echo
+# match: Dallas Wings W Vs Chicago Sky W Basketball 494946
+# provider: echo
+# embed: https://embed.st/embed/echo/dallas-wings-w-vs-chicago-sky-w-basketball-494946/1
+https://lb4.strmd.st/secure/RYMxmHWdEeOPVKWvExmQsJwoSLwfhhmI/echo/stream/dallas-wings-w-vs-chicago-sky-w-basketball-494946/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saskatchewan Roughriders Vs Hamilton Tiger Cats 2432555 — admin" tvg-id="Saskatchewan_Roughriders_Vs_Hamilton_Tiger_Cats_2432555_—_admin" group-title="Streamed.pk Live Sports",Saskatchewan Roughriders Vs Hamilton Tiger Cats 2432555 — admin
+# match: Saskatchewan Roughriders Vs Hamilton Tiger Cats 2432555
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-hamilton-tiger-cats-vs-saskatchewan-roughriders/1
+https://lb1.strmd.st/secure/drmVCNsgEBUcpeTMIURuhNeZuWjiTlgr/rtmp/stream/c_cEZO9Zoeg0bzMh0owI0qwX0szQTmOz9ZCsnRY5X_7L3A6_r7B8HON6cvLcDE9u8B-4GuSUdyrN-E9x4AFMJx0coFC7Xt1zQGXiWq4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Orlando Magic 2505652 — admin" tvg-id="Portland_Trail_Blazers_Vs_Orlando_Magic_2505652_—_admin" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Orlando Magic 2505652 — admin
+# match: Portland Trail Blazers Vs Orlando Magic 2505652
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-orlando-magic-vs-portland-trail-blazers/1
+https://lb5.strmd.st/secure/feuuEoIxfsxTAxswQJNBTRKlvQXZuutM/rtmp/stream/HvJGnOH5DDyj-Fe1X444q7Pv6-gUUzihnUs2eoJzub4XM08sCHL8_cWws7Y78E5RtSNpkJva91p7rBGuLyP_tvLuHl5vvA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Orlando Magic 2505652 — echo" tvg-id="Portland_Trail_Blazers_Vs_Orlando_Magic_2505652_—_echo" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Orlando Magic 2505652 — echo
+# match: Portland Trail Blazers Vs Orlando Magic 2505652
+# provider: echo
+# embed: https://embed.st/embed/echo/portland-trail-blazers-vs-orlando-magic-basketball-502090/1
+https://lb9.strmd.st/secure/JdIddJvCAveggPtRWbCbIAaYOkDMSKuA/echo/stream/portland-trail-blazers-vs-orlando-magic-basketball-502090/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Orlando Magic 2505652 — golf" tvg-id="Portland_Trail_Blazers_Vs_Orlando_Magic_2505652_—_golf" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Orlando Magic 2505652 — golf
+# match: Portland Trail Blazers Vs Orlando Magic 2505652
+# provider: golf
+# embed: https://embed.st/embed/golf/23750/1
+https://cdn13.zohanayaan.com:1686/hls/mportlandtrailblazers.m3u8?md5=6GrBLfjnVJkvlAZagnB7gQ&expires=1783905925
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Gcw Melee In Manchester Ppv 06 — echo" tvg-id="Ppv_Event_06_Gcw_Melee_In_Manchester_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Gcw Melee In Manchester Ppv 06 — echo
 # match: Ppv Event 06 Gcw Melee In Manchester Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-gcw-melee-in-manchester-ppv-06/1
-https://lb5.strmd.st/secure/cAdSGoKhRRDUaLvrAQYwvzxbyEdPssLb/echo/stream/ppv-event-06-gcw-melee-in-manchester-ppv-06/1/playlist.m3u8
+https://lb14.strmd.st/secure/sUZueScTTjLPrHcZgUnuAAzvEGGcCDZC/echo/stream/ppv-event-06-gcw-melee-in-manchester-ppv-06/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — admin" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_admin" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — admin
+# match: Boston Celtics Vs Charlotte Hornets 2505650
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-charlotte-hornets-vs-boston-celtics/1
+https://lb3.strmd.st/secure/zGocFFABkVzrloVvETXefupOYldZoYSo/rtmp/stream/BVbzKhDfnO_3Se0KsTm9bqMoniCvitG_Gt6nhu1iAJUckfuD3oIY0yHoyfS-67JutKGxsJswLPGUU5KMo_m_/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — golf" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_golf" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — golf
+# match: Boston Celtics Vs Charlotte Hornets 2505650
+# provider: golf
+# embed: https://embed.st/embed/golf/23748/1
+https://cdn15.zohanayaan.com:1686/hls/mbostonceltics.m3u8?md5=GDZiZrzKWV6I-cE2woNo2g&expires=1783905944
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Roc Modifieds Shangri La Ppv 004 — echo" tvg-id="Ppv_Event_04_Roc_Modifieds_Shangri_La_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Roc Modifieds Shangri La Ppv 004 — echo
 # match: Ppv Event 04 Roc Modifieds Shangri La Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-roc-modifieds-shangri-la-ppv-004/1
-https://lb4.strmd.st/secure/xTYUfIeQIHzzisojzgSxkfZlEcxIsbmI/echo/stream/ppv-event-04-roc-modifieds-shangri-la-ppv-004/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Detroit Pistons Vs Cleveland Cavaliers 2505649 — admin" tvg-id="Detroit_Pistons_Vs_Cleveland_Cavaliers_2505649_—_admin" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Cleveland Cavaliers 2505649 — admin
-# match: Detroit Pistons Vs Cleveland Cavaliers 2505649
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-cleveland-cavaliers-vs-detroit-pistons/1
-https://lb6.strmd.st/secure/npuzrxOwirxlRFyceydxVNXxbeBwHRUm/rtmp/stream/Dz5QAUz8vN3KbJNyS6Uz8UImv_4XW9AvMCFY1Vuhbku7wnlKRZCK7r7tDHIST53jL-xaNpcvD8dIfPI6YkgTDg/1/playlist.m3u8
+https://lb9.strmd.st/secure/lpUOobVQAEUIneKpgETJSaGUtsEeFjTc/echo/stream/ppv-event-04-roc-modifieds-shangri-la-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Detroit Pistons Vs Cleveland Cavaliers 2505649 — golf" tvg-id="Detroit_Pistons_Vs_Cleveland_Cavaliers_2505649_—_golf" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Cleveland Cavaliers 2505649 — golf
 # match: Detroit Pistons Vs Cleveland Cavaliers 2505649
 # provider: golf
 # embed: https://embed.st/embed/golf/23747/1
-https://cdn13.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=56U0jV9FejiXBa-mAEXZRg&expires=1783901725
+https://cdn11.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=CJKgYxq6NIlm7kEp30iMyQ&expires=1783905957
 
 #EXTINF:-1 tvg-name="New Orleans Pelicans Vs Phoenix Suns 2505648 — golf" tvg-id="New_Orleans_Pelicans_Vs_Phoenix_Suns_2505648_—_golf" group-title="Streamed.pk Live Sports",New Orleans Pelicans Vs Phoenix Suns 2505648 — golf
 # match: New Orleans Pelicans Vs Phoenix Suns 2505648
 # provider: golf
 # embed: https://embed.st/embed/golf/23746/1
-https://cdn14.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=YIBdh5w189QfpFUcEXmoQA&expires=1783901732
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo" tvg-id="Ppv_Event_01_Amsoil_Championship_Off_Road_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Amsoil Championship Off Road Ppv 01 — echo
-# match: Ppv Event 01 Amsoil Championship Off Road Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-amsoil-championship-off-road-ppv-01/1
-https://lb1.strmd.st/secure/FZoctxCQwzUgBoNTGoYUxpghBViTbttr/echo/stream/ppv-event-01-amsoil-championship-off-road-ppv-01/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gais Vs Elfsborg 2398841 — admin" tvg-id="Gais_Vs_Elfsborg_2398841_—_admin" group-title="Streamed.pk Live Sports",Gais Vs Elfsborg 2398841 — admin
-# match: Gais Vs Elfsborg 2398841
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-gais-vs-if-elfsborg/1
-https://lb4.strmd.st/secure/BOjfxrCPvlsofvJuSvDkFfrcAolQxTUw/rtmp/stream/ygCTmiyvKbhhHNxPBsN8lLhuW4LOdkuvRdTKa9R526z5_nVx0QFKz6ExfsaN3IIeLy9V-aNAxJy17A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brommapojkarna Vs Sirius 2398839 — admin" tvg-id="Brommapojkarna_Vs_Sirius_2398839_—_admin" group-title="Streamed.pk Live Sports",Brommapojkarna Vs Sirius 2398839 — admin
-# match: Brommapojkarna Vs Sirius 2398839
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-if-brommapojkarna-vs-ik-sirius/1
-https://lb11.strmd.st/secure/LodsAAMyLhZYOukGvOMprRCocSYeohAK/rtmp/stream/3c7gfu63FjghMx2Jtug1wPGulnNVX50PF6M36ZdW1syAtIgo2-Gm1O4L-VCiDt05hUxkuPofdikc/1/playlist.m3u8
+https://cdn13.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=L1e2KWoxObF4arCptl6xwg&expires=1783905964
 
