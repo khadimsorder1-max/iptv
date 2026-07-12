@@ -1,41 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-12T11:56:15+00:00
-# 6 streams captured from 6 matches
-
-#EXTINF:-1 tvg-name="German Grand Prix Moto2 2417390 — echo" tvg-id="German_Grand_Prix_Moto2_2417390_—_echo" group-title="Streamed.pk Live Sports",German Grand Prix Moto2 2417390 — echo
-# match: German Grand Prix Moto2 2417390
-# provider: echo
-# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
-https://lb1.strmd.st/secure/cpocROIXbrvdrbcchvqbyeHXCPeapkCp/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-12T13:09:35+00:00
+# 5 streams captured from 5 matches
 
 #EXTINF:-1 tvg-name="Tour De France Stage 9 2447756 — admin" tvg-id="Tour_De_France_Stage_9_2447756_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 9 2447756 — admin
 # match: Tour De France Stage 9 2447756
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-9/1
-https://lb2.strmd.st/secure/eUWjBIZZFbwVDeVonSArunPHAXXwNUgS/rtmp/stream/TPm28VaoTr7XKR8JQPFMhojANPO1azpoCZj2QkfG5lSJ-T_3OtAFAXBQy0Rft_zlUTGzYYrI/1/playlist.m3u8
+https://lb8.strmd.st/secure/ZVFlsOGoMgVqJAwGdICvFclnYwBQbQrQ/rtmp/stream/_ZM8gv9zax6UhyWM3bR2-0Bm6UcshKE-1z2gXBwdT1al2O70379faZ1Ffohx6uYKRPmLwuhv/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Tour De France Stage 9 — admin" tvg-id="Ppv_Tour_De_France_Stage_9_—_admin" group-title="Streamed.pk Live Sports",Ppv Tour De France Stage 9 — admin
-# match: Ppv Tour De France Stage 9
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-9/1
-https://lb12.strmd.st/secure/AemnLLlUGKsknDXfJlaBrkhnAgEzkDRB/rtmp/stream/TPm28VaoTr7XKR8JQPFMhojANPO1azpoCZj2QkfG5lSJ-T_3OtAFAXBQy0Rft_zlUTGzYYrI/1/playlist.m3u8
+#EXTINF:-1 tvg-name="German Grand Prix Moto2 2417390 — echo" tvg-id="German_Grand_Prix_Moto2_2417390_—_echo" group-title="Streamed.pk Live Sports",German Grand Prix Moto2 2417390 — echo
+# match: German Grand Prix Moto2 2417390
+# provider: echo
+# embed: https://embed.st/embed/echo/motogp-german-grand-prix-game-122273/1
+https://lb9.strmd.st/secure/MMhProSiZBxNONyfFrkPNhZTmncBHPQM/echo/stream/motogp-german-grand-prix-game-122273/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Wimbledon Championships 2026 Roland 2026 — echo" tvg-id="Wimbledon_Championships_2026_Roland_2026_—_echo" group-title="Streamed.pk Live Sports",Wimbledon Championships 2026 Roland 2026 — echo
+# match: Wimbledon Championships 2026 Roland 2026
+# provider: echo
+# embed: https://embed.st/embed/echo/wimbledon-championships-2026-roland-2026/1
+https://lb13.strmd.st/secure/OQuRSEzqgXbynWEyOlFXWRYYKbiDRQWc/echo/stream/wimbledon-championships-2026-roland-2026/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb7.strmd.st/secure/wzLwwOdmBuvCzQPezezlJvgLeBrIIbqL/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb3.strmd.st/secure/HmhzCyHpvCSQuZpzHXkAlnklTufEERiP/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo" tvg-id="World_Sbk_Uk_Round_World_Sbk_Championship_Season_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",World Sbk Uk Round World Sbk Championship Season Game 4u8337 — echo
 # match: World Sbk Uk Round World Sbk Championship Season Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1
-https://lb8.strmd.st/secure/zWMeLbXFTKRISVAnzqhxNMOgzAYkGteW/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="V8 Supercars Townsville 400 Racing 0059 — echo" tvg-id="V8_Supercars_Townsville_400_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",V8 Supercars Townsville 400 Racing 0059 — echo
-# match: V8 Supercars Townsville 400 Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/v8-supercars-townsville-400-racing-0059/1
-https://lb10.strmd.st/secure/VQPFxmhPZbbZsojPLIUitXJKeeQhdgtE/echo/stream/v8-supercars-townsville-400-racing-0059/1/playlist.m3u8
+https://lb11.strmd.st/secure/ascQYYwqWJgVQbaTGLuNkXDHBOJFrTYl/echo/stream/world-sbk-uk-round-world-sbk-championship-season-game-4u8337/1/playlist.m3u8
 
