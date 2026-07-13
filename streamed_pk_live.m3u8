@@ -1,53 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-13T04:57:38+00:00
-# 8 streams captured from 7 matches
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Los Angeles Clippers 2505655 — admin" tvg-id="Utah_Jazz_Vs_Los_Angeles_Clippers_2505655_—_admin" group-title="Streamed.pk Live Sports",Utah Jazz Vs Los Angeles Clippers 2505655 — admin
-# match: Utah Jazz Vs Los Angeles Clippers 2505655
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-la-clippers-vs-utah-jazz/1
-https://lb9.strmd.st/secure/jLnHvzqpQlYvALNePXKhQjmBiuFlatUn/rtmp/stream/ml6jdgJ8jrqDJTCZaJAAtng_9cQwJEOSq4GrYFiDqKaOGq5lbkpydAnN62xYv785NlXFPbGqr4mDzg/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-13T08:16:33+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Utah Jazz Vs Los Angeles Clippers 2505655 — golf" tvg-id="Utah_Jazz_Vs_Los_Angeles_Clippers_2505655_—_golf" group-title="Streamed.pk Live Sports",Utah Jazz Vs Los Angeles Clippers 2505655 — golf
 # match: Utah Jazz Vs Los Angeles Clippers 2505655
 # provider: golf
 # embed: https://embed.st/embed/golf/23753/1
-https://cdn11.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=VtgOFuhqp4m255cznKTMwA&expires=1783925816
+https://cdn13.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=CDI5yPYAlx52O9bXaAX8uw&expires=1783937774
 
 #EXTINF:-1 tvg-name="Milwaukee Bucks Vs San Antonio Spurs 2505654 — golf" tvg-id="Milwaukee_Bucks_Vs_San_Antonio_Spurs_2505654_—_golf" group-title="Streamed.pk Live Sports",Milwaukee Bucks Vs San Antonio Spurs 2505654 — golf
 # match: Milwaukee Bucks Vs San Antonio Spurs 2505654
 # provider: golf
 # embed: https://embed.st/embed/golf/23752/1
-https://cdn14.zohanayaan.com:1686/hls/mmilwaukeebucks.m3u8?md5=5Sg07jCxBaWfEgO_8AffLw&expires=1783925822
+https://cdn12.zohanayaan.com:1686/hls/mmilwaukeebucks.m3u8?md5=QLWzSSED8DOUIIAQmIYZ0A&expires=1783937782
 
 #EXTINF:-1 tvg-name="Ppv Event 10 Husets Late Models Ppv 10 — echo" tvg-id="Ppv_Event_10_Husets_Late_Models_Ppv_10_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 10 Husets Late Models Ppv 10 — echo
 # match: Ppv Event 10 Husets Late Models Ppv 10
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-10-husets-late-models-ppv-10/1
-https://lb9.strmd.st/secure/uTYDxgszNChILKgBIqppWZdbCtjATRfm/echo/stream/ppv-event-10-husets-late-models-ppv-10/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Washington Wizards Vs Sacramento Kings 2505653 — golf" tvg-id="Washington_Wizards_Vs_Sacramento_Kings_2505653_—_golf" group-title="Streamed.pk Live Sports",Washington Wizards Vs Sacramento Kings 2505653 — golf
-# match: Washington Wizards Vs Sacramento Kings 2505653
-# provider: golf
-# embed: https://embed.st/embed/golf/23751/1
-https://cdn14.zohanayaan.com:1686/hls/mwashingtonwizards.m3u8?md5=OlSO1LGXxUGiERlwmWLz7g&expires=1783925835
-
-#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Orlando Magic 2505652 — golf" tvg-id="Portland_Trail_Blazers_Vs_Orlando_Magic_2505652_—_golf" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Orlando Magic 2505652 — golf
-# match: Portland Trail Blazers Vs Orlando Magic 2505652
-# provider: golf
-# embed: https://embed.st/embed/golf/23750/1
-https://cdn13.zohanayaan.com:1686/hls/mportlandtrailblazers.m3u8?md5=HSk-D64PR4L4xHcKk8vChg&expires=1783925841
-
-#EXTINF:-1 tvg-name="Golden State Warriors Vs Oklahoma City Thunder 2505651 — golf" tvg-id="Golden_State_Warriors_Vs_Oklahoma_City_Thunder_2505651_—_golf" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Oklahoma City Thunder 2505651 — golf
-# match: Golden State Warriors Vs Oklahoma City Thunder 2505651
-# provider: golf
-# embed: https://embed.st/embed/golf/23749/1
-https://cdn11.zohanayaan.com:1686/hls/mgoldenstatewarriors.m3u8?md5=XXnLazPvGQSheZ17wQwZQw&expires=1783925848
-
-#EXTINF:-1 tvg-name="Boston Celtics Vs Charlotte Hornets 2505650 — golf" tvg-id="Boston_Celtics_Vs_Charlotte_Hornets_2505650_—_golf" group-title="Streamed.pk Live Sports",Boston Celtics Vs Charlotte Hornets 2505650 — golf
-# match: Boston Celtics Vs Charlotte Hornets 2505650
-# provider: golf
-# embed: https://embed.st/embed/golf/23748/1
-https://cdn15.zohanayaan.com:1686/hls/mbostonceltics.m3u8?md5=X42xyww7idFiGvf-Fk7r5w&expires=1783925855
+https://lb8.strmd.st/secure/YEYfbYTFkGIFABQKQXGzjkzPDijQotmh/echo/stream/ppv-event-10-husets-late-models-ppv-10/1/playlist.m3u8
 
