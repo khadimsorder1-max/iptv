@@ -1,11 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-13T18:41:07+00:00
-# 1 streams captured from 1 matches
+# Streamed.pk live sports matches — built 2026-07-13T20:10:32+00:00
+# 3 streams captured from 1 matches
 
-#EXTINF:-1 tvg-name="Djurg Rden Vs Halmstad 2398840 — admin" tvg-id="Djurg_Rden_Vs_Halmstad_2398840_—_admin" group-title="Streamed.pk Live Sports",Djurg Rden Vs Halmstad 2398840 — admin
-# match: Djurg Rden Vs Halmstad 2398840
+#EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — admin" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_admin" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — admin
+# match: New York Knicks Vs Detroit Pistons 2505656
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-djurg-rden-vs-halmstads-bk/1
-https://lb13.strmd.st/secure/JPxmbAlzYrxoQqSlMtridTQsKQkerUNB/rtmp/stream/SXnNkMpPtlVyYEjlb-HFH7EbmO1B9Cp2XUaczIpyksbxlXsAUyNg6QX1mUwWE3E2_38ER-MYp7vR/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-detroit-pistons-vs-new-york-knicks/1
+https://lb14.strmd.st/secure/BxbnNSlbEBBHnALTroJJsATagYwXsMdV/rtmp/stream/pyNWf13qUc7JvXc89qtlldVQYsq3KvRCN-s4tLjQ2QaaJ27wsM0vbRGqne53P15gY8nx918KsNCfvhuAt_AG/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — echo" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_echo" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — echo
+# match: New York Knicks Vs Detroit Pistons 2505656
+# provider: echo
+# embed: https://embed.st/embed/echo/new-york-knicks-vs-detroit-pistons-basketball-502094/1
+https://lb1.strmd.st/secure/nydxGZwCJhjJpMsWicxZmcxjRUNRGJob/echo/stream/new-york-knicks-vs-detroit-pistons-basketball-502094/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — golf" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_golf" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — golf
+# match: New York Knicks Vs Detroit Pistons 2505656
+# provider: golf
+# embed: https://embed.st/embed/golf/23754/1
+https://cdn14.zohanayaan.com:1686/hls/mnewyorkknicks.m3u8?md5=GDDdF5S4lC87dLsMkRAOgA&expires=1783980629
 
