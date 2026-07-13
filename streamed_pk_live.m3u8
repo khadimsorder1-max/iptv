@@ -1,23 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-13T20:10:32+00:00
-# 3 streams captured from 1 matches
+# Streamed.pk live sports matches — built 2026-07-13T21:28:38+00:00
+# 6 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — admin" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_admin" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — admin
 # match: New York Knicks Vs Detroit Pistons 2505656
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-detroit-pistons-vs-new-york-knicks/1
-https://lb14.strmd.st/secure/BxbnNSlbEBBHnALTroJJsATagYwXsMdV/rtmp/stream/pyNWf13qUc7JvXc89qtlldVQYsq3KvRCN-s4tLjQ2QaaJ27wsM0vbRGqne53P15gY8nx918KsNCfvhuAt_AG/1/playlist.m3u8
+https://lb8.strmd.st/secure/zEpSBJkWMlTjrAUvObQdblRCyDXTutJK/rtmp/stream/LeeUYOwDKOO1oauNDbhqnLU6w6LL_zmxX7FqKZ1yBXAkR4cfZB9nfKJth1DatlY2IJFau4gZeEDTYkcJU0DP/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — echo" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_echo" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — echo
 # match: New York Knicks Vs Detroit Pistons 2505656
 # provider: echo
 # embed: https://embed.st/embed/echo/new-york-knicks-vs-detroit-pistons-basketball-502094/1
-https://lb1.strmd.st/secure/nydxGZwCJhjJpMsWicxZmcxjRUNRGJob/echo/stream/new-york-knicks-vs-detroit-pistons-basketball-502094/1/playlist.m3u8
+https://lb1.strmd.st/secure/XJsvtKfnQmgTdXCWSysbdRfrgmlbJIJS/echo/stream/new-york-knicks-vs-detroit-pistons-basketball-502094/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="New York Knicks Vs Detroit Pistons 2505656 — golf" tvg-id="New_York_Knicks_Vs_Detroit_Pistons_2505656_—_golf" group-title="Streamed.pk Live Sports",New York Knicks Vs Detroit Pistons 2505656 — golf
 # match: New York Knicks Vs Detroit Pistons 2505656
 # provider: golf
 # embed: https://embed.st/embed/golf/23754/1
-https://cdn14.zohanayaan.com:1686/hls/mnewyorkknicks.m3u8?md5=GDDdF5S4lC87dLsMkRAOgA&expires=1783980629
+https://cdn12.zohanayaan.com:1686/hls/mnewyorkknicks.m3u8?md5=AuycyMTqlSlTAk6gMVepBg&expires=1783985295
+
+#EXTINF:-1 tvg-name="Indiana Pacers Vs Toronto Raptors 2505657 — admin" tvg-id="Indiana_Pacers_Vs_Toronto_Raptors_2505657_—_admin" group-title="Streamed.pk Live Sports",Indiana Pacers Vs Toronto Raptors 2505657 — admin
+# match: Indiana Pacers Vs Toronto Raptors 2505657
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-toronto-raptors-vs-indiana-pacers/1
+https://lb7.strmd.st/secure/lCofijSsVJhfkjVDojOgoRDVqGTPHmYg/rtmp/stream/qpYcQLw2m3iIKPaXPyKKvofqi1Yc_unNbAy1m0k3GGf31troaZZefoTKCEJcsfQwsiYx5V-QQQ7XE0pd691e/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indiana Pacers Vs Toronto Raptors 2505657 — echo" tvg-id="Indiana_Pacers_Vs_Toronto_Raptors_2505657_—_echo" group-title="Streamed.pk Live Sports",Indiana Pacers Vs Toronto Raptors 2505657 — echo
+# match: Indiana Pacers Vs Toronto Raptors 2505657
+# provider: echo
+# embed: https://embed.st/embed/echo/indiana-pacers-vs-toronto-raptors-basketball-502095/1
+https://lb11.strmd.st/secure/vUlNAHYAXvsTLMGfYXgRbyXCJByeawqv/echo/stream/indiana-pacers-vs-toronto-raptors-basketball-502095/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indiana Pacers Vs Toronto Raptors 2505657 — golf" tvg-id="Indiana_Pacers_Vs_Toronto_Raptors_2505657_—_golf" group-title="Streamed.pk Live Sports",Indiana Pacers Vs Toronto Raptors 2505657 — golf
+# match: Indiana Pacers Vs Toronto Raptors 2505657
+# provider: golf
+# embed: https://embed.st/embed/golf/23755/1
+https://cdn13.zohanayaan.com:1686/hls/mindianapacers.m3u8?md5=qT9rFDrOOiV7ycCkRoDdRg&expires=1783985315
 
