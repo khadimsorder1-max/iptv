@@ -1,11 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-13T11:37:36+00:00
-# 1 streams captured from 1 matches
-
-#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
-# match: Admin Willow Cricket
-# provider: admin
-# embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb3.strmd.st/secure/JHAizAWozklsfQoscuYvTNJzlPXbPNRM/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-13T14:22:39+00:00
+# 0 streams captured from 0 matches
 
