@@ -1,23 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T06:07:23+00:00
-# 3 streams captured from 3 matches
-
-#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — golf" tvg-id="Portland_Trail_Blazers_Vs_Minnesota_Timberwolves_2505663_—_golf" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — golf
-# match: Portland Trail Blazers Vs Minnesota Timberwolves 2505663
-# provider: golf
-# embed: https://embed.st/embed/golf/23761/1
-https://cdn12.zohanayaan.com:1686/hls/mportlandtrailblazers.m3u8?md5=Fx7nM8D33nIrV98bCPQ_0g&expires=1784016425
+# Streamed.pk live sports matches — built 2026-07-14T08:34:25+00:00
+# 2 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="23769 — golf" tvg-id="23769_—_golf" group-title="Streamed.pk Live Sports",23769 — golf
 # match: 23769
 # provider: golf
 # embed: https://embed.st/embed/golf/23769/1
-https://cdn13.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=DGwioVxBKWV5X4iyA1iVzQ&expires=1784016433
+https://cdn13.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=qyWA01dHvdv_YUErahCMfw&expires=1784025255
 
 #EXTINF:-1 tvg-name="Ppv Home Run Derby — admin" tvg-id="Ppv_Home_Run_Derby_—_admin" group-title="Streamed.pk Live Sports",Ppv Home Run Derby — admin
 # match: Ppv Home Run Derby
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-home-run-derby/1
-https://lb9.strmd.st/secure/cgHSNsQwmIidNcuKbOWehhapawwBQtwO/rtmp/stream/i7BoQQiLrQNLjRoDbLo2A_RZEk32hQa4utY7ntu-ODyxgrH4328QweoZyjP-A5ooCWJTx0tue_Fl6QAq7f18-l0/1/playlist.m3u8
+https://lb5.strmd.st/secure/EKUsiSlCxNugsDRDnzGhkxaLmWyqWqdx/rtmp/stream/i7BoQQiLrQNLjRoDbLo2A_RZEk32hQa4utY7ntu-ODyxgrH4328QweoZyjP-A5ooCWJTx0tue_Fl6QAq7f18-l0/1/playlist.m3u8
 
