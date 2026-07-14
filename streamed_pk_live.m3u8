@@ -1,47 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T21:31:07+00:00
-# 7 streams captured from 2 matches
+# Streamed.pk live sports matches — built 2026-07-14T22:33:20+00:00
+# 7 streams captured from 3 matches
 
-#EXTINF:-1 tvg-name="France Vs Spain 2528031 — admin" tvg-id="France_Vs_Spain_2528031_—_admin" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — admin
-# match: France Vs Spain 2528031
+#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — admin" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_admin" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — admin
+# match: Brooklyn Nets Vs Sacramento Kings 2505665
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-france-vs-spain/1
-https://lb5.strmd.st/secure/TdtImdiCKaeaSulLqkMQUShRvCIlVzHF/rtmp/stream/zBxe72KF4haO9HNIbwVAhXxTgKa72wl2yuXXhI42osZ9Iozc9rHcmFlYo8YtvVapDq5zh04QpQ/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-sacramento-kings-vs-brooklyn-nets/1
+https://lb12.strmd.st/secure/asQPzQQBuDIgfXgLwAwiHAxHGuYgdXpy/rtmp/stream/Qzm_vm2r7kEo8wub3ELQnaZqLbKM9dHXsUL65sdZ0ctjuh3A38EBBXXHVna4Oahfbh7dW2dPUj3Z_GFh2WY/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="France Vs Spain 2528031 — delta" tvg-id="France_Vs_Spain_2528031_—_delta" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — delta
-# match: France Vs Spain 2528031
+#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — delta" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_delta" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — delta
+# match: Brooklyn Nets Vs Sacramento Kings 2505665
 # provider: delta
-# embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1
-https://lb9.strmd.st/secure/wzgihToPDfgGCxuvtSHKFLpZeeVIPcHQ/delta/stream/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_nba-summer-league_nets-kings-live-streaming-588914928/1
+https://lb8.strmd.st/secure/RRksmMjNejCAPWxpjRVSZjQsjvQCxlzx/delta/stream/live_nba-summer-league_nets-kings-live-streaming-588914928/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="France Vs Spain 2528031 — echo" tvg-id="France_Vs_Spain_2528031_—_echo" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — echo
-# match: France Vs Spain 2528031
+#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — echo" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_echo" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — echo
+# match: Brooklyn Nets Vs Sacramento Kings 2505665
 # provider: echo
-# embed: https://embed.st/embed/echo/france-vs-spain-german-spainish-french-gamegbbl-12/1
-https://lb6.strmd.st/secure/vqWcFoaoZbcsYszkXsxMOlAhoPXkeDdm/echo/stream/france-vs-spain-german-spainish-french-gamegbbl-12/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/brooklyn-nets-vs-sacramento-kings-basketball-502103/1
+https://lb2.strmd.st/secure/JLGEvJSfgmhhcOPHXifJcHoQgSKqDnuE/echo/stream/brooklyn-nets-vs-sacramento-kings-basketball-502103/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — golf" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_golf" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — golf
+# match: Brooklyn Nets Vs Sacramento Kings 2505665
+# provider: golf
+# embed: https://embed.st/embed/golf/23763/1
+https://cdn11.zohanayaan.com:1686/hls/mbrooklynnets.m3u8?md5=H4lnYsxgYrpgb2GHN-PDRA&expires=1784075576
+
+#EXTINF:-1 tvg-name="23768 — golf" tvg-id="23768_—_golf" group-title="Streamed.pk Live Sports",23768 — golf
+# match: 23768
+# provider: golf
+# embed: https://embed.st/embed/golf/23768/1
+https://cdn14.zohanayaan.com:1686/hls/mevent1.m3u8?md5=sHC2-o-3qavqB5JUsTi64w&expires=1784075583
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — admin" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_admin" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — admin
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-philadelphia-76-ers-vs-houston-rockets/1
-https://lb3.strmd.st/secure/EdXzqqooqPfCuDtDBMOQFEVIBuQYcXcW/rtmp/stream/KOHk1xCrRoo2dMtjf4lzVYhhaYkbumaoIGKnTqSrcjAhhMDc02Nfhg5sHyG_6VjwPoExw8p28foONkQ9WxaCHw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — delta" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_delta" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — delta
-# match: Houston Rockets Vs Philadelphia 76ers 2505664
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_rockets-76ers-live-streaming-588914496/1
-https://lb10.strmd.st/secure/VYGkyQKTOpZlqNtBcvmnZSTDeUamdEPu/delta/stream/live_nba-summer-league_rockets-76ers-live-streaming-588914496/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — echo" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_echo" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — echo
-# match: Houston Rockets Vs Philadelphia 76ers 2505664
-# provider: echo
-# embed: https://embed.st/embed/echo/houston-rockets-vs-philadelphia-76ers-basketball-502102/1
-https://lb9.strmd.st/secure/obYagehcKItjcqPxKxHPISaFqvcBLWSC/echo/stream/houston-rockets-vs-philadelphia-76ers-basketball-502102/1/playlist.m3u8
+https://lb9.strmd.st/secure/WgGXeqQxJViCGNKmilWRTzryBBNNmHuL/rtmp/stream/O1v9D6_TISKN9fxR2CuviVkxfZtVBy7LySqD8Rbj55uEw4mu_Ky5bzLGMtlO9749euRyCmTeCgcg_E6Zkf9_SA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — golf" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_golf" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — golf
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: golf
 # embed: https://embed.st/embed/golf/23762/1
-https://cdn13.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=mnsZU6IfI1qvgu_HGpCkCQ&expires=1784071863
+https://cdn11.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=rkPeh_3BFo4GcGM9D2yDHw&expires=1784075597
 
