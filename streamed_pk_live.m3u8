@@ -1,11 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T10:41:47+00:00
-# 1 streams captured from 1 matches
+# Streamed.pk live sports matches — built 2026-07-14T12:08:07+00:00
+# 3 streams captured from 3 matches
+
+#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
+# match: Uci Tour De France Uci World Tour Game 13622
+# provider: echo
+# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
+https://lb1.strmd.st/secure/MKYVcQqdjjvOliYWbYtHSAulkEAFXzCX/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 10 2447757 — admin" tvg-id="Tour_De_France_Stage_10_2447757_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 10 2447757 — admin
+# match: Tour De France Stage 10 2447757
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-10/1
+https://lb8.strmd.st/secure/WrkXtEemPTuSJKJHiEfRikDevKWkLpJU/rtmp/stream/wWl69tChc1eC5BZCjgzqvKnRZ2jRd-FeYgfP7MEDeYFkFSJflrqyWdxFPFwCB5Ehk5nma_-0/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="England Vs India First One Day International Game 19993637 — echo" tvg-id="England_Vs_India_First_One_Day_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India First One Day International Game 19993637 — echo
 # match: England Vs India First One Day International Game 19993637
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-india-first-one-day-international-game-19993637/1
-https://lb8.strmd.st/secure/LfGuapciNBagWDcPGICjYpuMHpFAKdHQ/echo/stream/england-vs-india-first-one-day-international-game-19993637/1/playlist.m3u8
+https://lb3.strmd.st/secure/GauKFXezfyXBIVkyVGORkyElckZOVvcb/echo/stream/england-vs-india-first-one-day-international-game-19993637/1/playlist.m3u8
 
