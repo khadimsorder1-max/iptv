@@ -1,41 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T17:10:25+00:00
-# 6 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-14T18:37:34+00:00
+# 5 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — admin" tvg-id="France_Vs_Spain_2528031_—_admin" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — admin
 # match: France Vs Spain 2528031
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-france-vs-spain/1
-https://lb15.strmd.st/secure/jVpyngmOBvuPNtkXYmkNZUiMlpbjFRzL/rtmp/stream/5rPxSWY37lerttHaUvCzLwV9drrZ9K_zM5OAOHsX25X_1maRtmyz30_SKGKbOVtM-wTiGYuyIQ/1/playlist.m3u8
+https://lb12.strmd.st/secure/OlzrvhzmzBDfCyRtoXqkBBWAwUOCuAjE/rtmp/stream/tP86vPjYTPavYQHtb0xYbdLsTI56XPiQQQOtndRb7n28ffSGq_StgDJuwpTGV-vxXl6aHBtS9Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France Vs Spain 2528031 — delta" tvg-id="France_Vs_Spain_2528031_—_delta" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — delta
+# match: France Vs Spain 2528031
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1
+https://lb4.strmd.st/secure/VggUASXHAzkUEjoeicEMMedQkeQckKOq/delta/stream/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — echo" tvg-id="France_Vs_Spain_2528031_—_echo" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — echo
 # match: France Vs Spain 2528031
 # provider: echo
 # embed: https://embed.st/embed/echo/france-vs-spain-football-1585131/1
-https://lb7.strmd.st/secure/LFciqMYRIObOfhPatDQcjxNhIPWXdjwi/echo/stream/france-vs-spain-football-1585131/1/playlist.m3u8
+https://lb14.strmd.st/secure/SyWNGfsKpSDoyyHdFJvHvALmWkvuhefd/echo/stream/france-vs-spain-football-1585131/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — golf" tvg-id="France_Vs_Spain_2528031_—_golf" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — golf
 # match: France Vs Spain 2528031
 # provider: golf
 # embed: https://embed.st/embed/golf/23742/1
-https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=7kote4c6GP1avoC7bMO2Pg&expires=1784056200
-
-#EXTINF:-1 tvg-name="Connecticut Sun W Vs Portland Fire W Basketball 494950 — echo" tvg-id="Connecticut_Sun_W_Vs_Portland_Fire_W_Basketball_494950_—_echo" group-title="Streamed.pk Live Sports",Connecticut Sun W Vs Portland Fire W Basketball 494950 — echo
-# match: Connecticut Sun W Vs Portland Fire W Basketball 494950
-# provider: echo
-# embed: https://embed.st/embed/echo/connecticut-sun-w-vs-portland-fire-w-basketball-494950/1
-https://lb1.strmd.st/secure/prhujgXwnNdFHwoSREgUeWgfylwyvnXU/echo/stream/connecticut-sun-w-vs-portland-fire-w-basketball-494950/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Connecticut Sun Vs Portland Fire 2469374 — admin" tvg-id="Connecticut_Sun_Vs_Portland_Fire_2469374_—_admin" group-title="Streamed.pk Live Sports",Connecticut Sun Vs Portland Fire 2469374 — admin
-# match: Connecticut Sun Vs Portland Fire 2469374
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-connecticut-sun/1
-https://lb10.strmd.st/secure/LwwuVDwocOyinjAQmXvOziJboEjLvSYJ/rtmp/stream/42sHz7DT8f8-bfZxqpHolKfxd__bK8BIiVjixKsFKRzfPP4eZ4ARMeyH-dFlIoYNCizqQic8dYbopZ5QMiF6aA/1/playlist.m3u8
+https://cdn12.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=X5AtCHzBodvhUI8FQC9SAA&expires=1784061444
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb14.strmd.st/secure/EAbUTONkygiEEEeFthdIhgbpUZYWtQqZ/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb2.strmd.st/secure/UXaYJzgnamjcAHnUmJQATrjLgbPalRnl/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
