@@ -1,65 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T20:08:36+00:00
-# 10 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-14T21:31:07+00:00
+# 7 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — admin" tvg-id="France_Vs_Spain_2528031_—_admin" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — admin
 # match: France Vs Spain 2528031
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-france-vs-spain/1
-https://lb5.strmd.st/secure/mfJgRCbzYxwrSPqqzSClWRJMJByUxmlH/rtmp/stream/6vqOUpjjIi5ZMpZrbmTUT_Yeixtwlgn4lj1QOu1XQdJgam7gPcBDN3g2tqi1OmK0cZk2ivNv_w/1/playlist.m3u8
+https://lb5.strmd.st/secure/TdtImdiCKaeaSulLqkMQUShRvCIlVzHF/rtmp/stream/zBxe72KF4haO9HNIbwVAhXxTgKa72wl2yuXXhI42osZ9Iozc9rHcmFlYo8YtvVapDq5zh04QpQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — delta" tvg-id="France_Vs_Spain_2528031_—_delta" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — delta
 # match: France Vs Spain 2528031
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1
-https://lb15.strmd.st/secure/POOTXMkngHLJlkUbGtzUiCBXsYYcMZgA/delta/stream/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1/playlist.m3u8
+https://lb9.strmd.st/secure/wzgihToPDfgGCxuvtSHKFLpZeeVIPcHQ/delta/stream/live_world-cup-knockout-stage_france-spain-live-streaming-538120800/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs Spain 2528031 — echo" tvg-id="France_Vs_Spain_2528031_—_echo" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — echo
 # match: France Vs Spain 2528031
 # provider: echo
-# embed: https://embed.st/embed/echo/france-vs-spain-football-1585131/1
-https://lb10.strmd.st/secure/tOhQgkkGjXKzpDlFMrRJPyqdOiXmqrCe/echo/stream/france-vs-spain-football-1585131/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France Vs Spain 2528031 — golf" tvg-id="France_Vs_Spain_2528031_—_golf" group-title="Streamed.pk Live Sports",France Vs Spain 2528031 — golf
-# match: France Vs Spain 2528031
-# provider: golf
-# embed: https://embed.st/embed/golf/23742/1
-https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=YNdzNym4k9DACfb0pd5DSA&expires=1784066871
+# embed: https://embed.st/embed/echo/france-vs-spain-german-spainish-french-gamegbbl-12/1
+https://lb6.strmd.st/secure/vqWcFoaoZbcsYszkXsxMOlAhoPXkeDdm/echo/stream/france-vs-spain-german-spainish-french-gamegbbl-12/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — admin" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_admin" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — admin
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-philadelphia-76-ers-vs-houston-rockets/1
-https://lb6.strmd.st/secure/zHfGqSmCXTNTJHkQDJBnmUXFkzCPdjfp/rtmp/stream/L6fcXWCo-2F-cLIQtalclidvoEIwPOlt81GEbfBjpMsmkFKvdO4jZ9ruAcXnbcyEKUJ_VqTyB21Qv57DDz7URg/1/playlist.m3u8
+https://lb3.strmd.st/secure/EdXzqqooqPfCuDtDBMOQFEVIBuQYcXcW/rtmp/stream/KOHk1xCrRoo2dMtjf4lzVYhhaYkbumaoIGKnTqSrcjAhhMDc02Nfhg5sHyG_6VjwPoExw8p28foONkQ9WxaCHw/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — delta" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_delta" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — delta
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: delta
 # embed: https://embed.st/embed/delta/live_nba-summer-league_rockets-76ers-live-streaming-588914496/1
-https://lb11.strmd.st/secure/cRcOmnpQZIXCcyGhgqEcfZIbJpGYnLPQ/delta/stream/live_nba-summer-league_rockets-76ers-live-streaming-588914496/1/playlist.m3u8
+https://lb10.strmd.st/secure/VYGkyQKTOpZlqNtBcvmnZSTDeUamdEPu/delta/stream/live_nba-summer-league_rockets-76ers-live-streaming-588914496/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — echo" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_echo" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — echo
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: echo
 # embed: https://embed.st/embed/echo/houston-rockets-vs-philadelphia-76ers-basketball-502102/1
-https://lb2.strmd.st/secure/zJdxDAVvcoIKkQFSLxgVMuktzvlUrtrO/echo/stream/houston-rockets-vs-philadelphia-76ers-basketball-502102/1/playlist.m3u8
+https://lb9.strmd.st/secure/obYagehcKItjcqPxKxHPISaFqvcBLWSC/echo/stream/houston-rockets-vs-philadelphia-76ers-basketball-502102/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Philadelphia 76ers 2505664 — golf" tvg-id="Houston_Rockets_Vs_Philadelphia_76ers_2505664_—_golf" group-title="Streamed.pk Live Sports",Houston Rockets Vs Philadelphia 76ers 2505664 — golf
 # match: Houston Rockets Vs Philadelphia 76ers 2505664
 # provider: golf
 # embed: https://embed.st/embed/golf/23762/1
-https://cdn11.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=qiXB9RlV0NtxCDkPRjZWEw&expires=1784066901
-
-#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — echo" tvg-id="England_Vs_Argentina_2528727_—_echo" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — echo
-# match: England Vs Argentina 2528727
-# provider: echo
-# embed: https://embed.st/embed/echo/england-vs-argentina-football-1586077/1
-https://lb7.strmd.st/secure/cIsURXhpJKsLdMBiKztrpeGQsWdOLUFx/echo/stream/england-vs-argentina-football-1586077/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — golf" tvg-id="England_Vs_Argentina_2528727_—_golf" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — golf
-# match: England Vs Argentina 2528727
-# provider: golf
-# embed: https://embed.st/embed/golf/23744/1
-https://cdn12.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=1a-N7Mikm5yUf8R_4xQWUA&expires=1784066912
+https://cdn13.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=mnsZU6IfI1qvgu_HGpCkCQ&expires=1784071863
 
