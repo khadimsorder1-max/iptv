@@ -1,65 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-14T03:55:59+00:00
-# 10 streams captured from 6 matches
-
-#EXTINF:-1 tvg-name="Ppv Home Run Derby — admin" tvg-id="Ppv_Home_Run_Derby_—_admin" group-title="Streamed.pk Live Sports",Ppv Home Run Derby — admin
-# match: Ppv Home Run Derby
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-home-run-derby/1
-https://lb8.strmd.st/secure/POtAOKYagohfQCGhaekWXIxcRtoUubhr/rtmp/stream/_fjjXj6NZ6X4QQNxedYFMJSLlw5k9G9Po3SGXdXKyTQXmS8lc1RArUYz4Qi5c5xJ-DxjKJvJWWU7tgx_33AvukA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Milwaukee Bucks Vs Phoenix Suns 2505662 — echo" tvg-id="Milwaukee_Bucks_Vs_Phoenix_Suns_2505662_—_echo" group-title="Streamed.pk Live Sports",Milwaukee Bucks Vs Phoenix Suns 2505662 — echo
-# match: Milwaukee Bucks Vs Phoenix Suns 2505662
-# provider: echo
-# embed: https://embed.st/embed/echo/milwaukee-bucks-vs-phoenix-suns-basketball-502100/1
-https://lb15.strmd.st/secure/zUodGxwLtJSfCtYIZOSUGgfPslUXDfWk/echo/stream/milwaukee-bucks-vs-phoenix-suns-basketball-502100/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Milwaukee Bucks Vs Phoenix Suns 2505662 — golf" tvg-id="Milwaukee_Bucks_Vs_Phoenix_Suns_2505662_—_golf" group-title="Streamed.pk Live Sports",Milwaukee Bucks Vs Phoenix Suns 2505662 — golf
-# match: Milwaukee Bucks Vs Phoenix Suns 2505662
-# provider: golf
-# embed: https://embed.st/embed/golf/23760/1
-https://cdn12.zohanayaan.com:1686/hls/mmilwaukeebucks.m3u8?md5=yDZ2UJ-DMky8p4EZO1nHpQ&expires=1784008507
-
-#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — admin" tvg-id="Portland_Trail_Blazers_Vs_Minnesota_Timberwolves_2505663_—_admin" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — admin
-# match: Portland Trail Blazers Vs Minnesota Timberwolves 2505663
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-minnesota-timberwolves-vs-portland-trail-blazers/1
-https://lb3.strmd.st/secure/vKWmLXhSehzAAzBTRvHNMOeImdaBnCVJ/rtmp/stream/Yyo3ppT_HE9u4MXJMZQyyNGuYWTcTyoP76ztq79hHBWHb0Jlo5anBUmofGMZBtVL0CTdKktpAL22Xt-Oh3PAPipaeVpoSA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — echo" tvg-id="Portland_Trail_Blazers_Vs_Minnesota_Timberwolves_2505663_—_echo" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — echo
-# match: Portland Trail Blazers Vs Minnesota Timberwolves 2505663
-# provider: echo
-# embed: https://embed.st/embed/echo/portland-trail-blazers-vs-minnesota-timberwolves-basketball-502101/1
-https://lb10.strmd.st/secure/asLppxZBEzqotCzyTZuapmtBfIaaJBEF/echo/stream/portland-trail-blazers-vs-minnesota-timberwolves-basketball-502101/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-14T06:07:23+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — golf" tvg-id="Portland_Trail_Blazers_Vs_Minnesota_Timberwolves_2505663_—_golf" group-title="Streamed.pk Live Sports",Portland Trail Blazers Vs Minnesota Timberwolves 2505663 — golf
 # match: Portland Trail Blazers Vs Minnesota Timberwolves 2505663
 # provider: golf
 # embed: https://embed.st/embed/golf/23761/1
-https://cdn12.zohanayaan.com:1686/hls/mportlandtrailblazers.m3u8?md5=vZ2ZxvZBNnYV0-FNkq0jYQ&expires=1784008527
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Chicago Bulls 2505661 — admin" tvg-id="Utah_Jazz_Vs_Chicago_Bulls_2505661_—_admin" group-title="Streamed.pk Live Sports",Utah Jazz Vs Chicago Bulls 2505661 — admin
-# match: Utah Jazz Vs Chicago Bulls 2505661
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-chicago-bulls-vs-utah-jazz/1
-https://lb9.strmd.st/secure/zOsViZRjTlBwUJfsLOlMLlFMgrmToQMb/rtmp/stream/5gP0CtS51TAXp-kKrK28QPBNZpGsofz9LHn_4HQ-EBis7ieuX5Im1hu_cLwsas7ACOAmHxXMcSh7jA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Utah Jazz Vs Chicago Bulls 2505661 — golf" tvg-id="Utah_Jazz_Vs_Chicago_Bulls_2505661_—_golf" group-title="Streamed.pk Live Sports",Utah Jazz Vs Chicago Bulls 2505661 — golf
-# match: Utah Jazz Vs Chicago Bulls 2505661
-# provider: golf
-# embed: https://embed.st/embed/golf/23759/1
-https://cdn15.zohanayaan.com:1686/hls/mutahjazz.m3u8?md5=Aic54rP_jP6PvMylTNn32Q&expires=1784008541
-
-#EXTINF:-1 tvg-name="Minnesota Lynx Vs Phoenix Mercury 2449109 — admin" tvg-id="Minnesota_Lynx_Vs_Phoenix_Mercury_2449109_—_admin" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs Phoenix Mercury 2449109 — admin
-# match: Minnesota Lynx Vs Phoenix Mercury 2449109
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-minnesota-lynx/1
-https://lb8.strmd.st/secure/GeDcXqznLOGFFqVMxuMIyySNluHLOBvR/rtmp/stream/nKiuzx0_pHlfoFNJfMvok48HTFQa7aN4yF8GJKAbC1mLfrTX11ye77M8ViYVb16W5SXzuujq1ARzaRx2QBPu/1/playlist.m3u8
+https://cdn12.zohanayaan.com:1686/hls/mportlandtrailblazers.m3u8?md5=Fx7nM8D33nIrV98bCPQ_0g&expires=1784016425
 
 #EXTINF:-1 tvg-name="23769 — golf" tvg-id="23769_—_golf" group-title="Streamed.pk Live Sports",23769 — golf
 # match: 23769
 # provider: golf
 # embed: https://embed.st/embed/golf/23769/1
-https://cdn15.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=rh-cd6i-h_lxJfJ-8osh5w&expires=1784008555
+https://cdn13.zohanayaan.com:1686/hls/mmevent10.m3u8?md5=DGwioVxBKWV5X4iyA1iVzQ&expires=1784016433
+
+#EXTINF:-1 tvg-name="Ppv Home Run Derby — admin" tvg-id="Ppv_Home_Run_Derby_—_admin" group-title="Streamed.pk Live Sports",Ppv Home Run Derby — admin
+# match: Ppv Home Run Derby
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-home-run-derby/1
+https://lb9.strmd.st/secure/cgHSNsQwmIidNcuKbOWehhapawwBQtwO/rtmp/stream/i7BoQQiLrQNLjRoDbLo2A_RZEk32hQa4utY7ntu-ODyxgrH4328QweoZyjP-A5ooCWJTx0tue_Fl6QAq7f18-l0/1/playlist.m3u8
 
