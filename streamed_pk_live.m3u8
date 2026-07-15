@@ -1,89 +1,113 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T22:57:09+00:00
-# 14 streams captured from 7 matches
-
-#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — admin" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_admin" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — admin
-# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-cleveland-cavaliers/1
-https://lb5.strmd.st/secure/yGfJhmbGMkMCvILQcerhJkDcIkxPJxuz/rtmp/stream/xXFpe5a7XlIOgtazGHMXXixWXJ8juOEMqImalXDggNH4HDSNoFU2wfB-DoGVTOJKEOzgXIrS25UCTcsx3a0Z1xaRLPw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — delta" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_delta" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — delta
-# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_cavaliers-pelicans-live-streaming-588935232/1
-https://lb6.strmd.st/secure/AMIjziLYDbyGKBtQVQJGlESUEhLiQdyN/delta/stream/live_nba-summer-league_cavaliers-pelicans-live-streaming-588935232/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — echo" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_echo" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — echo
-# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
-# provider: echo
-# embed: https://embed.st/embed/echo/cleveland-cavaliers-vs-new-orleans-pelicans-basketball-502110/1
-https://lb9.strmd.st/secure/LnTCbCjixxdIKbDKiNPdxZtkueNmElbj/echo/stream/cleveland-cavaliers-vs-new-orleans-pelicans-basketball-502110/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — golf" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_golf" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — golf
-# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
-# provider: golf
-# embed: https://embed.st/embed/golf/23773/1
-https://cdn14.zohanayaan.com:1686/hls/mclevelandcavaliers.m3u8?md5=_6Op1pPmA94t4Ny4h_OYbA&expires=1784163358
+# Streamed.pk live sports matches — built 2026-07-15T23:57:25+00:00
+# 18 streams captured from 10 matches
 
 #EXTINF:-1 tvg-name="Detroit Pistons Vs Phoenix Suns 2505673 — admin" tvg-id="Detroit_Pistons_Vs_Phoenix_Suns_2505673_—_admin" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Phoenix Suns 2505673 — admin
 # match: Detroit Pistons Vs Phoenix Suns 2505673
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-phoenix-suns-vs-detroit-pistons/1
-https://lb2.strmd.st/secure/cGpjxbjxKaaUlklqURHRllAdQpazWwpn/rtmp/stream/plQEX9L1GbJ1GKlqtbK7E1btQOQwsafnChWCUvoXRnzg7LkS-a1po6Ysucer_Tn3rlTLdERRef7TMhtB6jribg/1/playlist.m3u8
+https://lb6.strmd.st/secure/QsslfvSnjqgueMexHMVzbLSbwweRYlpP/rtmp/stream/eGZwBTd20WBQ3IcVEUQ9JUpO2DhNAGLqkhdER-FxnjSLBqx2zJvZ2q3on-dGNRx0VYMrTiDYQY9MMQDVMc05PQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Detroit Pistons Vs Phoenix Suns 2505673 — delta" tvg-id="Detroit_Pistons_Vs_Phoenix_Suns_2505673_—_delta" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Phoenix Suns 2505673 — delta
 # match: Detroit Pistons Vs Phoenix Suns 2505673
 # provider: delta
 # embed: https://embed.st/embed/delta/live_nba-summer-league_pistons-suns-live-streaming-588935664/1
-https://lb14.strmd.st/secure/MNMFYAzyIwRwHXtcdQiYqKjPZESfKMYf/delta/stream/live_nba-summer-league_pistons-suns-live-streaming-588935664/1/playlist.m3u8
+https://lb1.strmd.st/secure/zUfUiwPEdMzBkKgqPhpOqMKjrhRtbcKT/delta/stream/live_nba-summer-league_pistons-suns-live-streaming-588935664/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Detroit Pistons Vs Phoenix Suns 2505673 — echo" tvg-id="Detroit_Pistons_Vs_Phoenix_Suns_2505673_—_echo" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Phoenix Suns 2505673 — echo
 # match: Detroit Pistons Vs Phoenix Suns 2505673
 # provider: echo
 # embed: https://embed.st/embed/echo/detroit-pistons-vs-phoenix-suns-basketball-502111/1
-https://lb9.strmd.st/secure/UdEADLXTCCzbPnQjyXapHcgmrZSpZCfs/echo/stream/detroit-pistons-vs-phoenix-suns-basketball-502111/1/playlist.m3u8
+https://lb11.strmd.st/secure/sHoYIamKxtJIImuevpRupxYAkfGYOBDd/echo/stream/detroit-pistons-vs-phoenix-suns-basketball-502111/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Detroit Pistons Vs Phoenix Suns 2505673 — golf" tvg-id="Detroit_Pistons_Vs_Phoenix_Suns_2505673_—_golf" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Phoenix Suns 2505673 — golf
 # match: Detroit Pistons Vs Phoenix Suns 2505673
 # provider: golf
 # embed: https://embed.st/embed/golf/23774/1
-https://cdn11.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=QCr2AG1HyDSyxhVIEkKi7g&expires=1784163383
+https://cdn15.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=tmpVmwH7YII-1M8rtgZihQ&expires=1784166954
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — admin" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_admin" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — admin
+# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-charlotte-hornets/1
+https://lb13.strmd.st/secure/LlzDfZhjOruXPzwElCaQlsNHgQdaNyku/rtmp/stream/MyWu27eMKNACAKXq8CW15739oyVksMv9VT1Z8ZVV0BDjfGV0yeevlEaYyxVYa3PilLezeBg3pELjrKHwGXVe8uY8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — delta" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_delta" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — delta
+# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_hornets-bucks-live-streaming-588936096/1
+https://lb12.strmd.st/secure/yhuhhjXhOGbiXnhSKSNzAunJGQFttwsH/delta/stream/live_nba-summer-league_hornets-bucks-live-streaming-588936096/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — echo" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_echo" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — echo
+# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
+# provider: echo
+# embed: https://embed.st/embed/echo/charlotte-hornets-vs-milwaukee-bucks-basketball-502112/1
+https://lb10.strmd.st/secure/CJPnJtQJwOAgitRevsDdZruijmzYcJQw/echo/stream/charlotte-hornets-vs-milwaukee-bucks-basketball-502112/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — golf" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_golf" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — golf
+# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
+# provider: golf
+# embed: https://embed.st/embed/golf/23775/1
+https://cdn12.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=suIYFvUQ-pBpk25Fhqc6GA&expires=1784166978
+
+#EXTINF:-1 tvg-name="Indiana Fever Vs Golden State Valkyries 2449112 — admin" tvg-id="Indiana_Fever_Vs_Golden_State_Valkyries_2449112_—_admin" group-title="Streamed.pk Live Sports",Indiana Fever Vs Golden State Valkyries 2449112 — admin
+# match: Indiana Fever Vs Golden State Valkyries 2449112
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-indiana-fever/1
+https://lb5.strmd.st/secure/mimfjsndkPMyxwzSHgdoxfWBaNVAkXmM/rtmp/stream/EexStFNWJda7glXg5zGEILPAZSnctnKax-7AsVdrtX6MY6b00VI44Ltdn0aKctFcEBIaeKzEEnMiDBX7vfc/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indiana Fever Vs Golden State Valkyries 2449112 — delta" tvg-id="Indiana_Fever_Vs_Golden_State_Valkyries_2449112_—_delta" group-title="Streamed.pk Live Sports",Indiana Fever Vs Golden State Valkyries 2449112 — delta
+# match: Indiana Fever Vs Golden State Valkyries 2449112
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_fever-valkyries-live-streaming-523972368/1
+https://lb6.strmd.st/secure/VZszBMxHRROYgemKJdSbAmVCJqSDGpXg/delta/stream/live_wnba_fever-valkyries-live-streaming-523972368/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — admin" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_admin" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — admin
+# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-new-orleans-pelicans-vs-cleveland-cavaliers/1
+https://lb7.strmd.st/secure/xoDnVLcdIzFTCFhBSVpShByIqWtwPviB/rtmp/stream/pwo8cajO3h5HGgD7vD2aiPczillzkmnMKNlne5gl9f7HwFhp2YWx3175iqHfpsF9v4BAXCox77OokANblxG8UYoc5ac/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — golf" tvg-id="Cleveland_Cavaliers_Vs_New_Orleans_Pelicans_2505672_—_golf" group-title="Streamed.pk Live Sports",Cleveland Cavaliers Vs New Orleans Pelicans 2505672 — golf
+# match: Cleveland Cavaliers Vs New Orleans Pelicans 2505672
+# provider: golf
+# embed: https://embed.st/embed/golf/23773/1
+https://cdn14.zohanayaan.com:1686/hls/mclevelandcavaliers.m3u8?md5=_ZV4IuXg2RHooT9n50iPDQ&expires=1784167003
+
+#EXTINF:-1 tvg-name="Indiana Fever W Vs Golden State Valkyries W Basketball 494954 — echo" tvg-id="Indiana_Fever_W_Vs_Golden_State_Valkyries_W_Basketball_494954_—_echo" group-title="Streamed.pk Live Sports",Indiana Fever W Vs Golden State Valkyries W Basketball 494954 — echo
+# match: Indiana Fever W Vs Golden State Valkyries W Basketball 494954
+# provider: echo
+# embed: https://embed.st/embed/echo/indiana-fever-w-vs-golden-state-valkyries-w-basketball-494954/1
+https://lb12.strmd.st/secure/DJOJLhfPPDJyswkHtzapuovxicyiPTPx/echo/stream/indiana-fever-w-vs-golden-state-valkyries-w-basketball-494954/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Weekly Racing Utica Rome Ppv 03 — echo" tvg-id="Ppv_Event_03_Weekly_Racing_Utica_Rome_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Weekly Racing Utica Rome Ppv 03 — echo
+# match: Ppv Event 03 Weekly Racing Utica Rome Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-weekly-racing-utica-rome-ppv-03/1
+https://lb11.strmd.st/secure/RnRtxtHYCxbiGEYmqbZdKDwJBRgRMEcb/echo/stream/ppv-event-03-weekly-racing-utica-rome-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02 — echo" tvg-id="Ppv_Event_02_Hlr_Jokers_Jackpot_Eldora_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02 — echo
+# match: Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-hlr-jokers-jackpot-eldora-ppv-02/1
+https://lb13.strmd.st/secure/SuSDdTAdiSKwoKeBjGHEJozPNpVWIhwC/echo/stream/ppv-event-02-hlr-jokers-jackpot-eldora-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 01 Gaf Roofing Modified Masters Stafford Ppv 01 — echo" tvg-id="Ppv_Event_01_Gaf_Roofing_Modified_Masters_Stafford_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Gaf Roofing Modified Masters Stafford Ppv 01 — echo
 # match: Ppv Event 01 Gaf Roofing Modified Masters Stafford Ppv 01
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-01-gaf-roofing-modified-masters-stafford-ppv-01/1
-https://lb11.strmd.st/secure/VPLPSgKHCHnYPLNkbAIHfhalAeMFUPHM/echo/stream/ppv-event-01-gaf-roofing-modified-masters-stafford-ppv-01/1/playlist.m3u8
+https://lb2.strmd.st/secure/ximWjjWKxlKRCwKLnRpXjknORajCslSF/echo/stream/ppv-event-01-gaf-roofing-modified-masters-stafford-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo" tvg-id="Mlc_Qualifier_La_Knight_Riders_Vs_Sf_Unicorns_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo
 # match: Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637
 # provider: echo
 # embed: https://embed.st/embed/echo/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1
-https://lb15.strmd.st/secure/UcwyuOqmJFglYlrVVxeqakxBxOjSzqrW/echo/stream/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — admin" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_admin" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — admin
-# match: Philadelphia 76ers Vs Orlando Magic 2505671
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/1
-https://lb2.strmd.st/secure/dHGMCBcZrimnunqUXrZEOzSciQgpYFdE/rtmp/stream/ICXwXjJFO8tlWpDE0GQDtNTdA5AS0CslHtHNG_x2RH0qIRiRN0cr7rSF5ANP4_nOQPTl13oJzOmi7_d7tfOsbvrwIg/1/playlist.m3u8
+https://lb9.strmd.st/secure/MwtMGpnNOkQQugcmmbJaRWrPdaRNugGD/echo/stream/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — golf" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_golf" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — golf
 # match: Philadelphia 76ers Vs Orlando Magic 2505671
 # provider: golf
 # embed: https://embed.st/embed/golf/23772/1
-https://cdn11.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=36wX-SHcB3TI9OQLvGfntQ&expires=1784163411
-
-#EXTINF:-1 tvg-name="Minnesota Timberwolves Vs Indiana Pacers 2505670 — golf" tvg-id="Minnesota_Timberwolves_Vs_Indiana_Pacers_2505670_—_golf" group-title="Streamed.pk Live Sports",Minnesota Timberwolves Vs Indiana Pacers 2505670 — golf
-# match: Minnesota Timberwolves Vs Indiana Pacers 2505670
-# provider: golf
-# embed: https://embed.st/embed/golf/23771/1
-https://cdn12.zohanayaan.com:1686/hls/mminnesotatimberwolves.m3u8?md5=59VZes-jzE_qqefs1Ewd8w&expires=1784163418
-
-#EXTINF:-1 tvg-name="Yorkshire Vikings Vs Somerset T20 2529307 — echo" tvg-id="Yorkshire_Vikings_Vs_Somerset_T20_2529307_—_echo" group-title="Streamed.pk Live Sports",Yorkshire Vikings Vs Somerset T20 2529307 — echo
-# match: Yorkshire Vikings Vs Somerset T20 2529307
-# provider: echo
-# embed: https://embed.st/embed/echo/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1
-https://lb7.strmd.st/secure/uVCAoeBgCUmCNPKJUdytvIeJzEGgwxMn/echo/stream/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1/playlist.m3u8
+https://cdn15.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=1uEUuSQEtBVAQRgpuy5IfQ&expires=1784167041
 
