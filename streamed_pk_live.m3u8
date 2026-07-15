@@ -1,149 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T01:59:38+00:00
-# 24 streams captured from 13 matches
+# Streamed.pk live sports matches — built 2026-07-15T04:52:17+00:00
+# 6 streams captured from 5 matches
 
 #EXTINF:-1 tvg-name="23768 — golf" tvg-id="23768_—_golf" group-title="Streamed.pk Live Sports",23768 — golf
 # match: 23768
 # provider: golf
 # embed: https://embed.st/embed/golf/23768/1
-https://cdn15.zohanayaan.com:1686/hls/mevent1.m3u8?md5=TC6MT6GVVnL84uPRwiD_DQ&expires=1784087830
+https://cdn11.zohanayaan.com:1686/hls/mevent1.m3u8?md5=QHh27f3RFDRVRf7shKvRlA&expires=1784098302
 
 #EXTINF:-1 tvg-name="Ppv Mlb All Star Game — admin" tvg-id="Ppv_Mlb_All_Star_Game_—_admin" group-title="Streamed.pk Live Sports",Ppv Mlb All Star Game — admin
 # match: Ppv Mlb All Star Game
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-mlb-all-star-game/1
-https://lb6.strmd.st/secure/ucaAoLeVrzFijqikFmBVZanUTmHmNywb/rtmp/stream/f1caRx4vHgA8meqvoltVITRJYO5WUQLJHmsoXo0_4XoFiy0_ni0C3YBdRD23IsMib-wx-TM/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Bulls Vs Washington Wizards 2505667 — admin" tvg-id="Chicago_Bulls_Vs_Washington_Wizards_2505667_—_admin" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Washington Wizards 2505667 — admin
-# match: Chicago Bulls Vs Washington Wizards 2505667
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-washington-wizards-vs-chicago-bulls/1
-https://lb11.strmd.st/secure/rRlYOuBdlVjOgNgaWvrBOWPQJzYoAklM/rtmp/stream/0TOh-kJDSz8_twRiLzG0bVCwifSUHIBcACIOCTj90qxl7u8_cFv-FTSfy9orsgibHbRf9kIy40zX5f2X6rE/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Bulls Vs Washington Wizards 2505667 — delta" tvg-id="Chicago_Bulls_Vs_Washington_Wizards_2505667_—_delta" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Washington Wizards 2505667 — delta
-# match: Chicago Bulls Vs Washington Wizards 2505667
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_bulls-wizards-live-streaming-588915792/1
-https://lb4.strmd.st/secure/hZUuYVGBbslUfuRSYOVhwfdXbNyrepzV/delta/stream/live_nba-summer-league_bulls-wizards-live-streaming-588915792/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Bulls Vs Washington Wizards 2505667 — echo" tvg-id="Chicago_Bulls_Vs_Washington_Wizards_2505667_—_echo" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Washington Wizards 2505667 — echo
-# match: Chicago Bulls Vs Washington Wizards 2505667
-# provider: echo
-# embed: https://embed.st/embed/echo/chicago-bulls-vs-washington-wizards-basketball-502105/1
-https://lb8.strmd.st/secure/JmMqFQvGHCnwiIdcokkOfVqRdjdceQnc/echo/stream/chicago-bulls-vs-washington-wizards-basketball-502105/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Bulls Vs Washington Wizards 2505667 — golf" tvg-id="Chicago_Bulls_Vs_Washington_Wizards_2505667_—_golf" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Washington Wizards 2505667 — golf
-# match: Chicago Bulls Vs Washington Wizards 2505667
-# provider: golf
-# embed: https://embed.st/embed/golf/23765/1
-https://cdn12.zohanayaan.com:1686/hls/mchicagobulls.m3u8?md5=u0otJFjhNvBblnz1bzoK4A&expires=1784087861
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_admin" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — admin
-# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-denver-nuggets-vs-oklahoma-city-thunder/1
-https://lb10.strmd.st/secure/XkmIeGhTVVzkHIVroOmLRACbrgbPOUjS/rtmp/stream/i8o2N6REbzRXxFhlioLgtnyBgxIhwDmSHh3F_iMFIU_iJ3HRE3rJypKn2TWrjFrgPRnm_JvKRBYhp9PJURzLsqA5QmWT/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — delta" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_delta" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — delta
-# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_thunder-nuggets-live-streaming-588916224/1
-https://lb9.strmd.st/secure/BNNkKaoLkMdjVtitkkQCbckhcAXqwIex/delta/stream/live_nba-summer-league_thunder-nuggets-live-streaming-588916224/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — echo" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_echo" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — echo
-# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
-# provider: echo
-# embed: https://embed.st/embed/echo/oklahoma-city-thunder-vs-denver-nuggets-basketball-502106/1
-https://lb15.strmd.st/secure/nxlKydRSThmYfsOkNjsHTPibcCIsdvwB/echo/stream/oklahoma-city-thunder-vs-denver-nuggets-basketball-502106/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf
-# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
-# provider: golf
-# embed: https://embed.st/embed/golf/23766/1
-https://cdn11.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=j8_J64PIgh-1JDxcqpChTg&expires=1784087886
+https://lb14.strmd.st/secure/thktJwhishppSXCZvuWusCyjJCllbAGL/rtmp/stream/NqPqPzAa0UVZCT6A7981oxebFjG1UzKRTaVziYDxOBI-3gEPUZ4yruGuP-9ld_hO00hChEQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — admin" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — admin
 # match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-la-clippers-vs-los-angeles-lakers/1
-https://lb12.strmd.st/secure/IMcaYlnqXNRxYxtBkcHXMIuuBHnbzWsK/rtmp/stream/sdtBgs74bdWqs9spaiN6RXJNSDQvPuetrLTnBeRchsXoonnN0YXzYsw1HfuROjTTJ_WDcgfRpe8rnwQhgdpL51h6/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — delta" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_delta" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — delta
-# match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_lakers-clippers-live-streaming-588916656/1
-https://lb14.strmd.st/secure/RRYVAVNkQGyBoaKKzjGkoGlNsxqLFTuD/delta/stream/live_nba-summer-league_lakers-clippers-live-streaming-588916656/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — echo" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_echo" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — echo
-# match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
-# provider: echo
-# embed: https://embed.st/embed/echo/los-angeles-lakers-vs-los-angeles-clippers-basketball-502107/1
-https://lb6.strmd.st/secure/dFqFcvrMAbVHIruDxJZuoWsNLyQWgKVs/echo/stream/los-angeles-lakers-vs-los-angeles-clippers-basketball-502107/1/playlist.m3u8
+https://lb5.strmd.st/secure/cUjmesFcgovHzpOUgEWrZmdecoFDZXtA/rtmp/stream/bNkbT6afuhpQvqnb7ye9kLt2VJBHlryVKkfdvsmto9FxdJi2l2H7cgGPyuCJqn8oK_fLxzd_VsrRZyO6sMx6AACb/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — golf" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — golf
 # match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
 # provider: golf
 # embed: https://embed.st/embed/golf/23767/1
-https://cdn15.zohanayaan.com:1686/hls/mlosangeleslakers.m3u8?md5=Z33GmmHKOkF-vrFkmRBh7w&expires=1784087909
+https://cdn14.zohanayaan.com:1686/hls/mlosangeleslakers.m3u8?md5=XzlKIFPqfAg4K8iGxw9NcA&expires=1784098320
+
+#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf
+# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
+# provider: golf
+# embed: https://embed.st/embed/golf/23766/1
+https://cdn15.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=_y0nvJsl18a1P7v99rof8A&expires=1784098326
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo" tvg-id="Ppv_Event_06_Lucas_Oil_Late_Models_Adams_County_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo
 # match: Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1
-https://lb13.strmd.st/secure/mqOJNQEomNMBerpNJfIxzWmUNQanyKrO/echo/stream/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Wwe Nxt — admin" tvg-id="Ppv_Wwe_Nxt_—_admin" group-title="Streamed.pk Live Sports",Ppv Wwe Nxt — admin
-# match: Ppv Wwe Nxt
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-wwe-nxt/1
-https://lb8.strmd.st/secure/QpaGGuGNYGajSaJNyfseCitTJHZUfqMO/rtmp/stream/gUnbcQxd9dWiA3vld3Uu5gzdG2R08kG49IMuAJHqvlFv3kpIm7j8CdK5eOo0NBC46Ge3-Hxp9HCP/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 04 World Of Outlaws Sprints Attica Ppv 004 — echo" tvg-id="Ppv_Event_04_World_Of_Outlaws_Sprints_Attica_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 World Of Outlaws Sprints Attica Ppv 004 — echo
-# match: Ppv Event 04 World Of Outlaws Sprints Attica Ppv 004
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-04-world-of-outlaws-sprints-attica-ppv-004/1
-https://lb1.strmd.st/secure/dWsXgoJFmuIaZiEputoZmGfCjjrQlfIH/echo/stream/ppv-event-04-world-of-outlaws-sprints-attica-ppv-004/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 03 Short Track Super Series Bridgeport Ppv 03 — echo" tvg-id="Ppv_Event_03_Short_Track_Super_Series_Bridgeport_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Short Track Super Series Bridgeport Ppv 03 — echo
-# match: Ppv Event 03 Short Track Super Series Bridgeport Ppv 03
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-short-track-super-series-bridgeport-ppv-03/1
-https://lb10.strmd.st/secure/zeeGKjLkFjVJVagzEBrGkQXWjvuGgbGV/echo/stream/ppv-event-03-short-track-super-series-bridgeport-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Toronto Tempo W Vs Washington Mystics W Basketball 494951 — echo" tvg-id="Toronto_Tempo_W_Vs_Washington_Mystics_W_Basketball_494951_—_echo" group-title="Streamed.pk Live Sports",Toronto Tempo W Vs Washington Mystics W Basketball 494951 — echo
-# match: Toronto Tempo W Vs Washington Mystics W Basketball 494951
-# provider: echo
-# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-washington-mystics-w-basketball-494951/1
-https://lb14.strmd.st/secure/ASwTKFPFCMUQuLBpWlqwwijXklxlMfBh/echo/stream/toronto-tempo-w-vs-washington-mystics-w-basketball-494951/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Warriors Vs Memphis Grizzlies 2505666 — admin" tvg-id="Golden_State_Warriors_Vs_Memphis_Grizzlies_2505666_—_admin" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Memphis Grizzlies 2505666 — admin
-# match: Golden State Warriors Vs Memphis Grizzlies 2505666
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-memphis-grizzlies-vs-golden-state-warriors/1
-https://lb3.strmd.st/secure/wyRnoeRjxIfMasotPxufTPwMquyTFijs/rtmp/stream/tAFpPBdfF_k_eRQdLxU7CgcNvuDjWSEl5xcCXu8AC6UnB9Ii8fqa5TxhqEjSyg4TG23AsbV4qASy8O81JNxdhK_EBqKm/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Golden State Warriors Vs Memphis Grizzlies 2505666 — golf" tvg-id="Golden_State_Warriors_Vs_Memphis_Grizzlies_2505666_—_golf" group-title="Streamed.pk Live Sports",Golden State Warriors Vs Memphis Grizzlies 2505666 — golf
-# match: Golden State Warriors Vs Memphis Grizzlies 2505666
-# provider: golf
-# embed: https://embed.st/embed/golf/23764/1
-https://cdn14.zohanayaan.com:1686/hls/mgoldenstatewarriors.m3u8?md5=dI1TDzUqWObrRoVB1SQKoQ&expires=1784087955
-
-#EXTINF:-1 tvg-name="Toronto Tempo Vs Washington Mystics 2449318 — admin" tvg-id="Toronto_Tempo_Vs_Washington_Mystics_2449318_—_admin" group-title="Streamed.pk Live Sports",Toronto Tempo Vs Washington Mystics 2449318 — admin
-# match: Toronto Tempo Vs Washington Mystics 2449318
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-washington-mystics-vs-toronto-tempo/1
-https://lb4.strmd.st/secure/lZrjVIJTbVuzHAvFyPCjaxIvXtMmzSJW/rtmp/stream/2MrLqV2w74WaKTFEzZvx4RUlaQR24HpCwxvOzdpfUuFx5Tnmwh1IHpdZl3JPakwv0HmRacB9kv6KvP4x3To/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — echo" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_echo" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — echo
-# match: Brooklyn Nets Vs Sacramento Kings 2505665
-# provider: echo
-# embed: https://embed.st/embed/echo/brooklyn-nets-vs-sacramento-kings-basketball-502103/1
-https://lb10.strmd.st/secure/dfaufwVALUdoGldevhOBeXfidbSdqvfY/echo/stream/brooklyn-nets-vs-sacramento-kings-basketball-502103/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Brooklyn Nets Vs Sacramento Kings 2505665 — golf" tvg-id="Brooklyn_Nets_Vs_Sacramento_Kings_2505665_—_golf" group-title="Streamed.pk Live Sports",Brooklyn Nets Vs Sacramento Kings 2505665 — golf
-# match: Brooklyn Nets Vs Sacramento Kings 2505665
-# provider: golf
-# embed: https://embed.st/embed/golf/23763/1
-https://cdn14.zohanayaan.com:1686/hls/mbrooklynnets.m3u8?md5=vopZolKiTZVXav3UO6l5Dw&expires=1784087974
+https://lb9.strmd.st/secure/IXziEwfCEckKYrkeUWtWRwXTlvLqnUxr/echo/stream/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1/playlist.m3u8
 
