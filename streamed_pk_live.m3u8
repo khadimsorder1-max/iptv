@@ -1,5 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T11:09:24+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-15T12:50:45+00:00
+# 2 streams captured from 2 matches
+
+#EXTINF:-1 tvg-name="Tour De France Stage 11 2447758 — admin" tvg-id="Tour_De_France_Stage_11_2447758_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 11 2447758 — admin
+# match: Tour De France Stage 11 2447758
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-11/1
+https://lb1.strmd.st/secure/ChpzjdCzURwiTDJQwocuAAbOdvVwcUld/rtmp/stream/J1F7Sw2uAHR_mqjstmLjYlWAJ4cWTa1xnfcs3h2Z8uRXlwNLg2TcSpmQDmJxo95RjIzE1Bxd/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
+# match: Uci Tour De France Uci World Tour Game 13622
+# provider: echo
+# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
+https://lb7.strmd.st/secure/iOxlWEavXRaWXxwvuwfZvaoOoeufbqfO/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
