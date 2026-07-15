@@ -1,23 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T07:12:32+00:00
-# 3 streams captured from 3 matches
-
-#EXTINF:-1 tvg-name="23768 — golf" tvg-id="23768_—_golf" group-title="Streamed.pk Live Sports",23768 — golf
-# match: 23768
-# provider: golf
-# embed: https://embed.st/embed/golf/23768/1
-https://cdn11.zohanayaan.com:1686/hls/mevent1.m3u8?md5=KqFU-Iy2eGuIYqpsg6BbSA&expires=1784106734
-
-#EXTINF:-1 tvg-name="Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo" tvg-id="Ppv_Event_06_Lucas_Oil_Late_Models_Adams_County_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo
-# match: Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1
-https://lb3.strmd.st/secure/KAbacOtSyaJoKGUeiCaoODDSGnwIwGfM/echo/stream/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Mlb All Star Game — admin" tvg-id="Ppv_Mlb_All_Star_Game_—_admin" group-title="Streamed.pk Live Sports",Ppv Mlb All Star Game — admin
-# match: Ppv Mlb All Star Game
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-mlb-all-star-game/1
-https://lb8.strmd.st/secure/UPloivVuxAubuhDfIdLCpraHKOpiECUF/rtmp/stream/NqPqPzAa0UVZCT6A7981oxebFjG1UzKRTaVziYDxOBI-3gEPUZ4yruGuP-9ld_hO00hChEQ/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-15T09:27:54+00:00
+# 0 streams captured from 0 matches
 
