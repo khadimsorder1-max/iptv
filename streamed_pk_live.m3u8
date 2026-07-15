@@ -1,41 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T04:52:17+00:00
-# 6 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-15T07:12:32+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="23768 — golf" tvg-id="23768_—_golf" group-title="Streamed.pk Live Sports",23768 — golf
 # match: 23768
 # provider: golf
 # embed: https://embed.st/embed/golf/23768/1
-https://cdn11.zohanayaan.com:1686/hls/mevent1.m3u8?md5=QHh27f3RFDRVRf7shKvRlA&expires=1784098302
-
-#EXTINF:-1 tvg-name="Ppv Mlb All Star Game — admin" tvg-id="Ppv_Mlb_All_Star_Game_—_admin" group-title="Streamed.pk Live Sports",Ppv Mlb All Star Game — admin
-# match: Ppv Mlb All Star Game
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-mlb-all-star-game/1
-https://lb14.strmd.st/secure/thktJwhishppSXCZvuWusCyjJCllbAGL/rtmp/stream/NqPqPzAa0UVZCT6A7981oxebFjG1UzKRTaVziYDxOBI-3gEPUZ4yruGuP-9ld_hO00hChEQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — admin" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — admin
-# match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-la-clippers-vs-los-angeles-lakers/1
-https://lb5.strmd.st/secure/cUjmesFcgovHzpOUgEWrZmdecoFDZXtA/rtmp/stream/bNkbT6afuhpQvqnb7ye9kLt2VJBHlryVKkfdvsmto9FxdJi2l2H7cgGPyuCJqn8oK_fLxzd_VsrRZyO6sMx6AACb/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Lakers Vs Los Angeles Clippers 2505669 — golf" tvg-id="Los_Angeles_Lakers_Vs_Los_Angeles_Clippers_2505669_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Lakers Vs Los Angeles Clippers 2505669 — golf
-# match: Los Angeles Lakers Vs Los Angeles Clippers 2505669
-# provider: golf
-# embed: https://embed.st/embed/golf/23767/1
-https://cdn14.zohanayaan.com:1686/hls/mlosangeleslakers.m3u8?md5=XzlKIFPqfAg4K8iGxw9NcA&expires=1784098320
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Denver_Nuggets_2505668_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Denver Nuggets 2505668 — golf
-# match: Oklahoma City Thunder Vs Denver Nuggets 2505668
-# provider: golf
-# embed: https://embed.st/embed/golf/23766/1
-https://cdn15.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=_y0nvJsl18a1P7v99rof8A&expires=1784098326
+https://cdn11.zohanayaan.com:1686/hls/mevent1.m3u8?md5=KqFU-Iy2eGuIYqpsg6BbSA&expires=1784106734
 
 #EXTINF:-1 tvg-name="Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo" tvg-id="Ppv_Event_06_Lucas_Oil_Late_Models_Adams_County_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06 — echo
 # match: Ppv Event 06 Lucas Oil Late Models Adams County Ppv 06
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1
-https://lb9.strmd.st/secure/IXziEwfCEckKYrkeUWtWRwXTlvLqnUxr/echo/stream/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1/playlist.m3u8
+https://lb3.strmd.st/secure/KAbacOtSyaJoKGUeiCaoODDSGnwIwGfM/echo/stream/ppv-event-06-lucas-oil-late-models-adams-county-ppv-06/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Mlb All Star Game — admin" tvg-id="Ppv_Mlb_All_Star_Game_—_admin" group-title="Streamed.pk Live Sports",Ppv Mlb All Star Game — admin
+# match: Ppv Mlb All Star Game
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-mlb-all-star-game/1
+https://lb8.strmd.st/secure/UPloivVuxAubuhDfIdLCpraHKOpiECUF/rtmp/stream/NqPqPzAa0UVZCT6A7981oxebFjG1UzKRTaVziYDxOBI-3gEPUZ4yruGuP-9ld_hO00hChEQ/1/playlist.m3u8
 
