@@ -1,101 +1,107 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T16:18:53+00:00
-# 16 streams captured from 12 matches
-
-#EXTINF:-1 tvg-name="Chicago Sky Vs Seattle Storm 2449110 — admin" tvg-id="Chicago_Sky_Vs_Seattle_Storm_2449110_—_admin" group-title="Streamed.pk Live Sports",Chicago Sky Vs Seattle Storm 2449110 — admin
-# match: Chicago Sky Vs Seattle Storm 2449110
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-chicago-sky/1
-https://lb13.strmd.st/secure/xtXHIMttOyxZlLTFNyfMQXqnoEXbisvq/rtmp/stream/mwejs3nJ13FWMvFaDvu6sOuXvDr3c8n4cUTsDtQfF1WVtAyUhwNsdyQ25R4qeftc17z0tl5kQmsD04J1/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Chicago Sky Vs Seattle Storm 2449110 — delta" tvg-id="Chicago_Sky_Vs_Seattle_Storm_2449110_—_delta" group-title="Streamed.pk Live Sports",Chicago Sky Vs Seattle Storm 2449110 — delta
-# match: Chicago Sky Vs Seattle Storm 2449110
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_sky-storm-live-streaming-523971504/1
-https://lb15.strmd.st/secure/HxTPGazEFIbWiWpQcByNEakTUimJGdox/delta/stream/live_wnba_sky-storm-live-streaming-523971504/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — admin" tvg-id="England_Vs_Argentina_2528727_—_admin" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — admin
-# match: England Vs Argentina 2528727
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-england-vs-argentina/1
-https://lb10.strmd.st/secure/QIhXziCGNrinGYdtCrVbAWnEzHHyHnWF/rtmp/stream/tIJfUC1pgGI3G-g0ha69vM4rbA0GXOYU_ahYHE9EKfzoxS-5aBeXmxCmZYmhNK0_-wGy22OejQ/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-15T17:47:44+00:00
+# 17 streams captured from 13 matches
 
 #EXTINF:-1 tvg-name="England Vs Argentina 2528727 — delta" tvg-id="England_Vs_Argentina_2528727_—_delta" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — delta
 # match: England Vs Argentina 2528727
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_england-argentina-live-streaming-538121232/1
-https://lb1.strmd.st/secure/YUEkIQeAGwtrDNuFKoNiUmZsrqqRqcyS/delta/stream/live_world-cup-knockout-stage_england-argentina-live-streaming-538121232/1/playlist.m3u8
+https://lb8.strmd.st/secure/TtysbKGwvcXOYddokOCuXGVwZljqcCQR/delta/stream/live_world-cup-knockout-stage_england-argentina-live-streaming-538121232/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="England Vs Argentina 2528727 — echo" tvg-id="England_Vs_Argentina_2528727_—_echo" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — echo
 # match: England Vs Argentina 2528727
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-argentina-football-1586077/1
-https://lb4.strmd.st/secure/CqgtDllWCBBUkRmuGhYtJlESBupNGxpD/echo/stream/england-vs-argentina-football-1586077/1/playlist.m3u8
+https://lb5.strmd.st/secure/uuMgaAASjNCBSuFDdnGKhWxQlmIgxBZk/echo/stream/england-vs-argentina-football-1586077/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="England Vs Argentina 2528727 — golf" tvg-id="England_Vs_Argentina_2528727_—_golf" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — golf
 # match: England Vs Argentina 2528727
 # provider: golf
 # embed: https://embed.st/embed/golf/23744/1
-https://cdn15.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=uoxTQ70CL5gDBiEiYpKSkw&expires=1784139459
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=C_UcKzN9mEHprlXRVkbbfw&expires=1784144770
+
+#EXTINF:-1 tvg-name="Chicago Sky Vs Seattle Storm 2449110 — admin" tvg-id="Chicago_Sky_Vs_Seattle_Storm_2449110_—_admin" group-title="Streamed.pk Live Sports",Chicago Sky Vs Seattle Storm 2449110 — admin
+# match: Chicago Sky Vs Seattle Storm 2449110
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-chicago-sky/1
+https://lb4.strmd.st/secure/fjsBwBgucBIjzjDYfxjKdzEtljumOqlW/rtmp/stream/X3IxFABCoMm81Oh78pIfgrQIL9VJP-S14GWXmQCWrq6rSzfpI9TA07pTGftrsW6Cv2_t5UDs_Da38tRW/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Chicago Sky Vs Seattle Storm 2449110 — delta" tvg-id="Chicago_Sky_Vs_Seattle_Storm_2449110_—_delta" group-title="Streamed.pk Live Sports",Chicago Sky Vs Seattle Storm 2449110 — delta
+# match: Chicago Sky Vs Seattle Storm 2449110
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_sky-storm-live-streaming-523971504/1
+https://lb2.strmd.st/secure/uzLoCiUIUxBbZXKvbeOLiXcqgseXVbsp/delta/stream/live_wnba_sky-storm-live-streaming-523971504/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs Los Angeles Sparks 2449111 — admin" tvg-id="Minnesota_Lynx_Vs_Los_Angeles_Sparks_2449111_—_admin" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs Los Angeles Sparks 2449111 — admin
+# match: Minnesota Lynx Vs Los Angeles Sparks 2449111
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-minnesota-lynx/1
+https://lb11.strmd.st/secure/zfhqlIUltjOtWabaDzRPhqeiWXuxWDNw/rtmp/stream/nAtX-X8VLSFqRv4ilzXL2-umINQ3JnSM8ne8yqEXNqNWm7OfzrAcH-P8Sf4CesOOIpUPWkM1HlB0BmlL9tTk/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx Vs Los Angeles Sparks 2449111 — delta" tvg-id="Minnesota_Lynx_Vs_Los_Angeles_Sparks_2449111_—_delta" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs Los Angeles Sparks 2449111 — delta
+# match: Minnesota Lynx Vs Los Angeles Sparks 2449111
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_lynx-sparks-live-streaming-523971936/1
+https://lb14.strmd.st/secure/HFcTjahcixILIaumduVZGrHehiqOCswQ/delta/stream/live_wnba_lynx-sparks-live-streaming-523971936/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953 — echo" tvg-id="Minnesota_Lynx_W_Vs_Los_Angeles_Sparks_W_Basketball_494953_—_echo" group-title="Streamed.pk Live Sports",Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953 — echo
+# match: Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953
+# provider: echo
+# embed: https://embed.st/embed/echo/minnesota-lynx-w-vs-los-angeles-sparks-w-basketball-494953/1
+https://lb6.strmd.st/secure/EdxvFFIftetkjBGNLMSHwZfaIiQLLMio/echo/stream/minnesota-lynx-w-vs-los-angeles-sparks-w-basketball-494953/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Sky W Vs Seattle Storm W Basketball 494952 — echo" tvg-id="Chicago_Sky_W_Vs_Seattle_Storm_W_Basketball_494952_—_echo" group-title="Streamed.pk Live Sports",Chicago Sky W Vs Seattle Storm W Basketball 494952 — echo
 # match: Chicago Sky W Vs Seattle Storm W Basketball 494952
 # provider: echo
 # embed: https://embed.st/embed/echo/chicago-sky-w-vs-seattle-storm-w-basketball-494952/1
-https://lb1.strmd.st/secure/GELkDwxaWGSBBvgtbyJKiLlhSBqbYXVd/echo/stream/chicago-sky-w-vs-seattle-storm-w-basketball-494952/1/playlist.m3u8
+https://lb7.strmd.st/secure/nbgUDoIHQZpPaKQvflgptNUGppAQTlHX/echo/stream/chicago-sky-w-vs-seattle-storm-w-basketball-494952/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Yorkshire Vikings Vs Somerset T20 2529307 — echo" tvg-id="Yorkshire_Vikings_Vs_Somerset_T20_2529307_—_echo" group-title="Streamed.pk Live Sports",Yorkshire Vikings Vs Somerset T20 2529307 — echo
 # match: Yorkshire Vikings Vs Somerset T20 2529307
 # provider: echo
 # embed: https://embed.st/embed/echo/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1
-https://lb8.strmd.st/secure/UzAofoWDCJADthrbvwPcDoexWcUYXZhu/echo/stream/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1/playlist.m3u8
+https://lb12.strmd.st/secure/CBuYilDAkHXDJFprumVxuscZAHqwFZAZ/echo/stream/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Sydney Swans Vs Adelaide Crows Australian Football 3505 — echo" tvg-id="Sydney_Swans_Vs_Adelaide_Crows_Australian_Football_3505_—_echo" group-title="Streamed.pk Live Sports",Sydney Swans Vs Adelaide Crows Australian Football 3505 — echo
 # match: Sydney Swans Vs Adelaide Crows Australian Football 3505
 # provider: echo
 # embed: https://embed.st/embed/echo/sydney-swans-vs-adelaide-crows-australian-football-3505/1
-https://lb15.strmd.st/secure/KDDMHvIqtuWMbEsYxcdXCMZEfEQURBxC/echo/stream/sydney-swans-vs-adelaide-crows-australian-football-3505/1/playlist.m3u8
+https://lb11.strmd.st/secure/wyBkBlCaKMrwuUdFKkiZzXZiJQDxQfAa/echo/stream/sydney-swans-vs-adelaide-crows-australian-football-3505/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Collingwood Magpies Vs Carlton Blues Australian Football 3498 — echo" tvg-id="Collingwood_Magpies_Vs_Carlton_Blues_Australian_Football_3498_—_echo" group-title="Streamed.pk Live Sports",Collingwood Magpies Vs Carlton Blues Australian Football 3498 — echo
 # match: Collingwood Magpies Vs Carlton Blues Australian Football 3498
 # provider: echo
 # embed: https://embed.st/embed/echo/collingwood-magpies-vs-carlton-blues-australian-football-3498/1
-https://lb7.strmd.st/secure/XtkAFtYfyUhCJSxmZkEroRJghIiyhSlh/echo/stream/collingwood-magpies-vs-carlton-blues-australian-football-3498/1/playlist.m3u8
+https://lb7.strmd.st/secure/GrOELmDGnnziDViLAvmiqoHNQiVldGzQ/echo/stream/collingwood-magpies-vs-carlton-blues-australian-football-3498/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="North Melbourne Kangaroos Vs Melbourne Demons Australian Football 3502 — echo" tvg-id="North_Melbourne_Kangaroos_Vs_Melbourne_Demons_Australian_Football_3502_—_echo" group-title="Streamed.pk Live Sports",North Melbourne Kangaroos Vs Melbourne Demons Australian Football 3502 — echo
 # match: North Melbourne Kangaroos Vs Melbourne Demons Australian Football 3502
 # provider: echo
 # embed: https://embed.st/embed/echo/north-melbourne-kangaroos-vs-melbourne-demons-australian-football-3502/1
-https://lb2.strmd.st/secure/JUJJgzgkPHdhRpOkmiLDgVamVxnddsDN/echo/stream/north-melbourne-kangaroos-vs-melbourne-demons-australian-football-3502/1/playlist.m3u8
+https://lb15.strmd.st/secure/sGWHCkmkCdquVWzxbNWLnVGgHFsuWzfA/echo/stream/north-melbourne-kangaroos-vs-melbourne-demons-australian-football-3502/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Gold Coast Suns Vs Western Bulldogs Australian Football 3501 — echo" tvg-id="Gold_Coast_Suns_Vs_Western_Bulldogs_Australian_Football_3501_—_echo" group-title="Streamed.pk Live Sports",Gold Coast Suns Vs Western Bulldogs Australian Football 3501 — echo
 # match: Gold Coast Suns Vs Western Bulldogs Australian Football 3501
 # provider: echo
 # embed: https://embed.st/embed/echo/gold-coast-suns-vs-western-bulldogs-australian-football-3501/1
-https://lb13.strmd.st/secure/TpiMjtZwRctQTSOuVnfheZvksstwXtWM/echo/stream/gold-coast-suns-vs-western-bulldogs-australian-football-3501/1/playlist.m3u8
+https://lb2.strmd.st/secure/zTSrPbaihgEvGyROjxLmfKrkxzErobXr/echo/stream/gold-coast-suns-vs-western-bulldogs-australian-football-3501/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Port Adelaide Power Vs Fremantle Dockers Australian Football 3503 — echo" tvg-id="Port_Adelaide_Power_Vs_Fremantle_Dockers_Australian_Football_3503_—_echo" group-title="Streamed.pk Live Sports",Port Adelaide Power Vs Fremantle Dockers Australian Football 3503 — echo
 # match: Port Adelaide Power Vs Fremantle Dockers Australian Football 3503
 # provider: echo
 # embed: https://embed.st/embed/echo/port-adelaide-power-vs-fremantle-dockers-australian-football-3503/1
-https://lb9.strmd.st/secure/OwYmWWbPvNwbsWlbVdRzGPEYxYLZnFLr/echo/stream/port-adelaide-power-vs-fremantle-dockers-australian-football-3503/1/playlist.m3u8
+https://lb4.strmd.st/secure/YFKswpqJsxHZPSjSlmfrHnvDSPEXYNrR/echo/stream/port-adelaide-power-vs-fremantle-dockers-australian-football-3503/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="West Coast Eagles Vs Brisbane Lions Australian Football 3506 — echo" tvg-id="West_Coast_Eagles_Vs_Brisbane_Lions_Australian_Football_3506_—_echo" group-title="Streamed.pk Live Sports",West Coast Eagles Vs Brisbane Lions Australian Football 3506 — echo
 # match: West Coast Eagles Vs Brisbane Lions Australian Football 3506
 # provider: echo
 # embed: https://embed.st/embed/echo/west-coast-eagles-vs-brisbane-lions-australian-football-3506/1
-https://lb1.strmd.st/secure/nuVzmNOxQUEodFPrsThRAHmiGqYgoDtZ/echo/stream/west-coast-eagles-vs-brisbane-lions-australian-football-3506/1/playlist.m3u8
+https://lb13.strmd.st/secure/TRHRBETWOBVUXoQPbAvFquAtgqzlDOzI/echo/stream/west-coast-eagles-vs-brisbane-lions-australian-football-3506/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb15.strmd.st/secure/NlDQvziTZwggioyHQusGUmfTuDaVeTfv/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tour De France Stage 11 2447758 — admin" tvg-id="Tour_De_France_Stage_11_2447758_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 11 2447758 — admin
-# match: Tour De France Stage 11 2447758
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-11/1
-https://lb7.strmd.st/secure/ZejUbwFoGCZZjgoTdWSVHErhquoPHrBt/rtmp/stream/3wYZy3Y5r3ehq-b-1mxqHUt0IKGxokfcIYz1HEYi8PVg7wfzGOtr7Z7HcMaDikfboWFHjmY9/1/playlist.m3u8
+https://lb12.strmd.st/secure/LNpiUEXBwNqUobeSvmAqQbxOntLBDsVI/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
