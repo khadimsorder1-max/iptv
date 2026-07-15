@@ -1,41 +1,83 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-15T19:08:04+00:00
-# 6 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-15T20:33:04+00:00
+# 13 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953 — echo" tvg-id="Minnesota_Lynx_W_Vs_Los_Angeles_Sparks_W_Basketball_494953_—_echo" group-title="Streamed.pk Live Sports",Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953 — echo
-# match: Minnesota Lynx W Vs Los Angeles Sparks W Basketball 494953
-# provider: echo
-# embed: https://embed.st/embed/echo/minnesota-lynx-w-vs-los-angeles-sparks-w-basketball-494953/1
-https://lb10.strmd.st/secure/bitPTsqUfkTEJgNJjrZOTBBuGWgLMEVc/echo/stream/minnesota-lynx-w-vs-los-angeles-sparks-w-basketball-494953/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Minnesota Lynx Vs Los Angeles Sparks 2449111 — admin" tvg-id="Minnesota_Lynx_Vs_Los_Angeles_Sparks_2449111_—_admin" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs Los Angeles Sparks 2449111 — admin
-# match: Minnesota Lynx Vs Los Angeles Sparks 2449111
+#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — admin" tvg-id="England_Vs_Argentina_2528727_—_admin" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — admin
+# match: England Vs Argentina 2528727
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-los-angeles-sparks-vs-minnesota-lynx/1
-https://lb7.strmd.st/secure/EjorjZfyvcgloLSEIbcNoibGLeIMIvql/rtmp/stream/qVqiB8o4jDlD8tGIxqOTWtTs1WxxtkBBw6mBaV92uKqRbG8OCurV_uL4uPAbHAnx81NY8iP0AYdQZiSfxgNW/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-england-vs-argentina/1
+https://lb15.strmd.st/secure/NFKsBXupZDOyCmSaEcJNmKVEbhMZEkhe/rtmp/stream/6uJVaJtNz7VClLXRrmrtJ8F0b7daN68ULB_EsGGuNKEAm6SxFtuqW1xCn6SSN_ftVu0tbh_BNA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Minnesota Lynx Vs Los Angeles Sparks 2449111 — delta" tvg-id="Minnesota_Lynx_Vs_Los_Angeles_Sparks_2449111_—_delta" group-title="Streamed.pk Live Sports",Minnesota Lynx Vs Los Angeles Sparks 2449111 — delta
-# match: Minnesota Lynx Vs Los Angeles Sparks 2449111
+#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — delta" tvg-id="England_Vs_Argentina_2528727_—_delta" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — delta
+# match: England Vs Argentina 2528727
 # provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_lynx-sparks-live-streaming-523971936/1
-https://lb15.strmd.st/secure/sOkZnXrekzcVtwzhjJpaWmNStHQAmxUh/delta/stream/live_wnba_lynx-sparks-live-streaming-523971936/1/playlist.m3u8
+# embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_england-argentina-live-streaming-538121232/1
+https://lb9.strmd.st/secure/GrjvmBYxFNanXRRjAIwNqtYYNZgYkGHB/delta/stream/live_world-cup-knockout-stage_england-argentina-live-streaming-538121232/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Chicago Sky Vs Seattle Storm 2449110 — admin" tvg-id="Chicago_Sky_Vs_Seattle_Storm_2449110_—_admin" group-title="Streamed.pk Live Sports",Chicago Sky Vs Seattle Storm 2449110 — admin
-# match: Chicago Sky Vs Seattle Storm 2449110
+#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — echo" tvg-id="England_Vs_Argentina_2528727_—_echo" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — echo
+# match: England Vs Argentina 2528727
+# provider: echo
+# embed: https://embed.st/embed/echo/england-vs-argentina-football-1586077/1
+https://lb3.strmd.st/secure/lcRPXsJYayvBETsagbgBGIyhQKVbIigP/echo/stream/england-vs-argentina-football-1586077/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="England Vs Argentina 2528727 — golf" tvg-id="England_Vs_Argentina_2528727_—_golf" group-title="Streamed.pk Live Sports",England Vs Argentina 2528727 — golf
+# match: England Vs Argentina 2528727
+# provider: golf
+# embed: https://embed.st/embed/golf/23744/1
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=Fr5Ygwkd3W7EJVqP2uWidA&expires=1784154723
+
+#EXTINF:-1 tvg-name="Minnesota Timberwolves Vs Indiana Pacers 2505670 — admin" tvg-id="Minnesota_Timberwolves_Vs_Indiana_Pacers_2505670_—_admin" group-title="Streamed.pk Live Sports",Minnesota Timberwolves Vs Indiana Pacers 2505670 — admin
+# match: Minnesota Timberwolves Vs Indiana Pacers 2505670
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-seattle-storm-vs-chicago-sky/1
-https://lb7.strmd.st/secure/OtERECqZRtKVpCYIcFqLNFgVkWevGmWw/rtmp/stream/FcsX5WdjpG13SShGIKB-QqZyb6bw678WBwz0pPfhuTjwAilO2f-Mz-EYieg_8uw2Jrd1gCpV61zT1XhP/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-indiana-pacers-vs-minnesota-timberwolves/1
+https://lb10.strmd.st/secure/ZzTjrDMSLkkStohaNSrYPCjbyzofwKMo/rtmp/stream/4A816B5GGc6BDkovKvJBZahBTA24xLw-EmQ91UycjmN5HGEDbLMCfssahJyy380_QeSnOT9e7wD3j20VJOmCXa_vABkPUIo/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Timberwolves Vs Indiana Pacers 2505670 — delta" tvg-id="Minnesota_Timberwolves_Vs_Indiana_Pacers_2505670_—_delta" group-title="Streamed.pk Live Sports",Minnesota Timberwolves Vs Indiana Pacers 2505670 — delta
+# match: Minnesota Timberwolves Vs Indiana Pacers 2505670
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_timberwolves-pacers-live-streaming-588934368/1
+https://lb8.strmd.st/secure/xLmosaDbKumeyylCJbDRmrBsalmwvHes/delta/stream/live_nba-summer-league_timberwolves-pacers-live-streaming-588934368/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Timberwolves Vs Indiana Pacers 2505670 — echo" tvg-id="Minnesota_Timberwolves_Vs_Indiana_Pacers_2505670_—_echo" group-title="Streamed.pk Live Sports",Minnesota Timberwolves Vs Indiana Pacers 2505670 — echo
+# match: Minnesota Timberwolves Vs Indiana Pacers 2505670
+# provider: echo
+# embed: https://embed.st/embed/echo/minnesota-timberwolves-vs-indiana-pacers-basketball-502108/1
+https://lb6.strmd.st/secure/NMxDcNwQmRRDUqDSyWjezxryumoKepXV/echo/stream/minnesota-timberwolves-vs-indiana-pacers-basketball-502108/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Minnesota Timberwolves Vs Indiana Pacers 2505670 — golf" tvg-id="Minnesota_Timberwolves_Vs_Indiana_Pacers_2505670_—_golf" group-title="Streamed.pk Live Sports",Minnesota Timberwolves Vs Indiana Pacers 2505670 — golf
+# match: Minnesota Timberwolves Vs Indiana Pacers 2505670
+# provider: golf
+# embed: https://embed.st/embed/golf/23771/1
+https://cdn15.zohanayaan.com:1686/hls/mminnesotatimberwolves.m3u8?md5=cO257hAzrh8lQ3UgGrH4Ig&expires=1784154747
+
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — admin" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_admin" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — admin
+# match: Philadelphia 76ers Vs Orlando Magic 2505671
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-orlando-magic-vs-philadelphia-76-ers/1
+https://lb12.strmd.st/secure/viSLJlZUIETvtrZpVjprSsNliEmZOxCv/rtmp/stream/9I_B0KokktKp6rMZVhI91eGwfRZptQgq4xnnZX2C2vZvHxSKfOz9khlR0V_2W9dJPS9kfLRMTur8ThzB2xIqlZye-g/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — delta" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_delta" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — delta
+# match: Philadelphia 76ers Vs Orlando Magic 2505671
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_76ers-magic-live-streaming-588934800/1
+https://lb7.strmd.st/secure/upNjkfCGEwktThpXRZgcmijwqLJGMxNB/delta/stream/live_nba-summer-league_76ers-magic-live-streaming-588934800/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — echo" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_echo" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — echo
+# match: Philadelphia 76ers Vs Orlando Magic 2505671
+# provider: echo
+# embed: https://embed.st/embed/echo/philadelphia-76ers-vs-orlando-magic-basketball-502109/1
+https://lb1.strmd.st/secure/pqcIKBUNjAvuBFwPGWSFvzwlGTMruJEL/echo/stream/philadelphia-76ers-vs-orlando-magic-basketball-502109/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Philadelphia 76ers Vs Orlando Magic 2505671 — golf" tvg-id="Philadelphia_76ers_Vs_Orlando_Magic_2505671_—_golf" group-title="Streamed.pk Live Sports",Philadelphia 76ers Vs Orlando Magic 2505671 — golf
+# match: Philadelphia 76ers Vs Orlando Magic 2505671
+# provider: golf
+# embed: https://embed.st/embed/golf/23772/1
+https://cdn14.zohanayaan.com:1686/hls/mphiladelphia76ers.m3u8?md5=po0IOy0YfTrqOMJ8o_nGzg&expires=1784154773
 
 #EXTINF:-1 tvg-name="Yorkshire Vikings Vs Somerset T20 2529307 — echo" tvg-id="Yorkshire_Vikings_Vs_Somerset_T20_2529307_—_echo" group-title="Streamed.pk Live Sports",Yorkshire Vikings Vs Somerset T20 2529307 — echo
 # match: Yorkshire Vikings Vs Somerset T20 2529307
 # provider: echo
 # embed: https://embed.st/embed/echo/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1
-https://lb11.strmd.st/secure/wKwLyvbxtXfbODMfOuxggJXNHUdohAZg/echo/stream/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Gold Coast Suns Vs Western Bulldogs Australian Football 3501 — echo" tvg-id="Gold_Coast_Suns_Vs_Western_Bulldogs_Australian_Football_3501_—_echo" group-title="Streamed.pk Live Sports",Gold Coast Suns Vs Western Bulldogs Australian Football 3501 — echo
-# match: Gold Coast Suns Vs Western Bulldogs Australian Football 3501
-# provider: echo
-# embed: https://embed.st/embed/echo/gold-coast-suns-vs-western-bulldogs-australian-football-3501/1
-https://lb1.strmd.st/secure/yTsKqcnoOIPjBPblTxjDgSUAOXdcivTj/echo/stream/gold-coast-suns-vs-western-bulldogs-australian-football-3501/1/playlist.m3u8
+https://lb5.strmd.st/secure/GxTQYnBuYwJlLLXuTXBwMvGMNxEsNNQG/echo/stream/vitality-blast-quarter-final-yorkshire-v-somerset-game-1999754/1/playlist.m3u8
 
