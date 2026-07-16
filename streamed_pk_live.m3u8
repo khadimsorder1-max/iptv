@@ -1,125 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-16T02:10:23+00:00
-# 20 streams captured from 11 matches
+# Streamed.pk live sports matches — built 2026-07-16T05:24:41+00:00
+# 5 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Indiana Fever Vs Golden State Valkyries 2449112 — admin" tvg-id="Indiana_Fever_Vs_Golden_State_Valkyries_2449112_—_admin" group-title="Streamed.pk Live Sports",Indiana Fever Vs Golden State Valkyries 2449112 — admin
-# match: Indiana Fever Vs Golden State Valkyries 2449112
+#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Washington Wizards 2505677 — admin" tvg-id="Los_Angeles_Clippers_Vs_Washington_Wizards_2505677_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Washington Wizards 2505677 — admin
+# match: Los Angeles Clippers Vs Washington Wizards 2505677
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-valkyries-vs-indiana-fever/1
-https://lb10.strmd.st/secure/jkKMSuDCyeWTuzCjxicPqLoKmHSQMqUz/rtmp/stream/HtAxWDJymbnBvMl0Zh4OCYjILyx6FgJcZBi7plg7xLrrG7O2ZTgyGeZiLvErZvFJtnu_w8MWpeYDZ2rpwIs/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-washington-wizards-vs-la-clippers/1
+https://lb10.strmd.st/secure/IaJbaPvMHkMTzVDRCrahTNLghvChrtxy/rtmp/stream/mTdAPjg-a-7Xq5yCur-mWSuF-sSxI1YGHs4CrMRLOqBlFUmFrAlfkBXf1ihazyU_1JAr6MnKG070g22w/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Indiana Fever Vs Golden State Valkyries 2449112 — delta" tvg-id="Indiana_Fever_Vs_Golden_State_Valkyries_2449112_—_delta" group-title="Streamed.pk Live Sports",Indiana Fever Vs Golden State Valkyries 2449112 — delta
-# match: Indiana Fever Vs Golden State Valkyries 2449112
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_fever-valkyries-live-streaming-523972368/1
-https://lb7.strmd.st/secure/kgzBuJSLPOLyVjSBOzYhzufqRXWTOxhx/delta/stream/live_wnba_fever-valkyries-live-streaming-523972368/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Boston Celtics 2505675 — admin" tvg-id="Sacramento_Kings_Vs_Boston_Celtics_2505675_—_admin" group-title="Streamed.pk Live Sports",Sacramento Kings Vs Boston Celtics 2505675 — admin
-# match: Sacramento Kings Vs Boston Celtics 2505675
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-boston-celtics-vs-sacramento-kings/1
-https://lb12.strmd.st/secure/eELzZbsXxUvfWRmOVzEWLzsVeauUnyDZ/rtmp/stream/GQFGj9mflxGfzGcEtOdnNK67SurVmGygvhcOYo38NOB6e4iQ9aDezVYhmIkeVZO8QGhXFLGsa-oJ2JHPl9zfLho/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Boston Celtics 2505675 — delta" tvg-id="Sacramento_Kings_Vs_Boston_Celtics_2505675_—_delta" group-title="Streamed.pk Live Sports",Sacramento Kings Vs Boston Celtics 2505675 — delta
-# match: Sacramento Kings Vs Boston Celtics 2505675
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_kings-celtics-live-streaming-588936528/1
-https://lb13.strmd.st/secure/RViiZZQogEPZNajrUtMcZCfIpXCCSorN/delta/stream/live_nba-summer-league_kings-celtics-live-streaming-588936528/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Boston Celtics 2505675 — echo" tvg-id="Sacramento_Kings_Vs_Boston_Celtics_2505675_—_echo" group-title="Streamed.pk Live Sports",Sacramento Kings Vs Boston Celtics 2505675 — echo
-# match: Sacramento Kings Vs Boston Celtics 2505675
-# provider: echo
-# embed: https://embed.st/embed/echo/sacramento-kings-vs-boston-celtics-basketball-502113/1
-https://lb9.strmd.st/secure/GPasBoBHAKyCGCfLopGrnfMXWhLobyJZ/echo/stream/sacramento-kings-vs-boston-celtics-basketball-502113/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sacramento Kings Vs Boston Celtics 2505675 — golf" tvg-id="Sacramento_Kings_Vs_Boston_Celtics_2505675_—_golf" group-title="Streamed.pk Live Sports",Sacramento Kings Vs Boston Celtics 2505675 — golf
-# match: Sacramento Kings Vs Boston Celtics 2505675
+#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Washington Wizards 2505677 — golf" tvg-id="Los_Angeles_Clippers_Vs_Washington_Wizards_2505677_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Washington Wizards 2505677 — golf
+# match: Los Angeles Clippers Vs Washington Wizards 2505677
 # provider: golf
-# embed: https://embed.st/embed/golf/23776/1
-https://cdn15.zohanayaan.com:1686/hls/msacramentokings.m3u8?md5=esJAxXZqFGITwTDH_DXW-w&expires=1784174923
-
-#EXTINF:-1 tvg-name="San Antonio Spurs Vs Utah Jazz 2505676 — admin" tvg-id="San_Antonio_Spurs_Vs_Utah_Jazz_2505676_—_admin" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs Utah Jazz 2505676 — admin
-# match: San Antonio Spurs Vs Utah Jazz 2505676
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-utah-jazz-vs-san-antonio-spurs/1
-https://lb3.strmd.st/secure/orMMlcKqBCNSaLrkclcRqbsugtPEhiXj/rtmp/stream/YoYrRKDQQmM4P0A4kN5b1MMQXklgqXyLIq2ZJ8cLisk9BR38Cw5IHDTRbLIr6FmN8JKjS_TrDbS1nYsASis9izM/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="San Antonio Spurs Vs Utah Jazz 2505676 — delta" tvg-id="San_Antonio_Spurs_Vs_Utah_Jazz_2505676_—_delta" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs Utah Jazz 2505676 — delta
-# match: San Antonio Spurs Vs Utah Jazz 2505676
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_spurs-jazz-live-streaming-588936960/1
-https://lb5.strmd.st/secure/oZsmOmKsTGgNkXBhqzTHAtkHPtyALXpm/delta/stream/live_nba-summer-league_spurs-jazz-live-streaming-588936960/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="San Antonio Spurs Vs Utah Jazz 2505676 — echo" tvg-id="San_Antonio_Spurs_Vs_Utah_Jazz_2505676_—_echo" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs Utah Jazz 2505676 — echo
-# match: San Antonio Spurs Vs Utah Jazz 2505676
-# provider: echo
-# embed: https://embed.st/embed/echo/san-antonio-spurs-vs-utah-jazz-basketball-502114/1
-https://lb11.strmd.st/secure/knwkNfRgGzkFKhljyiVFPUaKNCFUOlSY/echo/stream/san-antonio-spurs-vs-utah-jazz-basketball-502114/1/playlist.m3u8
+# embed: https://embed.st/embed/golf/23778/1
+https://cdn11.zohanayaan.com:1686/hls/mlosangelesclippers.m3u8?md5=ljmq1UsKXJc07WKtMJrt0g&expires=1784186658
 
 #EXTINF:-1 tvg-name="San Antonio Spurs Vs Utah Jazz 2505676 — golf" tvg-id="San_Antonio_Spurs_Vs_Utah_Jazz_2505676_—_golf" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs Utah Jazz 2505676 — golf
 # match: San Antonio Spurs Vs Utah Jazz 2505676
 # provider: golf
 # embed: https://embed.st/embed/golf/23777/1
-https://cdn15.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=dcQpcihM5pLddcN6ahomBw&expires=1784174949
-
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — admin" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_admin" group-title="Streamed.pk Live Sports",Ppv Aew Wednesday Night Dynamite — admin
-# match: Ppv Aew Wednesday Night Dynamite
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-aew-wednesday-night-dynamite/1
-https://lb12.strmd.st/secure/xERyfxIsTPTZMpOTPTjCKMHkAGEmtwwG/rtmp/stream/mPS3hJHEGRmgeeb8y9qlFnqNMKb_tDTNs0cbEig4SOz17fvgt_RGuGgPhCEEUjg71NH2Z4o/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Aew Wednesday Night Dynamite — echo" tvg-id="Ppv_Aew_Wednesday_Night_Dynamite_—_echo" group-title="Streamed.pk Live Sports",Ppv Aew Wednesday Night Dynamite — echo
-# match: Ppv Aew Wednesday Night Dynamite
-# provider: echo
-# embed: https://embed.st/embed/echo/aew-wednesday-night-dynamite-aew/1
-https://lb13.strmd.st/secure/AbqToGedbXxHTHKcWnMgTCtZbOenZHnD/echo/stream/aew-wednesday-night-dynamite-aew/1/playlist.m3u8
+https://cdn14.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=fg8hYsdBIUaRh0_jqL6Icg&expires=1784186664
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Iwk 250 Riverside Ppv 004 — echo" tvg-id="Ppv_Event_04_Iwk_250_Riverside_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Iwk 250 Riverside Ppv 004 — echo
 # match: Ppv Event 04 Iwk 250 Riverside Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-iwk-250-riverside-ppv-004/1
-https://lb1.strmd.st/secure/aXlJyhCHNiahdBQjTRMcfCrQwaWuJhgI/echo/stream/ppv-event-04-iwk-250-riverside-ppv-004/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Indiana Fever W Vs Golden State Valkyries W Basketball 494954 — echo" tvg-id="Indiana_Fever_W_Vs_Golden_State_Valkyries_W_Basketball_494954_—_echo" group-title="Streamed.pk Live Sports",Indiana Fever W Vs Golden State Valkyries W Basketball 494954 — echo
-# match: Indiana Fever W Vs Golden State Valkyries W Basketball 494954
-# provider: echo
-# embed: https://embed.st/embed/echo/indiana-fever-w-vs-golden-state-valkyries-w-basketball-494954/1
-https://lb14.strmd.st/secure/QhxTeqpGlbVhIyGvFbFoBGcovJHLBycr/echo/stream/indiana-fever-w-vs-golden-state-valkyries-w-basketball-494954/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — admin" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_admin" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — admin
-# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-milwaukee-bucks-vs-charlotte-hornets/1
-https://lb2.strmd.st/secure/GVsurGkguUSXQQNQHxjRPUTuWqmGLzrh/rtmp/stream/LQVlmrcrif-kDvgSRlZwnqW3y894YIYN5c2YYlHHMMHWWbImok-XkWiQlLwvIViOV8XpaSQolatedKsMRnz_gm9i/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Charlotte Hornets Vs Milwaukee Bucks 2505674 — golf" tvg-id="Charlotte_Hornets_Vs_Milwaukee_Bucks_2505674_—_golf" group-title="Streamed.pk Live Sports",Charlotte Hornets Vs Milwaukee Bucks 2505674 — golf
-# match: Charlotte Hornets Vs Milwaukee Bucks 2505674
-# provider: golf
-# embed: https://embed.st/embed/golf/23775/1
-https://cdn12.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=-j7fm8rQ9C2biqXyvAIcjA&expires=1784174990
-
-#EXTINF:-1 tvg-name="Ppv Event 03 Weekly Racing Utica Rome Ppv 03 — echo" tvg-id="Ppv_Event_03_Weekly_Racing_Utica_Rome_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Weekly Racing Utica Rome Ppv 03 — echo
-# match: Ppv Event 03 Weekly Racing Utica Rome Ppv 03
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-weekly-racing-utica-rome-ppv-03/1
-https://lb5.strmd.st/secure/faHWuSywYpvhkmXLopAmCSEEyPesLjLX/echo/stream/ppv-event-03-weekly-racing-utica-rome-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02 — echo" tvg-id="Ppv_Event_02_Hlr_Jokers_Jackpot_Eldora_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02 — echo
-# match: Ppv Event 02 Hlr Jokers Jackpot Eldora Ppv 02
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-02-hlr-jokers-jackpot-eldora-ppv-02/1
-https://lb1.strmd.st/secure/biBMCRMAsCGuTDoiqPhvMpsOiXCDSrNx/echo/stream/ppv-event-02-hlr-jokers-jackpot-eldora-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Detroit Pistons Vs Phoenix Suns 2505673 — golf" tvg-id="Detroit_Pistons_Vs_Phoenix_Suns_2505673_—_golf" group-title="Streamed.pk Live Sports",Detroit Pistons Vs Phoenix Suns 2505673 — golf
-# match: Detroit Pistons Vs Phoenix Suns 2505673
-# provider: golf
-# embed: https://embed.st/embed/golf/23774/1
-https://cdn12.zohanayaan.com:1686/hls/mdetroitpistons.m3u8?md5=Qw5rpvNpZ3SKaRgyzoKudw&expires=1784175012
+https://lb14.strmd.st/secure/BeWRagFHfxgjXoDKviGQwKjreNXhhGep/echo/stream/ppv-event-04-iwk-250-riverside-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo" tvg-id="Mlc_Qualifier_La_Knight_Riders_Vs_Sf_Unicorns_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo
 # match: Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637
 # provider: echo
 # embed: https://embed.st/embed/echo/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1
-https://lb5.strmd.st/secure/KUNdBcKKVZVYEsbjPgeFvurzaDHuEten/echo/stream/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1/playlist.m3u8
+https://lb8.strmd.st/secure/OHkitrKMnLFhlnnbmzKBNbiCKXLgoJPA/echo/stream/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1/playlist.m3u8
 
