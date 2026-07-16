@@ -1,47 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-16T20:00:07+00:00
-# 7 streams captured from 4 matches
-
-#EXTINF:-1 tvg-name="The Open Championship Round 1 2329368 — admin" tvg-id="The_Open_Championship_Round_1_2329368_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 1 2329368 — admin
-# match: The Open Championship Round 1 2329368
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-1/1
-https://lb13.strmd.st/secure/ONXspyEpXvbFwFHnJaudsUQSkPDIiuQU/rtmp/stream/She5IJOJskv3CEmO-r2_Ji0s8__p4lFfs9a19XctRxITt7HBPo3AzrhYKzfd3uEX5MXo92jf2N4/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
-# match: Admin Willow Cricket
-# provider: admin
-# embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb7.strmd.st/secure/gMkXMKqLPktrrZDVJLHjUBYiBuiBNWbc/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-16T21:08:58+00:00
+# 9 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_admin" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin
 # match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-dallas-mavericks-vs-oklahoma-city-thunder/1
-https://lb4.strmd.st/secure/lALjuLvdTDVhlDSLEdzVBcLQhIgcrpME/rtmp/stream/4KPu8xj9W4m2SYhHRDthzyrmta9vUfkjLuJFQdVizXuohy1gCi8GhdYHt7msywuI_LBOurNiyhuvOynMRfa4Q4_bhQR1/1/playlist.m3u8
+https://lb12.strmd.st/secure/HSfhSrqKZtceEtdbAvpNdqjGZJFasInM/rtmp/stream/TnMFxWKaAmy_VafKpBftPSituvjxVl5ffonTeaepB3zIA2vU_UNT6O__PGjdfbKOkNpponbZbj-pa-Wx_LYp6HsVPHBt/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — delta" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_delta" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — delta
 # match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: delta
 # embed: https://embed.st/embed/delta/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1
-https://lb14.strmd.st/secure/xMRSDGUAWerORGbivQtpHskwWAYxcAIi/delta/stream/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1/playlist.m3u8
+https://lb7.strmd.st/secure/cUIpitaZmJaMzBKzMEWBoOjduImCEXtD/delta/stream/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — echo" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_echo" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — echo
 # match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: echo
 # embed: https://embed.st/embed/echo/oklahoma-city-thunder-vs-dallas-mavericks-basketball-502116/1
-https://lb7.strmd.st/secure/VwpLrzHyriVEnKSTuVuiqrWSRwmfqzPs/echo/stream/oklahoma-city-thunder-vs-dallas-mavericks-basketball-502116/1/playlist.m3u8
+https://lb10.strmd.st/secure/JuOrrZqqqifjTuVkhukRkQNuncqiHLFp/echo/stream/oklahoma-city-thunder-vs-dallas-mavericks-basketball-502116/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf
 # match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: golf
 # embed: https://embed.st/embed/golf/23779/1
-https://cdn14.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=krKGfV5F340EmaLBIkRjMA&expires=1784239197
+https://cdn14.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=l0uslnXPgCFTAsHY-iBzVQ&expires=1784243301
+
+#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — admin" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_admin" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — admin
+# match: Houston Rockets Vs Brooklyn Nets 2505679
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-houston-rockets/1
+https://lb12.strmd.st/secure/DvzdUdrzyRSLFMZSFWOAZCEvFWLnqkiT/rtmp/stream/_e6KoMMA1vsKd4sD95fmxl-crvCfDKrY-4JkooQ75ILzWM2eY1meWkk_S9y7fiK0gL7uHfZakiXrW7KfbuihUw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — delta" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_delta" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — delta
+# match: Houston Rockets Vs Brooklyn Nets 2505679
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_rockets-nets-live-streaming-588949056/1
+https://lb8.strmd.st/secure/bPptMjGcBNMRdDmrrexYzTSfIPOEBcqM/delta/stream/live_nba-summer-league_rockets-nets-live-streaming-588949056/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — echo" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_echo" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — echo
+# match: Houston Rockets Vs Brooklyn Nets 2505679
+# provider: echo
+# embed: https://embed.st/embed/echo/houston-rockets-vs-brooklyn-nets-basketball-502117/1
+https://lb14.strmd.st/secure/hWLRXYZITjDuCvbnEocfQPzkkUoYzCGo/echo/stream/houston-rockets-vs-brooklyn-nets-basketball-502117/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — golf" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_golf" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — golf
+# match: Houston Rockets Vs Brooklyn Nets 2505679
+# provider: golf
+# embed: https://embed.st/embed/golf/23780/1
+https://cdn14.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=w-wIb3mI2eP7cvee0R5GAQ&expires=1784243327
 
 #EXTINF:-1 tvg-name="Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo" tvg-id="Bradford_Bulls_Vs_Wakefield_Trinity_Wildcats_2395967_—_echo" group-title="Streamed.pk Live Sports",Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo
 # match: Bradford Bulls Vs Wakefield Trinity Wildcats 2395967
 # provider: echo
 # embed: https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1
-https://lb1.strmd.st/secure/GpAdXBuafRPnNufHEWDVoMdpaKBZuxHK/echo/stream/bradford-bulls-vs-wakefield-trinity-game-184842/1/playlist.m3u8
+https://lb15.strmd.st/secure/MwWUIvSFhhHcwjZqsiuWCpwrvOMDpazK/echo/stream/bradford-bulls-vs-wakefield-trinity-game-184842/1/playlist.m3u8
 
