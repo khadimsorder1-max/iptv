@@ -1,71 +1,113 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-16T22:29:00+00:00
-# 11 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-16T23:27:59+00:00
+# 18 streams captured from 10 matches
 
 #EXTINF:-1 tvg-name="Chicago Bulls Vs Los Angeles Lakers 2505680 — admin" tvg-id="Chicago_Bulls_Vs_Los_Angeles_Lakers_2505680_—_admin" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Los Angeles Lakers 2505680 — admin
 # match: Chicago Bulls Vs Los Angeles Lakers 2505680
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-los-angeles-lakers-vs-chicago-bulls/1
-https://lb2.strmd.st/secure/wwmNnPtmtWfVruuyOTiEzasJhJQWOgML/rtmp/stream/19PkfwEU4aF13sbUHfMHUAUC4Pyxhre2OyQIDwTjVM9MI1BuTvC6D5R6ld3xl8Iz11pwdwh8hETl0Yk_ENk/1/playlist.m3u8
+https://lb9.strmd.st/secure/pwpRsffsNoJHoeMrfSirGgSBEtdTPJIx/rtmp/stream/wUi5TVtBqGLhvGNyyYD0IAP1grYyvKQGrPCXrTv2ur1_VGUJ9jmG_-D-cuburSJWyS-h0Jvg20pajqmfFn4/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Bulls Vs Los Angeles Lakers 2505680 — delta" tvg-id="Chicago_Bulls_Vs_Los_Angeles_Lakers_2505680_—_delta" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Los Angeles Lakers 2505680 — delta
 # match: Chicago Bulls Vs Los Angeles Lakers 2505680
 # provider: delta
 # embed: https://embed.st/embed/delta/live_nba-summer-league_bulls-lakers-live-streaming-588949488/1
-https://lb6.strmd.st/secure/EntPCcKFDqZFRhSljtmZjSbASYwQsPen/delta/stream/live_nba-summer-league_bulls-lakers-live-streaming-588949488/1/playlist.m3u8
+https://lb6.strmd.st/secure/GXdIEtmOeOrzSiKINYUJCYUGagvKZiGo/delta/stream/live_nba-summer-league_bulls-lakers-live-streaming-588949488/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Bulls Vs Los Angeles Lakers 2505680 — echo" tvg-id="Chicago_Bulls_Vs_Los_Angeles_Lakers_2505680_—_echo" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Los Angeles Lakers 2505680 — echo
 # match: Chicago Bulls Vs Los Angeles Lakers 2505680
 # provider: echo
 # embed: https://embed.st/embed/echo/chicago-bulls-vs-los-angeles-lakers-basketball-502118/1
-https://lb9.strmd.st/secure/SstmhnMTNdFmCONthraWQfLXEJwvSiEU/echo/stream/chicago-bulls-vs-los-angeles-lakers-basketball-502118/1/playlist.m3u8
+https://lb4.strmd.st/secure/DUVkhNYJyWggiRZdJHREBHQZZlgPaGzo/echo/stream/chicago-bulls-vs-los-angeles-lakers-basketball-502118/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Chicago Bulls Vs Los Angeles Lakers 2505680 — golf" tvg-id="Chicago_Bulls_Vs_Los_Angeles_Lakers_2505680_—_golf" group-title="Streamed.pk Live Sports",Chicago Bulls Vs Los Angeles Lakers 2505680 — golf
 # match: Chicago Bulls Vs Los Angeles Lakers 2505680
 # provider: golf
 # embed: https://embed.st/embed/golf/23781/1
-https://cdn14.zohanayaan.com:1686/hls/mchicagobulls.m3u8?md5=86KRlT8NCwRqH1TaNP611g&expires=1784248093
+https://cdn15.zohanayaan.com:1686/hls/mchicagobulls.m3u8?md5=vBA-rrZOzw31mn_Cmn9Ipw&expires=1784251582
+
+#EXTINF:-1 tvg-name="Washington Mystics Vs Portland Fire 2469375 — admin" tvg-id="Washington_Mystics_Vs_Portland_Fire_2469375_—_admin" group-title="Streamed.pk Live Sports",Washington Mystics Vs Portland Fire 2469375 — admin
+# match: Washington Mystics Vs Portland Fire 2469375
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-portland-fire-vs-washington-mystics/1
+https://lb11.strmd.st/secure/UAJdLriveUysKFIfBjvAODCVlmTyjnOg/rtmp/stream/Ls7Uu-CrDPr4XfRc1wjV9KmcspzxENuY6lP2sClf699s8nZz2p0p-pPGwTGB61EkbH40z7O6OH8tgmzXNYj5DAiJ8A/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Washington Mystics Vs Portland Fire 2469375 — delta" tvg-id="Washington_Mystics_Vs_Portland_Fire_2469375_—_delta" group-title="Streamed.pk Live Sports",Washington Mystics Vs Portland Fire 2469375 — delta
+# match: Washington Mystics Vs Portland Fire 2469375
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_mystics-fire-live-streaming-523973664/1
+https://lb8.strmd.st/secure/jsuGYfOtXlJnEjnGcLSnYOggJMfmgGTr/delta/stream/live_wnba_mystics-fire-live-streaming-523973664/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Golden State Warriors 2505681 — admin" tvg-id="New_York_Knicks_Vs_Golden_State_Warriors_2505681_—_admin" group-title="Streamed.pk Live Sports",New York Knicks Vs Golden State Warriors 2505681 — admin
+# match: New York Knicks Vs Golden State Warriors 2505681
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-vs-new-york-knicks/1
+https://lb1.strmd.st/secure/TuYxssotMHXpymZOPzItZQZwfxJGmPcY/rtmp/stream/Z0xgOofcb7mCTJuI8HuNCt8vvs4WJT_czR2F28aI6p0NTEXka5T4-wB-DyHqAJ5xeC1C2RQT0qxufmaSIbMJ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Golden State Warriors 2505681 — delta" tvg-id="New_York_Knicks_Vs_Golden_State_Warriors_2505681_—_delta" group-title="Streamed.pk Live Sports",New York Knicks Vs Golden State Warriors 2505681 — delta
+# match: New York Knicks Vs Golden State Warriors 2505681
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_knicks-warriors-live-streaming-588949920/1
+https://lb14.strmd.st/secure/NsbaCkshRKURDpNNwFxGwwBlikJThlOQ/delta/stream/live_nba-summer-league_knicks-warriors-live-streaming-588949920/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Golden State Warriors 2505681 — echo" tvg-id="New_York_Knicks_Vs_Golden_State_Warriors_2505681_—_echo" group-title="Streamed.pk Live Sports",New York Knicks Vs Golden State Warriors 2505681 — echo
+# match: New York Knicks Vs Golden State Warriors 2505681
+# provider: echo
+# embed: https://embed.st/embed/echo/new-york-knicks-vs-golden-state-warriors-basketball-502119/1
+https://lb15.strmd.st/secure/LAaRprMsicBVBkwkTsJAVFheKFwzhUmt/echo/stream/new-york-knicks-vs-golden-state-warriors-basketball-502119/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New York Knicks Vs Golden State Warriors 2505681 — golf" tvg-id="New_York_Knicks_Vs_Golden_State_Warriors_2505681_—_golf" group-title="Streamed.pk Live Sports",New York Knicks Vs Golden State Warriors 2505681 — golf
+# match: New York Knicks Vs Golden State Warriors 2505681
+# provider: golf
+# embed: https://embed.st/embed/golf/23782/1
+https://cdn11.zohanayaan.com:1686/hls/mnewyorkknicks.m3u8?md5=mKE02RlgoAPgZBYi9qIFOw&expires=1784251620
+
+#EXTINF:-1 tvg-name="Washington Mystics W Vs Portland Fire W Basketball 494955 — echo" tvg-id="Washington_Mystics_W_Vs_Portland_Fire_W_Basketball_494955_—_echo" group-title="Streamed.pk Live Sports",Washington Mystics W Vs Portland Fire W Basketball 494955 — echo
+# match: Washington Mystics W Vs Portland Fire W Basketball 494955
+# provider: echo
+# embed: https://embed.st/embed/echo/washington-mystics-w-vs-portland-fire-w-basketball-494955/1
+https://lb2.strmd.st/secure/WDUluFBYvWQllBDnyfhOMOOxbhRSAmZb/echo/stream/washington-mystics-w-vs-portland-fire-w-basketball-494955/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 03 Hlr Jokers Jackpot Eldora Ppv 03 — echo" tvg-id="Ppv_Event_03_Hlr_Jokers_Jackpot_Eldora_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 Hlr Jokers Jackpot Eldora Ppv 03 — echo
+# match: Ppv Event 03 Hlr Jokers Jackpot Eldora Ppv 03
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-hlr-jokers-jackpot-eldora-ppv-03/1
+https://lb5.strmd.st/secure/bTGbMXwYCljZPkgaYIOjITJzDESQxpwI/echo/stream/ppv-event-03-hlr-jokers-jackpot-eldora-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 01 Cars Tour North Wilkesboro Ppv 01 — echo" tvg-id="Ppv_Event_01_Cars_Tour_North_Wilkesboro_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Cars Tour North Wilkesboro Ppv 01 — echo
+# match: Ppv Event 01 Cars Tour North Wilkesboro Ppv 01
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-cars-tour-north-wilkesboro-ppv-01/1
+https://lb10.strmd.st/secure/wXPvobFqoYtisZkEfEDxwpSRKJvHSjRt/echo/stream/ppv-event-01-cars-tour-north-wilkesboro-ppv-01/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Short Track Super Series Fonda Ppv 02 — echo" tvg-id="Ppv_Event_02_Short_Track_Super_Series_Fonda_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Short Track Super Series Fonda Ppv 02 — echo
+# match: Ppv Event 02 Short Track Super Series Fonda Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-short-track-super-series-fonda-ppv-02/1
+https://lb9.strmd.st/secure/DccweiYEjDVAgsydmoHegRefEPPLYjTV/echo/stream/ppv-event-02-short-track-super-series-fonda-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — admin" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_admin" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — admin
 # match: Houston Rockets Vs Brooklyn Nets 2505679
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-brooklyn-nets-vs-houston-rockets/1
-https://lb11.strmd.st/secure/FkiHIJFuXWwSJjckymwgCIKrPSrJBpFp/rtmp/stream/bjA-EmNsC8khe9qArXR7_QQxIPF09B8E3H688pqvYIx2MzG9nkq9v7tanvTUmo1UEjyEC3XX-WCh5H0YGgMe-A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — delta" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_delta" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — delta
-# match: Houston Rockets Vs Brooklyn Nets 2505679
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_rockets-nets-live-streaming-588949056/1
-https://lb14.strmd.st/secure/JeFaaZCEqmaZJMFgtYXIDACRwHdskocd/delta/stream/live_nba-summer-league_rockets-nets-live-streaming-588949056/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — echo" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_echo" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — echo
-# match: Houston Rockets Vs Brooklyn Nets 2505679
-# provider: echo
-# embed: https://embed.st/embed/echo/houston-rockets-vs-brooklyn-nets-basketball-502117/1
-https://lb12.strmd.st/secure/OMFpxzSvjNbjrHRcldjRtBkUuJAXGnJz/echo/stream/houston-rockets-vs-brooklyn-nets-basketball-502117/1/playlist.m3u8
+https://lb11.strmd.st/secure/PWXKzZbUFfOECYPONxWVvdFAVmTIHsnn/rtmp/stream/Ixgy_8oymqEd4ZnEWJeCecNYoKhBaOu5YR889729JtJ9tfTWUQ-Q8yyj23vRNiuXVDiYGNMSJFLOKztrYlqv3A/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Houston Rockets Vs Brooklyn Nets 2505679 — golf" tvg-id="Houston_Rockets_Vs_Brooklyn_Nets_2505679_—_golf" group-title="Streamed.pk Live Sports",Houston Rockets Vs Brooklyn Nets 2505679 — golf
 # match: Houston Rockets Vs Brooklyn Nets 2505679
 # provider: golf
 # embed: https://embed.st/embed/golf/23780/1
-https://cdn14.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=WLSzPU_LMeCgrB89DZ_RCg&expires=1784248117
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_admin" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin
-# match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-mavericks-vs-oklahoma-city-thunder/1
-https://lb13.strmd.st/secure/hMyyXrModroIEUYHoDAkfhMyghXmcgbu/rtmp/stream/h5NEjGRIml2a-hgc_MqyaxpLv_sDoCkg0B6ISSSU4RIYhlglPzlVxL-DHf8HTA6ZjQpK7YAp0tzXhWfRT6x0PXQ4Gv0J/1/playlist.m3u8
+https://cdn14.zohanayaan.com:1686/hls/mhoustonrockets.m3u8?md5=eESNLFRSFGew1wE3yPoaZg&expires=1784251661
 
 #EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf
 # match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: golf
 # embed: https://embed.st/embed/golf/23779/1
-https://cdn14.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=LFkMuLR7MTqqf1cQBkD95A&expires=1784248130
+https://cdn11.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=FYZa19RKKsN6ojWMW6GEHQ&expires=1784251668
 
 #EXTINF:-1 tvg-name="Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo" tvg-id="Bradford_Bulls_Vs_Wakefield_Trinity_Wildcats_2395967_—_echo" group-title="Streamed.pk Live Sports",Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo
 # match: Bradford Bulls Vs Wakefield Trinity Wildcats 2395967
 # provider: echo
 # embed: https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1
-https://lb4.strmd.st/secure/KYeibalKfjNXoUfJexpezwpLzNPXgQan/echo/stream/bradford-bulls-vs-wakefield-trinity-game-184842/1/playlist.m3u8
+https://lb3.strmd.st/secure/oFtbJZYTIZieFuxkBzZPcloDpGJKgJaV/echo/stream/bradford-bulls-vs-wakefield-trinity-game-184842/1/playlist.m3u8
 
