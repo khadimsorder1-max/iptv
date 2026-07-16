@@ -1,35 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-16T05:24:41+00:00
-# 5 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-16T07:36:00+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Washington Wizards 2505677 — admin" tvg-id="Los_Angeles_Clippers_Vs_Washington_Wizards_2505677_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Washington Wizards 2505677 — admin
-# match: Los Angeles Clippers Vs Washington Wizards 2505677
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-washington-wizards-vs-la-clippers/1
-https://lb10.strmd.st/secure/IaJbaPvMHkMTzVDRCrahTNLghvChrtxy/rtmp/stream/mTdAPjg-a-7Xq5yCur-mWSuF-sSxI1YGHs4CrMRLOqBlFUmFrAlfkBXf1ihazyU_1JAr6MnKG070g22w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Washington Wizards 2505677 — golf" tvg-id="Los_Angeles_Clippers_Vs_Washington_Wizards_2505677_—_golf" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Washington Wizards 2505677 — golf
-# match: Los Angeles Clippers Vs Washington Wizards 2505677
-# provider: golf
-# embed: https://embed.st/embed/golf/23778/1
-https://cdn11.zohanayaan.com:1686/hls/mlosangelesclippers.m3u8?md5=ljmq1UsKXJc07WKtMJrt0g&expires=1784186658
-
-#EXTINF:-1 tvg-name="San Antonio Spurs Vs Utah Jazz 2505676 — golf" tvg-id="San_Antonio_Spurs_Vs_Utah_Jazz_2505676_—_golf" group-title="Streamed.pk Live Sports",San Antonio Spurs Vs Utah Jazz 2505676 — golf
-# match: San Antonio Spurs Vs Utah Jazz 2505676
-# provider: golf
-# embed: https://embed.st/embed/golf/23777/1
-https://cdn14.zohanayaan.com:1686/hls/msanantoniospurs.m3u8?md5=fg8hYsdBIUaRh0_jqL6Icg&expires=1784186664
+#EXTINF:-1 tvg-name="The Open Championship Round 1 2329368 — echo" tvg-id="The_Open_Championship_Round_1_2329368_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 1 2329368 — echo
+# match: The Open Championship Round 1 2329368
+# provider: echo
+# embed: https://embed.st/embed/echo/the-154th-open-round-1-the-open-championship-atp1000/1
+https://lb7.strmd.st/secure/dbVbowxnQVIJhaBGxzkEecxstGqSuuRf/echo/stream/the-154th-open-round-1-the-open-championship-atp1000/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 04 Iwk 250 Riverside Ppv 004 — echo" tvg-id="Ppv_Event_04_Iwk_250_Riverside_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Iwk 250 Riverside Ppv 004 — echo
 # match: Ppv Event 04 Iwk 250 Riverside Ppv 004
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-04-iwk-250-riverside-ppv-004/1
-https://lb14.strmd.st/secure/BeWRagFHfxgjXoDKviGQwKjreNXhhGep/echo/stream/ppv-event-04-iwk-250-riverside-ppv-004/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo" tvg-id="Mlc_Qualifier_La_Knight_Riders_Vs_Sf_Unicorns_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637 — echo
-# match: Mlc Qualifier La Knight Riders Vs Sf Unicorns Game 19993637
-# provider: echo
-# embed: https://embed.st/embed/echo/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1
-https://lb8.strmd.st/secure/OHkitrKMnLFhlnnbmzKBNbiCKXLgoJPA/echo/stream/mlc-qualifier-la-knight-riders-vs-sf-unicorns-game-19993637/1/playlist.m3u8
+https://lb8.strmd.st/secure/zpJWXStOkJOOBXWgZsfiXJFoYuilTcpL/echo/stream/ppv-event-04-iwk-250-riverside-ppv-004/1/playlist.m3u8
 
