@@ -1,29 +1,47 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-16T18:39:31+00:00
-# 4 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-16T20:00:07+00:00
+# 7 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="The Open Championship Round 1 2329368 — admin" tvg-id="The_Open_Championship_Round_1_2329368_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 1 2329368 — admin
 # match: The Open Championship Round 1 2329368
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-1/1
-https://lb5.strmd.st/secure/zxGDByixafSJsGxctIfTeQseJmpCOmZU/rtmp/stream/YkqfPtFFtksxoENC-0FnXdPH7ftF-6f3SGS4cxug0nkNr1jB5toQ7Zqk3fsGGXfy26LTtJKYa5g/1/playlist.m3u8
+https://lb13.strmd.st/secure/ONXspyEpXvbFwFHnJaudsUQSkPDIiuQU/rtmp/stream/She5IJOJskv3CEmO-r2_Ji0s8__p4lFfs9a19XctRxITt7HBPo3AzrhYKzfd3uEX5MXo92jf2N4/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
 # match: Admin Willow Cricket
 # provider: admin
 # embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb4.strmd.st/secure/QmLGlFuontXfQzamENHZCbfdCjRadoTu/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+https://lb7.strmd.st/secure/gMkXMKqLPktrrZDVJLHjUBYiBuiBNWbc/rtmp/stream/streamed-willow_720/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="England Vs India Second One Day International Game 19993637 — echo" tvg-id="England_Vs_India_Second_One_Day_International_Game_19993637_—_echo" group-title="Streamed.pk Live Sports",England Vs India Second One Day International Game 19993637 — echo
-# match: England Vs India Second One Day International Game 19993637
-# provider: echo
-# embed: https://embed.st/embed/echo/england-vs-india-second-one-day-international-game-19993637/1
-https://lb9.strmd.st/secure/ZefkyReLpBfOYLLLFXDaTDaZvwEOmcFd/echo/stream/england-vs-india-second-one-day-international-game-19993637/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_admin" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — admin
+# match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-dallas-mavericks-vs-oklahoma-city-thunder/1
+https://lb4.strmd.st/secure/lALjuLvdTDVhlDSLEdzVBcLQhIgcrpME/rtmp/stream/4KPu8xj9W4m2SYhHRDthzyrmta9vUfkjLuJFQdVizXuohy1gCi8GhdYHt7msywuI_LBOurNiyhuvOynMRfa4Q4_bhQR1/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
-# match: Uci Tour De France Uci World Tour Game 13622
+#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — delta" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_delta" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — delta
+# match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1
+https://lb14.strmd.st/secure/xMRSDGUAWerORGbivQtpHskwWAYxcAIi/delta/stream/live_nba-summer-league_thunder-mavericks-live-streaming-588948624/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — echo" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_echo" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — echo
+# match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
 # provider: echo
-# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb4.strmd.st/secure/jsAOglSjNSmjuyUrWFXOKyJXKioopUxT/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/oklahoma-city-thunder-vs-dallas-mavericks-basketball-502116/1
+https://lb7.strmd.st/secure/VwpLrzHyriVEnKSTuVuiqrWSRwmfqzPs/echo/stream/oklahoma-city-thunder-vs-dallas-mavericks-basketball-502116/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf" tvg-id="Oklahoma_City_Thunder_Vs_Dallas_Mavericks_2505678_—_golf" group-title="Streamed.pk Live Sports",Oklahoma City Thunder Vs Dallas Mavericks 2505678 — golf
+# match: Oklahoma City Thunder Vs Dallas Mavericks 2505678
+# provider: golf
+# embed: https://embed.st/embed/golf/23779/1
+https://cdn14.zohanayaan.com:1686/hls/moklahomacitythunder.m3u8?md5=krKGfV5F340EmaLBIkRjMA&expires=1784239197
+
+#EXTINF:-1 tvg-name="Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo" tvg-id="Bradford_Bulls_Vs_Wakefield_Trinity_Wildcats_2395967_—_echo" group-title="Streamed.pk Live Sports",Bradford Bulls Vs Wakefield Trinity Wildcats 2395967 — echo
+# match: Bradford Bulls Vs Wakefield Trinity Wildcats 2395967
+# provider: echo
+# embed: https://embed.st/embed/echo/bradford-bulls-vs-wakefield-trinity-game-184842/1
+https://lb1.strmd.st/secure/GpAdXBuafRPnNufHEWDVoMdpaKBZuxHK/echo/stream/bradford-bulls-vs-wakefield-trinity-game-184842/1/playlist.m3u8
 
