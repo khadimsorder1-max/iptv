@@ -1,23 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T06:36:49+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-17T09:06:12+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Dallas Wings W Vs New York Liberty W Basketball 494956 — echo" tvg-id="Dallas_Wings_W_Vs_New_York_Liberty_W_Basketball_494956_—_echo" group-title="Streamed.pk Live Sports",Dallas Wings W Vs New York Liberty W Basketball 494956 — echo
-# match: Dallas Wings W Vs New York Liberty W Basketball 494956
-# provider: echo
-# embed: https://embed.st/embed/echo/dallas-wings-w-vs-new-york-liberty-w-basketball-494956/1
-https://lb7.strmd.st/secure/FpBYQbKhGPhiSMbLlqVMPpRVgIonsfeV/echo/stream/dallas-wings-w-vs-new-york-liberty-w-basketball-494956/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05 — echo" tvg-id="Ppv_Event_05_Lucas_Oil_Late_Models_Shelby_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05 — echo
-# match: Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-05-lucas-oil-late-models-shelby-ppv-05/1
-https://lb4.strmd.st/secure/bwjoTFHvaEgpeUunNJcuvtNQGJaFvipe/echo/stream/ppv-event-05-lucas-oil-late-models-shelby-ppv-05/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Cronulla Sharks Vs Newcastle Knights 2417306 — admin" tvg-id="Cronulla_Sharks_Vs_Newcastle_Knights_2417306_—_admin" group-title="Streamed.pk Live Sports",Cronulla Sharks Vs Newcastle Knights 2417306 — admin
+# match: Cronulla Sharks Vs Newcastle Knights 2417306
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-sharks-vs-knights/1
+https://lb1.strmd.st/secure/YDWaCrxaoppffetFGljpYunvHJYSoIQZ/rtmp/stream/cupQQPRfgl63yPyUvfEmsqCBs31PRX4z-o40uJRrVdUDHc06W-T3V-4iZuDkfEAfPR4l-lO2Ojc5WB8/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — echo" tvg-id="The_Open_Championship_Round_2_2358663_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — echo
 # match: The Open Championship Round 2 2358663
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
-https://lb10.strmd.st/secure/gvtUSdBQRbxaBAeXvYlUxVmWzDuTeqsa/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
+https://lb2.strmd.st/secure/pnOLLGyxJATzBjDdJixqJptlOywQqxJD/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
