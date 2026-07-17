@@ -1,47 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T11:05:34+00:00
-# 7 streams captured from 5 matches
+# Streamed.pk live sports matches — built 2026-07-17T12:43:02+00:00
+# 9 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — admin" tvg-id="The_Open_Championship_Round_2_2358663_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — admin
 # match: The Open Championship Round 2 2358663
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-2/1
-https://lb13.strmd.st/secure/bOxdvngPuwgcmLfrsJokrnhMqITraqgK/rtmp/stream/vGqU0tNPketuN3tTaRR4YgCgJEh4dBTJl02MxcQtVP3U6X-cYWbhwseFDpigEEVUYh2v3hWijec/1/playlist.m3u8
+https://lb13.strmd.st/secure/eDfRPFFNdCbjNIVTMWKSkPBCrEVGThok/rtmp/stream/ngw8dwR45t7CH-l92uINTBpx-cYmg_Mq2twzCSQnWiBPhn6FW1MaXuoYNUXeMRYj_AuqL_P43nY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — echo" tvg-id="The_Open_Championship_Round_2_2358663_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — echo
 # match: The Open Championship Round 2 2358663
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
-https://lb6.strmd.st/secure/MTWOVWfDBnEJSJNEPlDUPDfkFbFYHZGt/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
+https://lb12.strmd.st/secure/QIUCPRSbhAuonHEkeyPPGcWdoPOcAUQI/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Sydney Roosters Vs Melbourne Storm 2417308 — admin" tvg-id="Sydney_Roosters_Vs_Melbourne_Storm_2417308_—_admin" group-title="Streamed.pk Live Sports",Sydney Roosters Vs Melbourne Storm 2417308 — admin
-# match: Sydney Roosters Vs Melbourne Storm 2417308
+#EXTINF:-1 tvg-name="Tour De France Stage 13 2447760 — admin" tvg-id="Tour_De_France_Stage_13_2447760_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 13 2447760 — admin
+# match: Tour De France Stage 13 2447760
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-roosters-vs-storm/1
-https://lb5.strmd.st/secure/xSkipUhzYtuBnVLXbUbeAolGEZLbmzei/rtmp/stream/PxPEpwAtea9rVP5aTOCJDUAXN4aRJWmBtLz2wwzL20Vu7BycfdVnpxyKautNTTXRmpUMA5UVXPKCkCY/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-13/1
+https://lb2.strmd.st/secure/ipcSqBDwrJnycIZaEwLLkqNXztLGkqju/rtmp/stream/MvDA3Rvaq944kPXYgOZwUwRQXY2Zg2FU6qvVjUP1nfwSOxB-9gPneNQkJro6A3C9eYJC8izn/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv One Inner Circle 22 Di Bella Vs Zhang 2 — admin" tvg-id="Ppv_One_Inner_Circle_22_Di_Bella_Vs_Zhang_2_—_admin" group-title="Streamed.pk Live Sports",Ppv One Inner Circle 22 Di Bella Vs Zhang 2 — admin
+# match: Ppv One Inner Circle 22 Di Bella Vs Zhang 2
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-one-inner-circle-22-di-bella-vs-zhang-2/1
+https://lb11.strmd.st/secure/vYRcPZDlvZtYfCMiojVzNEeiICAlNwsq/rtmp/stream/Du7N_nw-fdgHu9rXhBZFrIehN2VDrPqQ-tX7UQB0cLRAU8Ix9G_k9iFdgv9X5WredX02AzWmDw/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgian Grand Prix Practice 1 2408167 — admin" tvg-id="Belgian_Grand_Prix_Practice_1_2408167_—_admin" group-title="Streamed.pk Live Sports",Belgian Grand Prix Practice 1 2408167 — admin
+# match: Belgian Grand Prix Practice 1 2408167
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/1
+https://lb7.strmd.st/secure/CitqqMaJVnLSwkQqfCCkdHJJHeQnEGfy/rtmp/stream/0pkC4RZufUKXYrwynJY8v54_Ftur-VXunh_Oc8-PUREoubo8mCoY-2Jbfv4iejQUI_DiO51312hLp6JAgoypd9LaFSY/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
+# match: Uci Tour De France Uci World Tour Game 13622
+# provider: echo
+# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
+https://lb2.strmd.st/secure/XeABiUHgNwRDJSqGBdVirsnwMLXJliDS/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Tour De France Stage 13 — admin" tvg-id="Ppv_Tour_De_France_Stage_13_—_admin" group-title="Streamed.pk Live Sports",Ppv Tour De France Stage 13 — admin
 # match: Ppv Tour De France Stage 13
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-13/1
-https://lb14.strmd.st/secure/eHSfxQmzTxGJmqawUtKKwQOxFZyGCUTP/rtmp/stream/4Rqq6OcuNbTmmF6sjgHdQUeJI7Tzjou9RC8GS5szzRbFJ_SWZCfUpbhbMfoTNaCg_vBcRLtG/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Sydney Swans Vs Adelaide Football Club 2495775 — echo" tvg-id="Sydney_Swans_Vs_Adelaide_Football_Club_2495775_—_echo" group-title="Streamed.pk Live Sports",Sydney Swans Vs Adelaide Football Club 2495775 — echo
-# match: Sydney Swans Vs Adelaide Football Club 2495775
-# provider: echo
-# embed: https://embed.st/embed/echo/sydney-swans-vs-adelaide-crows-australian-football-3574/1
-https://lb8.strmd.st/secure/cXSeGFeHoddHkMwranXQnjxPftFvhtFG/echo/stream/sydney-swans-vs-adelaide-crows-australian-football-3574/1/playlist.m3u8
+https://lb4.strmd.st/secure/tcdhegMFBKpyymGQrvbIAvQifQnEURBN/rtmp/stream/vLkUs8MtWHT0R7RTP7vk76pq9SOu4vTzqBysQrrkRoI9Axf371jIq4S-EeMSw1pclNKcSu31/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv The Open Championship Round 2 — admin" tvg-id="Ppv_The_Open_Championship_Round_2_—_admin" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 2 — admin
 # match: Ppv The Open Championship Round 2
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-2/1
-https://lb7.strmd.st/secure/HVrgmwIVDYguxUUwpgWaFHFniJUPJGHU/rtmp/stream/vGqU0tNPketuN3tTaRR4YgCgJEh4dBTJl02MxcQtVP3U6X-cYWbhwseFDpigEEVUYh2v3hWijec/1/playlist.m3u8
+https://lb13.strmd.st/secure/gHfNOUDuWTYnWbEeqIEdYPWRBTRSRNSv/rtmp/stream/ngw8dwR45t7CH-l92uINTBpx-cYmg_Mq2twzCSQnWiBPhn6FW1MaXuoYNUXeMRYj_AuqL_P43nY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv The Open Championship Round 2 — echo" tvg-id="Ppv_The_Open_Championship_Round_2_—_echo" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 2 — echo
 # match: Ppv The Open Championship Round 2
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
-https://lb3.strmd.st/secure/ZyGytjGHAdTCNncOyWZmbWiCzyUrOdyz/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
+https://lb8.strmd.st/secure/aFILLKnZnoehiydmpTRaXCSwRdkaBJdD/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
