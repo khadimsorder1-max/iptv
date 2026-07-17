@@ -1,65 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T04:12:43+00:00
-# 10 streams captured from 5 matches
-
-#EXTINF:-1 tvg-name="Denver Nuggets Vs Portland Trail Blazers 2505684 — admin" tvg-id="Denver_Nuggets_Vs_Portland_Trail_Blazers_2505684_—_admin" group-title="Streamed.pk Live Sports",Denver Nuggets Vs Portland Trail Blazers 2505684 — admin
-# match: Denver Nuggets Vs Portland Trail Blazers 2505684
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-trail-blazers-vs-denver-nuggets/1
-https://lb10.strmd.st/secure/GtsrsxjApywvTvypVqeeyCnDrybiPdpn/rtmp/stream/MP6nmLfkmeb93ljTAJMpmyh2upHS86F1RCg5Hzwzya4Xoa8e85gfFbK5LhjonIM4TcRD3qR6MybeHQC32NdQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Denver Nuggets Vs Portland Trail Blazers 2505684 — delta" tvg-id="Denver_Nuggets_Vs_Portland_Trail_Blazers_2505684_—_delta" group-title="Streamed.pk Live Sports",Denver Nuggets Vs Portland Trail Blazers 2505684 — delta
-# match: Denver Nuggets Vs Portland Trail Blazers 2505684
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_nuggets-trail-blazers-live-streaming-588951648/1
-https://lb4.strmd.st/secure/VXvCxhEpWfVYmVawNPjvwMqBmgVOyvOc/delta/stream/live_nba-summer-league_nuggets-trail-blazers-live-streaming-588951648/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Denver Nuggets Vs Portland Trail Blazers 2505684 — echo" tvg-id="Denver_Nuggets_Vs_Portland_Trail_Blazers_2505684_—_echo" group-title="Streamed.pk Live Sports",Denver Nuggets Vs Portland Trail Blazers 2505684 — echo
-# match: Denver Nuggets Vs Portland Trail Blazers 2505684
-# provider: echo
-# embed: https://embed.st/embed/echo/denver-nuggets-vs-portland-trail-blazers-basketball-502122/1
-https://lb12.strmd.st/secure/iFcYSOPaniCHgNUDhrLMmVHFGrOnDGYl/echo/stream/denver-nuggets-vs-portland-trail-blazers-basketball-502122/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Denver Nuggets Vs Portland Trail Blazers 2505684 — golf" tvg-id="Denver_Nuggets_Vs_Portland_Trail_Blazers_2505684_—_golf" group-title="Streamed.pk Live Sports",Denver Nuggets Vs Portland Trail Blazers 2505684 — golf
-# match: Denver Nuggets Vs Portland Trail Blazers 2505684
-# provider: golf
-# embed: https://embed.st/embed/golf/23785/1
-https://cdn14.zohanayaan.com:1686/hls/mdenvernuggets.m3u8?md5=gWBUjhw9ZyxkYYF-pZXtlQ&expires=1784268716
-
-#EXTINF:-1 tvg-name="Seattle Sounders Vs Portland Timbers 2406930 — admin" tvg-id="Seattle_Sounders_Vs_Portland_Timbers_2406930_—_admin" group-title="Streamed.pk Live Sports",Seattle Sounders Vs Portland Timbers 2406930 — admin
-# match: Seattle Sounders Vs Portland Timbers 2406930
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-seattle-sounders-fc-vs-portland-timbers/1
-https://lb13.strmd.st/secure/HsGPhmNFCCWpFJnRBJyHVTBUUhDqMUTT/rtmp/stream/8DAuljBdTpSlocwJzGBuOepFh-qZ7biy1yPChQXYLWjpwNkJPr6Bjho2Y6YPwOeqE90jAvqc3Dja/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Sounders Vs Portland Timbers 2406930 — delta" tvg-id="Seattle_Sounders_Vs_Portland_Timbers_2406930_—_delta" group-title="Streamed.pk Live Sports",Seattle Sounders Vs Portland Timbers 2406930 — delta
-# match: Seattle Sounders Vs Portland Timbers 2406930
-# provider: delta
-# embed: https://embed.st/embed/delta/live_mls_seattle-portland-live-streaming-538131168/1
-https://lb12.strmd.st/secure/gebcvTLtTEIBnsOeABOPshptTTCnCCVa/delta/stream/live_mls_seattle-portland-live-streaming-538131168/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Seattle Sounders Vs Portland Timbers 2406930 — echo" tvg-id="Seattle_Sounders_Vs_Portland_Timbers_2406930_—_echo" group-title="Streamed.pk Live Sports",Seattle Sounders Vs Portland Timbers 2406930 — echo
-# match: Seattle Sounders Vs Portland Timbers 2406930
-# provider: echo
-# embed: https://embed.st/embed/echo/seattle-sounders-vs-portland-timbers-football-1490328/1
-https://lb10.strmd.st/secure/wkWmAoIERsPHFWiaGkJeeqzXwntNmcuQ/echo/stream/seattle-sounders-vs-portland-timbers-football-1490328/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tijuana Vs Tigres Uanl 2487453 — echo" tvg-id="Tijuana_Vs_Tigres_Uanl_2487453_—_echo" group-title="Streamed.pk Live Sports",Tijuana Vs Tigres Uanl 2487453 — echo
-# match: Tijuana Vs Tigres Uanl 2487453
-# provider: echo
-# embed: https://embed.st/embed/echo/club-tijuana-vs-tigres-uanl-football-1550895/1
-https://lb13.strmd.st/secure/lFVBZhIowYDZbUvpnQaIPYBjRevzvljl/echo/stream/club-tijuana-vs-tigres-uanl-football-1550895/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-17T06:36:49+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Dallas Wings W Vs New York Liberty W Basketball 494956 — echo" tvg-id="Dallas_Wings_W_Vs_New_York_Liberty_W_Basketball_494956_—_echo" group-title="Streamed.pk Live Sports",Dallas Wings W Vs New York Liberty W Basketball 494956 — echo
 # match: Dallas Wings W Vs New York Liberty W Basketball 494956
 # provider: echo
 # embed: https://embed.st/embed/echo/dallas-wings-w-vs-new-york-liberty-w-basketball-494956/1
-https://lb12.strmd.st/secure/oGmbZWbIRmsRKjdNcHPMkyrmBTlJdsRN/echo/stream/dallas-wings-w-vs-new-york-liberty-w-basketball-494956/1/playlist.m3u8
+https://lb7.strmd.st/secure/FpBYQbKhGPhiSMbLlqVMPpRVgIonsfeV/echo/stream/dallas-wings-w-vs-new-york-liberty-w-basketball-494956/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05 — echo" tvg-id="Ppv_Event_05_Lucas_Oil_Late_Models_Shelby_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05 — echo
 # match: Ppv Event 05 Lucas Oil Late Models Shelby Ppv 05
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-lucas-oil-late-models-shelby-ppv-05/1
-https://lb6.strmd.st/secure/VNzxhJzfQEopbHWASYaEzzbcjjUFySVL/echo/stream/ppv-event-05-lucas-oil-late-models-shelby-ppv-05/1/playlist.m3u8
+https://lb4.strmd.st/secure/bwjoTFHvaEgpeUunNJcuvtNQGJaFvipe/echo/stream/ppv-event-05-lucas-oil-late-models-shelby-ppv-05/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — echo" tvg-id="The_Open_Championship_Round_2_2358663_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — echo
+# match: The Open Championship Round 2 2358663
+# provider: echo
+# embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
+https://lb10.strmd.st/secure/gvtUSdBQRbxaBAeXvYlUxVmWzDuTeqsa/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
