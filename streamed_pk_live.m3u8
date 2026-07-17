@@ -1,23 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T17:12:16+00:00
+# Streamed.pk live sports matches — built 2026-07-17T18:33:38+00:00
 # 3 streams captured from 2 matches
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — admin" tvg-id="The_Open_Championship_Round_2_2358663_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — admin
 # match: The Open Championship Round 2 2358663
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-2/1
-https://lb11.strmd.st/secure/XkWXnFWperEcannDtYSWlvvfoSKGwfyh/rtmp/stream/1PFTbC_6Aqn4RRVzLd99-dP3KAB53zeyhbCgOHJQY_VKGPboEdR0jE_u9ncQTpS-o1e6D7TGnPE/1/playlist.m3u8
+https://lb2.strmd.st/secure/xSrREcmLVXZsSGIuMbiSAbzeAUfkKNEo/rtmp/stream/opAyztz3M-KDWkmfrwnasms-rh6trdGrsLY5ceqDVx5I8SJP6vXTm0Azv0evgps6iam4bgF3B-s/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — echo" tvg-id="The_Open_Championship_Round_2_2358663_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — echo
 # match: The Open Championship Round 2 2358663
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
-https://lb2.strmd.st/secure/qBIWqyIKgWGEOyOXoLqrHpFrxqDzKJBq/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
+https://lb11.strmd.st/secure/kOqmJPjXeVahcWEJEzYZnTavfBlOxAPs/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb12.strmd.st/secure/nQVSOQAVpCZKZNVHZBFxozDkKhDkflhp/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb3.strmd.st/secure/gnGyoXhtpvcgbtLzPCWeagHBEdDZfpci/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
