@@ -1,5 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T22:13:06+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-17T23:23:00+00:00
+# 9 streams captured from 3 matches
+
+#EXTINF:-1 tvg-name="Ppv Sacramento Kings Vs Charlotte Hornets — admin" tvg-id="Ppv_Sacramento_Kings_Vs_Charlotte_Hornets_—_admin" group-title="Streamed.pk Live Sports",Ppv Sacramento Kings Vs Charlotte Hornets — admin
+# match: Ppv Sacramento Kings Vs Charlotte Hornets
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-sacramento-kings-vs-charlotte-hornets/1
+https://lb15.strmd.st/secure/rQjxdscBUjcqryVcZnFdXjyOIDEJcvJq/rtmp/stream/COSidEAB0ViNVlGCahlO8e5WDbYl8b-LbY7uBZh5Ht_atbMcgm7SMacz5-C9q7UXV6d2SgcGFcdw8H6EV7E0R1i2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Sacramento Kings Vs Charlotte Hornets — delta" tvg-id="Ppv_Sacramento_Kings_Vs_Charlotte_Hornets_—_delta" group-title="Streamed.pk Live Sports",Ppv Sacramento Kings Vs Charlotte Hornets — delta
+# match: Ppv Sacramento Kings Vs Charlotte Hornets
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_hornets-kings-live-streaming-592239168/1
+https://lb13.strmd.st/secure/TzKylpXipeoMMEYYumwmuUBSZMPzCuuD/delta/stream/live_nba-summer-league_hornets-kings-live-streaming-592239168/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Sacramento Kings Vs Charlotte Hornets — echo" tvg-id="Ppv_Sacramento_Kings_Vs_Charlotte_Hornets_—_echo" group-title="Streamed.pk Live Sports",Ppv Sacramento Kings Vs Charlotte Hornets — echo
+# match: Ppv Sacramento Kings Vs Charlotte Hornets
+# provider: echo
+# embed: https://embed.st/embed/echo/charlotte-hornets-vs-sacramento-kings-basketball-504172/1
+https://lb14.strmd.st/secure/mKDYOzRXDjiiBmgMoXUbdSZnaEwsKcKy/echo/stream/charlotte-hornets-vs-sacramento-kings-basketball-504172/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Sacramento Kings Vs Charlotte Hornets — golf" tvg-id="Ppv_Sacramento_Kings_Vs_Charlotte_Hornets_—_golf" group-title="Streamed.pk Live Sports",Ppv Sacramento Kings Vs Charlotte Hornets — golf
+# match: Ppv Sacramento Kings Vs Charlotte Hornets
+# provider: golf
+# embed: https://embed.st/embed/golf/23788/1
+https://cdn13.zohanayaan.com:1686/hls/mcharlottehornets.m3u8?md5=wBZb30MRkM7zBeKEGwv8GA&expires=1784337746
+
+#EXTINF:-1 tvg-name="Ppv Chicago Bulls Vs Cleveland Cavaliers — admin" tvg-id="Ppv_Chicago_Bulls_Vs_Cleveland_Cavaliers_—_admin" group-title="Streamed.pk Live Sports",Ppv Chicago Bulls Vs Cleveland Cavaliers — admin
+# match: Ppv Chicago Bulls Vs Cleveland Cavaliers
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-chicago-bulls-vs-cleveland-cavaliers/1
+https://lb5.strmd.st/secure/yWrCiRVPkyvYgiYZEYVruogAdzcvbiqb/rtmp/stream/6xAqsvHoauSdjUmJyLuGcTaCVT7hU8nyS8fTx_QhoSTq4Z1tcskz40zpKWSwBy0TV7hnZ13aIjW0fIX_LlSgkPaeuR4/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Chicago Bulls Vs Cleveland Cavaliers — delta" tvg-id="Ppv_Chicago_Bulls_Vs_Cleveland_Cavaliers_—_delta" group-title="Streamed.pk Live Sports",Ppv Chicago Bulls Vs Cleveland Cavaliers — delta
+# match: Ppv Chicago Bulls Vs Cleveland Cavaliers
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_cavaliers-bulls-live-streaming-592239600/1
+https://lb4.strmd.st/secure/VKjnXIwoapmkdpVmfyCZpzdsELzKhzJj/delta/stream/live_nba-summer-league_cavaliers-bulls-live-streaming-592239600/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Chicago Bulls Vs Cleveland Cavaliers — echo" tvg-id="Ppv_Chicago_Bulls_Vs_Cleveland_Cavaliers_—_echo" group-title="Streamed.pk Live Sports",Ppv Chicago Bulls Vs Cleveland Cavaliers — echo
+# match: Ppv Chicago Bulls Vs Cleveland Cavaliers
+# provider: echo
+# embed: https://embed.st/embed/echo/cleveland-cavaliers-vs-chicago-bulls-basketball-504173/1
+https://lb12.strmd.st/secure/dxKJkVRwVzaxIdXVZMTFcGybvVRGXYtT/echo/stream/cleveland-cavaliers-vs-chicago-bulls-basketball-504173/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Chicago Bulls Vs Cleveland Cavaliers — golf" tvg-id="Ppv_Chicago_Bulls_Vs_Cleveland_Cavaliers_—_golf" group-title="Streamed.pk Live Sports",Ppv Chicago Bulls Vs Cleveland Cavaliers — golf
+# match: Ppv Chicago Bulls Vs Cleveland Cavaliers
+# provider: golf
+# embed: https://embed.st/embed/golf/23789/1
+https://cdn11.zohanayaan.com:1686/hls/mclevelandcavaliers.m3u8?md5=ykAcOLF-5E4NjJWhstTDFQ&expires=1784337770
+
+#EXTINF:-1 tvg-name="Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07 — echo" tvg-id="Ppv_Event_07_World_Of_Outlaws_Springs_Eldora_Ppv_07_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07 — echo
+# match: Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-07-world-of-outlaws-springs-eldora-ppv-07/1
+https://lb7.strmd.st/secure/yvNXEcblpzJheZjFchMDGZULdCGyqNbr/echo/stream/ppv-event-07-world-of-outlaws-springs-eldora-ppv-07/1/playlist.m3u8
 
