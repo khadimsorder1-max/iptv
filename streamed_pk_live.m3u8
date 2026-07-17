@@ -1,35 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-17T14:29:58+00:00
-# 5 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-17T15:57:57+00:00
+# 6 streams captured from 5 matches
+
+#EXTINF:-1 tvg-name="Belgian Grand Prix Practice 1 2408167 — admin" tvg-id="Belgian_Grand_Prix_Practice_1_2408167_—_admin" group-title="Streamed.pk Live Sports",Belgian Grand Prix Practice 1 2408167 — admin
+# match: Belgian Grand Prix Practice 1 2408167
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-belgian-grand-prix-practice-2/1
+https://lb5.strmd.st/secure/ZdIoyIIyNBmrqGNXoCcqIroLewOZUHDc/rtmp/stream/8OeXRxSHZrJoA1vKelNVQaxUXD0LWG6q0Dpck6oT59UFx01Q2iVD5rAlKwf71wkYrn7bo9qCnyKEZbBfIx9nEVzMOqU/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — admin" tvg-id="The_Open_Championship_Round_2_2358663_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — admin
 # match: The Open Championship Round 2 2358663
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-2/1
-https://lb7.strmd.st/secure/PVbaBMZPQOzfAFWJKCkeVwlazeEQRiYS/rtmp/stream/yqtoLbIX86Z7khjgOTQNojGBaaNNk9KwqFdBHDezXH6V6f2yj4S7HAz11v4K58U987sPwG2NppQ/1/playlist.m3u8
+https://lb11.strmd.st/secure/gisedYmZePktwrYeUjpYPfVwvyHXoxiD/rtmp/stream/sm2t1X55DGVWSh8RdkEFmD7Q1gOGjki4ELJJ1i9E4v8RJWpOahzzswcCKyuqRlS9vi_rQJuSmiA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="The Open Championship Round 2 2358663 — echo" tvg-id="The_Open_Championship_Round_2_2358663_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 2 2358663 — echo
 # match: The Open Championship Round 2 2358663
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-2-the-open-championship-atp1000/1
-https://lb9.strmd.st/secure/lwJZDGBDpYxilUvOELAZHECAxJODotTg/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
+https://lb4.strmd.st/secure/wuJBADIgjuqoZEItRJbROgvmrFBDMuSA/echo/stream/the-154th-open-round-2-the-open-championship-atp1000/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tour De France Stage 13 2447760 — admin" tvg-id="Tour_De_France_Stage_13_2447760_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 13 2447760 — admin
 # match: Tour De France Stage 13 2447760
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-13/1
-https://lb8.strmd.st/secure/rMtyLAtOhKZbMOFQAvigMZCOkYZYUTCY/rtmp/stream/5uOKARAYzk3jwmXMd8t6e1DRfMR6Tq_I48iOAW6paobLGKzYRBjX59WISFmkX3nf09wzAsIw/1/playlist.m3u8
+https://lb8.strmd.st/secure/QYcNWBWjzsXSgtHBaLPrMbRemmNtlBDN/rtmp/stream/QV84L59IVdB1of7EMVEOEouwXUAaaT1PvWL-bIdtBBVclhnG88gUAlx3fo04V3Fzbrt4myww/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb6.strmd.st/secure/IUOJLPyDQGGaVTbxhUtLWcnTRHKQsBuX/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb3.strmd.st/secure/RvuWxnJTTmzcNHqmaNNLzQtoETWXtskU/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Tour De France Stage 13 — admin" tvg-id="Ppv_Tour_De_France_Stage_13_—_admin" group-title="Streamed.pk Live Sports",Ppv Tour De France Stage 13 — admin
 # match: Ppv Tour De France Stage 13
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-13/1
-https://lb15.strmd.st/secure/tKAbWcEkIavROzHrDpynEBcHahcGyuSu/rtmp/stream/5uOKARAYzk3jwmXMd8t6e1DRfMR6Tq_I48iOAW6paobLGKzYRBjX59WISFmkX3nf09wzAsIw/1/playlist.m3u8
+https://lb2.strmd.st/secure/rIsYEYSkOAfHDploxrNvjnmHfihQreaJ/rtmp/stream/QV84L59IVdB1of7EMVEOEouwXUAaaT1PvWL-bIdtBBVclhnG88gUAlx3fo04V3Fzbrt4myww/1/playlist.m3u8
 
