@@ -1,35 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-18T03:52:10+00:00
-# 5 streams captured from 2 matches
+# Streamed.pk live sports matches — built 2026-07-18T06:01:12+00:00
+# 3 streams captured from 3 matches
 
-#EXTINF:-1 tvg-name="Ppv Event 04 Cage Fury Fc 157 Ppv 004 — delta" tvg-id="Ppv_Event_04_Cage_Fury_Fc_157_Ppv_004_—_delta" group-title="Streamed.pk Live Sports",Ppv Event 04 Cage Fury Fc 157 Ppv 004 — delta
-# match: Ppv Event 04 Cage Fury Fc 157 Ppv 004
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_cage-fury-fc-157-live-stream/1
-https://lb13.strmd.st/secure/RnVofCQTyKcWQiUkcZPAoPoxXkZIXzOS/delta/stream/live-event_cage-fury-fc-157-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 04 Cage Fury Fc 157 Ppv 004 — echo" tvg-id="Ppv_Event_04_Cage_Fury_Fc_157_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Cage Fury Fc 157 Ppv 004 — echo
-# match: Ppv Event 04 Cage Fury Fc 157 Ppv 004
+#EXTINF:-1 tvg-name="Indiana Fever W Vs Seattle Storm W Basketball 494959 — echo" tvg-id="Indiana_Fever_W_Vs_Seattle_Storm_W_Basketball_494959_—_echo" group-title="Streamed.pk Live Sports",Indiana Fever W Vs Seattle Storm W Basketball 494959 — echo
+# match: Indiana Fever W Vs Seattle Storm W Basketball 494959
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-04-cage-fury-fc-157-ppv-004/1
-https://lb15.strmd.st/secure/AxbwdEefPvUvNLzDnCSKHKPaKyYaYlpZ/echo/stream/ppv-event-04-cage-fury-fc-157-ppv-004/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/indiana-fever-w-vs-seattle-storm-w-basketball-494959/1
+https://lb14.strmd.st/secure/fMTaZfaJmeLZoLGCFHdiaeLCjTIbvdbl/echo/stream/indiana-fever-w-vs-seattle-storm-w-basketball-494959/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="New York Knicks Vs Dallas Mavericks Basketball 504174 — admin" tvg-id="New_York_Knicks_Vs_Dallas_Mavericks_Basketball_504174_—_admin" group-title="Streamed.pk Live Sports",New York Knicks Vs Dallas Mavericks Basketball 504174 — admin
-# match: New York Knicks Vs Dallas Mavericks Basketball 504174
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-mavericks-vs-new-york-knicks/1
-https://lb5.strmd.st/secure/DQsPmaObFjuSAQKsbyjemTVgncSKhkCR/admin/stream/ppv-dallas-mavericks-vs-new-york-knicks/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New York Knicks Vs Dallas Mavericks Basketball 504174 — delta" tvg-id="New_York_Knicks_Vs_Dallas_Mavericks_Basketball_504174_—_delta" group-title="Streamed.pk Live Sports",New York Knicks Vs Dallas Mavericks Basketball 504174 — delta
-# match: New York Knicks Vs Dallas Mavericks Basketball 504174
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_knicks-mavericks-live-streaming-592240032/1
-https://lb9.strmd.st/secure/WAriQGPscZrVOALvqoofiOncfudJchfu/delta/stream/live_nba-summer-league_knicks-mavericks-live-streaming-592240032/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="New York Knicks Vs Dallas Mavericks Basketball 504174 — echo" tvg-id="New_York_Knicks_Vs_Dallas_Mavericks_Basketball_504174_—_echo" group-title="Streamed.pk Live Sports",New York Knicks Vs Dallas Mavericks Basketball 504174 — echo
-# match: New York Knicks Vs Dallas Mavericks Basketball 504174
+#EXTINF:-1 tvg-name="Toronto Tempo W Vs Atlanta Dream W Basketball 494957 — echo" tvg-id="Toronto_Tempo_W_Vs_Atlanta_Dream_W_Basketball_494957_—_echo" group-title="Streamed.pk Live Sports",Toronto Tempo W Vs Atlanta Dream W Basketball 494957 — echo
+# match: Toronto Tempo W Vs Atlanta Dream W Basketball 494957
 # provider: echo
-# embed: https://embed.st/embed/echo/new-york-knicks-vs-dallas-mavericks-basketball-504174/1
-https://lb3.strmd.st/secure/vgEJHcjErvDVqvynyHsbQHaTGrZkBJFb/echo/stream/new-york-knicks-vs-dallas-mavericks-basketball-504174/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/toronto-tempo-w-vs-atlanta-dream-w-basketball-494957/1
+https://lb10.strmd.st/secure/VVqkfqRnnKpKqFfhPslKfBehHbFZplMV/echo/stream/toronto-tempo-w-vs-atlanta-dream-w-basketball-494957/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07 — echo" tvg-id="Ppv_Event_07_World_Of_Outlaws_Springs_Eldora_Ppv_07_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07 — echo
+# match: Ppv Event 07 World Of Outlaws Springs Eldora Ppv 07
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-07-world-of-outlaws-springs-eldora-ppv-07/1
+https://lb9.strmd.st/secure/RPyGwUuQIKYbLIcxegPuVQJVVuWAjGWp/echo/stream/ppv-event-07-world-of-outlaws-springs-eldora-ppv-07/1/playlist.m3u8
 
