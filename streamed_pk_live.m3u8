@@ -1,101 +1,137 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-18T17:54:56+00:00
-# 16 streams captured from 11 matches
+# Streamed.pk live sports matches — built 2026-07-18T18:58:43+00:00
+# 22 streams captured from 13 matches
+
+#EXTINF:-1 tvg-name="France Vs England 2533360 — admin" tvg-id="France_Vs_England_2533360_—_admin" group-title="Streamed.pk Live Sports",France Vs England 2533360 — admin
+# match: France Vs England 2533360
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-france-vs-england/1
+https://lb4.strmd.st/secure/HaxgjfyLRXzktGvWoVXAvwbYdwqYfmQZ/rtmp/stream/w9M5MdMBkwfbjfSQNCjPQL-b0AaC5ks-VaSRusc2tW0gNVI96I3M2nYdlFtzFdNIXdVjFG555Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France Vs England 2533360 — delta" tvg-id="France_Vs_England_2533360_—_delta" group-title="Streamed.pk Live Sports",France Vs England 2533360 — delta
+# match: France Vs England 2533360
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_france-england-live-streaming-538151472/1
+https://lb11.strmd.st/secure/ZCCPDeYHwybYSbMWXdgqbORGFXyxYBkU/delta/stream/live_world-cup-knockout-stage_france-england-live-streaming-538151472/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France Vs England 2533360 — echo" tvg-id="France_Vs_England_2533360_—_echo" group-title="Streamed.pk Live Sports",France Vs England 2533360 — echo
+# match: France Vs England 2533360
+# provider: echo
+# embed: https://embed.st/embed/echo/france-vs-england-football-1591865/1
+https://lb9.strmd.st/secure/vYlDqFpognIxPjHcYOJRummQSDmMkKYv/echo/stream/france-vs-england-football-1591865/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France Vs England 2533360 — golf" tvg-id="France_Vs_England_2533360_—_golf" group-title="Streamed.pk Live Sports",France Vs England 2533360 — golf
+# match: France Vs England 2533360
+# provider: golf
+# embed: https://embed.st/embed/golf/23809/1
+https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=rL1o5mJ8EpHgVrgIwhHAeg&expires=1784408208
 
 #EXTINF:-1 tvg-name="The Open Championship Round 3 2358664 — admin" tvg-id="The_Open_Championship_Round_3_2358664_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 3 2358664 — admin
 # match: The Open Championship Round 3 2358664
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-3/1
-https://lb1.strmd.st/secure/tpcpZsRrKSPKdrGRhHNoCxoZGzDcDlxj/rtmp/stream/3NCXu8KmamUSCfXWpzU51AqbKlvSzUi3jbflKUv4U3_Kf8WBmJe4N2a27YKGYGo44fddY7fhyRY/1/playlist.m3u8
+https://lb14.strmd.st/secure/LljsPtHJJXnvHjPXQXqsDgzinvlDHDFG/rtmp/stream/omZrPUIm8N4syjuJswD3HN2ASMyZGc-AIw05a8kxDFRtU8CJ9L5wGb19vR277za1dv1u57zrXpY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — admin" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_admin" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — admin
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-bkfc-91-naples-hunt-vs-pugliesi/1
-https://lb13.strmd.st/secure/bwroyPOUXvhKOPycYrXNTRxkSdzvRLGP/rtmp/stream/knIdE9LeXV3429bt78512F1W3C4K7MXfe99WKz_P2o_M6g3kU1ex2fxDdKocQWhOKvfaHE8Z/1/playlist.m3u8
+https://lb10.strmd.st/secure/lNQpkepbpTTpiZtQVYoWbDeeFpSAHaMT/rtmp/stream/_wfpJv0s0Y7fT_ioFCFkAfSU4eqB6B3R1ydQf1_N2uXpRy2NND5Hm2iCI4yuRPMZ33jHxxvl/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — delta" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_delta" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — delta
+# match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
+# provider: delta
+# embed: https://embed.st/embed/delta/live-event_bkfc-91-naples-hunt-vs-pugliesi-live-stream/1
+https://lb1.strmd.st/secure/CBmUrhsuDxRiEnuTZMknqTEAoUZGyTrV/delta/stream/live-event_bkfc-91-naples-hunt-vs-pugliesi-live-stream/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — echo" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_echo" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — echo
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1
-https://lb5.strmd.st/secure/rOZCdTdmnQKnjCjNvXUsRDmlmzUKtucq/echo/stream/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1/playlist.m3u8
+https://lb7.strmd.st/secure/SQbtEFNtxpTBaPBjYZuCIOqbzykymaHS/echo/stream/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — golf" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_golf" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — golf
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: golf
 # embed: https://embed.st/embed/golf/23869/1
-https://cdn12.zohanayaan.com:1686/hls/mevent2.m3u8?md5=6hRUewYdLgzW7kdvMmHlpw&expires=1784404404
+https://cdn15.zohanayaan.com:1686/hls/mevent2.m3u8?md5=i9taEixygVd1AXE7VBZ1Mw&expires=1784408237
 
-#EXTINF:-1 tvg-name="South Africa Rugby Vs Wales Rugby 2449601 — admin" tvg-id="South_Africa_Rugby_Vs_Wales_Rugby_2449601_—_admin" group-title="Streamed.pk Live Sports",South Africa Rugby Vs Wales Rugby 2449601 — admin
-# match: South Africa Rugby Vs Wales Rugby 2449601
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 1 2505688 — admin" tvg-id="Betfred_World_Matchplay_Day_1_2505688_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 1 2505688 — admin
+# match: Betfred World Matchplay Day 1 2505688
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-south-africa-vs-wales/1
-https://lb6.strmd.st/secure/ZoAHlLPehTIzMotKIZrzJfkAWlacqNCP/rtmp/stream/oJNfsMO6KUMHT_SqcVQJ5Ay5cstB6rbpVwW6Reb8mLb4Oy3-X5iAsuTlSVF-17OsA_tsVbg8XCw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hull F C Vs Leigh Leopards 2395971 — echo" tvg-id="Hull_F_C_Vs_Leigh_Leopards_2395971_—_echo" group-title="Streamed.pk Live Sports",Hull F C Vs Leigh Leopards 2395971 — echo
-# match: Hull F C Vs Leigh Leopards 2395971
-# provider: echo
-# embed: https://embed.st/embed/echo/hull-fc-vs-leigh-leopards-game-37322/1
-https://lb3.strmd.st/secure/fqSmLqqLZjVmXuyJoPgXWKsGQskgoWDR/echo/stream/hull-fc-vs-leigh-leopards-game-37322/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo" tvg-id="Ppv_Event_13_Ama_Supercross_Championship_Millville_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo
-# match: Ppv Event 13 Ama Supercross Championship Millville Ppv 13
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/1
-https://lb7.strmd.st/secure/lZEJJsrNmYSPZfkmDtDoRIcsVXmKTraY/echo/stream/ppv-event-13-ama-supercross-championship-millville-ppv-13/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Pro Motocross Spring Creek — admin" tvg-id="Ppv_Pro_Motocross_Spring_Creek_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Spring Creek — admin
-# match: Ppv Pro Motocross Spring Creek
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-pro-motocross-spring-creek/1
-https://lb2.strmd.st/secure/CMAzQZSeZOzwlAsvFMUtocqJSnAUvdqQ/rtmp/stream/2PrQcrrImf9cYpZ9OA6o7wA9iwuOdmeRHu1I3CGndMQw_0M9mtIfrCMmJIoW21thzsAGpeQ/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo" tvg-id="Warrington_Wolves_Vs_Hull_Kingston_Rovers_2395970_—_echo" group-title="Streamed.pk Live Sports",Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo
-# match: Warrington Wolves Vs Hull Kingston Rovers 2395970
-# provider: echo
-# embed: https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/1
-https://lb10.strmd.st/secure/SOciozRxjkKLXqTfmEojcbHPvEggEplF/echo/stream/warrington-wolves-vs-hull-k-r-game-184842/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-darts-day-1/1
+https://lb12.strmd.st/secure/PfXgwaYzptobWmjTKtpIVNDbcddoroda/rtmp/stream/ANZyvEs8Aeo1ZjKh3OH_QdLpGVCqTKnGRiq7poJV7LdXxVe2bHtJlXaKX4RVDosBd9JthgZxvxI/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Harlem Eubank Vs David Papot 2483551 — admin" tvg-id="Harlem_Eubank_Vs_David_Papot_2483551_—_admin" group-title="Streamed.pk Live Sports",Harlem Eubank Vs David Papot 2483551 — admin
 # match: Harlem Eubank Vs David Papot 2483551
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-harlem-eubank-vs-david-papot/1
-https://lb13.strmd.st/secure/qHzaPSOasuIAimuaMYOoiHcnieAYcqLE/rtmp/stream/oJtAzymk8yxs7p-oBgQnAnHMDmfRevwZ4VS5JinW84Zk2nB49LeIjnZPfrJhaupX6FYhw7JUWYA0MHuGlbQ/1/playlist.m3u8
+https://lb5.strmd.st/secure/IGsdumWNIHqHFTQGPNaBfdAFBwbpQFFS/rtmp/stream/N1_M4jZYoavq0hSqMeM67THpbig3APsXA8L24OFMEALRLicBWuX2RS06yAswruVIuy9kIRiU9V60RLxFNvE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Harlem Eubank Vs David Papot 2483551 — delta" tvg-id="Harlem_Eubank_Vs_David_Papot_2483551_—_delta" group-title="Streamed.pk Live Sports",Harlem Eubank Vs David Papot 2483551 — delta
 # match: Harlem Eubank Vs David Papot 2483551
 # provider: delta
 # embed: https://embed.st/embed/delta/live-event_harlem-eubank-vs-david-papot-live-stream/1
-https://lb11.strmd.st/secure/hBgiKTSYrItufRGkOxLqPPMwLHOAnuRy/delta/stream/live-event_harlem-eubank-vs-david-papot-live-stream/1/playlist.m3u8
+https://lb15.strmd.st/secure/rMWJSTBNmkXKwtEZdjKNCflgnGaWIzSn/delta/stream/live-event_harlem-eubank-vs-david-papot-live-stream/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Harlem Eubank Vs David Papot 2483551 — echo" tvg-id="Harlem_Eubank_Vs_David_Papot_2483551_—_echo" group-title="Streamed.pk Live Sports",Harlem Eubank Vs David Papot 2483551 — echo
 # match: Harlem Eubank Vs David Papot 2483551
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/1
-https://lb14.strmd.st/secure/AjAyHSIEbBWTznVGdoSOyerzIYIbalGM/echo/stream/ppv-event-05-eubank-v-papot-ppv-05/1/playlist.m3u8
+https://lb1.strmd.st/secure/whNzJimIZpTNNqXVJhViSYxeTQIvqRdB/echo/stream/ppv-event-05-eubank-v-papot-ppv-05/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Harlem Eubank Vs David Papot 2483551 — golf" tvg-id="Harlem_Eubank_Vs_David_Papot_2483551_—_golf" group-title="Streamed.pk Live Sports",Harlem Eubank Vs David Papot 2483551 — golf
 # match: Harlem Eubank Vs David Papot 2483551
 # provider: golf
 # embed: https://embed.st/embed/golf/23872/1
-https://cdn12.zohanayaan.com:1686/hls/mevent5.m3u8?md5=c-tY_ZAV5XDIgjTkuhWOmQ&expires=1784404474
+https://cdn15.zohanayaan.com:1686/hls/mevent5.m3u8?md5=Hlc13YRAVbV-sn3Ru6Atfw&expires=1784408267
+
+#EXTINF:-1 tvg-name="Ppv Pro Motocross Spring Creek — admin" tvg-id="Ppv_Pro_Motocross_Spring_Creek_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Spring Creek — admin
+# match: Ppv Pro Motocross Spring Creek
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-pro-motocross-spring-creek/1
+https://lb7.strmd.st/secure/rDobdEblaevycXESVXfoSCWdGYWuVvQy/rtmp/stream/Oh0vvQUSr_VY9AVJqA7N5PStJsJxhI2UFOMFUPmPzHo-d66unjg0Ih_XFaTrvEtmiqOBwm0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Indycar Ntt Qualifying Game 4008282 — echo" tvg-id="Indycar_Ntt_Qualifying_Game_4008282_—_echo" group-title="Streamed.pk Live Sports",Indycar Ntt Qualifying Game 4008282 — echo
+# match: Indycar Ntt Qualifying Game 4008282
+# provider: echo
+# embed: https://embed.st/embed/echo/indycar-ntt-qualifying-game-4008282/1
+https://lb6.strmd.st/secure/CKKPDNAPomFnUhqlAIUzshAFQQwvzpJl/echo/stream/indycar-ntt-qualifying-game-4008282/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Hull F C Vs Leigh Leopards 2395971 — echo" tvg-id="Hull_F_C_Vs_Leigh_Leopards_2395971_—_echo" group-title="Streamed.pk Live Sports",Hull F C Vs Leigh Leopards 2395971 — echo
+# match: Hull F C Vs Leigh Leopards 2395971
+# provider: echo
+# embed: https://embed.st/embed/echo/hull-fc-vs-leigh-leopards-game-37322/1
+https://lb10.strmd.st/secure/hfiWkPttZqDnDcbqvtaYqgUknjRIQZgi/echo/stream/hull-fc-vs-leigh-leopards-game-37322/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo" tvg-id="Ppv_Event_13_Ama_Supercross_Championship_Millville_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo
+# match: Ppv Event 13 Ama Supercross Championship Millville Ppv 13
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/1
+https://lb9.strmd.st/secure/XySmjsguhMgCoSqtaRTLVqoiXCUpJzUj/echo/stream/ppv-event-13-ama-supercross-championship-millville-ppv-13/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo" tvg-id="Warrington_Wolves_Vs_Hull_Kingston_Rovers_2395970_—_echo" group-title="Streamed.pk Live Sports",Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo
+# match: Warrington Wolves Vs Hull Kingston Rovers 2395970
+# provider: echo
+# embed: https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/1
+https://lb13.strmd.st/secure/cSxhLrzNVYTUbdRIZNzUECDItBEriRCO/echo/stream/warrington-wolves-vs-hull-k-r-game-184842/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="British Superbikes Brands Hatch Indy Game 111906 — echo" tvg-id="British_Superbikes_Brands_Hatch_Indy_Game_111906_—_echo" group-title="Streamed.pk Live Sports",British Superbikes Brands Hatch Indy Game 111906 — echo
 # match: British Superbikes Brands Hatch Indy Game 111906
 # provider: echo
 # embed: https://embed.st/embed/echo/british-superbikes-brands-hatch-indy-game-111906/1
-https://lb9.strmd.st/secure/eZOPNxEWCddgAvAlepHTcWjAkgOfDAaP/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
+https://lb14.strmd.st/secure/RDLbwGBfGokBmUEMXcZbdYphkLznwOFa/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fish O Mania Game 288064 — echo" tvg-id="Fish_O_Mania_Game_288064_—_echo" group-title="Streamed.pk Live Sports",Fish O Mania Game 288064 — echo
 # match: Fish O Mania Game 288064
 # provider: echo
 # embed: https://embed.st/embed/echo/fish-o-mania-game-288064/1
-https://lb8.strmd.st/secure/jKEJInbZYCFDwYjlNdoubhmbfHUoEtzT/echo/stream/fish-o-mania-game-288064/1/playlist.m3u8
+https://lb5.strmd.st/secure/mrZhUYVtQoWpdlsndOBdWIpwQXxVwdaq/echo/stream/fish-o-mania-game-288064/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb4.strmd.st/secure/oTPgRkcToiKcHGBxhOLeFrHeVStkSKRB/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb3.strmd.st/secure/rHTuEJVBfJeXSZACRYpwAzofMlfJFife/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
