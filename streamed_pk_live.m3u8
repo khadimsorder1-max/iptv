@@ -1,5 +1,77 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-18T09:54:16+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-18T10:59:48+00:00
+# 12 streams captured from 11 matches
+
+#EXTINF:-1 tvg-name="Ppv Tour De France Stage 14 — admin" tvg-id="Ppv_Tour_De_France_Stage_14_—_admin" group-title="Streamed.pk Live Sports",Ppv Tour De France Stage 14 — admin
+# match: Ppv Tour De France Stage 14
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-14/1
+https://lb9.strmd.st/secure/yxCZwCkuQNXDsxFFUKQWUHmuyFbCwrnT/rtmp/stream/60LfLsn380UV7LNxkk-w8Zt6uxOmcEm5oaKkDDhyzFx_4gyCx3utN_mQ1JqXwIQQ2H2Zllbs/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgian Grand Prix Practice 3 2408169 — admin" tvg-id="Belgian_Grand_Prix_Practice_3_2408169_—_admin" group-title="Streamed.pk Live Sports",Belgian Grand Prix Practice 3 2408169 — admin
+# match: Belgian Grand Prix Practice 3 2408169
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-belgian-grand-prix-qualifying/1
+https://lb8.strmd.st/secure/FdhSVwKwjatjjCWmXeYpVOgpWFzKMvdU/rtmp/stream/ALlTw8K-Evt7TgcHRQeQ6PYkZ8r3_2Y1JeF_4MkXKf3Lj_qBbrd7G4XVnhpReSArdHT8BfS0FeK7-_uPLMk4rYNwAfb_IWh-ZHIV/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Australia Rugby Vs Italy Rugby 2449599 — admin" tvg-id="Australia_Rugby_Vs_Italy_Rugby_2449599_—_admin" group-title="Streamed.pk Live Sports",Australia Rugby Vs Italy Rugby 2449599 — admin
+# match: Australia Rugby Vs Italy Rugby 2449599
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-australia-vs-italy/1
+https://lb14.strmd.st/secure/uMuOyHNwayBNjQQLzqvNyqlTMyUDmVgC/rtmp/stream/vvXu6UU6-zl77dgFbGoz5ML2wxwLvVaMSl18yNSivts6frsoFguH57W3sZ8IWc4zTm6FKSWQokA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Australia Rugby Vs Italy Rugby 2449599 — echo" tvg-id="Australia_Rugby_Vs_Italy_Rugby_2449599_—_echo" group-title="Streamed.pk Live Sports",Australia Rugby Vs Italy Rugby 2449599 — echo
+# match: Australia Rugby Vs Italy Rugby 2449599
+# provider: echo
+# embed: https://embed.st/embed/echo/australia-vs-italy-rugby-53227/1
+https://lb6.strmd.st/secure/fxeEEUxnWpSGniSETPQDTjmwUKxZFDkY/echo/stream/australia-vs-italy-rugby-53227/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="West Coast Eagles Vs Brisbane Lions 2495779 — echo" tvg-id="West_Coast_Eagles_Vs_Brisbane_Lions_2495779_—_echo" group-title="Streamed.pk Live Sports",West Coast Eagles Vs Brisbane Lions 2495779 — echo
+# match: West Coast Eagles Vs Brisbane Lions 2495779
+# provider: echo
+# embed: https://embed.st/embed/echo/west-coast-eagles-vs-brisbane-lions-australian-football-3578/1
+https://lb1.strmd.st/secure/oCvEsVKkSbsSfCNJtFKtVEryaWMOSZmQ/echo/stream/west-coast-eagles-vs-brisbane-lions-australian-football-3578/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Northants Steelbacks Vs Somerset T20 2535222 — echo" tvg-id="Northants_Steelbacks_Vs_Somerset_T20_2535222_—_echo" group-title="Streamed.pk Live Sports",Northants Steelbacks Vs Somerset T20 2535222 — echo
+# match: Northants Steelbacks Vs Somerset T20 2535222
+# provider: echo
+# embed: https://embed.st/embed/echo/vitality-blast-semi-final-northants-vs-somerset-game-19993637/1
+https://lb13.strmd.st/secure/CUGLraQBSADluWyetkcsMyeWGZWCPjny/echo/stream/vitality-blast-semi-final-northants-vs-somerset-game-19993637/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Collingwood Magpies Vs Carlton Blues Australian Football 3577 — echo" tvg-id="Collingwood_Magpies_Vs_Carlton_Blues_Australian_Football_3577_—_echo" group-title="Streamed.pk Live Sports",Collingwood Magpies Vs Carlton Blues Australian Football 3577 — echo
+# match: Collingwood Magpies Vs Carlton Blues Australian Football 3577
+# provider: echo
+# embed: https://embed.st/embed/echo/collingwood-magpies-vs-carlton-blues-australian-football-3577/1
+https://lb8.strmd.st/secure/OzYvBGdfjAdXlZSJNYmixHFnDmfWymny/echo/stream/collingwood-magpies-vs-carlton-blues-australian-football-3577/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Japan Vs France — admin" tvg-id="Ppv_Japan_Vs_France_—_admin" group-title="Streamed.pk Live Sports",Ppv Japan Vs France — admin
+# match: Ppv Japan Vs France
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-japan-vs-france/1
+https://lb10.strmd.st/secure/AowyXcoAjxsYKoIqplFeLhlTdgGLepTm/rtmp/stream/OKQHj3nQssNQTmBY3H0zG3DnQKFWWqOtfMSHNfpSWsdKB8A6BawggxxDbCTllYKlLSdMRPXFGMQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="New Zealand Warriors Vs St George Illawara Dragons 2417310 — echo" tvg-id="New_Zealand_Warriors_Vs_St_George_Illawara_Dragons_2417310_—_echo" group-title="Streamed.pk Live Sports",New Zealand Warriors Vs St George Illawara Dragons 2417310 — echo
+# match: New Zealand Warriors Vs St George Illawara Dragons 2417310
+# provider: echo
+# embed: https://embed.st/embed/echo/new-zealand-warriors-vs-st-george-illawarra-dragons-game-3373252/1
+https://lb14.strmd.st/secure/CQHTeiYWcoCLyJxoGHbegLnOvWAVaEco/echo/stream/new-zealand-warriors-vs-st-george-illawarra-dragons-game-3373252/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo" tvg-id="World_Rally_Championship_Estonia_World_Rally_Championship_2026_Season_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo
+# match: World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059
+# provider: echo
+# embed: https://embed.st/embed/echo/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1
+https://lb2.strmd.st/secure/WpYbcqOlbRTFUqmwNzhLnGtuvlUlFQYK/echo/stream/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rizin Landmark 15 In Hiroshima 2475851 — admin" tvg-id="Rizin_Landmark_15_In_Hiroshima_2475851_—_admin" group-title="Streamed.pk Live Sports",Rizin Landmark 15 In Hiroshima 2475851 — admin
+# match: Rizin Landmark 15 In Hiroshima 2475851
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-rizin-landmark-15/1
+https://lb8.strmd.st/secure/AdLCzyqLNHyYzaxUDJKiKhWdOYMRVdkZ/rtmp/stream/KoKhp26vXN1HD3S2eccaWXAhsBX8OAE3eci-2fyyKZ5TiuzEcu2ykddyt3X8k_Gbu4K519fo9w/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Los Angeles Clippers Vs Minnesota Timberwolves Basketball 504177 — echo" tvg-id="Los_Angeles_Clippers_Vs_Minnesota_Timberwolves_Basketball_504177_—_echo" group-title="Streamed.pk Live Sports",Los Angeles Clippers Vs Minnesota Timberwolves Basketball 504177 — echo
+# match: Los Angeles Clippers Vs Minnesota Timberwolves Basketball 504177
+# provider: echo
+# embed: https://embed.st/embed/echo/los-angeles-clippers-vs-minnesota-timberwolves-basketball-504177/1
+https://lb13.strmd.st/secure/NyuBjCujnpEYivyozYcebCpunqbbcumC/echo/stream/los-angeles-clippers-vs-minnesota-timberwolves-basketball-504177/1/playlist.m3u8
 
