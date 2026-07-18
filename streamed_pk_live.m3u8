@@ -1,167 +1,227 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-18T22:17:11+00:00
-# 27 streams captured from 13 matches
+# Streamed.pk live sports matches — built 2026-07-18T23:28:58+00:00
+# 37 streams captured from 16 matches
 
 #EXTINF:-1 tvg-name="France Vs England 2533360 — admin" tvg-id="France_Vs_England_2533360_—_admin" group-title="Streamed.pk Live Sports",France Vs England 2533360 — admin
 # match: France Vs England 2533360
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-france-vs-england/1
-https://lb10.strmd.st/secure/KdsvSktqfBOiKMabVNRrsdwDjfDPbYbo/rtmp/stream/lDFd3_Mo0Mp30Gkwn6sAvcfjHTB01VBoJm-ifPdNcoszInSJMOLq5iNBXHX0YKTO1oFZL-hjCg/1/playlist.m3u8
+https://lb3.strmd.st/secure/XSGUkNvqDQVxRnBDVwsCbXEPmIRZiISn/rtmp/stream/HwNF26zPOzyWFHbNoqxwrLTtWv32mPd5OSmmmQ9Dyqodt8p-6ystAkz2ec-e6Y1NZeE_WRVWrQ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs England 2533360 — delta" tvg-id="France_Vs_England_2533360_—_delta" group-title="Streamed.pk Live Sports",France Vs England 2533360 — delta
 # match: France Vs England 2533360
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_france-england-live-streaming-538151472/1
-https://lb5.strmd.st/secure/pVlbbKnaCBHydsNcaoiIjuKzNuoDmTnQ/delta/stream/live_world-cup-knockout-stage_france-england-live-streaming-538151472/1/playlist.m3u8
+https://lb6.strmd.st/secure/sfVtatgSNJmddHHaSMqAbifYAwIJeEKS/delta/stream/live_world-cup-knockout-stage_france-england-live-streaming-538151472/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="France Vs England 2533360 — echo" tvg-id="France_Vs_England_2533360_—_echo" group-title="Streamed.pk Live Sports",France Vs England 2533360 — echo
 # match: France Vs England 2533360
 # provider: echo
-# embed: https://embed.st/embed/echo/france-vs-england-football-1591865/1
-https://lb3.strmd.st/secure/gWHecjAyHSZSgRpSAXfNqMIbLyAjHgcr/echo/stream/france-vs-england-football-1591865/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="France Vs England 2533360 — golf" tvg-id="France_Vs_England_2533360_—_golf" group-title="Streamed.pk Live Sports",France Vs England 2533360 — golf
-# match: France Vs England 2533360
-# provider: golf
-# embed: https://embed.st/embed/golf/23809/1
-https://cdn12.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=g0JZhjITFhvNec2gRpVfHQ&expires=1784420020
-
-#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — admin" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_admin" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — admin
-# match: Ppv Boston Celtics Vs Orlando Magic
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-boston-celtics-vs-orlando-magic/1
-https://lb15.strmd.st/secure/XkJhMUzmIHGNesYNxhVtyqTEwLDTLVqS/rtmp/stream/UrEThK1KboGlanJecCn4nZwzDMkON5RSUWf3vhB2U-3DqB1Gm7KVzbJ5699-uLtpqO-mmfvg1Ov1WlCNT2A/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — delta" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_delta" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — delta
-# match: Ppv Boston Celtics Vs Orlando Magic
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_magic-celtics-live-streaming-592596432/1
-https://lb6.strmd.st/secure/zhmwgAjbDiyPOtraCaCKQiwJLeEAQisH/delta/stream/live_nba-summer-league_magic-celtics-live-streaming-592596432/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — echo" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_echo" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — echo
-# match: Ppv Boston Celtics Vs Orlando Magic
-# provider: echo
-# embed: https://embed.st/embed/echo/orlando-magic-vs-boston-celtics-basketball-504363/1
-https://lb2.strmd.st/secure/cTFlCtpRGLPKnBaibWIbCIzgEeYFEfOt/echo/stream/orlando-magic-vs-boston-celtics-basketball-504363/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — golf" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_golf" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — golf
-# match: Ppv Boston Celtics Vs Orlando Magic
-# provider: golf
-# embed: https://embed.st/embed/golf/23826/1
-https://cdn11.zohanayaan.com:1686/hls/morlandomagic.m3u8?md5=3rcHrCnMzwvxfnK_56L4HQ&expires=1784420050
-
-#EXTINF:-1 tvg-name="Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — echo" tvg-id="Ppv_Philadelphia_76_Ers_Vs_Milwaukee_Bucks_—_echo" group-title="Streamed.pk Live Sports",Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — echo
-# match: Ppv Philadelphia 76 Ers Vs Milwaukee Bucks
-# provider: echo
-# embed: https://embed.st/embed/echo/milwaukee-bucks-vs-philadelphia-76ers-basketball-504364/1
-https://lb13.strmd.st/secure/iutXaXiWrKNSLDvpniMkwWyelEOSApeb/echo/stream/milwaukee-bucks-vs-philadelphia-76ers-basketball-504364/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — golf" tvg-id="Ppv_Philadelphia_76_Ers_Vs_Milwaukee_Bucks_—_golf" group-title="Streamed.pk Live Sports",Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — golf
-# match: Ppv Philadelphia 76 Ers Vs Milwaukee Bucks
-# provider: golf
-# embed: https://embed.st/embed/golf/23827/1
-https://cdn15.zohanayaan.com:1686/hls/mmilwaukeebucks.m3u8?md5=1qyLXLKc3jpCS91WhPZTug&expires=1784420107
-
-#EXTINF:-1 tvg-name="Betfred World Matchplay Day 1 2505688 — admin" tvg-id="Betfred_World_Matchplay_Day_1_2505688_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 1 2505688 — admin
-# match: Betfred World Matchplay Day 1 2505688
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-world-matchplay-darts-day-1/1
-https://lb10.strmd.st/secure/ZUcqJpBpSpzUmELOAEEsOhOEWheGAxGS/rtmp/stream/M1Vt0yBt5Hcxy7rjc-C0NQY8YtK8MXJHFcGUmTOqO__Ms9d7QXUOsVi7Y63fPS_oywBs1WKDBys/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Calgary Stampeders Vs Montreal Alouettes 2432557 — admin" tvg-id="Calgary_Stampeders_Vs_Montreal_Alouettes_2432557_—_admin" group-title="Streamed.pk Live Sports",Calgary Stampeders Vs Montreal Alouettes 2432557 — admin
-# match: Calgary Stampeders Vs Montreal Alouettes 2432557
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-montreal-alouettes-vs-calgary-stampeders/1
-https://lb11.strmd.st/secure/ERgvoouMCwkjuOqplBIwvUQDhJVBqtUA/rtmp/stream/pt1F5tYK8PwIa1CK6pXlseQGucQ5uhBssNJf8JRZZBVRbL-O6CjOF5XuOGsXToQMFo7I5QeYyp9p2Pu7rTXikLLo3P8YDJ8/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/france-vs-england-german-french-spainish-gameuk-134/1
+https://lb14.strmd.st/secure/wqApNhJTVfthnHplftKEcxUvVXLrZMNK/echo/stream/france-vs-england-german-french-spainish-gameuk-134/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pfl Austin Eblen Vs Kasanganay 2 2475846 — delta" tvg-id="Pfl_Austin_Eblen_Vs_Kasanganay_2_2475846_—_delta" group-title="Streamed.pk Live Sports",Pfl Austin Eblen Vs Kasanganay 2 2475846 — delta
 # match: Pfl Austin Eblen Vs Kasanganay 2 2475846
 # provider: delta
 # embed: https://embed.st/embed/delta/live-event_pfl-austin-van-steenis-vs-eblen-live-stream/1
-https://lb12.strmd.st/secure/QfVMgeCgHlcsjcVrmXNVSEnSGmjyvraC/delta/stream/live-event_pfl-austin-van-steenis-vs-eblen-live-stream/1/playlist.m3u8
+https://lb5.strmd.st/secure/KJiVqvsNlBTvjACrhssoicAaSWgbDTWO/delta/stream/live-event_pfl-austin-van-steenis-vs-eblen-live-stream/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pfl Austin Eblen Vs Kasanganay 2 2475846 — echo" tvg-id="Pfl_Austin_Eblen_Vs_Kasanganay_2_2475846_—_echo" group-title="Streamed.pk Live Sports",Pfl Austin Eblen Vs Kasanganay 2 2475846 — echo
 # match: Pfl Austin Eblen Vs Kasanganay 2 2475846
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-pfl-eblen-v-kasanganay-2-ppv-07/1
-https://lb15.strmd.st/secure/TxTdPljGHHQJxxORDqRAqVNcVMkryzsQ/echo/stream/ppv-event-07-pfl-eblen-v-kasanganay-2-ppv-07/1/playlist.m3u8
+https://lb12.strmd.st/secure/giqFMKkuetlBclwXICBMSwRCjlUHEtNL/echo/stream/ppv-event-07-pfl-eblen-v-kasanganay-2-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pfl Austin Eblen Vs Kasanganay 2 2475846 — golf" tvg-id="Pfl_Austin_Eblen_Vs_Kasanganay_2_2475846_—_golf" group-title="Streamed.pk Live Sports",Pfl Austin Eblen Vs Kasanganay 2 2475846 — golf
 # match: Pfl Austin Eblen Vs Kasanganay 2 2475846
 # provider: golf
 # embed: https://embed.st/embed/golf/23874/1
-https://cdn12.zohanayaan.com:1686/hls/mevent7.m3u8?md5=qXurPHQGWG3V5wD0Qv9BWA&expires=1784420143
+https://cdn13.zohanayaan.com:1686/hls/mevent7.m3u8?md5=3npME2zlgrrvIrJA-fzLvA&expires=1784424320
 
-#EXTINF:-1 tvg-name="Ppv Pro Motocross Spring Creek — admin" tvg-id="Ppv_Pro_Motocross_Spring_Creek_—_admin" group-title="Streamed.pk Live Sports",Ppv Pro Motocross Spring Creek — admin
-# match: Ppv Pro Motocross Spring Creek
+#EXTINF:-1 tvg-name="Ppv Houston Rockets Vs Memphis Grizzlies — admin" tvg-id="Ppv_Houston_Rockets_Vs_Memphis_Grizzlies_—_admin" group-title="Streamed.pk Live Sports",Ppv Houston Rockets Vs Memphis Grizzlies — admin
+# match: Ppv Houston Rockets Vs Memphis Grizzlies
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-pro-motocross-spring-creek/1
-https://lb14.strmd.st/secure/bdPpjtmBeutVZlIeKHeCbWbxcggUnnpv/rtmp/stream/wyMiYSz2fSi7eGUcxlwqfdTrxNsZx3u5RxocDU3_mBe36nu5T47ub4BwVyzfwMVmpwCsF3E/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-houston-rockets-vs-memphis-grizzlies/1
+https://lb5.strmd.st/secure/nKLZFdRLXYZuuUCmlOrQYDRBtqNKoILI/rtmp/stream/djlzfce67-KF87RBCjTmAk1OKYfiZslawA_Xw_GqCz-q-62RJtTVA2kpS2VUq9Lwibjeh_nrbtjGDk79V3xpEGc_/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Toulouse Olympique Vs York City Knights 2395972 — echo" tvg-id="Toulouse_Olympique_Vs_York_City_Knights_2395972_—_echo" group-title="Streamed.pk Live Sports",Toulouse Olympique Vs York City Knights 2395972 — echo
-# match: Toulouse Olympique Vs York City Knights 2395972
-# provider: echo
-# embed: https://embed.st/embed/echo/toulouse-olympique-vs-york-knights-game-182283/1
-https://lb4.strmd.st/secure/dKeeAaTOtwaeHtYcYvPKHFyyZIeJreiG/echo/stream/toulouse-olympique-vs-york-knights-game-182283/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Ppv Houston Rockets Vs Memphis Grizzlies — delta" tvg-id="Ppv_Houston_Rockets_Vs_Memphis_Grizzlies_—_delta" group-title="Streamed.pk Live Sports",Ppv Houston Rockets Vs Memphis Grizzlies — delta
+# match: Ppv Houston Rockets Vs Memphis Grizzlies
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league-playoffs_grizzlies-rockets-live-streaming-592598592/1
+https://lb11.strmd.st/secure/FKvVMvKnawVpQnHWkgxWaUTXxEqnQBWW/delta/stream/live_nba-summer-league-playoffs_grizzlies-rockets-live-streaming-592598592/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Indycar Ntt Qualifying Game 4008282 — echo" tvg-id="Indycar_Ntt_Qualifying_Game_4008282_—_echo" group-title="Streamed.pk Live Sports",Indycar Ntt Qualifying Game 4008282 — echo
-# match: Indycar Ntt Qualifying Game 4008282
+#EXTINF:-1 tvg-name="Ppv Houston Rockets Vs Memphis Grizzlies — echo" tvg-id="Ppv_Houston_Rockets_Vs_Memphis_Grizzlies_—_echo" group-title="Streamed.pk Live Sports",Ppv Houston Rockets Vs Memphis Grizzlies — echo
+# match: Ppv Houston Rockets Vs Memphis Grizzlies
 # provider: echo
-# embed: https://embed.st/embed/echo/indycar-ntt-qualifying-game-4008282/1
-https://lb2.strmd.st/secure/cxWMjZJFSkXNAekqZkJcqMrWtZzslnGG/echo/stream/indycar-ntt-qualifying-game-4008282/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/memphis-grizzlies-vs-houston-rockets-basketball-504365/1
+https://lb6.strmd.st/secure/vtHIjrZdPQhrlvIXUjTjsIJnJgqBtQjS/echo/stream/memphis-grizzlies-vs-houston-rockets-basketball-504365/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Houston Rockets Vs Memphis Grizzlies — golf" tvg-id="Ppv_Houston_Rockets_Vs_Memphis_Grizzlies_—_golf" group-title="Streamed.pk Live Sports",Ppv Houston Rockets Vs Memphis Grizzlies — golf
+# match: Ppv Houston Rockets Vs Memphis Grizzlies
+# provider: golf
+# embed: https://embed.st/embed/golf/23828/1
+https://cdn12.zohanayaan.com:1686/hls/mmemphisgrizzlies.m3u8?md5=neWM1-2CTZKbmQ_lHLsENA&expires=1784424348
+
+#EXTINF:-1 tvg-name="Ppv Atlanta Hawks Vs Washington Wizards — admin" tvg-id="Ppv_Atlanta_Hawks_Vs_Washington_Wizards_—_admin" group-title="Streamed.pk Live Sports",Ppv Atlanta Hawks Vs Washington Wizards — admin
+# match: Ppv Atlanta Hawks Vs Washington Wizards
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-atlanta-hawks-vs-washington-wizards/1
+https://lb2.strmd.st/secure/XpRFEPOCdmleUwpQMzjgVWhJcSieGYWK/rtmp/stream/FA1wmK7HKcN5-ppnikCzq2_Al-ctTPJaDFq7B5GqvGklNd4tLjAWN-mqSzvqzJROsu3cLejBNYWiIrJstnTLVelF0Q/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Atlanta Hawks Vs Washington Wizards — delta" tvg-id="Ppv_Atlanta_Hawks_Vs_Washington_Wizards_—_delta" group-title="Streamed.pk Live Sports",Ppv Atlanta Hawks Vs Washington Wizards — delta
+# match: Ppv Atlanta Hawks Vs Washington Wizards
+# provider: delta
+# embed: https://embed.st/embed/delta/live_nba-summer-league_wizards-hawks-live-streaming-592597296/1
+https://lb13.strmd.st/secure/wffzCJtYVakVtxDxdiMwcIfUGQlOzbwc/delta/stream/live_nba-summer-league_wizards-hawks-live-streaming-592597296/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Atlanta Hawks Vs Washington Wizards — echo" tvg-id="Ppv_Atlanta_Hawks_Vs_Washington_Wizards_—_echo" group-title="Streamed.pk Live Sports",Ppv Atlanta Hawks Vs Washington Wizards — echo
+# match: Ppv Atlanta Hawks Vs Washington Wizards
+# provider: echo
+# embed: https://embed.st/embed/echo/washington-wizards-vs-atlanta-hawks-basketball-504366/1
+https://lb1.strmd.st/secure/AmiBpZXOJPnrRdBrFTncszHDkONwfoTf/echo/stream/washington-wizards-vs-atlanta-hawks-basketball-504366/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Atlanta Hawks Vs Washington Wizards — golf" tvg-id="Ppv_Atlanta_Hawks_Vs_Washington_Wizards_—_golf" group-title="Streamed.pk Live Sports",Ppv Atlanta Hawks Vs Washington Wizards — golf
+# match: Ppv Atlanta Hawks Vs Washington Wizards
+# provider: golf
+# embed: https://embed.st/embed/golf/23829/1
+https://cdn15.zohanayaan.com:1686/hls/mwashingtonwizards.m3u8?md5=2zk5TjLF8Zpw3jPtiB3znA&expires=1784424375
+
+#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — admin" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_admin" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — admin
+# match: Saturday Nights Main Event 45 2468415
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-saturday-night-s-main-event/1
+https://lb8.strmd.st/secure/fWSBPPXbkcWdOwfPzNiQoXORaXCNvEXh/rtmp/stream/3DGYQydzPtzYxH6iDzlyzxC80IbAJkiMreFbiYvTzQn-Af-mSaJQIbhi-VkHKTMOAdEiT8Do/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — delta" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_delta" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — delta
+# match: Saturday Nights Main Event 45 2468415
+# provider: delta
+# embed: https://embed.st/embed/delta/live-event_saturday-night-main-event-live-stream/1
+https://lb15.strmd.st/secure/cyQWOfDVlVvtahpuYAMyFWIvABGkkOka/delta/stream/live-event_saturday-night-main-event-live-stream/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — echo" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_echo" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — echo
+# match: Saturday Nights Main Event 45 2468415
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-03-wwe-saturday-night-main-event-ppv-03/1
+https://lb1.strmd.st/secure/dOMPgaExkcdAPfbtFOOtYorKWeFVZdJY/echo/stream/ppv-event-03-wwe-saturday-night-main-event-ppv-03/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — golf" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_golf" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — golf
+# match: Saturday Nights Main Event 45 2468415
+# provider: golf
+# embed: https://embed.st/embed/golf/23870/1
+https://cdn12.zohanayaan.com:1686/hls/mevent3.m3u8?md5=AVj1HE5mpb7I7w9RadxotA&expires=1784424402
+
+#EXTINF:-1 tvg-name="Ppv Event 15 World Of Outlaws Sprint Cars Eldora Pppv15 — echo" tvg-id="Ppv_Event_15_World_Of_Outlaws_Sprint_Cars_Eldora_Pppv15_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 15 World Of Outlaws Sprint Cars Eldora Pppv15 — echo
+# match: Ppv Event 15 World Of Outlaws Sprint Cars Eldora Pppv15
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-15-world-of-outlaws-sprint-cars-eldora-pppv15/1
+https://lb6.strmd.st/secure/rPVpoKLzzISQRLwjXKRuDURJoYdQhCpe/echo/stream/ppv-event-15-world-of-outlaws-sprint-cars-eldora-pppv15/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Pacheco V Aleem Ppv 06 — delta" tvg-id="Ppv_Event_06_Pacheco_V_Aleem_Ppv_06_—_delta" group-title="Streamed.pk Live Sports",Ppv Event 06 Pacheco V Aleem Ppv 06 — delta
+# match: Ppv Event 06 Pacheco V Aleem Ppv 06
+# provider: delta
+# embed: https://embed.st/embed/delta/live-event_diego-pacheco-vs-immanuwel-aleem-live-stream/1
+https://lb10.strmd.st/secure/lXoQtEbOxhQhQcfYUufahGPFaukwcEyQ/delta/stream/live-event_diego-pacheco-vs-immanuwel-aleem-live-stream/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Pacheco V Aleem Ppv 06 — echo" tvg-id="Ppv_Event_06_Pacheco_V_Aleem_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Pacheco V Aleem Ppv 06 — echo
+# match: Ppv Event 06 Pacheco V Aleem Ppv 06
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-06-pacheco-v-aleem-ppv-06/1
+https://lb8.strmd.st/secure/QSmSwyOBUjOjwONZokYCXjCJBYpVATxP/echo/stream/ppv-event-06-pacheco-v-aleem-ppv-06/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Pacheco V Aleem Ppv 06 — golf" tvg-id="Ppv_Event_06_Pacheco_V_Aleem_Ppv_06_—_golf" group-title="Streamed.pk Live Sports",Ppv Event 06 Pacheco V Aleem Ppv 06 — golf
+# match: Ppv Event 06 Pacheco V Aleem Ppv 06
+# provider: golf
+# embed: https://embed.st/embed/golf/23873/1
+https://cdn15.zohanayaan.com:1686/hls/mevent6.m3u8?md5=a6U8U-LzmaCpa6FcoQMwfQ&expires=1784424429
+
+#EXTINF:-1 tvg-name="Indycar Ntt Final Practice Game 19996 — echo" tvg-id="Indycar_Ntt_Final_Practice_Game_19996_—_echo" group-title="Streamed.pk Live Sports",Indycar Ntt Final Practice Game 19996 — echo
+# match: Indycar Ntt Final Practice Game 19996
+# provider: echo
+# embed: https://embed.st/embed/echo/indycar-ntt-final-practice-game-19996/1
+https://lb12.strmd.st/secure/cgdBlKeJTTTQnfEWGBWgTNbaKaUWOgxr/echo/stream/indycar-ntt-final-practice-game-19996/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — admin" tvg-id="Ppv_Philadelphia_76_Ers_Vs_Milwaukee_Bucks_—_admin" group-title="Streamed.pk Live Sports",Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — admin
+# match: Ppv Philadelphia 76 Ers Vs Milwaukee Bucks
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-philadelphia-76-ers-vs-milwaukee-bucks/1
+https://lb14.strmd.st/secure/clazyXRMPdvDhyNHBKyKFolUAXpnDhvR/rtmp/stream/FkMx--TCyYAY7hP1pIWPa-gCn8jhTKbF2mjg2VybVCzT1ku_wVxUV2GApldnqaqUXHFJcr00-w2hNY6ky8b56A/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — golf" tvg-id="Ppv_Philadelphia_76_Ers_Vs_Milwaukee_Bucks_—_golf" group-title="Streamed.pk Live Sports",Ppv Philadelphia 76 Ers Vs Milwaukee Bucks — golf
+# match: Ppv Philadelphia 76 Ers Vs Milwaukee Bucks
+# provider: golf
+# embed: https://embed.st/embed/golf/23827/1
+https://cdn13.zohanayaan.com:1686/hls/mmilwaukeebucks.m3u8?md5=7OzMVqVhO3A_zVbGviQCRw&expires=1784424448
+
+#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — admin" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_admin" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — admin
+# match: Ppv Boston Celtics Vs Orlando Magic
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-boston-celtics-vs-orlando-magic/1
+https://lb10.strmd.st/secure/MBHwimZmJLlGHaJadTwYgumvDgzKJdNz/rtmp/stream/OVO6MU7FYIAFhsHyMr2kG3syzxkPw8taQ1ZfTAI2w37H5B8kPNxmHPCRuS8RGGmbk-X1L9SAmr_q-BZLeZE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Boston Celtics Vs Orlando Magic — golf" tvg-id="Ppv_Boston_Celtics_Vs_Orlando_Magic_—_golf" group-title="Streamed.pk Live Sports",Ppv Boston Celtics Vs Orlando Magic — golf
+# match: Ppv Boston Celtics Vs Orlando Magic
+# provider: golf
+# embed: https://embed.st/embed/golf/23826/1
+https://cdn12.zohanayaan.com:1686/hls/morlandomagic.m3u8?md5=7NWLQZKH77hMEiSb5BI2OA&expires=1784424462
+
+#EXTINF:-1 tvg-name="Calgary Stampeders Vs Montreal Alouettes 2432557 — admin" tvg-id="Calgary_Stampeders_Vs_Montreal_Alouettes_2432557_—_admin" group-title="Streamed.pk Live Sports",Calgary Stampeders Vs Montreal Alouettes 2432557 — admin
+# match: Calgary Stampeders Vs Montreal Alouettes 2432557
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-montreal-alouettes-vs-calgary-stampeders/1
+https://lb12.strmd.st/secure/kryBVSUJQmJjGIohkjkRkXBTYaNTSIUy/rtmp/stream/JhuJz5hiZv1xJn-Dk6gl_hHB4IJGL-XRonEiTa_KtFu6roPwjEhal97TuBmLDqZ2e8PmZNXjJ6JJ7XbaWLtQGGuM_banLtI/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Harlem Eubank Vs David Papot — admin" tvg-id="Ppv_Harlem_Eubank_Vs_David_Papot_—_admin" group-title="Streamed.pk Live Sports",Ppv Harlem Eubank Vs David Papot — admin
 # match: Ppv Harlem Eubank Vs David Papot
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-harlem-eubank-vs-david-papot/1
-https://lb4.strmd.st/secure/AjIEokaPDGeGsSMNMNfASmOnEAyDiGmD/rtmp/stream/pmwK07S8hIGRmNVYgsoMUenhFt55b1MXdBwY6crxu9nVUMeqLpxxdov6g-GMDv7ROl_9K8CB4KDwhLK03B4/1/playlist.m3u8
+https://lb11.strmd.st/secure/JqCuXNCmEyYwjAfQQlsmNkJqWeHVLEzG/rtmp/stream/2084ycVdBDm1OnEFiUSeg2-wzrAQAOWURWpqvAsACrlYwYehH_dsC-ABWmrf0_DkbOl49hcEmK0g3ugz97w/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Harlem Eubank Vs David Papot — delta" tvg-id="Ppv_Harlem_Eubank_Vs_David_Papot_—_delta" group-title="Streamed.pk Live Sports",Ppv Harlem Eubank Vs David Papot — delta
 # match: Ppv Harlem Eubank Vs David Papot
 # provider: delta
 # embed: https://embed.st/embed/delta/live-event_harlem-eubank-vs-david-papot-live-stream/1
-https://lb3.strmd.st/secure/qIOcVJTnFSqqHyfYYgXbfhEVEWOkiLGh/delta/stream/live-event_harlem-eubank-vs-david-papot-live-stream/1/playlist.m3u8
+https://lb1.strmd.st/secure/YwxrAfQjuhmDyJKbduXiNewxYtRvhDxL/delta/stream/live-event_harlem-eubank-vs-david-papot-live-stream/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Harlem Eubank Vs David Papot — echo" tvg-id="Ppv_Harlem_Eubank_Vs_David_Papot_—_echo" group-title="Streamed.pk Live Sports",Ppv Harlem Eubank Vs David Papot — echo
 # match: Ppv Harlem Eubank Vs David Papot
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-eubank-v-papot-ppv-05/1
-https://lb9.strmd.st/secure/szHHenfjRBdSzlMaMRqzoJsDsiGORraY/echo/stream/ppv-event-05-eubank-v-papot-ppv-05/1/playlist.m3u8
+https://lb9.strmd.st/secure/rxpTdPWOgkJBQnnYsLcFkYCRmjWChXWV/echo/stream/ppv-event-05-eubank-v-papot-ppv-05/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 1 2505688 — admin" tvg-id="Betfred_World_Matchplay_Day_1_2505688_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 1 2505688 — admin
+# match: Betfred World Matchplay Day 1 2505688
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-darts-day-1/1
+https://lb7.strmd.st/secure/eVGtMBzUPIZOLKjDfrLEzSDJwajwGZgg/rtmp/stream/M1Vt0yBt5Hcxy7rjc-C0NQY8YtK8MXJHFcGUmTOqO__Ms9d7QXUOsVi7Y63fPS_oywBs1WKDBys/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — admin" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_admin" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — admin
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-bkfc-91-naples-hunt-vs-pugliesi/1
-https://lb5.strmd.st/secure/SoQWbrYGIkGXHkbObnwXSmRPnwYWzuhf/rtmp/stream/M2iZ_Dj5hBSkYWmu32R3LPGTnq1649M4iMD0ULGLks6NgiLhflrpo8sPGe8zGsmw7hX_bE3j/1/playlist.m3u8
+https://lb13.strmd.st/secure/LHGzNTaHrHgBMGbWNKRPvUhvxlVJcmJK/rtmp/stream/vSeFFWeAIeYmBPxQeVXEtr7f--CMbaYwWH-yKmu13KsqNVX6heAIgNjr0SvHJUJnz6J17CML/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — delta" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_delta" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — delta
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: delta
 # embed: https://embed.st/embed/delta/live-event_bkfc-91-naples-hunt-vs-pugliesi-live-stream/1
-https://lb11.strmd.st/secure/fpGCvuKJvBlovkrWYeieJlGLkjwORmmN/delta/stream/live-event_bkfc-91-naples-hunt-vs-pugliesi-live-stream/1/playlist.m3u8
+https://lb15.strmd.st/secure/ASnwkQnigJlReDDtNhgwbLOeagFfTLju/delta/stream/live-event_bkfc-91-naples-hunt-vs-pugliesi-live-stream/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — echo" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_echo" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — echo
 # match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1
-https://lb12.strmd.st/secure/oEgAOJSIjYcCTEmkctCrETdRBxwtuZjA/echo/stream/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Bkfc 91 Naples Hunt Vs Pugliesi — golf" tvg-id="Ppv_Bkfc_91_Naples_Hunt_Vs_Pugliesi_—_golf" group-title="Streamed.pk Live Sports",Ppv Bkfc 91 Naples Hunt Vs Pugliesi — golf
-# match: Ppv Bkfc 91 Naples Hunt Vs Pugliesi
-# provider: golf
-# embed: https://embed.st/embed/golf/23869/1
-https://cdn11.zohanayaan.com:1686/hls/mevent2.m3u8?md5=Fp3eAKrHjDkhA0b3UkYXQw&expires=1784420214
+https://lb11.strmd.st/secure/pDDfLdbOxZhHOwdNfQLlwhcHfSDVGglr/echo/stream/ppv-event-02-bkfc-91-naples-hunt-v-pugliesi-ppv-02/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hull F C Vs Leigh Leopards 2395971 — echo" tvg-id="Hull_F_C_Vs_Leigh_Leopards_2395971_—_echo" group-title="Streamed.pk Live Sports",Hull F C Vs Leigh Leopards 2395971 — echo
 # match: Hull F C Vs Leigh Leopards 2395971
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-fc-vs-leigh-leopards-game-37322/1
-https://lb15.strmd.st/secure/bopWnYllFadtycPeaGlascOLnoQaozjQ/echo/stream/hull-fc-vs-leigh-leopards-game-37322/1/playlist.m3u8
+https://lb12.strmd.st/secure/PWeatWsFWUyItGArsNlnfIIlwuZSRoaz/echo/stream/hull-fc-vs-leigh-leopards-game-37322/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo" tvg-id="Ppv_Event_13_Ama_Supercross_Championship_Millville_Ppv_13_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 13 Ama Supercross Championship Millville Ppv 13 — echo
 # match: Ppv Event 13 Ama Supercross Championship Millville Ppv 13
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-13-ama-supercross-championship-millville-ppv-13/1
-https://lb7.strmd.st/secure/CmeHROnuPvEwgFYzTbloIJvkafcUCmpU/echo/stream/ppv-event-13-ama-supercross-championship-millville-ppv-13/1/playlist.m3u8
+https://lb8.strmd.st/secure/OmuSmEYMrZMTOhefTOkzgEMiDudTzcMZ/echo/stream/ppv-event-13-ama-supercross-championship-millville-ppv-13/1/playlist.m3u8
 
