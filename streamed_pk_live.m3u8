@@ -1,107 +1,149 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-18T13:05:19+00:00
-# 17 streams captured from 14 matches
-
-#EXTINF:-1 tvg-name="The Open Championship Round 3 2358664 — admin" tvg-id="The_Open_Championship_Round_3_2358664_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 3 2358664 — admin
-# match: The Open Championship Round 3 2358664
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-3/1
-https://lb7.strmd.st/secure/qSERwIlnQePyxgazYvvsWdOgzOisFsUM/rtmp/stream/0AgQ-ArcPb4MeGbFPoSuSyOM6ZYgHmNFu5xQDKAA87BldPbBrnLqdu7tr8Wi7ShS5XfL-jObLqM/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="The Open Championship Round 3 2358664 — echo" tvg-id="The_Open_Championship_Round_3_2358664_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 3 2358664 — echo
-# match: The Open Championship Round 3 2358664
-# provider: echo
-# embed: https://embed.st/embed/echo/the-154th-open-round-3-the-open-championship-atp1000/1
-https://lb12.strmd.st/secure/SyVrSYuVvIVPkGtbFZHsMdbsQMzqGkWU/echo/stream/the-154th-open-round-3-the-open-championship-atp1000/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tour De France Stage 14 2447761 — admin" tvg-id="Tour_De_France_Stage_14_2447761_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 14 2447761 — admin
-# match: Tour De France Stage 14 2447761
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-14/1
-https://lb8.strmd.st/secure/zeIQRstfliuVLtEXyvUNOOWTxJidxHQa/rtmp/stream/_iqsdzlSBZZEkvH96n_S_21-XiwNKizSKas6nfiQF4J5t5W2cbo5f1bNbRJFRO11gWEiaWkt/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-18T14:37:25+00:00
+# 24 streams captured from 19 matches
 
 #EXTINF:-1 tvg-name="Belgian Grand Prix Practice 3 2408169 — admin" tvg-id="Belgian_Grand_Prix_Practice_3_2408169_—_admin" group-title="Streamed.pk Live Sports",Belgian Grand Prix Practice 3 2408169 — admin
 # match: Belgian Grand Prix Practice 3 2408169
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-belgian-grand-prix-qualifying/1
-https://lb1.strmd.st/secure/KSZmqZpkDETTmSshrPAKLEREXxIrWrgc/rtmp/stream/VS_4ktzzJut2h0duc6QakoaviVOiel0Sq3Qbl5wPBn9y5BuMat4Neq9_YbBQs9osm6NdYWDeuL3k7p6zvFUPhR0Fp_s3C7-lPGR-/1/playlist.m3u8
+https://lb14.strmd.st/secure/YslEpSvqBKNDXieyzjOpGwymaVJlzXAB/rtmp/stream/61ELJSD60gFogJw9optRuDJNt0mY8QM489qoDCTgsGg25t-4uo5WmNwgd9Gj8SiyckB2O62aoxbPHrKhUCrmTwnUew8QQC0Djum0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Open Championship Round 3 2358664 — admin" tvg-id="The_Open_Championship_Round_3_2358664_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Round 3 2358664 — admin
+# match: The Open Championship Round 3 2358664
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-3/1
+https://lb4.strmd.st/secure/bxjnvAYqeEzHsDqOXQjgSxetwNlfWkiQ/rtmp/stream/faKhytzhqL5gyax2FmI5VRG8EUHU1r0sL46Ai6QIjFT6OKLqjSaGAWnuDtoGJUTCq-WMX4RW9A8/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Open Championship Round 3 2358664 — echo" tvg-id="The_Open_Championship_Round_3_2358664_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Round 3 2358664 — echo
+# match: The Open Championship Round 3 2358664
+# provider: echo
+# embed: https://embed.st/embed/echo/the-154th-open-round-3-the-open-championship-atp1000/1
+https://lb5.strmd.st/secure/nHybyqgmeKRjmRpIZToObRpIxkvnGGxN/echo/stream/the-154th-open-round-3-the-open-championship-atp1000/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 14 2447761 — admin" tvg-id="Tour_De_France_Stage_14_2447761_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 14 2447761 — admin
+# match: Tour De France Stage 14 2447761
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-14/1
+https://lb13.strmd.st/secure/ZINwrsddoQtgnLPaOekOxCOUhjAHYmKo/rtmp/stream/T7zesMAYsoXE2_s6Ej-mLWkdhwvyd5nNKKIfnbKkVP1ipMBwgswefVWRajSLDebpcGGKxIqn/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Manchester United Vs Wrexham 2467926 — admin" tvg-id="Manchester_United_Vs_Wrexham_2467926_—_admin" group-title="Streamed.pk Live Sports",Manchester United Vs Wrexham 2467926 — admin
+# match: Manchester United Vs Wrexham 2467926
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-manchester-united-vs-wrexham/1
+https://lb12.strmd.st/secure/eLkqtaEHjbsKXNLjQCuXMYbLCYbzFhva/rtmp/stream/NGmny2HsVWkQ8AUExFYypn5Oo6PIhl2WNO8_ugVE9PyW26nCA3_7khBF8EubJ7o-C537nqYj/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Manchester United Vs Wrexham 2467926 — echo" tvg-id="Manchester_United_Vs_Wrexham_2467926_—_echo" group-title="Streamed.pk Live Sports",Manchester United Vs Wrexham 2467926 — echo
+# match: Manchester United Vs Wrexham 2467926
+# provider: echo
+# embed: https://embed.st/embed/echo/manchester-united-vs-wrexham-game-1472265/1
+https://lb7.strmd.st/secure/DymmxTLckVQhVzMqToNePhBvkSnVthTm/echo/stream/manchester-united-vs-wrexham-game-1472265/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Dundee Vs Everton 2502488 — admin" tvg-id="Dundee_Vs_Everton_2502488_—_admin" group-title="Streamed.pk Live Sports",Dundee Vs Everton 2502488 — admin
 # match: Dundee Vs Everton 2502488
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-dundee-vs-everton/1
-https://lb4.strmd.st/secure/lOIqsYpsSYsthffqcrvVqeVxoNZweTco/rtmp/stream/voYtQAo-hS2JjjoRaYahd36dYvzo4KgN5x1DJKLb6W1gYQm2mwuhJixy0S7kGC9Yh9AObif1qIqx3QBBIUanFQ/1/playlist.m3u8
+https://lb2.strmd.st/secure/PgIuHdjRalcQSIrajBERKbWaDwBgwSjf/rtmp/stream/9sxRkA-DV_YFfvSzxFdItZF-0QGR7KOPIbtx7-c8udoSUxj4YgfimTbUSQQP_rb1ppcGDpqvnXkUyxLc-BdUsg/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Dundee Vs Everton 2502488 — echo" tvg-id="Dundee_Vs_Everton_2502488_—_echo" group-title="Streamed.pk Live Sports",Dundee Vs Everton 2502488 — echo
-# match: Dundee Vs Everton 2502488
+#EXTINF:-1 tvg-name="Celtic Vs Middlesbrough 2502492 — admin" tvg-id="Celtic_Vs_Middlesbrough_2502492_—_admin" group-title="Streamed.pk Live Sports",Celtic Vs Middlesbrough 2502492 — admin
+# match: Celtic Vs Middlesbrough 2502492
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-celtic-vs-middlesbrough/1
+https://lb9.strmd.st/secure/hWpqmglcatqkLpDyQnUWrFVavAIXZyLS/rtmp/stream/fiw-J8ONKGU6sPFH8PkTkKqa2kLAyDfYCyJwL3sKBXTrKV2Jj-YY9iH-vLwMVM0jeqgaNpcPG8M/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Celtic Vs Middlesbrough 2502492 — echo" tvg-id="Celtic_Vs_Middlesbrough_2502492_—_echo" group-title="Streamed.pk Live Sports",Celtic Vs Middlesbrough 2502492 — echo
+# match: Celtic Vs Middlesbrough 2502492
 # provider: echo
-# embed: https://embed.st/embed/echo/dundee-vs-everton-football-1562939/1
-https://lb5.strmd.st/secure/TguVuzXypxVmgvFvctRXywVlMgUYamDG/echo/stream/dundee-vs-everton-football-1562939/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/celtic-vs-middlesbrough-game-778886/1
+https://lb1.strmd.st/secure/cQLlvHWjAAOeqKUXpTOZPLsRHHMzrCdI/echo/stream/celtic-vs-middlesbrough-game-778886/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fiji Rugby Vs Scotland Rugby 2449600 — admin" tvg-id="Fiji_Rugby_Vs_Scotland_Rugby_2449600_—_admin" group-title="Streamed.pk Live Sports",Fiji Rugby Vs Scotland Rugby 2449600 — admin
+# match: Fiji Rugby Vs Scotland Rugby 2449600
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-fiji-vs-scotland/1
+https://lb6.strmd.st/secure/QVjRBpDAnHHDsdPrciMUwTmpTTEgCtRU/rtmp/stream/HyvZk3OTWEnWFxZQU7jk7nUfdAJ2O3UduQqCFk2w5pAZgPBQcyRpCZz-d17qPg33XwOFDBAPrtE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fiji Rugby Vs Scotland Rugby 2449600 — echo" tvg-id="Fiji_Rugby_Vs_Scotland_Rugby_2449600_—_echo" group-title="Streamed.pk Live Sports",Fiji Rugby Vs Scotland Rugby 2449600 — echo
+# match: Fiji Rugby Vs Scotland Rugby 2449600
+# provider: echo
+# embed: https://embed.st/embed/echo/fiji-vs-scotland-rugby-53228/1
+https://lb9.strmd.st/secure/LWHVKLcqFepqHJBYlGxOYciCRDGOGwnW/echo/stream/fiji-vs-scotland-rugby-53228/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Southend United Vs West Ham United 2497656 — admin" tvg-id="Southend_United_Vs_West_Ham_United_2497656_—_admin" group-title="Streamed.pk Live Sports",Southend United Vs West Ham United 2497656 — admin
+# match: Southend United Vs West Ham United 2497656
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-southend-united-vs-west-ham-united/1
+https://lb14.strmd.st/secure/BzWymlEQabvGWYDQvPmjYnHJvDrysAKV/rtmp/stream/3iWAlUg57s3XE_-nlglFmSLp-y5jDQ6PebHNKxH4jz1m9Bp7Zpi4Ls8eMY8rDJX9g7l4rIFErkks/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo" tvg-id="Warrington_Wolves_Vs_Hull_Kingston_Rovers_2395970_—_echo" group-title="Streamed.pk Live Sports",Warrington Wolves Vs Hull Kingston Rovers 2395970 — echo
+# match: Warrington Wolves Vs Hull Kingston Rovers 2395970
+# provider: echo
+# embed: https://embed.st/embed/echo/warrington-wolves-vs-hull-k-r-game-184842/1
+https://lb8.strmd.st/secure/NjkxnLathoiOYUfXglCgACoaGuUMYUzZ/echo/stream/warrington-wolves-vs-hull-k-r-game-184842/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Aik Vs Gais 2398847 — admin" tvg-id="Aik_Vs_Gais_2398847_—_admin" group-title="Streamed.pk Live Sports",Aik Vs Gais 2398847 — admin
+# match: Aik Vs Gais 2398847
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-aik-vs-gais/1
+https://lb5.strmd.st/secure/OZiPCpLPXtuGuwyKsVSqVnUVYwDZSwfV/rtmp/stream/o6eXAfpqhetSup4FWEdiahfMfJgwqr8MUG79m49_SufWPdcTmyJVD4A88w2a2FtWMVoceoFogWS6/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="British Superbikes Brands Hatch Indy Game 111906 — echo" tvg-id="British_Superbikes_Brands_Hatch_Indy_Game_111906_—_echo" group-title="Streamed.pk Live Sports",British Superbikes Brands Hatch Indy Game 111906 — echo
 # match: British Superbikes Brands Hatch Indy Game 111906
 # provider: echo
 # embed: https://embed.st/embed/echo/british-superbikes-brands-hatch-indy-game-111906/1
-https://lb13.strmd.st/secure/AbTaPDrgOZuwOQhPgwHXfsLzChmpfpcn/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
+https://lb2.strmd.st/secure/gkQvayeaTXOIJUNMDdlZHcNDlBfaVjZh/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fish O Mania Game 288064 — echo" tvg-id="Fish_O_Mania_Game_288064_—_echo" group-title="Streamed.pk Live Sports",Fish O Mania Game 288064 — echo
 # match: Fish O Mania Game 288064
 # provider: echo
 # embed: https://embed.st/embed/echo/fish-o-mania-game-288064/1
-https://lb3.strmd.st/secure/GnovMSrfUyBMCdsYdPQjRBKtMKkGwrDH/echo/stream/fish-o-mania-game-288064/1/playlist.m3u8
+https://lb15.strmd.st/secure/xfxZauMQNkfkcbLQxcquoIfFLPOguggU/echo/stream/fish-o-mania-game-288064/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb4.strmd.st/secure/lHaLHfjuuhSDSyCNnNCeZLDjjOFsSeVl/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb3.strmd.st/secure/tLDiqRUFeDHGEySmeMPIoTABoqCsaUbO/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Paris Lights Vs London Warriors 2475818 — admin" tvg-id="Paris_Lights_Vs_London_Warriors_2475818_—_admin" group-title="Streamed.pk Live Sports",Paris Lights Vs London Warriors 2475818 — admin
 # match: Paris Lights Vs London Warriors 2475818
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-london-warriors-vs-paris-lights/1
-https://lb15.strmd.st/secure/XDrUzufTkqTFZgDwvuKJpbTyvTPMlTrk/rtmp/stream/hK55p4O4t82yvmmODrq2U1wTsQodYsIwgEIqPEMHrsgS_I68rFjQ-7lTXO_rlejwW46yC83zVqCT_K8uP7O_2bjK/1/playlist.m3u8
+https://lb6.strmd.st/secure/GZpixMGLllUIMZPVpLShfrFsSlBxsgnl/admin/stream/ppv-london-warriors-vs-paris-lights/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Tour De France Stage 14 — admin" tvg-id="Ppv_Tour_De_France_Stage_14_—_admin" group-title="Streamed.pk Live Sports",Ppv Tour De France Stage 14 — admin
 # match: Ppv Tour De France Stage 14
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-14/1
-https://lb7.strmd.st/secure/faXSLbOjmGNgspswyOwuVneMybfoCEuT/rtmp/stream/_iqsdzlSBZZEkvH96n_S_21-XiwNKizSKas6nfiQF4J5t5W2cbo5f1bNbRJFRO11gWEiaWkt/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="West Coast Eagles Vs Brisbane Lions 2495779 — echo" tvg-id="West_Coast_Eagles_Vs_Brisbane_Lions_2495779_—_echo" group-title="Streamed.pk Live Sports",West Coast Eagles Vs Brisbane Lions 2495779 — echo
-# match: West Coast Eagles Vs Brisbane Lions 2495779
-# provider: echo
-# embed: https://embed.st/embed/echo/west-coast-eagles-vs-brisbane-lions-australian-football-3578/1
-https://lb8.strmd.st/secure/mloBwbzsxoNMYoHnewjHikShYeOmkolm/echo/stream/west-coast-eagles-vs-brisbane-lions-australian-football-3578/1/playlist.m3u8
+https://lb10.strmd.st/secure/LsihsoUQFikTFzenTXYwlmuKuumQyfyc/rtmp/stream/uqPKFei0hWZmiNpTd83Lk3TlzQPNhtgMmfjod5j9z7Q6KQO9VJoQ3ZuuzLTOhHUZaeyZIy0Y/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Northants Steelbacks Vs Somerset T20 2535222 — echo" tvg-id="Northants_Steelbacks_Vs_Somerset_T20_2535222_—_echo" group-title="Streamed.pk Live Sports",Northants Steelbacks Vs Somerset T20 2535222 — echo
 # match: Northants Steelbacks Vs Somerset T20 2535222
 # provider: echo
 # embed: https://embed.st/embed/echo/vitality-blast-semi-final-northants-vs-somerset-game-19993637/1
-https://lb4.strmd.st/secure/wzgEbmEWYASMbBirTjbYkwHFXqKVpsUh/echo/stream/vitality-blast-semi-final-northants-vs-somerset-game-19993637/1/playlist.m3u8
+https://lb9.strmd.st/secure/kgFLKAntaQZCMceoyeUNmiGdpNqMVwhO/echo/stream/vitality-blast-semi-final-northants-vs-somerset-game-19993637/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv The Open Championship Round 3 — admin" tvg-id="Ppv_The_Open_Championship_Round_3_—_admin" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 3 — admin
 # match: Ppv The Open Championship Round 3
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-the-open-championship-round-3/1
-https://lb9.strmd.st/secure/IgoLILdWiEjgZOniYRXbJOOdXVlUgFpS/rtmp/stream/bFTVw9ZvquR_TyS_-qeZoJHkWyciMiwHTe-0ygbXoOiwZRSpHOQRMOUy0Fhfx8_1WWP7UTobRZk/1/playlist.m3u8
+https://lb15.strmd.st/secure/HKqfNLAThvIstssSfwRzwbOLcRbdHXfp/rtmp/stream/M0PD2aTUljfbFXttM23vZkGacGKDxjwK-GEWKiMogGy124R3ivL3uUXTiNygdlatYx9_kcmgCtA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv The Open Championship Round 3 — echo" tvg-id="Ppv_The_Open_Championship_Round_3_—_echo" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 3 — echo
 # match: Ppv The Open Championship Round 3
 # provider: echo
 # embed: https://embed.st/embed/echo/the-154th-open-round-3-the-open-championship-atp1000/1
-https://lb5.strmd.st/secure/DXFTpXwvgITcEytvRasqscUpvHHpRmRF/echo/stream/the-154th-open-round-3-the-open-championship-atp1000/1/playlist.m3u8
+https://lb12.strmd.st/secure/bYHllDzMhviWwxhYksdRIvLYpZUGBQBW/echo/stream/the-154th-open-round-3-the-open-championship-atp1000/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="New Zealand Warriors Vs St George Illawara Dragons 2417310 — echo" tvg-id="New_Zealand_Warriors_Vs_St_George_Illawara_Dragons_2417310_—_echo" group-title="Streamed.pk Live Sports",New Zealand Warriors Vs St George Illawara Dragons 2417310 — echo
 # match: New Zealand Warriors Vs St George Illawara Dragons 2417310
 # provider: echo
 # embed: https://embed.st/embed/echo/new-zealand-warriors-vs-st-george-illawarra-dragons-game-3373252/1
-https://lb12.strmd.st/secure/HbthAHTSENgjsaGxrLLnkCvezOTSUppV/echo/stream/new-zealand-warriors-vs-st-george-illawarra-dragons-game-3373252/1/playlist.m3u8
+https://lb4.strmd.st/secure/SSworErjUoYmizrVnHogyFWftJVEYrzZ/echo/stream/new-zealand-warriors-vs-st-george-illawarra-dragons-game-3373252/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo" tvg-id="World_Rally_Championship_Estonia_World_Rally_Championship_2026_Season_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo
 # match: World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059
 # provider: echo
 # embed: https://embed.st/embed/echo/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1
-https://lb3.strmd.st/secure/lvaqLsHxjGyGGbDqwZJRBXeoCvpLNOaW/echo/stream/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
+https://lb14.strmd.st/secure/VRiorwpMFBYAXzayTnBvmaxtiWzkNHjY/echo/stream/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
 
