@@ -1,5 +1,65 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-19T19:01:43+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-19T20:10:12+00:00
+# 10 streams captured from 6 matches
+
+#EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — admin" tvg-id="Spain_Vs_Argentina_2533361_—_admin" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — admin
+# match: Spain Vs Argentina 2533361
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-spain-vs-argentina/1
+https://lb11.strmd.st/secure/WQycqNpkpwrKrOKhnkdAjTZixBLyyatd/rtmp/stream/oEpuvqAo11SvxPEa8ZGrkJ0JvDEOYI1n7Mr0BKE7pgo-hrapcDKU4oEvjrxbJjBprV_QG_yJJA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — delta" tvg-id="Spain_Vs_Argentina_2533361_—_delta" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — delta
+# match: Spain Vs Argentina 2533361
+# provider: delta
+# embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672/1
+https://lb15.strmd.st/secure/HhxMcXnXjCMmmilADsDlUHXZKKHbqTxb/delta/stream/live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — echo" tvg-id="Spain_Vs_Argentina_2533361_—_echo" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — echo
+# match: Spain Vs Argentina 2533361
+# provider: echo
+# embed: https://embed.st/embed/echo/spain-vs-argentina-football-1591866/1
+https://lb14.strmd.st/secure/GWaBNifxqSLisWuJdxrgKpwHVJChCtxU/echo/stream/spain-vs-argentina-football-1591866/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — golf" tvg-id="Spain_Vs_Argentina_2533361_—_golf" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — golf
+# match: Spain Vs Argentina 2533361
+# provider: golf
+# embed: https://embed.st/embed/golf/23810/1
+https://cdn14.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=GZAeYsyHDks2mb-nU_LGjw&expires=1784498964
+
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Chicago Sky 2449120 — admin" tvg-id="Atlanta_Dream_Vs_Chicago_Sky_2449120_—_admin" group-title="Streamed.pk Live Sports",Atlanta Dream Vs Chicago Sky 2449120 — admin
+# match: Atlanta Dream Vs Chicago Sky 2449120
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-chicago-sky-vs-atlanta-dream/1
+https://lb12.strmd.st/secure/nLrQyxlNzrMbhvDigJEWWqxrgzdQNGIy/rtmp/stream/FaDARMPHOYDubl5sG_CM6PjXX-ZOwBKg29QBBcRTczrh5ZO0LA6A9veT8kW1ugdlzWWQQmv6nT8X7q4bGPA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Atlanta Dream Vs Chicago Sky 2449120 — delta" tvg-id="Atlanta_Dream_Vs_Chicago_Sky_2449120_—_delta" group-title="Streamed.pk Live Sports",Atlanta Dream Vs Chicago Sky 2449120 — delta
+# match: Atlanta Dream Vs Chicago Sky 2449120
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_dream-sky-live-streaming-524023776/1
+https://lb4.strmd.st/secure/uynyEtveyEVpGgeKdUcacPrhoUAGJZxh/delta/stream/live_wnba_dream-sky-live-streaming-524023776/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 2 2505689 — admin" tvg-id="Betfred_World_Matchplay_Day_2_2505689_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 2 2505689 — admin
+# match: Betfred World Matchplay Day 2 2505689
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-darts-day-1-s-2/1
+https://lb7.strmd.st/secure/TEYtnnVTjONJswjrtAicmTtTlYlvuZzN/rtmp/stream/qQX6yjokAJlv07kzvrlL1WPfHf9MW_nKy-RCsNIJPrUiHCU2fzjwEAp8QJAA9Lb2bx7W7MOJKk0/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 02 Nwmt White Mountain Ppv 02 — echo" tvg-id="Ppv_Event_02_Nwmt_White_Mountain_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Nwmt White Mountain Ppv 02 — echo
+# match: Ppv Event 02 Nwmt White Mountain Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-nwmt-white-mountain-ppv-02/1
+https://lb6.strmd.st/secure/fKBeDRaNbiOLpQNxzwMpzXGsXOnDGlHP/echo/stream/ppv-event-02-nwmt-white-mountain-ppv-02/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 01 Usac Rich Vogler Classic Winchester Ppv 01 — echo" tvg-id="Ppv_Event_01_Usac_Rich_Vogler_Classic_Winchester_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Usac Rich Vogler Classic Winchester Ppv 01 — echo
+# match: Ppv Event 01 Usac Rich Vogler Classic Winchester Ppv 01
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-usac-rich-vogler-classic-winchester-ppv-01/1
+https://lb8.strmd.st/secure/qiaTNGPjGSXPFfvHgKAdoKeFPIxhmsqx/echo/stream/ppv-event-01-usac-rich-vogler-classic-winchester-ppv-01/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgian Grand Prix 2408171 — golf" tvg-id="Belgian_Grand_Prix_2408171_—_golf" group-title="Streamed.pk Live Sports",Belgian Grand Prix 2408171 — golf
+# match: Belgian Grand Prix 2408171
+# provider: golf
+# embed: https://embed.st/embed/golf/23892/1
+https://cdn14.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1EK25wPtu8I8vyj2nf279g&expires=1784499008
 
