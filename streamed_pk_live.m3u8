@@ -1,107 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-19T04:25:29+00:00
-# 17 streams captured from 12 matches
+# Streamed.pk live sports matches — built 2026-07-19T07:04:46+00:00
+# 8 streams captured from 7 matches
 
-#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Phoenix Suns — admin" tvg-id="Ppv_San_Antonio_Spurs_Vs_Phoenix_Suns_—_admin" group-title="Streamed.pk Live Sports",Ppv San Antonio Spurs Vs Phoenix Suns — admin
-# match: Ppv San Antonio Spurs Vs Phoenix Suns
+#EXTINF:-1 tvg-name="Dolphins Vs North Queensland Cowboys 2417314 — admin" tvg-id="Dolphins_Vs_North_Queensland_Cowboys_2417314_—_admin" group-title="Streamed.pk Live Sports",Dolphins Vs North Queensland Cowboys 2417314 — admin
+# match: Dolphins Vs North Queensland Cowboys 2417314
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-san-antonio-spurs-vs-phoenix-suns/1
-https://lb11.strmd.st/secure/MhdOCmeFvaAXhCjssVoFNjTaGzcGeaxm/rtmp/stream/lfqlU0siY2vNGgPSsC2eKS6mDzSPNHxF2UYWuGrMQlXnO7KOJYKy9TQQiNNrwa9ocjW-C57OdwD1nEsgYQ/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-dolphins-vs-cowboys/1
+https://lb1.strmd.st/secure/FgJkwDYXpFeseZyTUmuycxsyxyzVkkBe/rtmp/stream/gC87_sxh6isNHeE7Ud9ksbu75y8IxLGrVk0AuSBZ62grG6NrPrBpWE_2Ug0TEuFvuBq2Gf77FO7NvOA/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Phoenix Suns — delta" tvg-id="Ppv_San_Antonio_Spurs_Vs_Phoenix_Suns_—_delta" group-title="Streamed.pk Live Sports",Ppv San Antonio Spurs Vs Phoenix Suns — delta
-# match: Ppv San Antonio Spurs Vs Phoenix Suns
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league_suns-spurs-live-streaming-592598160/1
-https://lb2.strmd.st/secure/vjsYtKUburBSXNjiURXyRCWwRhGzORsw/delta/stream/live_nba-summer-league_suns-spurs-live-streaming-592598160/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Phoenix Suns — echo" tvg-id="Ppv_San_Antonio_Spurs_Vs_Phoenix_Suns_—_echo" group-title="Streamed.pk Live Sports",Ppv San Antonio Spurs Vs Phoenix Suns — echo
-# match: Ppv San Antonio Spurs Vs Phoenix Suns
+#EXTINF:-1 tvg-name="Dolphins Vs North Queensland Cowboys 2417314 — echo" tvg-id="Dolphins_Vs_North_Queensland_Cowboys_2417314_—_echo" group-title="Streamed.pk Live Sports",Dolphins Vs North Queensland Cowboys 2417314 — echo
+# match: Dolphins Vs North Queensland Cowboys 2417314
 # provider: echo
-# embed: https://embed.st/embed/echo/phoenix-suns-vs-san-antonio-spurs-basketball-504369/1
-https://lb7.strmd.st/secure/XCGtHPqgHeJxVugOphcHZMQeZVaeUPbz/echo/stream/phoenix-suns-vs-san-antonio-spurs-basketball-504369/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/dolphins-vs-north-queensland-game-236363/1
+https://lb4.strmd.st/secure/EQZYCsETjSoiRjTioTDZvjxVuAgzWbWJ/echo/stream/dolphins-vs-north-queensland-game-236363/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv San Antonio Spurs Vs Phoenix Suns — golf" tvg-id="Ppv_San_Antonio_Spurs_Vs_Phoenix_Suns_—_golf" group-title="Streamed.pk Live Sports",Ppv San Antonio Spurs Vs Phoenix Suns — golf
-# match: Ppv San Antonio Spurs Vs Phoenix Suns
-# provider: golf
-# embed: https://embed.st/embed/golf/23832/1
-https://cdn11.zohanayaan.com:1686/hls/mphoenixsuns.m3u8?md5=5db9qhAmefHIYvi8Ozf5Sw&expires=1784442243
-
-#EXTINF:-1 tvg-name="Gold Coast Titans Vs Manly Sea Eagles 2417313 — admin" tvg-id="Gold_Coast_Titans_Vs_Manly_Sea_Eagles_2417313_—_admin" group-title="Streamed.pk Live Sports",Gold Coast Titans Vs Manly Sea Eagles 2417313 — admin
-# match: Gold Coast Titans Vs Manly Sea Eagles 2417313
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-titans-vs-sea-eagles/1
-https://lb14.strmd.st/secure/vUVZaQCSMPduSXOqDLaosZlDQnmbqQRH/rtmp/stream/y6-ovjJc-QEL9dbpeWjowuunrwtFCGevAsVXtdUH26-8QDjj7Tpic_dGNpbO2atFq2wul-p4R5t_4bM/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Gold Coast Football Club Vs Western Bulldogs 2495781 — echo" tvg-id="Gold_Coast_Football_Club_Vs_Western_Bulldogs_2495781_—_echo" group-title="Streamed.pk Live Sports",Gold Coast Football Club Vs Western Bulldogs 2495781 — echo
+# match: Gold Coast Football Club Vs Western Bulldogs 2495781
+# provider: echo
+# embed: https://embed.st/embed/echo/gold-coast-suns-vs-western-bulldogs-australian-football-3580/1
+https://lb15.strmd.st/secure/NIriDyBTKNwxrnfVHSSANWrsBgbaRLOk/echo/stream/gold-coast-suns-vs-western-bulldogs-australian-football-3580/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Bmx World Championships Bmx World Championships Game 4u8337 — echo" tvg-id="Bmx_World_Championships_Bmx_World_Championships_Game_4u8337_—_echo" group-title="Streamed.pk Live Sports",Bmx World Championships Bmx World Championships Game 4u8337 — echo
 # match: Bmx World Championships Bmx World Championships Game 4u8337
 # provider: echo
 # embed: https://embed.st/embed/echo/bmx-world-championships-bmx-world-championships-game-4u8337/1
-https://lb4.strmd.st/secure/eLHiKkRidFTVNboAfJnwrBHZjpIYYBDW/echo/stream/bmx-world-championships-bmx-world-championships-game-4u8337/1/playlist.m3u8
+https://lb3.strmd.st/secure/ddehwgdtwYSIPwDudSWidRZVeIIByRDs/echo/stream/bmx-world-championships-bmx-world-championships-game-4u8337/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="23831 — golf" tvg-id="23831_—_golf" group-title="Streamed.pk Live Sports",23831 — golf
-# match: 23831
-# provider: golf
-# embed: https://embed.st/embed/golf/23831/1
-https://cdn11.zohanayaan.com:1686/hls/mneworleanspelicans.m3u8?md5=FyQ0CZ8OgpP8PhoY9yO9yg&expires=1784442263
-
-#EXTINF:-1 tvg-name="23830 — golf" tvg-id="23830_—_golf" group-title="Streamed.pk Live Sports",23830 — golf
-# match: 23830
-# provider: golf
-# embed: https://embed.st/embed/golf/23830/1
-https://cdn15.zohanayaan.com:1686/hls/mlosangeleslakers.m3u8?md5=zu8l_7ZJmUu6js8JEtECSg&expires=1784442269
-
-#EXTINF:-1 tvg-name="23844 — golf" tvg-id="23844_—_golf" group-title="Streamed.pk Live Sports",23844 — golf
-# match: 23844
-# provider: golf
-# embed: https://embed.st/embed/golf/23844/1
-https://cdn13.zohanayaan.com:1686/hls/mnewyorkyankees.m3u8?md5=n3n9ADAykUHYIcXCYucx4A&expires=1784442275
-
-#EXTINF:-1 tvg-name="23874 — golf" tvg-id="23874_—_golf" group-title="Streamed.pk Live Sports",23874 — golf
-# match: 23874
-# provider: golf
-# embed: https://embed.st/embed/golf/23874/1
-https://cdn11.zohanayaan.com:1686/hls/mevent7.m3u8?md5=Yzm1_NowYlajuYYtxtpgYA&expires=1784442281
-
-#EXTINF:-1 tvg-name="Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11 — echo" tvg-id="Ppv_Event_11_Flex_Wrestling_Here_To_Show_The_World_Ppv_11_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11 — echo
-# match: Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11
+#EXTINF:-1 tvg-name="Ppv Event 12 Bkb 56 Ppv 12 — echo" tvg-id="Ppv_Event_12_Bkb_56_Ppv_12_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 12 Bkb 56 Ppv 12 — echo
+# match: Ppv Event 12 Bkb 56 Ppv 12
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-11-flex-wrestling-here-to-show-the-world-ppv-11/1
-https://lb3.strmd.st/secure/JmegzqCzqPtazHBAeVWWZDSFrMyhsxLe/echo/stream/ppv-event-11-flex-wrestling-here-to-show-the-world-ppv-11/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-12-bkb-56-ppv-12/1
+https://lb1.strmd.st/secure/NabatMOvQeaVoauxaIZqKPgmTpBENgTU/echo/stream/ppv-event-12-bkb-56-ppv-12/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 04 Raf 11 Tsarukyan V Convington Ppv 004 — echo" tvg-id="Ppv_Event_04_Raf_11_Tsarukyan_V_Convington_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Raf 11 Tsarukyan V Convington Ppv 004 — echo
+# match: Ppv Event 04 Raf 11 Tsarukyan V Convington Ppv 004
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-04-raf-11-tsarukyan-v-convington-ppv-004/1
+https://lb3.strmd.st/secure/pVpOSeNXgZvJhxniqWanoAtMHLxtHkNm/echo/stream/ppv-event-04-raf-11-tsarukyan-v-convington-ppv-004/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 09 Fight To Win 321 Ppv 09 — echo" tvg-id="Ppv_Event_09_Fight_To_Win_321_Ppv_09_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 09 Fight To Win 321 Ppv 09 — echo
 # match: Ppv Event 09 Fight To Win 321 Ppv 09
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-09-fight-to-win-321-ppv-09/1
-https://lb14.strmd.st/secure/lEDrZpCfJIyixWfJJYMYtpCwccxzcyZh/echo/stream/ppv-event-09-fight-to-win-321-ppv-09/1/playlist.m3u8
+https://lb15.strmd.st/secure/GurtgoKwplnyqvlwPZOsSMFFJhqhpIEV/echo/stream/ppv-event-09-fight-to-win-321-ppv-09/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — delta" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_delta" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — delta
-# match: Saturday Nights Main Event 45 2468415
-# provider: delta
-# embed: https://embed.st/embed/delta/live-event_saturday-night-main-event-live-stream/1
-https://lb7.strmd.st/secure/HZDuYNIhbAPGuWGmWpfeDiKSmuUuHyvQ/delta/stream/live-event_saturday-night-main-event-live-stream/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — echo" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_echo" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — echo
-# match: Saturday Nights Main Event 45 2468415
+#EXTINF:-1 tvg-name="Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11 — echo" tvg-id="Ppv_Event_11_Flex_Wrestling_Here_To_Show_The_World_Ppv_11_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11 — echo
+# match: Ppv Event 11 Flex Wrestling Here To Show The World Ppv 11
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-wwe-saturday-night-main-event-ppv-03/1
-https://lb15.strmd.st/secure/KVlPAgdYeQqjAUGEAtpCZqWrbPRbBAvM/echo/stream/ppv-event-03-wwe-saturday-night-main-event-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Saturday Nights Main Event 45 2468415 — golf" tvg-id="Saturday_Nights_Main_Event_45_2468415_—_golf" group-title="Streamed.pk Live Sports",Saturday Nights Main Event 45 2468415 — golf
-# match: Saturday Nights Main Event 45 2468415
-# provider: golf
-# embed: https://embed.st/embed/golf/23870/1
-https://cdn12.zohanayaan.com:1686/hls/mevent3.m3u8?md5=8jXcgY31__NDl4leuktCjQ&expires=1784442312
-
-#EXTINF:-1 tvg-name="Ppv Event 08 Acw Indypendence Day Ppv 08 — echo" tvg-id="Ppv_Event_08_Acw_Indypendence_Day_Ppv_08_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 08 Acw Indypendence Day Ppv 08 — echo
-# match: Ppv Event 08 Acw Indypendence Day Ppv 08
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-08-acw-indypendence-day-ppv-08/1
-https://lb4.strmd.st/secure/CBZbWCupONojOKRcqYbCbZcFjcnAuhJt/echo/stream/ppv-event-08-acw-indypendence-day-ppv-08/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Indycar Ntt Final Practice Game 19996 — echo" tvg-id="Indycar_Ntt_Final_Practice_Game_19996_—_echo" group-title="Streamed.pk Live Sports",Indycar Ntt Final Practice Game 19996 — echo
-# match: Indycar Ntt Final Practice Game 19996
-# provider: echo
-# embed: https://embed.st/embed/echo/indycar-ntt-final-practice-game-19996/1
-https://lb7.strmd.st/secure/MPeVKtunxgqczySVRWeiDTISLeMUOlcH/echo/stream/indycar-ntt-final-practice-game-19996/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-11-flex-wrestling-here-to-show-the-world-ppv-11/1
+https://lb10.strmd.st/secure/kJlzJCgZDlYkSjjhJdBmjxseUEKLAjGY/echo/stream/ppv-event-11-flex-wrestling-here-to-show-the-world-ppv-11/1/playlist.m3u8
 
