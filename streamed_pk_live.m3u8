@@ -1,137 +1,101 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-19T15:55:26+00:00
-# 22 streams captured from 15 matches
+# Streamed.pk live sports matches — built 2026-07-19T16:54:57+00:00
+# 16 streams captured from 11 matches
 
 #EXTINF:-1 tvg-name="England Cricket Vs India Cricket 2524720 — admin" tvg-id="England_Cricket_Vs_India_Cricket_2524720_—_admin" group-title="Streamed.pk Live Sports",England Cricket Vs India Cricket 2524720 — admin
 # match: England Cricket Vs India Cricket 2524720
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-england-vs-india/1
-https://lb12.strmd.st/secure/FjUfHfqMqAIoyhmFsLRJOKeqJUOZAuFl/rtmp/stream/NE7rHiK5GwPfrUAg6cIHd-0fLHRU_vFuuEEbiGuk-NH160UmgMBAUCEelhor8_IEotZcRAW5H0Y/1/playlist.m3u8
+https://lb2.strmd.st/secure/oOYAfHmKjMzPOltDcICQOMNSwDyHpwSo/rtmp/stream/yx9mT0HQIzMQ3wiweTRt-2JGBUUemsZVt3jqjb9MU1VvsUgUH9gIfaPT-dQXGAMZQ3vDBeR8a7U/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="England Cricket Vs India Cricket 2524720 — echo" tvg-id="England_Cricket_Vs_India_Cricket_2524720_—_echo" group-title="Streamed.pk Live Sports",England Cricket Vs India Cricket 2524720 — echo
 # match: England Cricket Vs India Cricket 2524720
 # provider: echo
 # embed: https://embed.st/embed/echo/england-vs-india-third-one-day-international-cricket-1/1
-https://lb7.strmd.st/secure/IxmYVHHOFRzEPVPPAWSzxnjbcGmGmjpt/echo/stream/england-vs-india-third-one-day-international-cricket-1/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="The Open Championship Final Round 2358665 — admin" tvg-id="The_Open_Championship_Final_Round_2358665_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Final Round 2358665 — admin
-# match: The Open Championship Final Round 2358665
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-4/1
-https://lb3.strmd.st/secure/GlnSIRDpAOalbosRJhKTiZtMMfJTZEiN/rtmp/stream/vLROOmMqmHEBr0dz05_wEWnUflmGRDkNwVoy8y_S28QYqtmyh7h4PCiy9ZJfnPHNp_Cw36Kst6o/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="The Open Championship Final Round 2358665 — echo" tvg-id="The_Open_Championship_Final_Round_2358665_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Final Round 2358665 — echo
-# match: The Open Championship Final Round 2358665
-# provider: echo
-# embed: https://embed.st/embed/echo/the-154th-open-final-round-the-open-championship-atp1000/1
-https://lb5.strmd.st/secure/mRMfgoeYOxCUVGfYjayYHomLodWeUAou/echo/stream/the-154th-open-final-round-the-open-championship-atp1000/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Belgian Grand Prix 2408171 — admin" tvg-id="Belgian_Grand_Prix_2408171_—_admin" group-title="Streamed.pk Live Sports",Belgian Grand Prix 2408171 — admin
-# match: Belgian Grand Prix 2408171
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-belgian-grand-prix-race/1
-https://lb6.strmd.st/secure/IvLjRKgQViAzWGQBPfxmVGSNuBKkfmyG/rtmp/stream/iQ1YEXFxb6B8sj83kkrqJ5vbVOuicC7ijxCkq-J8NpV6lUVrF9yIsUUnySj84v9fgGKuLj_Z_vU4jo7pigxZgq9OtWKd/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Belgian Grand Prix 2408171 — golf" tvg-id="Belgian_Grand_Prix_2408171_—_golf" group-title="Streamed.pk Live Sports",Belgian Grand Prix 2408171 — golf
-# match: Belgian Grand Prix 2408171
-# provider: golf
-# embed: https://embed.st/embed/golf/23892/1
-https://cdn14.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=YHYturnoN3s-brqMEUdsRQ&expires=1784483616
-
-#EXTINF:-1 tvg-name="Tour De France Stage 15 2447762 — admin" tvg-id="Tour_De_France_Stage_15_2447762_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 15 2447762 — admin
-# match: Tour De France Stage 15 2447762
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-15/1
-https://lb4.strmd.st/secure/mJyeyrJYHUqQQAUPaiQAYUYlWBREevRM/rtmp/stream/_-Ad3baxtB87Hdi8Q7ebtTCQ7NheTo1ycD_bzaRh7NDHQwA9N7ItLQF9IhArxkpR31ic9feX/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
-# match: Admin Willow Cricket
-# provider: admin
-# embed: https://embed.st/embed/admin/admin-willow-cricket/1
-https://lb10.strmd.st/secure/kmLeKZnVddUonaYKeVWPotyzsfcnoEHg/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+https://lb3.strmd.st/secure/mTGoVGMqoPbBLJKtCYfClDieyUhECHMi/echo/stream/england-vs-india-third-one-day-international-cricket-1/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — admin" tvg-id="Spain_Vs_Argentina_2533361_—_admin" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — admin
 # match: Spain Vs Argentina 2533361
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-spain-vs-argentina/1
-https://lb12.strmd.st/secure/AedxZMjiUUzWbVTIaebcwTpDovNqJoBm/rtmp/stream/bFMvYWk5kzZj3F-do7-qmmfcBXXadbz3UN6TCyukxs8HxcrHyLnKuocn_AoNMdKOqYMjU4Op3g/1/playlist.m3u8
+https://lb12.strmd.st/secure/TZIthgdJSXuSilEtocWTvMFUnoBLqXtE/rtmp/stream/HZzZwL1QpwxGykQk_pBti9unaKpIsul-OAGty6Eywom3PHC91MXhMtkLRyYk1gMk037rurxmhA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — delta" tvg-id="Spain_Vs_Argentina_2533361_—_delta" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — delta
 # match: Spain Vs Argentina 2533361
 # provider: delta
 # embed: https://embed.st/embed/delta/live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672/1
-https://lb15.strmd.st/secure/tBkBrsVDpwamkgEiVXNLbiQehhIYJOvT/delta/stream/live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672/1/playlist.m3u8
+https://lb9.strmd.st/secure/opupipZYsLVgzNWanUHUTIkngwJOqQGW/delta/stream/live_world-cup-knockout-stage_spain-argentina-live-streaming-538194672/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — echo" tvg-id="Spain_Vs_Argentina_2533361_—_echo" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — echo
 # match: Spain Vs Argentina 2533361
 # provider: echo
 # embed: https://embed.st/embed/echo/spain-vs-argentina-football-1591866/1
-https://lb1.strmd.st/secure/rdUslipqjUMfpyJFtssGJmIJkejhKLyY/echo/stream/spain-vs-argentina-football-1591866/1/playlist.m3u8
+https://lb1.strmd.st/secure/qVXpKyZkrocHTPfwMXYMvwQBnXEFywTD/echo/stream/spain-vs-argentina-football-1591866/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — golf" tvg-id="Spain_Vs_Argentina_2533361_—_golf" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — golf
 # match: Spain Vs Argentina 2533361
 # provider: golf
 # embed: https://embed.st/embed/golf/23810/1
-https://cdn13.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=Rfl0Ebe55EZYz--GAQruwg&expires=1784483653
+https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=X25NNHqa9wtLwygx3XeMPg&expires=1784487219
+
+#EXTINF:-1 tvg-name="The Open Championship Final Round 2358665 — admin" tvg-id="The_Open_Championship_Final_Round_2358665_—_admin" group-title="Streamed.pk Live Sports",The Open Championship Final Round 2358665 — admin
+# match: The Open Championship Final Round 2358665
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-4/1
+https://lb11.strmd.st/secure/VNKfrCpKctZUZtrJaJSlhjtsaQZrGgFp/rtmp/stream/6vlGNZydnCVsKThsvjxi8ZwJ1BTe4dWJwgKZL1W_JsBJcUiSeqMKIkulzbJH23gHyvAQzOsALGE/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Open Championship Final Round 2358665 — echo" tvg-id="The_Open_Championship_Final_Round_2358665_—_echo" group-title="Streamed.pk Live Sports",The Open Championship Final Round 2358665 — echo
+# match: The Open Championship Final Round 2358665
+# provider: echo
+# embed: https://embed.st/embed/echo/the-154th-open-final-round-the-open-championship-atp1000/1
+https://lb4.strmd.st/secure/QaTfPPAvTkKwWvNTRqNPZqzFnSonoPyi/echo/stream/the-154th-open-final-round-the-open-championship-atp1000/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Admin Willow Cricket — admin" tvg-id="Admin_Willow_Cricket_—_admin" group-title="Streamed.pk Live Sports",Admin Willow Cricket — admin
+# match: Admin Willow Cricket
+# provider: admin
+# embed: https://embed.st/embed/admin/admin-willow-cricket/1
+https://lb13.strmd.st/secure/RkfNuIqXuvmOLrYgWpoFKPbMEoLvqxsn/rtmp/stream/streamed-willow_720/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Belgian Grand Prix 2408171 — golf" tvg-id="Belgian_Grand_Prix_2408171_—_golf" group-title="Streamed.pk Live Sports",Belgian Grand Prix 2408171 — golf
+# match: Belgian Grand Prix 2408171
+# provider: golf
+# embed: https://embed.st/embed/golf/23892/1
+https://cdn14.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=1BVEffE-vd8gvW8Mye-3bg&expires=1784487247
 
 #EXTINF:-1 tvg-name="Halmstad Vs H Cken 2477925 — admin" tvg-id="Halmstad_Vs_H_Cken_2477925_—_admin" group-title="Streamed.pk Live Sports",Halmstad Vs H Cken 2477925 — admin
 # match: Halmstad Vs H Cken 2477925
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-halmstads-bk-vs-bk-h-cken/1
-https://lb14.strmd.st/secure/ganQIspEbthmTrMIbmVXbjNxcCqdBjJv/rtmp/stream/vhOg5yEfK2Gq_uwq7-qQdg-E92Tua7eogOz1YQNCdNubmjSvcUZxWl3gLt_83rxO594E23S2IYhi/1/playlist.m3u8
+https://lb3.strmd.st/secure/VIfYVdmHAjgoXoLGsWSpTnUbKtoDSxyx/rtmp/stream/FFNV136jTwemfLeu388qvLKoBb8RAOGrxqobNM1_BumnnWe_tL4veoV_J4l-NblAzySVoBhQz6hV/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hammarby Vs Degerfors 2398851 — admin" tvg-id="Hammarby_Vs_Degerfors_2398851_—_admin" group-title="Streamed.pk Live Sports",Hammarby Vs Degerfors 2398851 — admin
 # match: Hammarby Vs Degerfors 2398851
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-hammarby-if-vs-degerfors-if/1
-https://lb5.strmd.st/secure/sMlkVZKjEVnsWDoViPxFzAveaqYrdsav/rtmp/stream/50EhjDHbgOWaoxj2hVZ3ll2yQby4tDvxCeV5lofinXmRSESl870qk-DVkL5OpoNk-2ZpSdi8VHw9/1/playlist.m3u8
+https://lb14.strmd.st/secure/DkzECuXLWdqZtneWyPuOPdoeAKYEJDxs/rtmp/stream/tjdG05JjNfmZuUVrZBxQ57cY9-d9rB4NjDso1K28_TCE2nXojxwYVrqQmAOYmX6aZFbrBDG9QFFE/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Elfsborg Vs Sirius 2398848 — admin" tvg-id="Elfsborg_Vs_Sirius_2398848_—_admin" group-title="Streamed.pk Live Sports",Elfsborg Vs Sirius 2398848 — admin
 # match: Elfsborg Vs Sirius 2398848
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-if-elfsborg-vs-ik-sirius/1
-https://lb10.strmd.st/secure/cpknioDLknkZaFayOopGlJmUxQoZlrqX/rtmp/stream/Te6Z_oggx42glFU3b-v0PSI2DuwtN-gA41RltRJ9ZyQuYDO4wXYh3lGsnJUhcfVQ5y6VUW-Ynwe5/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Wroc Aw Panthers Vs Firenze Red Lions 2475821 — admin" tvg-id="Wroc_Aw_Panthers_Vs_Firenze_Red_Lions_2475821_—_admin" group-title="Streamed.pk Live Sports",Wroc Aw Panthers Vs Firenze Red Lions 2475821 — admin
-# match: Wroc Aw Panthers Vs Firenze Red Lions 2475821
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-firenze-red-lions-vs-panthers-wroclaw/1
-https://lb6.strmd.st/secure/zgvpXmUSeRfGNKlsFfejCREzrqZXcHTR/rtmp/stream/uvd1HUdG6DDWnhMoSp7FMsx_zZXTard-BNrDFTObRAAGGUVcn8xBZYrR7vASCyMFDYEMc1fBmMRVYmIZJwjdtYOPoVR0Ww/1/playlist.m3u8
+https://lb7.strmd.st/secure/mCsUtMgXWmXQOPFQFeujikhWcBOLEMlc/rtmp/stream/iCnVSI7MuVDc5hxWWYsXSlACR_5Jz--OR5NgDN6n8wif6ZHAdpgzTiNX9MJJsQkOloMgOyEPdUjh/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="British Superbikes Brands Hatch Indy Game 111906 — echo" tvg-id="British_Superbikes_Brands_Hatch_Indy_Game_111906_—_echo" group-title="Streamed.pk Live Sports",British Superbikes Brands Hatch Indy Game 111906 — echo
 # match: British Superbikes Brands Hatch Indy Game 111906
 # provider: echo
 # embed: https://embed.st/embed/echo/british-superbikes-brands-hatch-indy-game-111906/1
-https://lb4.strmd.st/secure/zHOhQrsAnzmNEBYwlXyprnWuFkPAixPM/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
+https://lb1.strmd.st/secure/sihRXzfdvgTXyARAgEZhycLIshjRdhxA/echo/stream/british-superbikes-brands-hatch-indy-game-111906/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fim Motocross Uk Game 4008282 — echo" tvg-id="Fim_Motocross_Uk_Game_4008282_—_echo" group-title="Streamed.pk Live Sports",Fim Motocross Uk Game 4008282 — echo
 # match: Fim Motocross Uk Game 4008282
 # provider: echo
 # embed: https://embed.st/embed/echo/fim-motocross-uk-game-4008282/1
-https://lb8.strmd.st/secure/FqgOzqAwERXrBWXobYABxBwXJpBIggrV/echo/stream/fim-motocross-uk-game-4008282/1/playlist.m3u8
+https://lb2.strmd.st/secure/JVSJBGQLXKMzmloyrxgvdJrMuvtJOTwh/echo/stream/fim-motocross-uk-game-4008282/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Betfred World Matchplay Day 2 2505689 — admin" tvg-id="Betfred_World_Matchplay_Day_2_2505689_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 2 2505689 — admin
-# match: Betfred World Matchplay Day 2 2505689
+#EXTINF:-1 tvg-name="Tour De France Stage 15 2447762 — admin" tvg-id="Tour_De_France_Stage_15_2447762_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 15 2447762 — admin
+# match: Tour De France Stage 15 2447762
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-world-matchplay-darts-day-1-s-1/1
-https://lb7.strmd.st/secure/wvkWHCNcZIhCeCtfMAxLVTrkugvYqAFM/rtmp/stream/HHJrwfVINDzfxZGBl31FPh9iiWx3NQJPT9_KihBN1C0IYX8vWKc3PlbZcHPMjbyoFrbDfufOj1o43WZw6w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo" tvg-id="World_Rally_Championship_Estonia_World_Rally_Championship_2026_Season_Racing_0059_—_echo" group-title="Streamed.pk Live Sports",World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059 — echo
-# match: World Rally Championship Estonia World Rally Championship 2026 Season Racing 0059
-# provider: echo
-# embed: https://embed.st/embed/echo/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1
-https://lb15.strmd.st/secure/ISQqTqqvDosDvWVtqudgBEykMlLmXpNf/echo/stream/world-rally-championship-estonia-world-rally-championship-2026-season-racing-0059/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv The Open Championship Round 4 — admin" tvg-id="Ppv_The_Open_Championship_Round_4_—_admin" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 4 — admin
-# match: Ppv The Open Championship Round 4
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-the-open-championship-round-4/1
-https://lb13.strmd.st/secure/hoFsZVsMEVJLadQLbXvWiFCuxlxTRoeu/rtmp/stream/vLROOmMqmHEBr0dz05_wEWnUflmGRDkNwVoy8y_S28QYqtmyh7h4PCiy9ZJfnPHNp_Cw36Kst6o/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv The Open Championship Round 4 — echo" tvg-id="Ppv_The_Open_Championship_Round_4_—_echo" group-title="Streamed.pk Live Sports",Ppv The Open Championship Round 4 — echo
-# match: Ppv The Open Championship Round 4
-# provider: echo
-# embed: https://embed.st/embed/echo/the-154th-open-final-round-the-open-championship-atp1000/1
-https://lb11.strmd.st/secure/MEVuHbZivxbNJTOaJiIcBzjzYAwYuWmd/echo/stream/the-154th-open-final-round-the-open-championship-atp1000/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-15/1
+https://lb8.strmd.st/secure/kCYeHEaKZxhjPkTWVQmBkrIscgHiYwcW/rtmp/stream/2YPELYID2_6QKQICHVsojhdJiw8bByBbiQJrdRB_DbCMIaTmjxDvrA1-L9d_xDrL0NtZr81R/1/playlist.m3u8
 
