@@ -1,77 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-20T01:05:51+00:00
-# 12 streams captured from 7 matches
+# Streamed.pk live sports matches — built 2026-07-20T05:03:04+00:00
+# 4 streams captured from 4 matches
 
-#EXTINF:-1 tvg-name="Spain Vs Argentina 2533361 — golf" tvg-id="Spain_Vs_Argentina_2533361_—_golf" group-title="Streamed.pk Live Sports",Spain Vs Argentina 2533361 — golf
-# match: Spain Vs Argentina 2533361
-# provider: golf
-# embed: https://embed.st/embed/golf/23810/1
-https://cdn11.zohanayaan.com:1686/hls/ntsn1fhd.m3u8?md5=f5QJY1tk15WQwK0X2L1xOg&expires=1784516678
+#EXTINF:-1 tvg-name="Ppv Event 09 559 Fights 125 Ppv 09 — echo" tvg-id="Ppv_Event_09_559_Fights_125_Ppv_09_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 09 559 Fights 125 Ppv 09 — echo
+# match: Ppv Event 09 559 Fights 125 Ppv 09
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-09-559-fights-125-ppv-09/1
+https://lb7.strmd.st/secure/nbhdlKSusrsOyFhHYgemOfEhKBkPYhow/echo/stream/ppv-event-09-559-fights-125-ppv-09/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Phoenix Mercury Vs Connecticut Sun 2449121 — admin" tvg-id="Phoenix_Mercury_Vs_Connecticut_Sun_2449121_—_admin" group-title="Streamed.pk Live Sports",Phoenix Mercury Vs Connecticut Sun 2449121 — admin
-# match: Phoenix Mercury Vs Connecticut Sun 2449121
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-connecticut-sun-vs-phoenix-mercury/1
-https://lb2.strmd.st/secure/hvBaAQIckUuHrowPREjraowSqohdWcEI/rtmp/stream/IcXUnSagWD4b67EhatiqHqQ_002xBqV_RfQh-wITXpmsbDCjF5qKb7Kn04X3RfQTXyvtc76JZ2EyM1IB8xmxWw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Phoenix Mercury Vs Connecticut Sun 2449121 — delta" tvg-id="Phoenix_Mercury_Vs_Connecticut_Sun_2449121_—_delta" group-title="Streamed.pk Live Sports",Phoenix Mercury Vs Connecticut Sun 2449121 — delta
-# match: Phoenix Mercury Vs Connecticut Sun 2449121
-# provider: delta
-# embed: https://embed.st/embed/delta/live_wnba_mercury-sun-live-streaming-524024208/1
-https://lb4.strmd.st/secure/BRqiaVkkhEpByxKDkwdAwQcfMEZkbzqc/delta/stream/live_wnba_mercury-sun-live-streaming-524024208/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Golden State Warriors Vs Memphis Grizzlies — admin" tvg-id="Ppv_Golden_State_Warriors_Vs_Memphis_Grizzlies_—_admin" group-title="Streamed.pk Live Sports",Ppv Golden State Warriors Vs Memphis Grizzlies — admin
-# match: Ppv Golden State Warriors Vs Memphis Grizzlies
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-golden-state-warriors-vs-memphis-grizzlies/1
-https://lb15.strmd.st/secure/AwvvNSRDYnfmbVBoDjxiwPgXRXiSohdI/rtmp/stream/07TSx2uRKfgzJgzv8IBG68t7sCtCoInxROK-jvap1-5wPL3XWzdJoa_xaKECMZibkjiJCRc4FTVNQnD7JWENPMCk/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Golden State Warriors Vs Memphis Grizzlies — delta" tvg-id="Ppv_Golden_State_Warriors_Vs_Memphis_Grizzlies_—_delta" group-title="Streamed.pk Live Sports",Ppv Golden State Warriors Vs Memphis Grizzlies — delta
-# match: Ppv Golden State Warriors Vs Memphis Grizzlies
-# provider: delta
-# embed: https://embed.st/embed/delta/live_nba-summer-league-playoffs_grizzlies-warriors-live-streaming-594712368/1
-https://lb5.strmd.st/secure/ivPSGzsmSDLIeKiYcPKxIwdauhGnvVKB/delta/stream/live_nba-summer-league-playoffs_grizzlies-warriors-live-streaming-594712368/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Golden State Warriors Vs Memphis Grizzlies — golf" tvg-id="Ppv_Golden_State_Warriors_Vs_Memphis_Grizzlies_—_golf" group-title="Streamed.pk Live Sports",Ppv Golden State Warriors Vs Memphis Grizzlies — golf
-# match: Ppv Golden State Warriors Vs Memphis Grizzlies
+#EXTINF:-1 tvg-name="23875 — golf" tvg-id="23875_—_golf" group-title="Streamed.pk Live Sports",23875 — golf
+# match: 23875
 # provider: golf
 # embed: https://embed.st/embed/golf/23875/1
-https://cdn11.zohanayaan.com:1686/hls/mmemphisgrizzlies.m3u8?md5=HXR66d5QxzJ96-fpuF4rzQ&expires=1784516709
-
-#EXTINF:-1 tvg-name="Ottawa Redblacks Vs Winnipeg Blue Bombers 2432559 — admin" tvg-id="Ottawa_Redblacks_Vs_Winnipeg_Blue_Bombers_2432559_—_admin" group-title="Streamed.pk Live Sports",Ottawa Redblacks Vs Winnipeg Blue Bombers 2432559 — admin
-# match: Ottawa Redblacks Vs Winnipeg Blue Bombers 2432559
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-winnipeg-blue-bombers-vs-ottawa-red-blacks/1
-https://lb10.strmd.st/secure/mOySMmtJjxOtncoXOzBDPWteOTlKCsmT/rtmp/stream/zA-1ie55BIOQAA0X8WUfTkNVO-Gxxgm5auCCZ47wSYkLsQ4oHNYYjZiU4wil_xycDByN-BEWN1m3C86S00pKJ6dhULHd/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Denver Nuggets Vs Toronto Raptors — admin" tvg-id="Ppv_Denver_Nuggets_Vs_Toronto_Raptors_—_admin" group-title="Streamed.pk Live Sports",Ppv Denver Nuggets Vs Toronto Raptors — admin
-# match: Ppv Denver Nuggets Vs Toronto Raptors
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-denver-nuggets-vs-toronto-raptors/1
-https://lb9.strmd.st/secure/KeOudJSIxhPXhnNxaLYumVCmdcYiTZAq/rtmp/stream/JKvwQaqEojV2OsOtm23Gu1iXTXXkIOTjnD32kibyCZFnX16iFAUDA4bYuDS48la7nHd1XyVTUwi8UW4V6f78fw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Denver Nuggets Vs Toronto Raptors — echo" tvg-id="Ppv_Denver_Nuggets_Vs_Toronto_Raptors_—_echo" group-title="Streamed.pk Live Sports",Ppv Denver Nuggets Vs Toronto Raptors — echo
-# match: Ppv Denver Nuggets Vs Toronto Raptors
-# provider: echo
-# embed: https://embed.st/embed/echo/toronto-raptors-vs-denver-nuggets-basketball-504371/1
-https://lb13.strmd.st/secure/ecVBPrZGhRDpfNzDsUswcIKgWRLcLXdR/echo/stream/toronto-raptors-vs-denver-nuggets-basketball-504371/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Denver Nuggets Vs Toronto Raptors — golf" tvg-id="Ppv_Denver_Nuggets_Vs_Toronto_Raptors_—_golf" group-title="Streamed.pk Live Sports",Ppv Denver Nuggets Vs Toronto Raptors — golf
-# match: Ppv Denver Nuggets Vs Toronto Raptors
-# provider: golf
-# embed: https://embed.st/embed/golf/23849/1
-https://cdn13.zohanayaan.com:1686/hls/mtorontoraptors.m3u8?md5=R_PVz--WGVScLiAMTaPsJQ&expires=1784516733
+https://cdn13.zohanayaan.com:1686/hls/mmemphisgrizzlies.m3u8?md5=QjiqPPIQ5yXVgI7IZgpbog&expires=1784530967
 
 #EXTINF:-1 tvg-name="Ppv Event 07 Husets Late Models Ppv 07 — echo" tvg-id="Ppv_Event_07_Husets_Late_Models_Ppv_07_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 07 Husets Late Models Ppv 07 — echo
 # match: Ppv Event 07 Husets Late Models Ppv 07
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-husets-late-models-ppv-07/1
-https://lb12.strmd.st/secure/RvanRFXxgvugQknFOMVBpQfeUUdnMLuN/echo/stream/ppv-event-07-husets-late-models-ppv-07/1/playlist.m3u8
+https://lb13.strmd.st/secure/pKEbqRVeJIjQSOlPksITFuQgfombBafL/echo/stream/ppv-event-07-husets-late-models-ppv-07/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 19 Lucas Oil Late Models Shelby Ppv 19 — echo" tvg-id="Ppv_Event_19_Lucas_Oil_Late_Models_Shelby_Ppv_19_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 19 Lucas Oil Late Models Shelby Ppv 19 — echo
 # match: Ppv Event 19 Lucas Oil Late Models Shelby Ppv 19
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-19-lucas-oil-late-models-shelby-ppv-19/1
-https://lb1.strmd.st/secure/XdoEzhHOVxxHEFxdixtbJVxjpUzdbXgL/echo/stream/ppv-event-19-lucas-oil-late-models-shelby-ppv-19/1/playlist.m3u8
+https://lb6.strmd.st/secure/MgvRTQiIFYOrLpmxDyeZFjsbqzXYmcmc/echo/stream/ppv-event-19-lucas-oil-late-models-shelby-ppv-19/1/playlist.m3u8
 
