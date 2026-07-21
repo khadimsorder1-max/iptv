@@ -1,5 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-21T22:01:09+00:00
-# 0 streams captured from 0 matches
+# Streamed.pk live sports matches — built 2026-07-21T23:27:56+00:00
+# 1 streams captured from 1 matches
+
+#EXTINF:-1 tvg-name="Mi London Vs Sunrisers Leeds 2466485 — echo" tvg-id="Mi_London_Vs_Sunrisers_Leeds_2466485_—_echo" group-title="Streamed.pk Live Sports",Mi London Vs Sunrisers Leeds 2466485 — echo
+# match: Mi London Vs Sunrisers Leeds 2466485
+# provider: echo
+# embed: https://embed.st/embed/echo/the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754/1
+https://lb6.strmd.st/secure/pwgWrgWOLjBFioloIgAnhDzpIkyGFNBq/echo/stream/the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754/1/playlist.m3u8
 
