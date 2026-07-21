@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-21T17:52:33+00:00
+# Streamed.pk live sports matches — built 2026-07-21T19:13:25+00:00
 # 2 streams captured from 2 matches
+
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 4 2505691 — admin" tvg-id="Betfred_World_Matchplay_Day_4_2505691_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 4 2505691 — admin
+# match: Betfred World Matchplay Day 4 2505691
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-4/1
+https://lb6.strmd.st/secure/swvwaUjFHauzCYmTwzORjHvvfnIFRBWs/rtmp/stream/EOUFRUBDx0F3qxtZbVHttJX9YlQt0K_Qz6YzgnSzBEMeYwnv3jnPQEGM1NDVEFfHGEVJZjhIoPY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Mi London Vs Sunrisers Leeds 2466485 — echo" tvg-id="Mi_London_Vs_Sunrisers_Leeds_2466485_—_echo" group-title="Streamed.pk Live Sports",Mi London Vs Sunrisers Leeds 2466485 — echo
 # match: Mi London Vs Sunrisers Leeds 2466485
 # provider: echo
 # embed: https://embed.st/embed/echo/the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754/1
-https://lb2.strmd.st/secure/QrxgMMPUejmjKMmshldIOMQCZMeJJMHV/echo/stream/the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
-# match: Uci Tour De France Uci World Tour Game 13622
-# provider: echo
-# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb7.strmd.st/secure/DgecrqYcgXjVSFKiRzAeFoGqQsZQKUFz/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb14.strmd.st/secure/qqMPikyEAEvCLKtOcgfgBbsdfdcbQnPh/echo/stream/the-hundred-men-mi-london-vs-sunrisers-leeds-game-1999754/1/playlist.m3u8
 
