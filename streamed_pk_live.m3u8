@@ -1,53 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-22T18:08:41+00:00
-# 8 streams captured from 8 matches
+# Streamed.pk live sports matches — built 2026-07-22T19:52:53+00:00
+# 8 streams captured from 6 matches
 
 #EXTINF:-1 tvg-name="Betfred World Matchplay Day 5 2505692 — admin" tvg-id="Betfred_World_Matchplay_Day_5_2505692_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 5 2505692 — admin
 # match: Betfred World Matchplay Day 5 2505692
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-world-matchplay-day-5/1
-https://lb6.strmd.st/secure/SrAFeVZkpcyeTWmeUtgMesyCbGBUuxSa/rtmp/stream/IAC4NVisCM6Bgql_o_oA9nGw8cks33TzaBIhAm0QhFEjMh7M137MgGquW2qswQbc54xGNgcqegU/1/playlist.m3u8
+https://lb9.strmd.st/secure/TCnXOVRFAkxSkTkzJURQUJystRinkvpK/rtmp/stream/DnQ0gnvdRfwQaugzVIsteHN8XKx9E7lucDeDdXWho4mkDzMK463XMA-_vRnAplT6iItVSksMBe0/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Hawthorn Hawks Vs Essendon Bombers Australian Football 3512 — echo" tvg-id="Hawthorn_Hawks_Vs_Essendon_Bombers_Australian_Football_3512_—_echo" group-title="Streamed.pk Live Sports",Hawthorn Hawks Vs Essendon Bombers Australian Football 3512 — echo
-# match: Hawthorn Hawks Vs Essendon Bombers Australian Football 3512
-# provider: echo
-# embed: https://embed.st/embed/echo/hawthorn-hawks-vs-essendon-bombers-australian-football-3512/1
-https://lb15.strmd.st/secure/oHDRIjFPnjjnhdhyaMQDpJwUfXICbxEE/echo/stream/hawthorn-hawks-vs-essendon-bombers-australian-football-3512/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Storm Vs Minnesota Lynx 2449125 — admin" tvg-id="Seattle_Storm_Vs_Minnesota_Lynx_2449125_—_admin" group-title="Streamed.pk Live Sports",Seattle Storm Vs Minnesota Lynx 2449125 — admin
+# match: Seattle Storm Vs Minnesota Lynx 2449125
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-seattle-storm/1
+https://lb12.strmd.st/secure/LNfpLdZgVhzymijXABlIZPDRwXiQJUZe/rtmp/stream/QcxaB7NSXiwfIjcRzgpmOOzVgQ3MfOdO3X54BYeglBE_Zbn-u7b8uPUfANT3TV8q3YxQZik7f-Ws0qu_6ec/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Fremantle Dockers Vs West Coast Eagles Australian Football 3510 — echo" tvg-id="Fremantle_Dockers_Vs_West_Coast_Eagles_Australian_Football_3510_—_echo" group-title="Streamed.pk Live Sports",Fremantle Dockers Vs West Coast Eagles Australian Football 3510 — echo
-# match: Fremantle Dockers Vs West Coast Eagles Australian Football 3510
-# provider: echo
-# embed: https://embed.st/embed/echo/fremantle-dockers-vs-west-coast-eagles-australian-football-3510/1
-https://lb12.strmd.st/secure/QuGjtsHVJuHdsYudsozrBpSwPfuvDboG/echo/stream/fremantle-dockers-vs-west-coast-eagles-australian-football-3510/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Seattle Storm Vs Minnesota Lynx 2449125 — delta" tvg-id="Seattle_Storm_Vs_Minnesota_Lynx_2449125_—_delta" group-title="Streamed.pk Live Sports",Seattle Storm Vs Minnesota Lynx 2449125 — delta
+# match: Seattle Storm Vs Minnesota Lynx 2449125
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_storm-lynx-live-streaming-524028528/1
+https://lb1.strmd.st/secure/QyPthjqsMTbhXVJqkpmCWIeSsAttPIOn/delta/stream/live_wnba_storm-lynx-live-streaming-524028528/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Carlton Blues Vs Gold Coast Suns Australian Football 3509 — echo" tvg-id="Carlton_Blues_Vs_Gold_Coast_Suns_Australian_Football_3509_—_echo" group-title="Streamed.pk Live Sports",Carlton Blues Vs Gold Coast Suns Australian Football 3509 — echo
-# match: Carlton Blues Vs Gold Coast Suns Australian Football 3509
-# provider: echo
-# embed: https://embed.st/embed/echo/carlton-blues-vs-gold-coast-suns-australian-football-3509/1
-https://lb13.strmd.st/secure/rddGFLWVNmWbviBgBwzrQjSwQCUELBvH/echo/stream/carlton-blues-vs-gold-coast-suns-australian-football-3509/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Sparks Vs Phoenix Mercury 2449124 — admin" tvg-id="Los_Angeles_Sparks_Vs_Phoenix_Mercury_2449124_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Phoenix Mercury 2449124 — admin
+# match: Los Angeles Sparks Vs Phoenix Mercury 2449124
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-los-angeles-sparks/1
+https://lb6.strmd.st/secure/dEQYYoUXVPKwqfjYEMvQyEAZceGuXmLk/rtmp/stream/BAsE368ifCL9d4n85liqg_yer27fFVMnIGV3qXpX5c_A4BJaHiPKBSFqrOphEhQi_pSc1Y7f_91uVTNua_qupmK2/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Melbourne Demons Vs Geelong Cats Australian Football 3514 — echo" tvg-id="Melbourne_Demons_Vs_Geelong_Cats_Australian_Football_3514_—_echo" group-title="Streamed.pk Live Sports",Melbourne Demons Vs Geelong Cats Australian Football 3514 — echo
-# match: Melbourne Demons Vs Geelong Cats Australian Football 3514
-# provider: echo
-# embed: https://embed.st/embed/echo/melbourne-demons-vs-geelong-cats-australian-football-3514/1
-https://lb1.strmd.st/secure/xVxsGcEzAZTHnkCNzbiMAkuWjjRPNHUJ/echo/stream/melbourne-demons-vs-geelong-cats-australian-football-3514/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Los Angeles Sparks Vs Phoenix Mercury 2449124 — delta" tvg-id="Los_Angeles_Sparks_Vs_Phoenix_Mercury_2449124_—_delta" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Phoenix Mercury 2449124 — delta
+# match: Los Angeles Sparks Vs Phoenix Mercury 2449124
+# provider: delta
+# embed: https://embed.st/embed/delta/live_wnba_sparks-mercury-live-streaming-524028096/1
+https://lb4.strmd.st/secure/XlBvHebYVezweUpmXKQpzzCNjrtVDqmi/delta/stream/live_wnba_sparks-mercury-live-streaming-524028096/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Brisbane Lions Vs Port Adelaide Power Australian Football 3508 — echo" tvg-id="Brisbane_Lions_Vs_Port_Adelaide_Power_Australian_Football_3508_—_echo" group-title="Streamed.pk Live Sports",Brisbane Lions Vs Port Adelaide Power Australian Football 3508 — echo
-# match: Brisbane Lions Vs Port Adelaide Power Australian Football 3508
-# provider: echo
-# embed: https://embed.st/embed/echo/brisbane-lions-vs-port-adelaide-power-australian-football-3508/1
-https://lb7.strmd.st/secure/xJeczIheEZHVGDVjcCVqWucrQVaEfwSK/echo/stream/brisbane-lions-vs-port-adelaide-power-australian-football-3508/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Stevenage Vs West Ham United 2497718 — admin" tvg-id="Stevenage_Vs_West_Ham_United_2497718_—_admin" group-title="Streamed.pk Live Sports",Stevenage Vs West Ham United 2497718 — admin
+# match: Stevenage Vs West Ham United 2497718
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-stevenage-vs-west-ham-united/1
+https://lb9.strmd.st/secure/YzLAuYIzlyhkDEijYOFKzCGElxWQoxlc/rtmp/stream/hwrzNAWb-fK47vo4vEjeRS-xF9cDW3bYRkW7C45UI4USz6TrqQcJD4ylwSs_8MlHCgkLFnQH3Uf7/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513 — echo" tvg-id="North_Melbourne_Kangaroos_Vs_St_Kilda_Saints_Australian_Football_3513_—_echo" group-title="Streamed.pk Live Sports",North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513 — echo
-# match: North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513
+#EXTINF:-1 tvg-name="Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970 — echo" tvg-id="Los_Angeles_Sparks_W_Vs_Phoenix_Mercury_W_Basketball_494970_—_echo" group-title="Streamed.pk Live Sports",Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970 — echo
+# match: Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970
 # provider: echo
-# embed: https://embed.st/embed/echo/north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3513/1
-https://lb9.strmd.st/secure/ZDlhluGSdrybBrfJhPrvVlGtXOcYbSbP/echo/stream/north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3513/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/los-angeles-sparks-w-vs-phoenix-mercury-w-basketball-494970/1
+https://lb7.strmd.st/secure/BFLfxzYeyuOSBwUWKDnGZUvDBnGWfHHa/echo/stream/los-angeles-sparks-w-vs-phoenix-mercury-w-basketball-494970/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
-# match: Uci Tour De France Uci World Tour Game 13622
+#EXTINF:-1 tvg-name="Seattle Storm W Vs Minnesota Lynx W Basketball 494971 — echo" tvg-id="Seattle_Storm_W_Vs_Minnesota_Lynx_W_Basketball_494971_—_echo" group-title="Streamed.pk Live Sports",Seattle Storm W Vs Minnesota Lynx W Basketball 494971 — echo
+# match: Seattle Storm W Vs Minnesota Lynx W Basketball 494971
 # provider: echo
-# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb10.strmd.st/secure/BueufonxLrbYuWkGLhdlitidLIIbjcTk/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/seattle-storm-w-vs-minnesota-lynx-w-basketball-494971/1
+https://lb15.strmd.st/secure/cjKNtQWpvTFDCIPBfCVKEwokCSYJIKwf/echo/stream/seattle-storm-w-vs-minnesota-lynx-w-basketball-494971/1/playlist.m3u8
 
