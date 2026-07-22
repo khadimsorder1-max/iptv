@@ -1,47 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-22T16:57:55+00:00
-# 7 streams captured from 7 matches
+# Streamed.pk live sports matches — built 2026-07-22T18:08:41+00:00
+# 8 streams captured from 8 matches
+
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 5 2505692 — admin" tvg-id="Betfred_World_Matchplay_Day_5_2505692_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 5 2505692 — admin
+# match: Betfred World Matchplay Day 5 2505692
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-5/1
+https://lb6.strmd.st/secure/SrAFeVZkpcyeTWmeUtgMesyCbGBUuxSa/rtmp/stream/IAC4NVisCM6Bgql_o_oA9nGw8cks33TzaBIhAm0QhFEjMh7M137MgGquW2qswQbc54xGNgcqegU/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hawthorn Hawks Vs Essendon Bombers Australian Football 3512 — echo" tvg-id="Hawthorn_Hawks_Vs_Essendon_Bombers_Australian_Football_3512_—_echo" group-title="Streamed.pk Live Sports",Hawthorn Hawks Vs Essendon Bombers Australian Football 3512 — echo
 # match: Hawthorn Hawks Vs Essendon Bombers Australian Football 3512
 # provider: echo
 # embed: https://embed.st/embed/echo/hawthorn-hawks-vs-essendon-bombers-australian-football-3512/1
-https://lb9.strmd.st/secure/tkosRaPmrGIZoSnKTuHAmfgsPuFYgBsv/echo/stream/hawthorn-hawks-vs-essendon-bombers-australian-football-3512/1/playlist.m3u8
+https://lb15.strmd.st/secure/oHDRIjFPnjjnhdhyaMQDpJwUfXICbxEE/echo/stream/hawthorn-hawks-vs-essendon-bombers-australian-football-3512/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Fremantle Dockers Vs West Coast Eagles Australian Football 3510 — echo" tvg-id="Fremantle_Dockers_Vs_West_Coast_Eagles_Australian_Football_3510_—_echo" group-title="Streamed.pk Live Sports",Fremantle Dockers Vs West Coast Eagles Australian Football 3510 — echo
 # match: Fremantle Dockers Vs West Coast Eagles Australian Football 3510
 # provider: echo
 # embed: https://embed.st/embed/echo/fremantle-dockers-vs-west-coast-eagles-australian-football-3510/1
-https://lb1.strmd.st/secure/sLuzYZbsWHTyJfjSMGtVRhkxwmRnzIiH/echo/stream/fremantle-dockers-vs-west-coast-eagles-australian-football-3510/1/playlist.m3u8
+https://lb12.strmd.st/secure/QuGjtsHVJuHdsYudsozrBpSwPfuvDboG/echo/stream/fremantle-dockers-vs-west-coast-eagles-australian-football-3510/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Carlton Blues Vs Gold Coast Suns Australian Football 3509 — echo" tvg-id="Carlton_Blues_Vs_Gold_Coast_Suns_Australian_Football_3509_—_echo" group-title="Streamed.pk Live Sports",Carlton Blues Vs Gold Coast Suns Australian Football 3509 — echo
 # match: Carlton Blues Vs Gold Coast Suns Australian Football 3509
 # provider: echo
 # embed: https://embed.st/embed/echo/carlton-blues-vs-gold-coast-suns-australian-football-3509/1
-https://lb3.strmd.st/secure/LSzCAodcFgMjWmtdpeHqfwkkhwClhCmm/echo/stream/carlton-blues-vs-gold-coast-suns-australian-football-3509/1/playlist.m3u8
+https://lb13.strmd.st/secure/rddGFLWVNmWbviBgBwzrQjSwQCUELBvH/echo/stream/carlton-blues-vs-gold-coast-suns-australian-football-3509/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Melbourne Demons Vs Geelong Cats Australian Football 3514 — echo" tvg-id="Melbourne_Demons_Vs_Geelong_Cats_Australian_Football_3514_—_echo" group-title="Streamed.pk Live Sports",Melbourne Demons Vs Geelong Cats Australian Football 3514 — echo
 # match: Melbourne Demons Vs Geelong Cats Australian Football 3514
 # provider: echo
 # embed: https://embed.st/embed/echo/melbourne-demons-vs-geelong-cats-australian-football-3514/1
-https://lb13.strmd.st/secure/WLFfilGquApxtSJdBBDeJiygwYDrvTrG/echo/stream/melbourne-demons-vs-geelong-cats-australian-football-3514/1/playlist.m3u8
+https://lb1.strmd.st/secure/xVxsGcEzAZTHnkCNzbiMAkuWjjRPNHUJ/echo/stream/melbourne-demons-vs-geelong-cats-australian-football-3514/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Brisbane Lions Vs Port Adelaide Power Australian Football 3508 — echo" tvg-id="Brisbane_Lions_Vs_Port_Adelaide_Power_Australian_Football_3508_—_echo" group-title="Streamed.pk Live Sports",Brisbane Lions Vs Port Adelaide Power Australian Football 3508 — echo
 # match: Brisbane Lions Vs Port Adelaide Power Australian Football 3508
 # provider: echo
 # embed: https://embed.st/embed/echo/brisbane-lions-vs-port-adelaide-power-australian-football-3508/1
-https://lb4.strmd.st/secure/QAoqvgwLZRaCsOUjZDjMRQYAyxMslEgG/echo/stream/brisbane-lions-vs-port-adelaide-power-australian-football-3508/1/playlist.m3u8
+https://lb7.strmd.st/secure/xJeczIheEZHVGDVjcCVqWucrQVaEfwSK/echo/stream/brisbane-lions-vs-port-adelaide-power-australian-football-3508/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513 — echo" tvg-id="North_Melbourne_Kangaroos_Vs_St_Kilda_Saints_Australian_Football_3513_—_echo" group-title="Streamed.pk Live Sports",North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513 — echo
 # match: North Melbourne Kangaroos Vs St Kilda Saints Australian Football 3513
 # provider: echo
 # embed: https://embed.st/embed/echo/north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3513/1
-https://lb5.strmd.st/secure/FTgkeiHqwhcbDnhfMofpkFqVBOaNsKHz/echo/stream/north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3513/1/playlist.m3u8
+https://lb9.strmd.st/secure/ZDlhluGSdrybBrfJhPrvVlGtXOcYbSbP/echo/stream/north-melbourne-kangaroos-vs-st-kilda-saints-australian-football-3513/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb8.strmd.st/secure/DeiSNtbegqxiwZBTgothOuuaiVShXtqV/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb10.strmd.st/secure/BueufonxLrbYuWkGLhdlitidLIIbjcTk/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
