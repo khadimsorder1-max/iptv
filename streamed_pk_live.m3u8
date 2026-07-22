@@ -1,53 +1,53 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-22T19:52:53+00:00
+# Streamed.pk live sports matches — built 2026-07-22T21:01:25+00:00
 # 8 streams captured from 6 matches
-
-#EXTINF:-1 tvg-name="Betfred World Matchplay Day 5 2505692 — admin" tvg-id="Betfred_World_Matchplay_Day_5_2505692_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 5 2505692 — admin
-# match: Betfred World Matchplay Day 5 2505692
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-5/1
-https://lb9.strmd.st/secure/TCnXOVRFAkxSkTkzJURQUJystRinkvpK/rtmp/stream/DnQ0gnvdRfwQaugzVIsteHN8XKx9E7lucDeDdXWho4mkDzMK463XMA-_vRnAplT6iItVSksMBe0/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Seattle Storm Vs Minnesota Lynx 2449125 — admin" tvg-id="Seattle_Storm_Vs_Minnesota_Lynx_2449125_—_admin" group-title="Streamed.pk Live Sports",Seattle Storm Vs Minnesota Lynx 2449125 — admin
 # match: Seattle Storm Vs Minnesota Lynx 2449125
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-minnesota-lynx-vs-seattle-storm/1
-https://lb12.strmd.st/secure/LNfpLdZgVhzymijXABlIZPDRwXiQJUZe/rtmp/stream/QcxaB7NSXiwfIjcRzgpmOOzVgQ3MfOdO3X54BYeglBE_Zbn-u7b8uPUfANT3TV8q3YxQZik7f-Ws0qu_6ec/1/playlist.m3u8
+https://lb15.strmd.st/secure/eydkbmPymqbmPZhjVArBBSRKdVytzKKR/rtmp/stream/-MRxwHvFKa7s60CR3o5rXr44WjnHYJUAMDOy-xthcOzze-RKogkpubbTt80QfJrXN8U3ptzsBHWmSd3P7kY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Seattle Storm Vs Minnesota Lynx 2449125 — delta" tvg-id="Seattle_Storm_Vs_Minnesota_Lynx_2449125_—_delta" group-title="Streamed.pk Live Sports",Seattle Storm Vs Minnesota Lynx 2449125 — delta
 # match: Seattle Storm Vs Minnesota Lynx 2449125
 # provider: delta
 # embed: https://embed.st/embed/delta/live_wnba_storm-lynx-live-streaming-524028528/1
-https://lb1.strmd.st/secure/QyPthjqsMTbhXVJqkpmCWIeSsAttPIOn/delta/stream/live_wnba_storm-lynx-live-streaming-524028528/1/playlist.m3u8
+https://lb11.strmd.st/secure/hRxtoVHeYFrWNfbUKmIjoVfnTmnIDFfV/delta/stream/live_wnba_storm-lynx-live-streaming-524028528/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Sparks Vs Phoenix Mercury 2449124 — admin" tvg-id="Los_Angeles_Sparks_Vs_Phoenix_Mercury_2449124_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Phoenix Mercury 2449124 — admin
 # match: Los Angeles Sparks Vs Phoenix Mercury 2449124
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-phoenix-mercury-vs-los-angeles-sparks/1
-https://lb6.strmd.st/secure/dEQYYoUXVPKwqfjYEMvQyEAZceGuXmLk/rtmp/stream/BAsE368ifCL9d4n85liqg_yer27fFVMnIGV3qXpX5c_A4BJaHiPKBSFqrOphEhQi_pSc1Y7f_91uVTNua_qupmK2/1/playlist.m3u8
+https://lb6.strmd.st/secure/gpRNFgZAhnXqzvKcSgJbdAWMLuljUaGT/rtmp/stream/TJ_Vfpwu_IYYG7nSN4mwMwyRXBEK27_tbu6Zz-Yv5nKAeOdl2FY3PZXjQziktWM3hmXFw_M6Qtj6uC0WXBbq5iEj/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Sparks Vs Phoenix Mercury 2449124 — delta" tvg-id="Los_Angeles_Sparks_Vs_Phoenix_Mercury_2449124_—_delta" group-title="Streamed.pk Live Sports",Los Angeles Sparks Vs Phoenix Mercury 2449124 — delta
 # match: Los Angeles Sparks Vs Phoenix Mercury 2449124
 # provider: delta
 # embed: https://embed.st/embed/delta/live_wnba_sparks-mercury-live-streaming-524028096/1
-https://lb4.strmd.st/secure/XlBvHebYVezweUpmXKQpzzCNjrtVDqmi/delta/stream/live_wnba_sparks-mercury-live-streaming-524028096/1/playlist.m3u8
+https://lb4.strmd.st/secure/rCDNKtkxZMOkQNilOLEpIbVzQMrXxphc/delta/stream/live_wnba_sparks-mercury-live-streaming-524028096/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Stevenage Vs West Ham United 2497718 — admin" tvg-id="Stevenage_Vs_West_Ham_United_2497718_—_admin" group-title="Streamed.pk Live Sports",Stevenage Vs West Ham United 2497718 — admin
-# match: Stevenage Vs West Ham United 2497718
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 5 2505692 — admin" tvg-id="Betfred_World_Matchplay_Day_5_2505692_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 5 2505692 — admin
+# match: Betfred World Matchplay Day 5 2505692
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-stevenage-vs-west-ham-united/1
-https://lb9.strmd.st/secure/YzLAuYIzlyhkDEijYOFKzCGElxWQoxlc/rtmp/stream/hwrzNAWb-fK47vo4vEjeRS-xF9cDW3bYRkW7C45UI4USz6TrqQcJD4ylwSs_8MlHCgkLFnQH3Uf7/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-5/1
+https://lb2.strmd.st/secure/nfPeeUKUYrwPhEAsKiIOERvYQDcJFTpO/rtmp/stream/iXJ4GbpsLZ6aXUPsNqd1dJPYgmp61ApTz-5rxhlbWS8GwCRLnDd_yfkqDC9j-DYWMX-yYrKUBO8/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970 — echo" tvg-id="Los_Angeles_Sparks_W_Vs_Phoenix_Mercury_W_Basketball_494970_—_echo" group-title="Streamed.pk Live Sports",Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970 — echo
 # match: Los Angeles Sparks W Vs Phoenix Mercury W Basketball 494970
 # provider: echo
 # embed: https://embed.st/embed/echo/los-angeles-sparks-w-vs-phoenix-mercury-w-basketball-494970/1
-https://lb7.strmd.st/secure/BFLfxzYeyuOSBwUWKDnGZUvDBnGWfHHa/echo/stream/los-angeles-sparks-w-vs-phoenix-mercury-w-basketball-494970/1/playlist.m3u8
+https://lb11.strmd.st/secure/qXtWbcuwfjSyCKLFxBovRrhjzpbIVAEA/echo/stream/los-angeles-sparks-w-vs-phoenix-mercury-w-basketball-494970/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Seattle Storm W Vs Minnesota Lynx W Basketball 494971 — echo" tvg-id="Seattle_Storm_W_Vs_Minnesota_Lynx_W_Basketball_494971_—_echo" group-title="Streamed.pk Live Sports",Seattle Storm W Vs Minnesota Lynx W Basketball 494971 — echo
 # match: Seattle Storm W Vs Minnesota Lynx W Basketball 494971
 # provider: echo
 # embed: https://embed.st/embed/echo/seattle-storm-w-vs-minnesota-lynx-w-basketball-494971/1
-https://lb15.strmd.st/secure/cjKNtQWpvTFDCIPBfCVKEwokCSYJIKwf/echo/stream/seattle-storm-w-vs-minnesota-lynx-w-basketball-494971/1/playlist.m3u8
+https://lb8.strmd.st/secure/GTtjewVtVaVxBLTIFnYKOgQvSQygJoUt/echo/stream/seattle-storm-w-vs-minnesota-lynx-w-basketball-494971/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Stevenage Vs West Ham United 2497718 — admin" tvg-id="Stevenage_Vs_West_Ham_United_2497718_—_admin" group-title="Streamed.pk Live Sports",Stevenage Vs West Ham United 2497718 — admin
+# match: Stevenage Vs West Ham United 2497718
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-stevenage-vs-west-ham-united/1
+https://lb7.strmd.st/secure/dEOreFyMZjLxrMABvCvYUSJlDHDPbUhd/rtmp/stream/aeyYKXkeiYE-JCflAPmmxrFix466IngSOxsgQS71sK0kHdwtkpwXEyMagau3EWbWjNh2pA-b7PGr/1/playlist.m3u8
 
