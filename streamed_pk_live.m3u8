@@ -1,35 +1,35 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-23T10:01:44+00:00
+# Streamed.pk live sports matches — built 2026-07-23T12:10:09+00:00
 # 5 streams captured from 4 matches
+
+#EXTINF:-1 tvg-name="Tour De France Stage 18 2447765 — admin" tvg-id="Tour_De_France_Stage_18_2447765_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 18 2447765 — admin
+# match: Tour De France Stage 18 2447765
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-18/1
+https://lb7.strmd.st/secure/mTtcBdVSjKmOkauMAWazYlClyfGHxrMJ/rtmp/stream/MC3QeJU6jsT3VV5ts5pxtnQ81TksxfULlvT6vddDzcfEYva_E_brWZ-6JIH4Zl7X6Lkw0AZb/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
+# match: Uci Tour De France Uci World Tour Game 13622
+# provider: echo
+# embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
+https://lb10.strmd.st/secure/toMvqExqcRfvoHScPXMwWmEqeqvnXNgU/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Parramatta Eels Vs Penrith Panthers 2417315 — admin" tvg-id="Parramatta_Eels_Vs_Penrith_Panthers_2417315_—_admin" group-title="Streamed.pk Live Sports",Parramatta Eels Vs Penrith Panthers 2417315 — admin
 # match: Parramatta Eels Vs Penrith Panthers 2417315
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-eels-vs-panthers/1
-https://lb11.strmd.st/secure/KrAlVLzWFyZawgXlhyLhYCoXhynZnrHH/rtmp/stream/o40PxQLDrlYSTL87zIHTVZo4_60X1om3tYaE8vSxFpyNpq_OIkUOBfhvOuhcfWKitiUJuzgH1Qk-ue0/1/playlist.m3u8
+https://lb6.strmd.st/secure/ZkgdChNrGKrWZfdIWHtEGMEJPCnRuBYz/rtmp/stream/cJ_5jhmmJtljXicdbWw0HLVLfGoHLXGLROsEXQ4w55LcWm5tfk70FesAvKpQW7qezUvnbT-DdjAadUY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Parramatta Eels Vs Penrith Panthers 2417315 — echo" tvg-id="Parramatta_Eels_Vs_Penrith_Panthers_2417315_—_echo" group-title="Streamed.pk Live Sports",Parramatta Eels Vs Penrith Panthers 2417315 — echo
 # match: Parramatta Eels Vs Penrith Panthers 2417315
 # provider: echo
 # embed: https://embed.st/embed/echo/parramatta-eels-vs-penrith-panthers-game-576373/1
-https://lb4.strmd.st/secure/psmAQQknrUlDNyBIWvbbfUGTMjqwGzrN/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
+https://lb11.strmd.st/secure/WKSNnDTHTccNAFMsYkCURlznIWIGkYWT/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Adelaide Crows Vs Collingwood Magpies Australian Football 3507 — echo" tvg-id="Adelaide_Crows_Vs_Collingwood_Magpies_Australian_Football_3507_—_echo" group-title="Streamed.pk Live Sports",Adelaide Crows Vs Collingwood Magpies Australian Football 3507 — echo
 # match: Adelaide Crows Vs Collingwood Magpies Australian Football 3507
 # provider: echo
 # embed: https://embed.st/embed/echo/adelaide-crows-vs-collingwood-magpies-australian-football-3507/1
-https://lb8.strmd.st/secure/OXMphyChHwmUoYZIXJJtNGzYpPVNRmms/echo/stream/adelaide-crows-vs-collingwood-magpies-australian-football-3507/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Fire W Vs Dallas Wings W Basketball 494975 — echo" tvg-id="Portland_Fire_W_Vs_Dallas_Wings_W_Basketball_494975_—_echo" group-title="Streamed.pk Live Sports",Portland Fire W Vs Dallas Wings W Basketball 494975 — echo
-# match: Portland Fire W Vs Dallas Wings W Basketball 494975
-# provider: echo
-# embed: https://embed.st/embed/echo/portland-fire-w-vs-dallas-wings-w-basketball-494975/1
-https://lb13.strmd.st/secure/BhtjsgVeodEcaaHSCjZclRNgpvDDrZft/echo/stream/portland-fire-w-vs-dallas-wings-w-basketball-494975/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Fire Vs Dallas Wings 2469377 — admin" tvg-id="Portland_Fire_Vs_Dallas_Wings_2469377_—_admin" group-title="Streamed.pk Live Sports",Portland Fire Vs Dallas Wings 2469377 — admin
-# match: Portland Fire Vs Dallas Wings 2469377
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-portland-fire/1
-https://lb6.strmd.st/secure/MtnUqSyslbDwHsWazcepqYSIIAtwFcwC/rtmp/stream/Qgej5FZfGgdKD7gR-5iM8gBiZ_EnymhUybNL1Kqnw0jLrnQR6w7oQIQxqFlK1lfcbV83UFgLCb-_5_yrfpY/1/playlist.m3u8
+https://lb5.strmd.st/secure/fFyVcvilCXFUQExCUkyzAmcxdrRBkZXv/echo/stream/adelaide-crows-vs-collingwood-magpies-australian-football-3507/1/playlist.m3u8
 
