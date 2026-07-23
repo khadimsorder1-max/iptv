@@ -1,23 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-23T14:40:28+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-23T16:24:02+00:00
+# 6 streams captured from 5 matches
 
-#EXTINF:-1 tvg-name="Tour De France Stage 18 2447765 — admin" tvg-id="Tour_De_France_Stage_18_2447765_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 18 2447765 — admin
-# match: Tour De France Stage 18 2447765
+#EXTINF:-1 tvg-name="Ppv Event 02 Mecum Auctions Harrisburg Ppv 02 — echo" tvg-id="Ppv_Event_02_Mecum_Auctions_Harrisburg_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Mecum Auctions Harrisburg Ppv 02 — echo
+# match: Ppv Event 02 Mecum Auctions Harrisburg Ppv 02
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1
+https://lb11.strmd.st/secure/IvJEDYbMAhNzaosEiJnqYHjtAKazRGok/echo/stream/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uae Warriors 72 Chopurov Vs Mclaren 2545914 — admin" tvg-id="Uae_Warriors_72_Chopurov_Vs_Mclaren_2545914_—_admin" group-title="Streamed.pk Live Sports",Uae Warriors 72 Chopurov Vs Mclaren 2545914 — admin
+# match: Uae Warriors 72 Chopurov Vs Mclaren 2545914
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-18/1
-https://lb12.strmd.st/secure/dTszIkYIFwNThtpDvtNkLTsnBopFJgyg/rtmp/stream/9M2Hs4fVPtxAfpX8b-DM6Bx8Vi6PfYaIaUsG06ErakoFwsTsbzmPtTjNG_LVV7CmodU0U8fZ/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-uae-warriors-72/1
+https://lb10.strmd.st/secure/HdRTgcVUPxSOFqwEmSHMNtndpfqTiXde/rtmp/stream/yNuL-Yv6uvn_Se-qDHETS0agfGdx5XBOS5H-F3djKuO62kAuSNmqhzLC5pKhbzHRNmi-F8fJWarrt_tInA/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Uae Warriors 72 Chopurov Vs Mclaren 2545914 — echo" tvg-id="Uae_Warriors_72_Chopurov_Vs_Mclaren_2545914_—_echo" group-title="Streamed.pk Live Sports",Uae Warriors 72 Chopurov Vs Mclaren 2545914 — echo
+# match: Uae Warriors 72 Chopurov Vs Mclaren 2545914
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-01-uae-warriors-72-ppv-01/1
+https://lb12.strmd.st/secure/gzVndyQRlvjPjHrQvwCQbVcnKWZocAkC/echo/stream/ppv-event-01-uae-warriors-72-ppv-01/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb15.strmd.st/secure/UisowDORYTskyRmIeLyiAojcfVDKCbBc/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb14.strmd.st/secure/lAaNeBtqORGOtolyPEfDFFNFUmzbQJFh/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Tour De France Stage 18 2447765 — admin" tvg-id="Tour_De_France_Stage_18_2447765_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 18 2447765 — admin
+# match: Tour De France Stage 18 2447765
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-18/1
+https://lb2.strmd.st/secure/UhiGbYqmXfQKBMsLZMDNeszCbyCecnGO/admin/stream/ppv-tour-de-france-stage-18/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Parramatta Eels Vs Penrith Panthers 2417315 — echo" tvg-id="Parramatta_Eels_Vs_Penrith_Panthers_2417315_—_echo" group-title="Streamed.pk Live Sports",Parramatta Eels Vs Penrith Panthers 2417315 — echo
 # match: Parramatta Eels Vs Penrith Panthers 2417315
 # provider: echo
 # embed: https://embed.st/embed/echo/parramatta-eels-vs-penrith-panthers-game-576373/1
-https://lb1.strmd.st/secure/GgdgfJDECYEDOuoQEcHncweAkoSZBoTX/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
+https://lb14.strmd.st/secure/KdVcNGJycEmLBsDapDVBrEPYKGdgPxmw/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
 
