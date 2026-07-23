@@ -1,77 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-23T04:50:23+00:00
-# 12 streams captured from 8 matches
-
-#EXTINF:-1 tvg-name="Portland Fire Vs Dallas Wings 2469377 — admin" tvg-id="Portland_Fire_Vs_Dallas_Wings_2469377_—_admin" group-title="Streamed.pk Live Sports",Portland Fire Vs Dallas Wings 2469377 — admin
-# match: Portland Fire Vs Dallas Wings 2469377
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-portland-fire/1
-https://lb7.strmd.st/secure/iKMKfxbKXhAtYtSklqKlHgeDxRgFNwyP/rtmp/stream/gZ4TfnEi2M8FdxNxXGH4Q4MbeNVqUmmAH94BtwsqadoWlOsacEq-Ld7Q8BR-6X1ITVjbfnBXjzsCFUHPSPc/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Timbers Vs Fc Dallas 2406947 — admin" tvg-id="Portland_Timbers_Vs_Fc_Dallas_2406947_—_admin" group-title="Streamed.pk Live Sports",Portland Timbers Vs Fc Dallas 2406947 — admin
-# match: Portland Timbers Vs Fc Dallas 2406947
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-portland-timbers-vs-fc-dallas/1
-https://lb2.strmd.st/secure/xksHKdnGWcSxTTChAIJzsOhVnBrnRUVh/rtmp/stream/Q9l_f3Etu1wrj2iqSMZ7dLdZ4tyX4kDMAzjyNRrqfI0uCfVkmsvCZM9djDn8cxuGAXZuu9ibw7YR/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Portland Timbers Vs Fc Dallas 2406947 — delta" tvg-id="Portland_Timbers_Vs_Fc_Dallas_2406947_—_delta" group-title="Streamed.pk Live Sports",Portland Timbers Vs Fc Dallas 2406947 — delta
-# match: Portland Timbers Vs Fc Dallas 2406947
-# provider: delta
-# embed: https://embed.st/embed/delta/live_mls_portland-dallas-live-streaming-538239168/1
-https://lb8.strmd.st/secure/GwAPjMNRUiljLDliKnWmsybOfziPNXns/delta/stream/live_mls_portland-dallas-live-streaming-538239168/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="San Jose Earthquakes Vs Orlando City 2406946 — admin" tvg-id="San_Jose_Earthquakes_Vs_Orlando_City_2406946_—_admin" group-title="Streamed.pk Live Sports",San Jose Earthquakes Vs Orlando City 2406946 — admin
-# match: San Jose Earthquakes Vs Orlando City 2406946
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-san-jose-earthquakes-vs-orlando-city-sc/1
-https://lb4.strmd.st/secure/jjVbVNsWoqLkCShBjyQrKFGeqNrIrrZt/rtmp/stream/7WCVXzuBIDRMbS5soTCbf-_ST7MOUtVHMlZkeYKdAGbPOWRgJA6CQJkU7-g1jICaX1PM8zPZN3M/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="San Jose Earthquakes Vs Orlando City 2406946 — delta" tvg-id="San_Jose_Earthquakes_Vs_Orlando_City_2406946_—_delta" group-title="Streamed.pk Live Sports",San Jose Earthquakes Vs Orlando City 2406946 — delta
-# match: San Jose Earthquakes Vs Orlando City 2406946
-# provider: delta
-# embed: https://embed.st/embed/delta/live_mls_san-jose-orlando-live-streaming-538239600/1
-https://lb13.strmd.st/secure/uPkIalZxkEfxWfCsVEfLjuakpFbgehqT/delta/stream/live_mls_san-jose-orlando-live-streaming-538239600/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="La Galaxy Vs St Louis City Sc 2406945 — admin" tvg-id="La_Galaxy_Vs_St_Louis_City_Sc_2406945_—_admin" group-title="Streamed.pk Live Sports",La Galaxy Vs St Louis City Sc 2406945 — admin
-# match: La Galaxy Vs St Louis City Sc 2406945
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-la-galaxy-vs-st-louis-city-sc/1
-https://lb8.strmd.st/secure/GefyArEjqTPqJqvphaKJZnwNKfLTuRUm/rtmp/stream/V8okIa9Asdlz2uDeW8Lz0_QtVvDevbBjUpo5Dpc1om9KcdrdQuSxEu7HIMAJMBdTqHUpPtx5MRA/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="La Galaxy Vs St Louis City Sc 2406945 — delta" tvg-id="La_Galaxy_Vs_St_Louis_City_Sc_2406945_—_delta" group-title="Streamed.pk Live Sports",La Galaxy Vs St Louis City Sc 2406945 — delta
-# match: La Galaxy Vs St Louis City Sc 2406945
-# provider: delta
-# embed: https://embed.st/embed/delta/live_mls_la-galaxy-st-louis-live-streaming-538237440/1
-https://lb2.strmd.st/secure/wHujiafkxUHulJRtqQkLoiWUckAeUUFm/delta/stream/live_mls_la-galaxy-st-louis-live-streaming-538237440/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Fc Vs Real Salt Lake 2406944 — admin" tvg-id="Los_Angeles_Fc_Vs_Real_Salt_Lake_2406944_—_admin" group-title="Streamed.pk Live Sports",Los Angeles Fc Vs Real Salt Lake 2406944 — admin
-# match: Los Angeles Fc Vs Real Salt Lake 2406944
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-lafc-vs-real-salt-lake/1
-https://lb5.strmd.st/secure/wgIaMEkhbRHhWHNLltyuzNumsaseLZoJ/rtmp/stream/w9wR6M_nRl_Zs4ddmbyS0aScmxLfLXrrtC1A5tqbnhDyDql4ciEMgA0NT4wdo-8nbTM1smCbLn-EOw/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Los Angeles Fc Vs Real Salt Lake 2406944 — delta" tvg-id="Los_Angeles_Fc_Vs_Real_Salt_Lake_2406944_—_delta" group-title="Streamed.pk Live Sports",Los Angeles Fc Vs Real Salt Lake 2406944 — delta
-# match: Los Angeles Fc Vs Real Salt Lake 2406944
-# provider: delta
-# embed: https://embed.st/embed/delta/live_mls_los-angeles-salt-lake-live-streaming-538238304/1
-https://lb6.strmd.st/secure/paDHUuCgYySABLSBAgVrvpXwBdeagSzD/delta/stream/live_mls_los-angeles-salt-lake-live-streaming-538238304/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-23T07:29:31+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Portland Fire W Vs Dallas Wings W Basketball 494975 — echo" tvg-id="Portland_Fire_W_Vs_Dallas_Wings_W_Basketball_494975_—_echo" group-title="Streamed.pk Live Sports",Portland Fire W Vs Dallas Wings W Basketball 494975 — echo
 # match: Portland Fire W Vs Dallas Wings W Basketball 494975
 # provider: echo
 # embed: https://embed.st/embed/echo/portland-fire-w-vs-dallas-wings-w-basketball-494975/1
-https://lb12.strmd.st/secure/rxbBzJBikaADIbluBIwrQaPQslqnwBHS/echo/stream/portland-fire-w-vs-dallas-wings-w-basketball-494975/1/playlist.m3u8
+https://lb10.strmd.st/secure/bWPYcpADdJfagRurmzsYfUGmhYtIuAhK/echo/stream/portland-fire-w-vs-dallas-wings-w-basketball-494975/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Portland Fire Vs Dallas Wings 2469377 — admin" tvg-id="Portland_Fire_Vs_Dallas_Wings_2469377_—_admin" group-title="Streamed.pk Live Sports",Portland Fire Vs Dallas Wings 2469377 — admin
+# match: Portland Fire Vs Dallas Wings 2469377
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-dallas-wings-vs-portland-fire/1
+https://lb12.strmd.st/secure/ceOOegbgnJsYPYtVTQqQMXJmnPGWqvHf/rtmp/stream/Qgej5FZfGgdKD7gR-5iM8gBiZ_EnymhUybNL1Kqnw0jLrnQR6w7oQIQxqFlK1lfcbV83UFgLCb-_5_yrfpY/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 05 Floracing Night In America Fairbury Ppv 05 — echo" tvg-id="Ppv_Event_05_Floracing_Night_In_America_Fairbury_Ppv_05_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 05 Floracing Night In America Fairbury Ppv 05 — echo
 # match: Ppv Event 05 Floracing Night In America Fairbury Ppv 05
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-05-floracing-night-in-america-fairbury-ppv-05/1
-https://lb5.strmd.st/secure/xBYhHGTKRjxEtuBjtpHomcJczsprncYI/echo/stream/ppv-event-05-floracing-night-in-america-fairbury-ppv-05/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Event 01 Super Dirtcar Airborne Park Ppv 01 — echo" tvg-id="Ppv_Event_01_Super_Dirtcar_Airborne_Park_Ppv_01_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 01 Super Dirtcar Airborne Park Ppv 01 — echo
-# match: Ppv Event 01 Super Dirtcar Airborne Park Ppv 01
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-super-dirtcar-airborne-park-ppv-01/1
-https://lb2.strmd.st/secure/ZsCiLgdIXERpIFlyfCglESNAYnbfqAMk/echo/stream/ppv-event-01-super-dirtcar-airborne-park-ppv-01/1/playlist.m3u8
+https://lb2.strmd.st/secure/QDoUTJiYgXOGvzwpahrdsaRJEfnzyBxe/echo/stream/ppv-event-05-floracing-night-in-america-fairbury-ppv-05/1/playlist.m3u8
 
