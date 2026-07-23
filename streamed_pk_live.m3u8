@@ -1,35 +1,23 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-23T12:10:09+00:00
-# 5 streams captured from 4 matches
+# Streamed.pk live sports matches — built 2026-07-23T14:40:28+00:00
+# 3 streams captured from 3 matches
 
 #EXTINF:-1 tvg-name="Tour De France Stage 18 2447765 — admin" tvg-id="Tour_De_France_Stage_18_2447765_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 18 2447765 — admin
 # match: Tour De France Stage 18 2447765
 # provider: admin
 # embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-18/1
-https://lb7.strmd.st/secure/mTtcBdVSjKmOkauMAWazYlClyfGHxrMJ/rtmp/stream/MC3QeJU6jsT3VV5ts5pxtnQ81TksxfULlvT6vddDzcfEYva_E_brWZ-6JIH4Zl7X6Lkw0AZb/1/playlist.m3u8
+https://lb12.strmd.st/secure/dTszIkYIFwNThtpDvtNkLTsnBopFJgyg/rtmp/stream/9M2Hs4fVPtxAfpX8b-DM6Bx8Vi6PfYaIaUsG06ErakoFwsTsbzmPtTjNG_LVV7CmodU0U8fZ/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb10.strmd.st/secure/toMvqExqcRfvoHScPXMwWmEqeqvnXNgU/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Parramatta Eels Vs Penrith Panthers 2417315 — admin" tvg-id="Parramatta_Eels_Vs_Penrith_Panthers_2417315_—_admin" group-title="Streamed.pk Live Sports",Parramatta Eels Vs Penrith Panthers 2417315 — admin
-# match: Parramatta Eels Vs Penrith Panthers 2417315
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-eels-vs-panthers/1
-https://lb6.strmd.st/secure/ZkgdChNrGKrWZfdIWHtEGMEJPCnRuBYz/rtmp/stream/cJ_5jhmmJtljXicdbWw0HLVLfGoHLXGLROsEXQ4w55LcWm5tfk70FesAvKpQW7qezUvnbT-DdjAadUY/1/playlist.m3u8
+https://lb15.strmd.st/secure/UisowDORYTskyRmIeLyiAojcfVDKCbBc/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Parramatta Eels Vs Penrith Panthers 2417315 — echo" tvg-id="Parramatta_Eels_Vs_Penrith_Panthers_2417315_—_echo" group-title="Streamed.pk Live Sports",Parramatta Eels Vs Penrith Panthers 2417315 — echo
 # match: Parramatta Eels Vs Penrith Panthers 2417315
 # provider: echo
 # embed: https://embed.st/embed/echo/parramatta-eels-vs-penrith-panthers-game-576373/1
-https://lb11.strmd.st/secure/WKSNnDTHTccNAFMsYkCURlznIWIGkYWT/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Adelaide Crows Vs Collingwood Magpies Australian Football 3507 — echo" tvg-id="Adelaide_Crows_Vs_Collingwood_Magpies_Australian_Football_3507_—_echo" group-title="Streamed.pk Live Sports",Adelaide Crows Vs Collingwood Magpies Australian Football 3507 — echo
-# match: Adelaide Crows Vs Collingwood Magpies Australian Football 3507
-# provider: echo
-# embed: https://embed.st/embed/echo/adelaide-crows-vs-collingwood-magpies-australian-football-3507/1
-https://lb5.strmd.st/secure/fFyVcvilCXFUQExCUkyzAmcxdrRBkZXv/echo/stream/adelaide-crows-vs-collingwood-magpies-australian-football-3507/1/playlist.m3u8
+https://lb1.strmd.st/secure/GgdgfJDECYEDOuoQEcHncweAkoSZBoTX/echo/stream/parramatta-eels-vs-penrith-panthers-game-576373/1/playlist.m3u8
 
