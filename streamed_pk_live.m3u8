@@ -1,47 +1,29 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-23T20:36:13+00:00
-# 7 streams captured from 6 matches
-
-#EXTINF:-1 tvg-name="Betfred World Matchplay Day 6 2505693 — admin" tvg-id="Betfred_World_Matchplay_Day_6_2505693_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 6 2505693 — admin
-# match: Betfred World Matchplay Day 6 2505693
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-6/1
-https://lb8.strmd.st/secure/iDiUGPUZufqRnQZHNWDjNWDdRlQwalko/rtmp/stream/HU-pasvrKxx3uPHI_alR0bmjUILrP44yGAQkiShj3zAFAOaH0FMKkUADzQYPU3JQfGtvgv0Ce3E/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-23T22:01:22+00:00
+# 4 streams captured from 4 matches
 
 #EXTINF:-1 tvg-name="Hull Fc Vs Hull Kr Game 184842 — echo" tvg-id="Hull_Fc_Vs_Hull_Kr_Game_184842_—_echo" group-title="Streamed.pk Live Sports",Hull Fc Vs Hull Kr Game 184842 — echo
 # match: Hull Fc Vs Hull Kr Game 184842
 # provider: echo
 # embed: https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1
-https://lb10.strmd.st/secure/noroygIfAJTNjfqdBvCdyQMeqCFqacdy/echo/stream/hull-fc-vs-hull-kr-game-184842/1/playlist.m3u8
+https://lb5.strmd.st/secure/vYfuMOVMrJXlDCkYiDwnPqxpaEnxambM/echo/stream/hull-fc-vs-hull-kr-game-184842/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Betfred World Matchplay Day 6 2505693 — admin" tvg-id="Betfred_World_Matchplay_Day_6_2505693_—_admin" group-title="Streamed.pk Live Sports",Betfred World Matchplay Day 6 2505693 — admin
+# match: Betfred World Matchplay Day 6 2505693
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-world-matchplay-day-6/1
+https://lb10.strmd.st/secure/SEcjvrHQwFbSYRVlLtvEaWVaGrqUUSQz/rtmp/stream/VAlUNmq0H64o9cTlz89naZSb4QfnLdJbvRJSXX6JKAvjK1g-1AWVxzmDZfhpLUdmKTciL8N6ZdI/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Pga Tour 3m Open Day 1 Pga 526234 — echo" tvg-id="Pga_Tour_3m_Open_Day_1_Pga_526234_—_echo" group-title="Streamed.pk Live Sports",Pga Tour 3m Open Day 1 Pga 526234 — echo
 # match: Pga Tour 3m Open Day 1 Pga 526234
 # provider: echo
 # embed: https://embed.st/embed/echo/pga-tour-3m-open-day-1-pga-526234/1
-https://lb6.strmd.st/secure/AOsYBkZDcYbSnSnylmOytylqtwNivymM/echo/stream/pga-tour-3m-open-day-1-pga-526234/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv Besiktas Vs Fc Midtjylland — admin" tvg-id="Ppv_Besiktas_Vs_Fc_Midtjylland_—_admin" group-title="Streamed.pk Live Sports",Ppv Besiktas Vs Fc Midtjylland — admin
-# match: Ppv Besiktas Vs Fc Midtjylland
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-besiktas-vs-fc-midtjylland/1
-https://lb12.strmd.st/secure/eAWWCsBnwHyJPGhobMyWOxFVqOJwUHYR/rtmp/stream/KO4hGfd-cR4TwZGqZ5eVWcQMzCU_sWEG-Z0ZVtAG1mftg6xWz2w0_Vmp7IvLUH8YAMDvLAj7Tbqz8Q/1/playlist.m3u8
+https://lb12.strmd.st/secure/ctWxEbkpSaeQIkYMnTTgaQmYdnupfaba/echo/stream/pga-tour-3m-open-day-1-pga-526234/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 02 Mecum Auctions Harrisburg Ppv 02 — echo" tvg-id="Ppv_Event_02_Mecum_Auctions_Harrisburg_Ppv_02_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 02 Mecum Auctions Harrisburg Ppv 02 — echo
 # match: Ppv Event 02 Mecum Auctions Harrisburg Ppv 02
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1
-https://lb10.strmd.st/secure/tETOkqMaQHuXXHpdehMKuWqrhaImrQxG/echo/stream/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Uae Warriors 72 Chopurov Vs Mclaren 2545914 — admin" tvg-id="Uae_Warriors_72_Chopurov_Vs_Mclaren_2545914_—_admin" group-title="Streamed.pk Live Sports",Uae Warriors 72 Chopurov Vs Mclaren 2545914 — admin
-# match: Uae Warriors 72 Chopurov Vs Mclaren 2545914
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-uae-warriors-72/1
-https://lb12.strmd.st/secure/IhnjTVzFIUBUqxNlEUUFDyclAZQxuQGP/rtmp/stream/6294t-RYa6bVVEODVrGOSkM267ipy9FFwvfrtclwlGmMQ_qrmYYQyDfHM3OuEHSJTHWCHIErnyBK8MH84w/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Uae Warriors 72 Chopurov Vs Mclaren 2545914 — echo" tvg-id="Uae_Warriors_72_Chopurov_Vs_Mclaren_2545914_—_echo" group-title="Streamed.pk Live Sports",Uae Warriors 72 Chopurov Vs Mclaren 2545914 — echo
-# match: Uae Warriors 72 Chopurov Vs Mclaren 2545914
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-01-uae-warriors-72-ppv-01/1
-https://lb2.strmd.st/secure/xwcgABrPNDabQCpxgChGsZNDJQsqNiMY/echo/stream/ppv-event-01-uae-warriors-72-ppv-01/1/playlist.m3u8
+https://lb3.strmd.st/secure/ZqLZJBMPsjyWPLCpMGfmTceJojSNOYog/echo/stream/ppv-event-02-mecum-auctions-harrisburg-ppv-02/1/playlist.m3u8
 
