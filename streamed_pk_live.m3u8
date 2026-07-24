@@ -1,17 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-24T04:11:18+00:00
+# Streamed.pk live sports matches — built 2026-07-24T07:05:04+00:00
 # 2 streams captured from 2 matches
-
-#EXTINF:-1 tvg-name="Saskatchewan Roughriders Vs Edmonton Elks 2432560 — admin" tvg-id="Saskatchewan_Roughriders_Vs_Edmonton_Elks_2432560_—_admin" group-title="Streamed.pk Live Sports",Saskatchewan Roughriders Vs Edmonton Elks 2432560 — admin
-# match: Saskatchewan Roughriders Vs Edmonton Elks 2432560
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-edmonton-elks-vs-saskatchewan-roughriders/1
-https://lb10.strmd.st/secure/DqvuNSjSpbLSfpafiJBDGKcDGDicrMer/rtmp/stream/FnqQSGAIJLPxfJ8f2dDqUsLq6ST_wQOQYaOaFJsnzjc23LPHaU9d2p9UkNZwRrd6GcZjQKGkQepFRFYop2ObAiOmnUw1ID5ArWuPahc/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ppv Event 07 Jackson Motorplex Sprints Ppv 07 — echo" tvg-id="Ppv_Event_07_Jackson_Motorplex_Sprints_Ppv_07_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 07 Jackson Motorplex Sprints Ppv 07 — echo
 # match: Ppv Event 07 Jackson Motorplex Sprints Ppv 07
 # provider: echo
 # embed: https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-sprints-ppv-07/1
-https://lb6.strmd.st/secure/MohYGYriUMYoxxjeiatahEEmMQoqZRTM/echo/stream/ppv-event-07-jackson-motorplex-sprints-ppv-07/1/playlist.m3u8
+https://lb8.strmd.st/secure/zBtInDtIooMtZLskHFurKvHipkqCwVNn/echo/stream/ppv-event-07-jackson-motorplex-sprints-ppv-07/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Ppv Event 06 Iwr Insane Rumble 2026 Ppv 06 — echo" tvg-id="Ppv_Event_06_Iwr_Insane_Rumble_2026_Ppv_06_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 06 Iwr Insane Rumble 2026 Ppv 06 — echo
+# match: Ppv Event 06 Iwr Insane Rumble 2026 Ppv 06
+# provider: echo
+# embed: https://embed.st/embed/echo/ppv-event-06-iwr-insane-rumble-2026-ppv-06/1
+https://lb15.strmd.st/secure/aKGhcNnTCQtQOjAiwRGiOVNJWsLkTeVz/echo/stream/ppv-event-06-iwr-insane-rumble-2026-ppv-06/1/playlist.m3u8
 
