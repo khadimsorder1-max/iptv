@@ -1,53 +1,59 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-24T13:27:02+00:00
-# 8 streams captured from 7 matches
-
-#EXTINF:-1 tvg-name="Tour De France Stage 19 2447766 — admin" tvg-id="Tour_De_France_Stage_19_2447766_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 19 2447766 — admin
-# match: Tour De France Stage 19 2447766
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-19/1
-https://lb11.strmd.st/secure/QoivWEUuSfRNCXTvOeShavLewoDuFijy/rtmp/stream/ABykY7PUXZk9lYgeqPJ6C8UJ-Zpt4uPEjdTha5pWGAVPIE5jqrKg3q4nbcm1OLZknaP7-MpS/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Ppv One Inner Circle 23 — admin" tvg-id="Ppv_One_Inner_Circle_23_—_admin" group-title="Streamed.pk Live Sports",Ppv One Inner Circle 23 — admin
-# match: Ppv One Inner Circle 23
-# provider: admin
-# embed: https://embed.st/embed/admin/ppv-one-inner-circle-23/1
-https://lb10.strmd.st/secure/yNqJHQlgegeuoZvOqfcWHCSQGwhhmddb/rtmp/stream/ZdW6Rp2qpubUrHoekUYmP2G1CGdc_ja8s1nguCmBLuZV1lmHdz79HIQrrQs0sXdLRKSm3meLvw/1/playlist.m3u8
+# Streamed.pk live sports matches — built 2026-07-24T15:13:43+00:00
+# 9 streams captured from 7 matches
 
 #EXTINF:-1 tvg-name="Hungarian Grand Prix Practice 1 2408172 — admin" tvg-id="Hungarian_Grand_Prix_Practice_1_2408172_—_admin" group-title="Streamed.pk Live Sports",Hungarian Grand Prix Practice 1 2408172 — admin
 # match: Hungarian Grand Prix Practice 1 2408172
 # provider: admin
-# embed: https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-1/1
-https://lb3.strmd.st/secure/ohNDBDGuxuVepjcRqfDjGpdaXlbLqRhO/rtmp/stream/i-r-VNcTOMQwCcF3C4RvpURa3TzKrwqx9LyG683pUPIC5r15ELN7etVPLcFK8Wfs4_dfdCAlri9Kc_YykJnMm-Sbnag/1/playlist.m3u8
+# embed: https://embed.st/embed/admin/ppv-hungarian-grand-prix-practice-2/1
+https://lb3.strmd.st/secure/fevTXROetTSNqISzODsplDbNUJbHAEnl/rtmp/stream/WQwJGfTXtjGnKL_BdhywQSu-kpr1zeYHUYj41LRjpGXEjKmqsxPjLy35K-WvB_Wc433f_ckdBQk4bFWZa989YeT0psA/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hungarian Grand Prix Practice 1 2408172 — golf" tvg-id="Hungarian_Grand_Prix_Practice_1_2408172_—_golf" group-title="Streamed.pk Live Sports",Hungarian Grand Prix Practice 1 2408172 — golf
 # match: Hungarian Grand Prix Practice 1 2408172
 # provider: golf
 # embed: https://embed.st/embed/golf/23926/1
-https://cdn13.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=NMghxmH7vcaq9o-vGEod7g&expires=1784906792
+https://cdn14.zohanayaan.com:1686/hls/skysfor1.m3u8?md5=y3_3N3w7UcDPGlui2p4auA&expires=1784913169
+
+#EXTINF:-1 tvg-name="Tour De France Stage 19 2447766 — admin" tvg-id="Tour_De_France_Stage_19_2447766_—_admin" group-title="Streamed.pk Live Sports",Tour De France Stage 19 2447766 — admin
+# match: Tour De France Stage 19 2447766
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-tour-de-france-stage-19/1
+https://lb1.strmd.st/secure/QmWuopPzyQrEoIFsomkYsATVArIIyWFD/rtmp/stream/M3i9tonjtyFMf_tx3PA_r6Xxs8GIc7jMh-EITgtqAEEJPZzWJMTYBbYB9YTJo4kiZ5FWO6uj/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rosenborg Vs Manchester United 2467928 — admin" tvg-id="Rosenborg_Vs_Manchester_United_2467928_—_admin" group-title="Streamed.pk Live Sports",Rosenborg Vs Manchester United 2467928 — admin
+# match: Rosenborg Vs Manchester United 2467928
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-rosenborg-vs-manchester-united/1
+https://lb6.strmd.st/secure/DRcMDjIhOCFrnjYvlCmHOhDBTZaVEgIT/rtmp/stream/nfYZcEdCBH_t1CzunPIkhAddB35a6lTh1qN4GdMkpj5IN8b0rK-tEDJ9BaLOpocq-ggx_pRU1mOayQ/1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rosenborg Vs Manchester United 2467928 — echo" tvg-id="Rosenborg_Vs_Manchester_United_2467928_—_echo" group-title="Streamed.pk Live Sports",Rosenborg Vs Manchester United 2467928 — echo
+# match: Rosenborg Vs Manchester United 2467928
+# provider: echo
+# embed: https://embed.st/embed/echo/rosenborg-vs-manchester-united-game-311111/1
+https://lb12.strmd.st/secure/rxNDXVnWKsZiPJKNSilVHWExPDWvqLyO/echo/stream/rosenborg-vs-manchester-united-game-311111/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Uci Tour De France Uci World Tour Game 13622 — echo" tvg-id="Uci_Tour_De_France_Uci_World_Tour_Game_13622_—_echo" group-title="Streamed.pk Live Sports",Uci Tour De France Uci World Tour Game 13622 — echo
 # match: Uci Tour De France Uci World Tour Game 13622
 # provider: echo
 # embed: https://embed.st/embed/echo/uci-tour-de-france-uci-world-tour-game-13622/1
-https://lb1.strmd.st/secure/PpJFlaVuwRbmpxWyGTUufQXtEiWsaZeF/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
+https://lb2.strmd.st/secure/vZOoCyovimphSYhEwMaOrThVsFJkOmXp/echo/stream/uci-tour-de-france-uci-world-tour-game-13622/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="South Sydney Rabbitohs Vs Melbourne Storm 2417317 — echo" tvg-id="South_Sydney_Rabbitohs_Vs_Melbourne_Storm_2417317_—_echo" group-title="Streamed.pk Live Sports",South Sydney Rabbitohs Vs Melbourne Storm 2417317 — echo
 # match: South Sydney Rabbitohs Vs Melbourne Storm 2417317
 # provider: echo
 # embed: https://embed.st/embed/echo/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/1
-https://lb11.strmd.st/secure/RWFqFFYtHoADPdHnPPmnGYaHcnYVOrVb/echo/stream/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/1/playlist.m3u8
+https://lb9.strmd.st/secure/DKkSyOianLxixjDehRpiEBqFLYKolSlL/echo/stream/south-sydney-rabbitohs-vs-melbourne-storm-game-197832/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tokyo Eprix Free Practice 1 2495031 — echo" tvg-id="Tokyo_Eprix_Free_Practice_1_2495031_—_echo" group-title="Streamed.pk Live Sports",Tokyo Eprix Free Practice 1 2495031 — echo
 # match: Tokyo Eprix Free Practice 1 2495031
 # provider: echo
 # embed: https://embed.st/embed/echo/formula-e-tokyo-eprix-free-practice-1-tokyo-street-circuit-game-499954/1
-https://lb4.strmd.st/secure/kAmgIRLSZeITnnswULPAYGaOIBhKPijk/echo/stream/formula-e-tokyo-eprix-free-practice-1-tokyo-street-circuit-game-499954/1/playlist.m3u8
+https://lb15.strmd.st/secure/MVnmDFcyuQmfxVxICNsFmEcnDiUpXPWs/echo/stream/formula-e-tokyo-eprix-free-practice-1-tokyo-street-circuit-game-499954/1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Newcastle Knights Vs Sydney Roosters 2417316 — echo" tvg-id="Newcastle_Knights_Vs_Sydney_Roosters_2417316_—_echo" group-title="Streamed.pk Live Sports",Newcastle Knights Vs Sydney Roosters 2417316 — echo
 # match: Newcastle Knights Vs Sydney Roosters 2417316
 # provider: echo
 # embed: https://embed.st/embed/echo/newcastle-knights-vs-sydney-roosters-game-3373252/1
-https://lb8.strmd.st/secure/YgXXEEHWuAvShoMwGZIcJmoTZnIcmWIn/echo/stream/newcastle-knights-vs-sydney-roosters-game-3373252/1/playlist.m3u8
+https://lb5.strmd.st/secure/ZgkcvhanhhSSfVYCHhKByJnSjkFzEvIC/echo/stream/newcastle-knights-vs-sydney-roosters-game-3373252/1/playlist.m3u8
 
