@@ -1,23 +1,17 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# Streamed.pk live sports matches — built 2026-07-24T00:55:21+00:00
-# 3 streams captured from 3 matches
+# Streamed.pk live sports matches — built 2026-07-24T04:11:18+00:00
+# 2 streams captured from 2 matches
 
-#EXTINF:-1 tvg-name="Ppv Event 04 Usac Indiana Sprint Week Ims Ppv 004 — echo" tvg-id="Ppv_Event_04_Usac_Indiana_Sprint_Week_Ims_Ppv_004_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 04 Usac Indiana Sprint Week Ims Ppv 004 — echo
-# match: Ppv Event 04 Usac Indiana Sprint Week Ims Ppv 004
-# provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/1
-https://lb8.strmd.st/secure/iqKnEQnsXKjqrYVWGMXcxdSCfwUhLMNK/echo/stream/ppv-event-04-usac-indiana-sprint-week-ims-ppv-004/1/playlist.m3u8
+#EXTINF:-1 tvg-name="Saskatchewan Roughriders Vs Edmonton Elks 2432560 — admin" tvg-id="Saskatchewan_Roughriders_Vs_Edmonton_Elks_2432560_—_admin" group-title="Streamed.pk Live Sports",Saskatchewan Roughriders Vs Edmonton Elks 2432560 — admin
+# match: Saskatchewan Roughriders Vs Edmonton Elks 2432560
+# provider: admin
+# embed: https://embed.st/embed/admin/ppv-edmonton-elks-vs-saskatchewan-roughriders/1
+https://lb10.strmd.st/secure/DqvuNSjSpbLSfpafiJBDGKcDGDicrMer/rtmp/stream/FnqQSGAIJLPxfJ8f2dDqUsLq6ST_wQOQYaOaFJsnzjc23LPHaU9d2p9UkNZwRrd6GcZjQKGkQepFRFYop2ObAiOmnUw1ID5ArWuPahc/1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Ppv Event 03 High Limit Racing Ransomville Ppv 03 — echo" tvg-id="Ppv_Event_03_High_Limit_Racing_Ransomville_Ppv_03_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 03 High Limit Racing Ransomville Ppv 03 — echo
-# match: Ppv Event 03 High Limit Racing Ransomville Ppv 03
+#EXTINF:-1 tvg-name="Ppv Event 07 Jackson Motorplex Sprints Ppv 07 — echo" tvg-id="Ppv_Event_07_Jackson_Motorplex_Sprints_Ppv_07_—_echo" group-title="Streamed.pk Live Sports",Ppv Event 07 Jackson Motorplex Sprints Ppv 07 — echo
+# match: Ppv Event 07 Jackson Motorplex Sprints Ppv 07
 # provider: echo
-# embed: https://embed.st/embed/echo/ppv-event-03-high-limit-racing-ransomville-ppv-03/1
-https://lb1.strmd.st/secure/uKCQJqitEFjJqmSikjzdLjTbeTbaDABl/echo/stream/ppv-event-03-high-limit-racing-ransomville-ppv-03/1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Hull Fc Vs Hull Kr Game 184842 — echo" tvg-id="Hull_Fc_Vs_Hull_Kr_Game_184842_—_echo" group-title="Streamed.pk Live Sports",Hull Fc Vs Hull Kr Game 184842 — echo
-# match: Hull Fc Vs Hull Kr Game 184842
-# provider: echo
-# embed: https://embed.st/embed/echo/hull-fc-vs-hull-kr-game-184842/1
-https://lb7.strmd.st/secure/xOajQOjGIoprkAkAbNUSpubirThZgoYR/echo/stream/hull-fc-vs-hull-kr-game-184842/1/playlist.m3u8
+# embed: https://embed.st/embed/echo/ppv-event-07-jackson-motorplex-sprints-ppv-07/1
+https://lb6.strmd.st/secure/MohYGYriUMYoxxjeiatahEEmMQoqZRTM/echo/stream/ppv-event-07-jackson-motorplex-sprints-ppv-07/1/playlist.m3u8
 
